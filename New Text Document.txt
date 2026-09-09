@@ -1,0 +1,62 @@
+5th Semester Course Information
+===============================
+
+1. Technical and Business Writing
+Professor: Mam Alma Irfan
+GCR Code: r4r3hxcq
+Email: alma.irfan@imsciences.edu.pk
+Office Location:
+
+2. Fundamentals of Accounting
+Professor: Mam Nadia Iftikhar
+GCR Code:
+Email: nadia.qadir@imsciences.edu.pk
+Office Location:
+
+3. Computer Networks (Lab)
+Professor: Mam Maimoona Khilji
+GCR Code: wctg7yqe
+Email:
+Office Location:
+
+4. Computer Networks (Theory)
+Professor: Mam Sumaira Johar
+GCR Code: 6oydvg45
+Email: sumaira.johar@imsciences.edu.pk
+Office Location:
+
+5. Parallel and Distributed Computing
+Professor: Sir Muhammad Asim
+GCR Code:
+Email:
+Office Location:
+
+6. Parallel and Distributed Computing (Lab)
+Professor: Sir Saim Sanan
+GCR Code:
+Email:
+Office Location:
+
+7. Software Requirements Engineering (Theory)
+Professor: Sir Hamood Ur Rehman
+GCR Code:
+Email: hamoodurrehman@imsciences.edu.pk
+Office Location:
+
+8. Software Requirements Engineering (Lab)
+Professor: Sir Fahim Muhammad Khan
+GCR Code:
+Email: fahim.muhammad@imsciences.edu.pk
+Office Location:
+
+9. Software Construction and Development
+Professor: Sir Umer Haroon
+GCR Code:
+Email:
+Office Location:
+
+10. Software Construction and Development (Lab)
+Professor: Sir Umer Haroon
+GCR Code:
+Email:
+Office Location:
