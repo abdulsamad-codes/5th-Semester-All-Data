@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "name": "Python Programming",
+    "type": "Book",
+    "is_available": false,
+    "borrowed_by": "Ahmed",
+    "borrow_date": "2026-09-10 12:58:28",
+    "renewal_count": 0
+  },
+  {
+    "id": 2,
+    "name": "National Geographic",
+    "type": "Magazine",
+    "is_available": true,
+    "borrowed_by": null,
+    "borrow_date": null,
+    "renewal_count": 0
+  },
+  {
+    "id": 3,
+    "name": "The Matrix",
+    "type": "DVD",
+    "is_available": true,
+    "borrowed_by": null,
+    "borrow_date": null,
+    "renewal_count": 0
+  }
+]
