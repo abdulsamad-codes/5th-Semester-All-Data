@@ -1,0 +1,11 @@
+[
+  {
+    "id": 1,
+    "name": "The Fantastic Programming",
+    "type": "Book",
+    "available": false,
+    "borrowed_by": "Me",
+    "borrow_date": "2026-09-10T15:25:43",
+    "renewal_count": 0
+  }
+]

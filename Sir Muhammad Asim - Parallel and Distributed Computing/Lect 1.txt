@@ -1,0 +1,7 @@
+what is computer?
+
+input -> processing -> output 
+
+electronic device -> works on binary data 
+
+we use data instead of information because information has a lot of varieties in it 
