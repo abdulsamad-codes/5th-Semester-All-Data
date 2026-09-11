@@ -1,7 +1,37 @@
-what is computer?
+what is computer? it is an electronic device that receives an input processes it and gives an output.
 
 input -> processing -> output 
 
 electronic device -> works on binary data 
 
 we use data instead of information because information has a lot of varieties in it 
+information -> binary data 
+
+
+processing -> CPU 
+
+CPU --- CU
+|
+ALU 
+
+Transistors -> 
+
+difference between serial vs parallel computing 
+
+parallel in mathematics means two lines that never intersect.
+
+8086 microprocessor -> serial computing 
+
+parallel computing -> divide and conquer 
+
+
+RAM - Main memory random access memory 
+
+cpu -> control, data, address buses
+
+if cpu is 8 bit so total number of address is 2 power 8 
+
+cache -> frequently used data and instructions 
+
+NUMA - non uniform memory access
+
