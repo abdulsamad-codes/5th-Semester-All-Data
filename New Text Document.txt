@@ -9,14 +9,14 @@ Office Location:
 
 2. Fundamentals of Accounting
 Professor: Mam Nadia Iftikhar
-GCR Code:
+GCR Code: ikhateh5
 Email: nadia.qadir@imsciences.edu.pk
 Office Location:
 
 3. Computer Networks (Lab)
 Professor: Mam Maimoona Khilji
 GCR Code: wctg7yqe
-Email:
+Email: maimoon.khilji@gmail.com
 Office Location:
 
 4. Computer Networks (Theory)
@@ -27,7 +27,7 @@ Office Location:
 
 5. Parallel and Distributed Computing
 Professor: Sir Muhammad Asim
-GCR Code:
+GCR Code: 
 Email:
 Office Location:
 
@@ -45,18 +45,18 @@ Office Location:
 
 8. Software Requirements Engineering (Lab)
 Professor: Sir Fahim Muhammad Khan
-GCR Code:
+GCR Code: qwr4c6l
 Email: fahim.muhammad@imsciences.edu.pk
 Office Location:
 
 9. Software Construction and Development
 Professor: Sir Umer Haroon
-GCR Code:
+GCR Code: 4xdjo5no
 Email:
 Office Location:
 
 10. Software Construction and Development (Lab)
 Professor: Sir Umer Haroon
-GCR Code:
+GCR Code: oboowrin
 Email:
 Office Location:
