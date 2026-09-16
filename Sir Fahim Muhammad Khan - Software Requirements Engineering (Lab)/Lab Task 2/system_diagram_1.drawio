@@ -1,0 +1,61 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="LpTnyR7inocXceuYQC94">
+    <mxGraphModel dx="1585" dy="883" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="PNrJMYVkVlP4jjlmgST3-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#4b5563;strokeColor=#9ca3af;fontColor=#ffffff;dashed=1;dashPattern=8 6;strokeWidth=2;fontFamily=Arial;fontSize=14;" value="Payment Gateway" vertex="1">
+          <mxGeometry height="70" width="180" x="1080" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="PNrJMYVkVlP4jjlmgST3-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#4b5563;strokeColor=#9ca3af;fontColor=#ffffff;dashed=1;dashPattern=8 6;strokeWidth=2;fontFamily=Arial;fontSize=14;" value="Delivery Service" vertex="1">
+          <mxGeometry height="70" width="180" x="20" y="680" as="geometry" />
+        </mxCell>
+        <mxCell id="PNrJMYVkVlP4jjlmgST3-10" edge="1" parent="1" source="PNrJMYVkVlP4jjlmgST3-2" style="curved=1;rounded=1;endArrow=classic;strokeColor=#2D7600;fontColor=#f3f4f6;fontFamily=Arial;fontSize=12;html=1;fillColor=#60a917;" target="PNrJMYVkVlP4jjlmgST3-3" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PNrJMYVkVlP4jjlmgST3-11" edge="1" parent="1" source="PNrJMYVkVlP4jjlmgST3-3" style="curved=1;rounded=1;endArrow=classic;strokeColor=#2D7600;fontColor=#f3f4f6;fontFamily=Arial;fontSize=12;html=1;fillColor=#60a917;" target="PNrJMYVkVlP4jjlmgST3-4" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PNrJMYVkVlP4jjlmgST3-12" edge="1" parent="1" source="PNrJMYVkVlP4jjlmgST3-4" style="curved=1;rounded=1;endArrow=classic;strokeColor=#2D7600;fontColor=#f3f4f6;fontFamily=Arial;fontSize=12;html=1;fillColor=#60a917;" target="PNrJMYVkVlP4jjlmgST3-5" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PNrJMYVkVlP4jjlmgST3-14" edge="1" parent="1" source="PNrJMYVkVlP4jjlmgST3-8" style="curved=1;rounded=1;endArrow=classic;strokeColor=#2D7600;fontColor=#f3f4f6;fontFamily=Arial;fontSize=12;html=1;fillColor=#60a917;" target="PNrJMYVkVlP4jjlmgST3-5" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PNrJMYVkVlP4jjlmgST3-15" edge="1" parent="1" source="PNrJMYVkVlP4jjlmgST3-4" style="curved=1;rounded=1;endArrow=classic;strokeColor=#2D7600;fontColor=#f3f4f6;fontFamily=Arial;fontSize=12;html=1;fillColor=#60a917;" target="PNrJMYVkVlP4jjlmgST3-6" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PNrJMYVkVlP4jjlmgST3-16" edge="1" parent="1" source="PNrJMYVkVlP4jjlmgST3-6" style="curved=1;rounded=1;endArrow=classic;strokeColor=#e5e7eb;fontColor=#f3f4f6;fontFamily=Arial;fontSize=12;html=1;" target="PNrJMYVkVlP4jjlmgST3-9" value="Shipment Request">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PNrJMYVkVlP4jjlmgST3-17" edge="1" parent="1" source="PNrJMYVkVlP4jjlmgST3-9" style="curved=1;rounded=1;endArrow=classic;strokeColor=#2D7600;fontColor=#f3f4f6;fontFamily=Arial;fontSize=12;html=1;fillColor=#60a917;" target="PNrJMYVkVlP4jjlmgST3-6" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PNrJMYVkVlP4jjlmgST3-18" edge="1" parent="1" source="PNrJMYVkVlP4jjlmgST3-7" style="curved=1;rounded=1;endArrow=classic;strokeColor=#2D7600;fontColor=#f3f4f6;fontFamily=Arial;fontSize=12;html=1;fillColor=#60a917;" target="PNrJMYVkVlP4jjlmgST3-3" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PNrJMYVkVlP4jjlmgST3-19" edge="1" parent="1" source="PNrJMYVkVlP4jjlmgST3-4" style="curved=1;rounded=1;endArrow=classic;strokeColor=#2D7600;fontColor=#f3f4f6;fontFamily=Arial;fontSize=12;html=1;fillColor=#60a917;" target="PNrJMYVkVlP4jjlmgST3-7" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PNrJMYVkVlP4jjlmgST3-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#2563eb;strokeColor=#60a5fa;fontColor=#ffffff;shadow=1;fontFamily=Arial;fontSize=14;" value="Customer Account Management" vertex="1">
+          <mxGeometry height="70" width="190" x="170" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="PNrJMYVkVlP4jjlmgST3-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0f9f9a;strokeColor=#5eead4;fontColor=#ffffff;shadow=1;fontFamily=Arial;fontSize=14;" value="Product Catalog Management" vertex="1">
+          <mxGeometry height="70" width="190" x="470" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="PNrJMYVkVlP4jjlmgST3-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f97316;strokeColor=#fdba74;fontColor=#ffffff;shadow=1;fontFamily=Arial;fontSize=14;" value="Order Management" vertex="1">
+          <mxGeometry height="70" width="190" x="770" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="PNrJMYVkVlP4jjlmgST3-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#7c3aed;strokeColor=#c4b5fd;fontColor=#ffffff;shadow=1;fontFamily=Arial;fontSize=14;" value="Payment Processing Interface" vertex="1">
+          <mxGeometry height="70" width="190" x="770" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="PNrJMYVkVlP4jjlmgST3-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#16a34a;strokeColor=#86efac;fontColor=#ffffff;shadow=1;fontFamily=Arial;fontSize=14;" value="Delivery / Shipment Tracking" vertex="1">
+          <mxGeometry height="70" width="190" x="470" y="460" as="geometry" />
+        </mxCell>
+        <mxCell id="PNrJMYVkVlP4jjlmgST3-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#db2777;strokeColor=#f9a8d4;fontColor=#ffffff;shadow=1;fontFamily=Arial;fontSize=14;" value="Seller &amp; Product Management" vertex="1">
+          <mxGeometry height="70" width="190" x="170" y="460" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
