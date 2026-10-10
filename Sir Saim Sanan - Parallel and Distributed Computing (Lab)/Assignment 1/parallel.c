@@ -3,45 +3,97 @@
 #include <omp.h>
 
 #define ARRAY_SIZE 20000
+#define SECTION_COUNT 4
+
+static void bubbleSortRange(int values[], int left, int right)
+{
+    for (int pass = left; pass < right - 1; pass++)
+    {
+        int swapped = 0;
+
+        for (int index = left; index < right - (pass - left) - 1; index++)
+        {
+            if (values[index] > values[index + 1])
+            {
+                int temporary = values[index];
+                values[index] = values[index + 1];
+                values[index + 1] = temporary;
+                swapped = 1;
+            }
+        }
+
+        if (!swapped)
+        {
+            break;
+        }
+    }
+}
+
+static void mergeRanges(int values[], int temporary[], int left, int middle, int right)
+{
+    int leftIndex = left;
+    int rightIndex = middle;
+    int outputIndex = left;
+
+    while (leftIndex < middle && rightIndex < right)
+    {
+        if (values[leftIndex] <= values[rightIndex])
+        {
+            temporary[outputIndex++] = values[leftIndex++];
+        }
+        else
+        {
+            temporary[outputIndex++] = values[rightIndex++];
+        }
+    }
+
+    while (leftIndex < middle)
+    {
+          temporary[outputIndex++] = values[leftIndex++];
+    }
+
+    while (rightIndex < right)
+    {
+        temporary[outputIndex++] = values[rightIndex++];
+    }
+
+    for (int index = left; index < right; index++)
+    {
+        values[index] = temporary[index];
+    }
+}
 
 static void parallelBubbleSort(int values[], int size, int *threadCount)
 {
-    int done = 0;
-    int swapped = 0;
+    int temporary[ARRAY_SIZE];
+    int firstEnd = size / SECTION_COUNT;
+    int secondEnd = firstEnd * 2;
+    int thirdEnd = firstEnd * 3;
 
-#pragma omp parallel shared(values, size, done, swapped, threadCount)
+#pragma omp parallel shared(values, threadCount)
     {
 #pragma omp single
         *threadCount = omp_get_num_threads();
 
-        for (int phase = 0; phase < size && !done; phase++)
+#pragma omp sections
         {
-            int start = phase % 2;
+#pragma omp section
+            bubbleSortRange(values, 0, firstEnd);
 
-#pragma omp single
-            swapped = 0;
+#pragma omp section
+            bubbleSortRange(values, firstEnd, secondEnd);
 
-#pragma omp for reduction(| : swapped)
-            for (int index = start; index < size - 1; index += 2)
-            {
-                if (values[index] > values[index + 1])
-                {
-                    int temporary = values[index];
-                    values[index] = values[index + 1];
-                    values[index + 1] = temporary;
-                    swapped = 1;
-                }
-            }
+#pragma omp section
+            bubbleSortRange(values, secondEnd, thirdEnd);
 
-#pragma omp single
-            {
-                if (!swapped)
-                {
-                    done = 1;
-                }
-            }
+#pragma omp section
+            bubbleSortRange(values, thirdEnd, size);
         }
     }
+
+    mergeRanges(values, temporary, 0, firstEnd, secondEnd);
+    mergeRanges(values, temporary, secondEnd, thirdEnd, size);
+    mergeRanges(values, temporary, 0, secondEnd, size);
 }
 
 int main(int argc, char *argv[])
