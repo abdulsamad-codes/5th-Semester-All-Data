@@ -24,3 +24,14 @@ import re
 #     print("The phone number is invalid")
 
 
+def date_validation_advanced(date):
+    pattern = r"^(0?[1-9]|[12]\d|3[01])/(0?[1-9]|1[0-2])/[1-9]\d{3}$"
+    return re.match(pattern, date)
+
+
+date = input("Enter the date in the (DD/MM/YY): ")
+if date_validation_advanced(date):
+    print("The date is valid")
+else:
+    print("The date is invalid")
+
