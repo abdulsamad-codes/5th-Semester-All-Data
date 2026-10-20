@@ -1,0 +1,15 @@
+CFG
+Control flow graph diagram 
+CC -> cyclomatic complexity not in paper 
+
+SRS - 200% mandatory so you must know how to create it 
+
+Activity Diagram 
+State Transition Diagram 
+
+Latex -> Overleaf 
+
+You must know that how to use these platforms like the visual paradigm and the start UML 
+
+
+
