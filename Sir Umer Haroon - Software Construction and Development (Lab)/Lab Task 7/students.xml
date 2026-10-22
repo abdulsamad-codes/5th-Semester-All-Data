@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<students>
+    <student id="S101">
+        <name>Alex Rivera</name>
+        <age>20</age>
+        <gpa>3.85</gpa>
+        <courses>
+            <course>Introduction to Computer Science</course>
+            <course>Calculus I</course>
+            <course>Discrete Mathematics</course>
+        </courses>
+    </student>
+    <student id="S102">
+        <name>Jordan Chen</name>
+        <age>22</age>
+        <gpa>3.50</gpa>
+        <courses>
+            <course>Data Structures</course>
+            <course>Linear Algebra</course>
+        </courses>
+    </student>
+    <student id="S103">
+        <name>Taylor Swift</name>
+        <age>21</age>
+        <gpa>3.92</gpa>
+        <courses>
+            <course>Creative Writing</course>
+            <course>History of Music</course>
+            <course>Microeconomics</course>
+        </courses>
+    </student>
+    <student id="S104">
+        <name>Morgan Freeman</name>
+        <age>23</age>
+        <gpa>3.15</gpa>
+        <courses>
+            <course>Introduction to Acting</course>
+            <course>Public Speaking</course>
+        </courses>
+    </student>
+    <student id="S105">
+        <name>Sam Wilson</name>
+        <age>19</age>
+        <gpa>3.70</gpa>
+        <courses>
+            <course>General Physics</course>
+            <course>Calculus II</course>
+            <course>Aerodynamics</course>
+        </courses>
+    </student>
+</students>
