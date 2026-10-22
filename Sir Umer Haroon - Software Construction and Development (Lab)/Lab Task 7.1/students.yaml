@@ -1,0 +1,33 @@
+- name: Alice Smith
+  age: 20
+  courses:
+  - Introduction to Python
+  - Data Structures
+  - Calculus I
+  gpa: 3.8
+- name: Bob Jones
+  age: 22
+  courses:
+  - Database Systems
+  - Web Development
+  gpa: 3.2
+- name: Charlie Brown
+  age: 19
+  courses:
+  - Discrete Mathematics
+  - Linear Algebra
+  - Introduction to Python
+  gpa: 3.9
+- name: Diana Prince
+  age: 21
+  courses:
+  - Artificial Intelligence
+  - Computer Networks
+  - Operating Systems
+  gpa: 3.5
+- name: Evan Wright
+  age: 23
+  courses:
+  - Software Engineering
+  - Human-Computer Interaction
+  gpa: 2.9

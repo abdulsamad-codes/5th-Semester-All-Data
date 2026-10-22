@@ -1,0 +1,27 @@
+debug: true
+min_gpa: 3.5
+students:
+  - id: 101
+    name: Alex Mercer
+    age: 20
+    gpa: 3.85
+    courses:
+      - Computer Science I
+      - Calculus II
+      - Discrete Mathematics
+  - id: 102
+    name: Maya Lin
+    age: 21
+    gpa: 3.92
+    courses:
+      - Data Structures
+      - Linear Algebra
+      - Technical Writing
+  - id: 104
+    name: Elena Rostova
+    age: 22
+    gpa: 3.70
+    courses:
+      - Database Systems
+      - Operating Systems
+      - Software Engineering
