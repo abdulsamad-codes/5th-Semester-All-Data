@@ -82,7 +82,8 @@ Write a file called task4_compare.py. Reuse the student data from Task 1. Write 
 
 #### Part B: Simulate Columnar Access
 
-Write a function called sum_gpa_row_x	based that takes a list of student dictionaries and returns the sum of GPAs by looping over each student and reading the gpa key.
+Write a function called sum_gpa_row_x	based that takes a list of student dictionaries and returns the sum of GPAs by looping over each student and reading the gpa key.ar
+
 
 Write a function called sum_gpa_columnar that takes a dictionary where each key is a column name and each value is a list of values for that column, and returns the sum of the gpa column directly.
 
