@@ -1,0 +1,5911 @@
+COMPLETE COURSE TEXT EXPORT
+COURSE FOLDER: Mam Nadia Iftikhar - Fundamentals Of Accounting
+SOURCE: E:\Study Material\5th Semester All Data\Mam Nadia Iftikhar - Fundamentals Of Accounting
+
+SCOPE: Full readable text, not summaries. Images use OCR; diagrams/layout cannot be fully represented in plain text. Unsupported files and errors are explicitly identified. Source files are unchanged.
+Excluded directory names: .env, .git, .idea, .mypy_cache, .nox, .pytest_cache, .ruff_cache, .tox, .venv, .vscode, __pycache__, dist-packages, env, node_modules, site-packages, vendor, venv
+This generated export excludes itself.
+
+FOLDER AND FILE STRUCTURE
+Mam Nadia Iftikhar - Fundamentals Of Accounting/
+    |-- Lectures/
+        |-- Acc-1.pdf
+        |-- Acc-2.pdf
+        |-- ch01-A.pdf
+        |-- ch01.pdf
+        |-- ch02-Exercises.pdf
+        |-- ch02-Problems.pdf
+        |-- ch03.pdf
+        |-- ch04.pdf
+        |-- ch05.pdf
+        |-- CourseSyllabus-Accounting.docx
+        |-- DFD.pdf
+        |-- The do's & dont's.pdf
+    |-- Mids Quiz/
+
+EXCLUDED DIRECTORIES
+None
+
+FILE CONTENTS
+
+==========================================================================================
+FILE 1/12: Lectures\Acc-1.pdf
+TYPE: .pdf
+SIZE: 1649387 bytes
+==========================================================================================
+--- PAGE 1 ---
+[OCR: may contain recognition errors]
+gand
+kimmgl
+J&am for success]
+Coby Harmon
+University of California, Santa Barbara
+Westmont College
+ACCOJNTING
+PRINCIPLESI
+TWELFTH EDITION
+
+--- PAGE 2 ---
+Accounting in Action 1
+
+ Learning Objectives
+
+   1      Identify the activities and users associated with accounting.
+
+
+           Explain the building blocks of accounting: ethics, principles, and
+   2          assumptions.
+
+
+           State the accounting equation, and define its components.   3
+
+
+          Analyze the effects of business transactions on the accounting
+   4           equation.
+
+           Describe the four financial statements and how they are
+   5           prepared.
+
+1-2
+
+--- PAGE 3 ---
+LEARNING          Identify the activities and users
+          1
+OBJECTIVE        associated with accounting.
+
+
+  Accounting consists of three basic activities—it
+
+   ◆   identifies,
+
+   ◆   records, and
+
+   ◆  communicates
+
+    the economic events of an organization to interested users.
+
+
+
+
+
+1-3                                                        LO 1
+
+--- PAGE 4 ---
+Three Activities
+
+
+
+
+     Illustration 1-1
+    The activities of the accounting process
+
+
+
+
+
+       The accounting process includes
+            the bookkeeping function.
+
+
+
+1-4                                                        LO 1
+
+--- PAGE 5 ---
+Who Uses Accounting Data
+
+
+  INTERNAL
+   USERS
+
+
+
+
+
+                                                                                                      Illustration 1-2
+                                                                                       Questions that internal
+                                                                                         users ask
+
+
+
+1-5                                                        LO 1
+
+--- PAGE 6 ---
+Who Uses Accounting Data
+
+
+ EXTERNAL
+   USERS
+
+
+
+
+
+                     Illustration 1-3
+                  Questions that external
+                  users ask
+1-6                                                        LO 1
+
+--- PAGE 7 ---
+LEARNING         Explain the building blocks of accounting:
+          2
+OBJECTIVE         ethics, principles, and assumptions.
+
+  Ethics in Financial Reporting
+
+   ◆   Recent financial scandals include: Enron, WorldCom,
+        HealthSouth, AIG, and other companies.
+
+   ◆   Regulators and lawmakers concerned that economy would
+         suffer if investors lost confidence in corporate accounting. In
+        response,
+
+      ►   Congress passed Sarbanes-Oxley Act (SOX).
+
+   ◆   Effective financial reporting depends on sound ethical
+         behavior.
+
+
+
+
+
+1-7                                                        LO 2
+
+--- PAGE 8 ---
+Ethics in Financial Reporting
+
+
+
+
+
+                                                                 Illustration 1-4
+                                                      Steps in analyzing ethics cases
+                                                  and situations
+1-8                                                        LO 2
+
+--- PAGE 9 ---
+Generally Accepted Accounting Principles
+
+
+
+                                       Financial Statements
+      Various users                      ◆  Balance Sheet
+     need financial                      ◆  Income Statement
+                                              ◆  Statement of Owner's Equity
+        information                        ◆  Statement of Cash Flows
+                                              ◆  Note Disclosure
+
+
+
+
+ The accounting profession
+                                Generally Accepted has developed standards
+                                 Accounting that are generally accepted
+                                   Principles (GAAP) and universally practiced.
+
+
+
+
+1-9                                                        LO 2
+
+--- PAGE 10 ---
+Generally Accepted Accounting Principles
+
+
+  Generally Accepted Accounting Principles (GAAP) –
+  Standards that are generally accepted and universally practiced.
+  These standards indicate how to report economic events.
+
+  Standard-setting bodies:
+
+  ►   Financial Accounting Standards
+       Board (FASB)
+
+  ►   Securities and Exchange
+      Commission (SEC)
+
+  ►   International Accounting
+       Standards Board (IASB)
+
+
+
+1-10                                                        LO 2
+
+--- PAGE 11 ---
+Measurement Principles
+
+
+  HISTORICAL COST PRINCIPLE (or cost principle) dictates
+
+   that companies record assets at their cost.
+
+  FAIR VALUE PRINCIPLE states that assets and liabilities
+
+   should be reported at fair value (the price received to sell an asset
+   or settle a liability).
+
+   Selection of which principle to follow
+   generally relates to trade-offs
+  between relevance and faithful
+   representation.
+
+
+
+
+
+1-11                                                        LO 2
+
+--- PAGE 12 ---
+Assumptions
+
+
+  MONETARY UNIT ASSUMPTION requires that companies
+
+   include in the accounting records only transaction data that can be
+   expressed in terms of money.
+
+  ECONOMIC ENTITY ASSUMPTION requires that activities of
+
+   the entity be kept separate and distinct from the activities of its
+  owner and all other economic entities.
+
+   ◆   Proprietorship
+
+                            Forms of Business   ◆   Partnership
+                                 Ownership
+   ◆   Corporation
+
+
+
+
+1-12                                                        LO 2
+
+--- PAGE 13 ---
+Forms of Business Ownership
+
+
+   Proprietorship      Partnership       Corporation
+
+  ◆  Owned by one      ◆  Owned by two or     ◆  Ownership
+      person               more persons             divided into
+                                                     shares of stock  ◆  Owner is often      ◆  Often retail and
+      manager/operator        service-type        ◆  Separate legal
+                             businesses                 entity organized  ◆  Owner receives
+                                                    under state     any profits, suffers   ◆  Generally
+                                                          corporation law     any losses, and is        unlimited
+      personally liable         personal liability     ◆  Limited liability
+       for all debts                      ◆  Partnership
+                           agreement
+
+
+
+1-13                                                        LO 2
+
+--- PAGE 14 ---
+LEARNING         State the accounting equation, and define
+          3
+OBJECTIVE           its components.
+
+
+                                      Owner's
+      Assets    =     Liabilities   +
+                                          Equity
+
+
+  Basic Accounting Equation
+
+   ◆   Provides the underlying framework for recording and
+        summarizing economic events.
+
+   ◆   Assets are claimed by either creditors or owners.
+
+   ◆     If a business is liquidated, claims of creditors must be paid
+        before ownership claims.
+
+
+
+
+1-14                                                        LO 3
+
+--- PAGE 15 ---
+Basic Accounting Equation
+
+
+
+                                      Owner's
+      Assets    =     Liabilities   +
+                                          Equity
+
+
+  Assets
+
+   ◆  Resources a business owns.
+
+   ◆   Provide future services or benefits.
+
+   ◆  Cash, Supplies, Equipment, etc.
+
+
+
+
+
+1-15                                                        LO 3
+
+--- PAGE 16 ---
+Basic Accounting Equation
+
+
+
+                                      Owner's
+      Assets    =     Liabilities   +
+                                          Equity
+
+
+  Liabilities
+
+   ◆  Claims against assets (debts and obligations).
+
+   ◆   Creditors (party to whom money is owed).
+
+   ◆  Accounts Payable, Notes Payable, Salaries and Wages
+        Payable, etc.
+
+
+
+
+
+1-16                                                        LO 3
+
+--- PAGE 17 ---
+Basic Accounting Equation
+
+
+
+                                      Owner's
+      Assets    =     Liabilities   +
+                                          Equity
+
+
+  Owner's Equity
+
+   ◆  Ownership claim on total assets.
+
+   ◆   Referred to as residual equity.
+
+   ◆   Investment by owners and revenues (+)
+
+   ◆  Drawings and expenses (-).
+
+
+
+
+
+1-17                                                        LO 3
+
+--- PAGE 18 ---
+Owner’s Equity
+                                                                                                           Illustration 1-6
+                                                                            Expanded accounting
+                                                                                       equation
+
+
+
+
+  Increases in Owner’s Equity
+
+   ◆   Investments by owner are the assets the owner puts into the
+
+        business.
+
+   ◆  Revenues result from business activities entered into for the
+
+       purpose of earning income.
+
+      ►  Common sources of revenue are: sales, fees, services,
+
+              commissions, interest, dividends, royalties, and rent.
+
+
+1-18                                                        LO 3
+
+--- PAGE 19 ---
+Owner’s Equity
+                                                                                                           Illustration 1-6
+                                                                            Expanded accounting
+                                                                                       equation
+
+
+
+
+  Decreases in Owner’s Equity
+
+   ◆  Drawings An owner may withdraw cash or other assets for
+
+        personal use.
+
+   ◆  Expenses are the cost of assets consumed or services used in
+
+        the process of earning revenue.
+
+      ►  Common expenses are: salaries expense, rent expense,
+
+                    utilities expense, tax expense, etc.
+
+
+1-19                                                        LO 3
+
+--- PAGE 20 ---
+LEARNING        Analyze the effects of business transactions
+          4
+OBJECTIVE       on the accounting equation.
+
+
+  Transactions are a business’s economic events recorded
+  by accountants.
+
+   ◆  May be external or internal.
+
+   ◆  Not all activities represent transactions.
+
+   ◆  Each transaction has a dual effect on the accounting
+        equation.
+
+
+
+
+
+1-20                                                        LO 4
+
+--- PAGE 21 ---
+Transaction Analysis
+
+
+   Illustration: Are the following events recorded in the accounting
+   records?
+                                                                                                                Illustration 1-7
+                                 Discuss product
+                  Purchase
+  Event                           design with      Pay rent
+                   computer
+                                      potential customer
+
+
+                           Is the financial position (assets, liabilities, or   Criterion
+                      owner’s equity) of the company changed?
+
+
+  Record/
+  Don’t Record
+
+
+
+
+1-21                                                        LO 4
+
+--- PAGE 22 ---
+Transaction Analysis
+
+
+  TRANSACTION 1. INVESTMENT BY OWNER Ray Neal decides to start
+   a smartphone app development company which he names Softbyte. On
+   September 1, 2017, he invests $15,000 cash in the business. This
+   transaction results in an equal increase in assets and owner’s equity.
+
+
+            Assets   = Liabilities +  Owner's Equity
+
+ Trans-            Accounts                          Accounts    Owner's    Owner's
+        Cash  +           + Supplies + Equipment =          +                 -          + Rev.    - Exp.
+  action            Receivable                           Payable      Capital    Drawings
+
+         1.   +15,000   +15,000
+
+
+
+  Illustration 1-8
+  Tabular summary of
+  Softbyte transactions
+
+
+
+
+
+1-22                                                        LO 4
+
+--- PAGE 23 ---
+TRANSACTION 2. PURCHASE OF EQUIPMENT FOR CASH Softbyte
+    Inc. purchases computer equipment for $7,000 cash.
+
+
+                                                                                                                    Illustration 1-8
+
+            Assets   = Liabilities +  Owner's Equity
+
+ Trans-            Accounts                          Accounts    Owner's    Owner's
+        Cash  +           + Supplies + Equipment =          +                 -          + Rev.    - Exp.
+  action            Receivable                           Payable      Capital    Drawings
+
+         1.   +15,000   +15,000
+
+         2.    -7,000    +7,000
+
+         3.   +1,600    +1,600
+
+         4.   +1,200    +1,200
+
+         5.                     +250           -250
+
+         6.   +1,500    +2,000                        +3,500
+
+         7.    -1,700                                   -600
+                                                 -900
+                                                 -200
+
+         8.   -250                 -250
+
+         9.   +600 -600
+
+        10.   -1,300                                           -1,300
+
+            $8,050+      $1,400+    $1,600+     $7,000 =   $1,600 +  $15,000+  $4,700-    $1,950-
+  $1,300
+1-23                                                        LO 4
+
+--- PAGE 24 ---
+TRANSACTION 3. PURCHASE OF SUPPLIES ON CREDIT Softbyte Inc.
+   purchases for $1,600 headsets and other accessories expected to last
+   several months. The supplier allows Softbyte to pay this bill in October.
+
+  Illustration 1-8 Assets   = Liabilities +  Owner's Equity
+
+ Trans-            Accounts                          Accounts    Owner's    Owner's
+        Cash  +           + Supplies + Equipment =          +                 -          + Rev.    - Exp.
+  action            Receivable                           Payable      Capital    Drawings
+
+         1.   +15,000   +15,000
+
+         2.    -7,000    +7,000
+
+         3.   +1,600    +1,600
+
+         4.   +1,200    +1,200
+
+         5.                     +250           -250
+
+         6.   +1,500    +2,000                        +3,500
+
+         7.    -1,700                                   -600
+                                                 -900
+                                                 -200
+
+         8.   -250                 -250
+
+         9.   +600 -600
+
+        10.   -1,300                                           -1,300
+
+            $8,050+      $1,400+    $1,600+     $7,000 =   $1,600 +  $15,000+  $4,700-    $1,950-
+  $1,300
+1-24                                                        LO 4
+
+--- PAGE 25 ---
+TRANSACTION 4. SERVICES PERFORMED FOR CASH Softbyte Inc.
+   receives $1,200 cash from customers for app development services it has
+   performed.                                                                                                                    Illustration 1-8
+
+            Assets   = Liabilities +  Owner's Equity
+
+ Trans-            Accounts                          Accounts    Owner's    Owner's
+        Cash  +           + Supplies + Equipment =          +                 -          + Rev.    - Exp.
+  action            Receivable                           Payable      Capital    Drawings
+
+         1.   +15,000   +15,000
+
+         2.    -7,000    +7,000
+
+         3.   +1,600    +1,600
+
+         4.   +1,200         +1,200
+
+         5.                     +250           -250
+
+         6.   +1,500    +2,000                        +3,500
+
+         7.    -1,700                                   -600
+                                                 -900
+                                                 -200
+
+         8.   -250                 -250
+
+         9.   +600 -600
+
+        10.   -1,300                                           -1,300
+
+            $8,050+      $1,400+    $1,600+     $7,000 =   $1,600 +  $15,000+  $4,700-    $1,950-
+  $1,300
+1-25                                                        LO 4
+
+--- PAGE 26 ---
+TRANSACTION 5. PURCHASE OF ADVERTISING ON CREDIT Softbyte
+    Inc. receives a bill for $250 from the Daily News for advertising on its
+   online website but postpones payment until a later date.                                                                                                                    Illustration 1-8
+
+            Assets   = Liabilities +  Owner's Equity
+
+ Trans-            Accounts                          Accounts    Owner's    Owner's
+        Cash  +           + Supplies + Equipment =          +                 -          + Rev.    - Exp.
+  action            Receivable                           Payable      Capital    Drawings
+
+         1.   +15,000   +15,000
+
+         2.    -7,000    +7,000
+
+         3.   +1,600    +1,600
+
+         4.   +1,200         +1,200
+
+         5.                     +250                     -250
+
+         6.   +1,500    +2,000                        +3,500
+
+         7.    -1,700                                   -600
+                                                 -900
+                                                 -200
+
+         8.   -250                 -250
+
+         9.   +600 -600
+
+        10.   -1,300                                           -1,300
+
+            $8,050+      $1,400+    $1,600+     $7,000 =   $1,600 +  $15,000+  $4,700-    $1,950-
+  $1,300
+1-26                                                        LO 4
+
+--- PAGE 27 ---
+TRANSACTION 6. SERVICES PERFORMED FOR CASH AND CREDIT.
+   Softbyte performs $3,500 of services. The company receives cash of
+   $1,500 from customers, and it bills the balance of $2,000 on account.
+
+  Illustration 1-8 Assets   = Liabilities +  Owner's Equity
+
+ Trans-            Accounts                          Accounts    Owner's    Owner's
+        Cash  +           + Supplies + Equipment =          +                 -          + Rev.    - Exp.
+  action            Receivable                           Payable      Capital    Drawings
+
+         1.   +15,000   +15,000
+
+         2.    -7,000    +7,000
+
+         3.   +1,600    +1,600
+
+         4.   +1,200         +1,200
+
+         5.                     +250                     -250
+
+         6.   +1,500    +2,000                             +3,500
+
+         7.    -1,700                                   -600
+                                                 -900
+                                                 -200
+
+         8.   -250                 -250
+
+         9.   +600 -600
+
+        10.   -1,300                                           -1,300
+
+            $8,050+      $1,400+    $1,600+     $7,000 =   $1,600 +  $15,000+  $4,700-    $1,950-
+  $1,300
+1-27                                                        LO 4
+
+--- PAGE 28 ---
+TRANSACTION 7. PAYMENT OF EXPENSES Softbyte Inc. pays the
+   following expenses in cash for September: office rent $600, salaries and
+   wages of employees $900, and utilities $200.                                                                                                                    Illustration 1-8
+
+            Assets   = Liabilities +  Owner's Equity
+
+ Trans-            Accounts                          Accounts    Owner's    Owner's
+        Cash  +           + Supplies + Equipment =          +                 -          + Rev.    - Exp.
+  action            Receivable                           Payable      Capital    Drawings
+
+         1.   +15,000   +15,000
+
+         2.    -7,000    +7,000
+
+         3.   +1,600    +1,600
+
+         4.   +1,200         +1,200
+
+         5.                     +250                     -250
+
+         6.   +1,500    +2,000                             +3,500
+
+         7.    -1,700                                              -600
+                                                           -900
+                                                           -200
+
+         8.   -250                 -250
+
+         9.   +600 -600
+
+        10.   -1,300                                           -1,300
+
+            $8,050+      $1,400+    $1,600+     $7,000 =   $1,600 +  $15,000+  $4,700-    $1,950-
+  $1,300
+1-28                                                        LO 4
+
+--- PAGE 29 ---
+TRANSACTION 8. PAYMENT OF ACCOUNTS PAYABLE Softbyte Inc.
+   pays its $250 Daily News bill in cash. The company previously (in
+   Transaction 5) recorded the bill as an increase in Accounts Payable.
+
+  Illustration 1-8 Assets   = Liabilities +  Owner's Equity
+
+ Trans-            Accounts                          Accounts    Owner's    Owner's
+        Cash  +           + Supplies + Equipment =          +                 -          + Rev.    - Exp.
+  action            Receivable                           Payable      Capital    Drawings
+
+         1.   +15,000   +15,000
+
+         2.    -7,000    +7,000
+
+         3.   +1,600    +1,600
+
+         4.   +1,200         +1,200
+
+         5.                     +250                     -250
+
+         6.   +1,500    +2,000                             +3,500
+
+         7.    -1,700                                              -600
+                                                           -900
+                                                           -200
+
+         8.   -250                 -250
+
+         9.   +600 -600
+
+        10.   -1,300                                           -1,300
+
+            $8,050+      $1,400+    $1,600+     $7,000 =   $1,600 +  $15,000+  $4,700-    $1,950-
+  $1,300
+1-29                                                        LO 4
+
+--- PAGE 30 ---
+TRANSACTION 9. RECEIPT OF CASH ON ACCOUNT Softbyte Inc.
+   receives $600 in cash from customers who had been billed for services
+    (in Transaction 6).                                                                                                                    Illustration 1-8
+
+            Assets   = Liabilities +  Owner's Equity
+
+ Trans-            Accounts                          Accounts    Owner's    Owner's
+        Cash  +           + Supplies + Equipment =          +                 -          + Rev.    - Exp.
+  action            Receivable                           Payable      Capital    Drawings
+
+         1.   +15,000   +15,000
+
+         2.    -7,000    +7,000
+
+         3.   +1,600    +1,600
+
+         4.   +1,200         +1,200
+
+         5.                     +250                     -250
+
+         6.   +1,500    +2,000                             +3,500
+
+         7.    -1,700                                              -600
+                                                           -900
+                                                           -200
+
+         8.   -250                 -250
+
+         9.   +600 -600
+
+        10.   -1,300                                           -1,300
+
+            $8,050+      $1,400+    $1,600+     $7,000 =   $1,600 +  $15,000+  $4,700-    $1,950-
+  $1,300
+1-30                                                        LO 4
+
+--- PAGE 31 ---
+TRANSACTION 10. WITHDRAWAL OF CASH BY OWNER Ray Neal
+   withdraws $1,300 in cash in cash from the business for his personal use.
+
+
+  Illustration 1-8
+            Assets   = Liabilities +  Owner's Equity
+
+ Trans-            Accounts                          Accounts    Owner's    Owner's
+        Cash  +           + Supplies + Equipment =          +                 -          + Rev.    - Exp.
+  action            Receivable                           Payable      Capital    Drawings
+
+         1.   +15,000   +15,000
+
+         2.    -7,000    +7,000
+
+         3.   +1,600    +1,600
+
+         4.   +1,200         +1,200
+
+         5.                     +250                     -250
+
+         6.   +1,500    +2,000                             +3,500
+
+         7.    -1,700                                              -600
+                                                           -900
+                                                           -200
+
+         8.   -250                 -250
+
+         9.   +600 -600
+
+        10.   -1,300                                -1,300
+
+            $8,050+      $1,400+    $1,600+     $7,000 =   $1,600 +  $15,000 -  $1,300+    $4,700-
+  $1,950
+
+1-31                  $18,050                              $18,050         LO 4
+
+--- PAGE 32 ---
+Summary of Transactions
+
+
+     1.  Each transaction is analyzed in terms of its effect on:
+
+           a.  The three components of the basic accounting
+              equation.
+
+          b.   Specific of items within each component.
+
+    2.  The two sides of the equation must always be equal.
+
+
+
+
+
+1-32                                                        LO 4
+
+--- PAGE 33 ---
+LEARNING        Describe the four financial statements
+          5
+OBJECTIVE       and how they are prepared.
+
+
+   Companies prepare four financial statements :
+
+
+
+
+
+                Owner’s                Statement
+     Income                 Balance
+                   Equity                    of Cash
+    Statement                 Sheet
+                Statement                Flows
+
+
+
+
+
+1-33                                                        LO 5
+
+--- PAGE 34 ---
+Net income is needed to determine the
+                                                   ending balance in owner’s equity.  Financial Statements
+
+
+                            SOFTBYTE
+                               Income Statement
+                        For the Month Ended September 30, 2017
+
+
+
+
+
+                                                                                                                     Illustration 1-9
+                                                                                                                Financial statements and
+                                                                                                                                 their interrelationships
+
+
+
+
+
+                            SOFTBYTE
+                             Owner’s Equity Statement
+                        For the Month Ended September 30, 2017
+
+
+
+
+
+1-34                                                        LO 5
+
+--- PAGE 35 ---
+SOFTBYTE
+                                       Owner’s Equity Statement
+                                  For the Month Ended September 30, 2017
+
+
+
+
+
+The ending                                                                                                            Illustration 1-9
+balance in                            SOFTBYTE
+owner’s equity                               Balance Sheet
+is needed in                             September 30, 2017
+preparing the
+balance sheet.
+
+
+
+
+
+  Illustration 1-9
+  Financial statements
+  and their
+  interrelationships
+
+
+1-35
+
+--- PAGE 36 ---
+SOFTBYTE
+                                                              Balance SheetFinancial
+                                                         September 30, 2017
+Statements
+
+
+
+
+
+  Balance sheet and
+ income statement
+  are needed to
+  prepare statement of
+  cash flows.
+
+                                                 SOFTBYTE
+                                                           Statement of Cash Flows
+                                                    For the Month Ended September 30, 2017
+
+
+
+
+
+           Illustration 1-9
+          Financial statements
+        and their
+           interrelationships
+
+
+1-36
+
+--- PAGE 37 ---
+Income Statement
+
+
+   ◆  Reports the revenues and expenses for a specific period
+         of time.
+
+   ◆   Lists revenues first, followed by expenses.
+
+   ◆  Shows net income (or net loss).
+
+   ◆  Does not include
+        investment and
+        withdrawal transactions
+       between the owner and
+        the business in
+       measuring net income.
+
+
+
+1-37                                                        LO 5
+
+--- PAGE 38 ---
+Owner’s Equity Statement
+
+
+   ◆  Reports the changes in owner’s equity for a specific
+        period of time.
+
+   ◆  The time period is the same as that covered by the
+       income statement.
+
+
+
+
+
+1-38                                                        LO 5
+
+--- PAGE 39 ---
+Balance Sheet
+
+
+   ◆  Reports the assets, liabilities, and owner's equity at a
+         specific date.
+
+   ◆   Lists assets at the top, followed by liabilities and owner’s
+         equity.
+
+   ◆   Total assets must equal total liabilities and owner's
+         equity.
+
+   ◆   Is a snapshot of the company’s financial condition at a
+         specific moment in time (usually the month-end or
+        year-end).
+
+
+
+
+
+1-39                                                        LO 5
+
+--- PAGE 40 ---
+Statement of Cash Flows
+
+
+   ◆   Information on the cash receipts and payments for a
+         specific period of time.
+
+   ◆  Answers the following:
+
+      ►  Where did cash come from?
+
+      ►  What was cash used for?
+
+      ►  What was the change in the
+            cash balance?
+
+
+
+
+
+1-40                                                        LO 5
+
+--- PAGE 41 ---
+LEARNING          Describe the impact of international accounting
+          7
+OBJECTIVE         standards on U.S. financial reporting.
+
+  Key Points
+
+   Following are the key similarities and differences between GAAP and
+   IFRS as related to accounting fundamentals.
+
+   Similarities
+
+    ◆   The basic techniques for recording business transactions are the
+       same for U.S. and international companies.
+
+    ◆   Both international and U.S. accounting standards emphasize
+         transparency in financial reporting. Both sets of standards are
+          primarily driven by meeting the needs of investors and creditors.
+
+
+1-41                                                        LO 7
+
+--- PAGE 42 ---
+Key Points
+
+   Similarities
+
+    ◆   The three most common forms of business organizations,
+          proprietorships, partnerships, and corporations, are also found in
+          countries that use international accounting standards.
+
+   Differences
+
+    ◆    International standards are referred to as International Financial
+         Reporting Standards (IFRS), developed by the International
+         Accounting Standards Board. Accounting standards in the United
+         States are referred to as generally accepted accounting principles
+        (GAAP) and are developed by the Financial Accounting
+         Standards Board.
+
+
+1-42                                                        LO 7
+
+--- PAGE 43 ---
+Key Points
+
+   Differences
+
+    ◆   IFRS tends to be simpler in its accounting and disclosure
+         requirements; some people say it is more “principles-based.”
+      GAAP is more detailed; some people say it is more “rules-based.”
+
+    ◆   The internal control standards applicable to Sarbanes-Oxley
+        (SOX) apply only to large public companies listed on U.S.
+        exchanges. There is continuing debate as to whether non-U.S.
+        companies should have to comply with this extra layer of
+          regulation.
+
+
+
+
+
+1-43                                                        LO 7
+
+==========================================================================================
+FILE 2/12: Lectures\Acc-2.pdf
+TYPE: .pdf
+SIZE: 3282793 bytes
+==========================================================================================
+--- PAGE 1 ---
+[OCR: may contain recognition errors]
+gand
+
+kimmgl
+
+J&am for success]
+
+Coby Harmon
+
+University of California, Santa Barbara
+
+Westmont College
+
+ACCOJNTING
+
+PRINCIPLESI
+
+TWELFTH EDITION
+
+--- PAGE 2 ---
+The Recording Process 2
+
+ Learning Objectives
+
+          Describe how accounts, debits, and credits are used to
+   1          record business transactions.
+
+
+   2     Indicate how a journal is used in the recording process.
+
+
+          Explain how a ledger and posting help in the recording
+   3          process.
+
+
+   4    Prepare a trial balance.
+
+
+2-2
+
+--- PAGE 3 ---
+LEARNING         Describe how accounts, debits, and credits
+          1
+OBJECTIVE         are used to record business transactions.
+
+
+                   ◆  Record of increases and decreases   The
+                                 in a specific asset, liability, owners’
+ Account               equity, revenue, or expense item.
+                   ◆   Debit = “Left”
+
+                   ◆   Credit = “Right”
+
+
+   An account can
+  be illustrated in a
+   T-account form.
+
+
+
+
+
+2-3                                                        LO 1
+
+--- PAGE 4 ---
+The Account
+
+
+  DEBIT AND CREDIT PROCEDURES
+
+  Double-entry system
+
+   ◆  Each transaction must affect two or more accounts to
+       keep the basic accounting equation in balance.
+
+   ◆  Recording done by debiting at least one account and
+         crediting at least one other account.
+
+   ◆  DEBITS must equal CREDITS.
+
+
+
+
+
+2-4                                                        LO 1
+
+--- PAGE 5 ---
+Debits and Credits
+
+
+    If the sum of Debit entries are greater than the sum of
+  Credit entries, the account will have a debit balance.
+
+
+
+
+
+ Transaction #1       $10,000         $3,000       Transaction #2
+
+ Transaction #3         8,000
+
+
+
+ Balance              $15,000
+
+
+
+
+
+2-5                                                        LO 1
+
+--- PAGE 6 ---
+Debits and Credits
+
+
+    If the sum of Credit entries are greater than the sum of
+  Debit entries, the account will have a credit balance.
+
+
+
+
+
+ Transaction #1       $10,000         $3,000       Transaction #2
+
+                                       8,000       Transaction #3
+
+
+
+ Balance                            $1,000
+
+
+
+
+
+2-6                                                        LO 1
+
+--- PAGE 7 ---
+Debits and Credits
+
+
+                       ◆  Assets - Debits should exceed
+                                      credits.
+
+                       ◆   Liabilities – Credits should
+                             exceed debits.
+
+                       ◆  Normal balance is on the
+                                 increase side.
+
+
+
+
+
+2-7                                                        LO 1
+
+--- PAGE 8 ---
+Debits and Credits
+
+
+                       ◆  Owner’s investments and
+                            revenues increase owner’s equity
+                                         (credit).
+
+                       ◆  Owner’s drawings and expenses
+                              decrease owner’s equity (debit).
+
+
+
+
+
+                                                                        Helpful Hint Because
+                                                                    revenues increase owner’s
+                                                                                   equity, a revenue account
+                                                                 has the same debit/credit
+                                                                                rules as the Owner’s
+                                                                              Capital account. Expenses
+                                                                have the opposite effect.
+
+
+
+2-8                                                        LO 1
+
+--- PAGE 9 ---
+Debits and Credits
+
+
+                       ◆  The purpose of earning revenues
+                                           is to benefit the owner(s).
+
+                       ◆  The effect of debits and credits on
+                              revenue accounts is the same as
+                                        their effect on Owner’s Capital.
+
+                       ◆  Expenses have the opposite
+                                        effect: expenses decrease owner’s
+                                     equity.
+
+
+
+
+
+2-9                                                        LO 1
+
+--- PAGE 10 ---
+Debits/Credits Rules
+
+
+        Normal              Normal
+        Balance              Balance
+         Debit                 Credit
+
+
+
+
+
+2-10                                                        LO 1
+
+--- PAGE 11 ---
+Debits/Credits Rules
+
+
+             Balance Sheet         Income Statement
+
+         Asset  =  Liability + Equity   Revenue - Expense
+
+
+ Debit
+
+
+
+
+ Credit
+
+
+
+
+
+2-11                                                        LO 1
+
+--- PAGE 12 ---
+Summary of Debit/Credit Rules
+
+
+   Relationship among the assets, liabilities and owner’s equity
+   of a business:
+
+
+                                                                                                                 Illustration 2-11
+
+ Basic
+             Assets = Liabilities +               Owner’s Equity Equation
+
+ Expanded
+ Equation
+
+ Debit/Credit
+ Effects
+
+
+
+  The equation must be in balance after every transaction. Total
+  Debits must equal total Credits.
+
+
+
+
+2-12                                                        LO 1
+
+--- PAGE 13 ---
+LEARNING          Indicate how a journal is used in the
+           2
+ OBJECTIVE        recording process.
+
+  Steps in the Recording Process
+
+                                                                                                            Illustration 2-12
+
+
+
+
+
+                                                                           Transfer journal information to      Analyze each transaction         Enter transaction in a journal
+                                                                                  ledger accounts
+
+   Business documents, such as a sales slip, a check, or a bill,
+    provide evidence of the transaction.
+
+
+2-13                                                        LO 2
+
+--- PAGE 14 ---
+Steps in the Recording Process
+
+
+  The Journal
+
+   ◆  Book of original entry.
+
+   ◆  Transactions recorded in chronological order.
+
+   ◆   Contributions to the recording process:
+
+          1.  Discloses the complete effects of a transaction.
+
+          2.  Provides a chronological record of transactions.
+
+          3.  Helps to prevent or locate errors because the debit
+           and credit amounts can be easily compared.
+
+
+
+
+2-14                                                        LO 2
+
+--- PAGE 15 ---
+Steps in the Recording Process
+
+
+  JOURNALIZING - Entering transaction data in the journal.
+
+   Illustration: On September 1, Ray Neal invested $15,000 cash in
+   the business, and Softbyte purchased computer equipment for
+   $7,000 cash.
+                                                                                                             Illustration 2-13
+
+               GENERAL JOURNAL
+
+
+
+    Sept. 1   Cash                                  15,000
+
+                 Owner’s Capital                                15,000
+
+
+             Equipment                               7,000
+
+               Cash                                           7,000
+
+2-15                                                        LO 2
+
+--- PAGE 16 ---
+Steps in the Recording Process
+
+
+  SIMPLE AND COMPOUND ENTRIES
+
+   Illustration: On July 1, Butler Company purchases a delivery truck
+   costing $14,000.  It pays $8,000 cash now and agrees to pay the
+   remaining $6,000 on account.                                                                                                     Illustration 2-14
+                                                                      Compound journal entry
+
+               GENERAL JOURNAL
+
+
+
+     July 1    Equipment                              14,000
+
+               Cash                                           8,000
+
+                 Accounts payable                                6,000
+
+
+
+
+
+2-16                                                        LO 2
+
+--- PAGE 17 ---
+LEARNING         Explain how a ledger and posting help in the
+           3
+ OBJECTIVE        recording process.
+
+  The Ledger
+
+   ◆   General Ledger contains all the asset, liability, and owner’s
+         equity accounts.
+
+                                                                                                              Illustration 2-15
+
+
+
+
+
+2-17                                                        LO 3
+
+--- PAGE 18 ---
+The Ledger
+
+
+
+
+                                                                                                             Illustration 2-16 STANDARD FORM OF ACCOUNT                                                                                          Three-column form
+                                                                                                               of account
+
+
+
+
+
+2-18                                                        LO 3
+
+--- PAGE 19 ---
+Ledger
+
+
+ POSTING
+
+ Transferring
+ journal entries
+ to the ledger
+ accounts.
+
+
+
+
+
+           Illustration 2-17
+          Posting a journal
+           entry
+
+2-19                                                        LO 3
+
+--- PAGE 20 ---
+Chart of Accounts
+
+                                                                                                            Illustration 2-18
+
+
+
+
+
+2-20                                                        LO 3
+
+--- PAGE 21 ---
+The Recording Process Illustrated
+
+
+Follow these steps:
+
+1. Determine what
+   type of account is
+    involved.
+
+2. Determine what
+   items increased or
+   decreased and by
+   how much.
+
+3. Translate the
+   increases and
+   decreases into
+    debits and credits.
+
+
+
+
+                    Illustration 2-19
+
+2-21                                                        LO 3
+
+--- PAGE 22 ---
+Illustration 2-20
+2-22      Purchase of office equipment                                                          LO 3
+
+--- PAGE 23 ---
+Illustration 2-21
+                                                                                                     Receipt of cash
+                                                                                                                              for future service
+
+
+
+
+
+2-23                                                        LO 3
+
+--- PAGE 24 ---
+Illustration 2-22
+2-24      Payment of monthly rent                                                          LO 3
+
+--- PAGE 25 ---
+Illustration 2-23
+                                                                                      Payment for
+                                                                                                    insurance
+
+
+
+
+
+2-25                                                        LO 3
+
+--- PAGE 26 ---
+Illustration 2-24
+2-26      Purchase of supplies on credit                                                          LO 3
+
+--- PAGE 27 ---
+The Recording Process Illustrated
+
+
+
+
+
+ Illustration 2-25
+ Hiring of employees
+
+
+
+
+
+2-27                                                        LO 3
+
+--- PAGE 28 ---
+Illustration 2-26
+2-28       Withdrawal of cash by owner                                                          LO 3
+
+--- PAGE 29 ---
+Illustration 2-27
+2-29      Payment of salaries                                                          LO 3
+
+--- PAGE 30 ---
+Illustration 2-28
+2-30       Receipt of cash for services performed                                                          LO 3
+
+--- PAGE 31 ---
+Summary Journalizing and Posting
+
+                                                                                                                  Illustration 2-29
+
+
+
+
+
+2-31                                                        LO 3
+
+--- PAGE 32 ---
+2-32     Illustration 2-29                                              LO 3
+
+--- PAGE 33 ---
+Illustration 2-30
+2-33
+                                                           LO 3
+
+--- PAGE 34 ---
+LEARNING
+           4   Prepare a trial balance. OBJECTIVE
+
+
+
+
+
+2-34        Illustration 2-31                                                          LO 4
+
+--- PAGE 35 ---
+Trial Balance
+
+
+  Limitations of a Trial Balance
+
+   Trial balance may balance even when:
+
+    1.  A transaction is not journalized.
+
+    2.  A correct journal entry is not posted.
+
+    3.  A journal entry is posted twice.
+
+    4.   Incorrect accounts are used in journalizing or posting.
+
+    5.   Offsetting errors are made in recording the amount of a
+         transaction.
+
+
+
+
+
+2-35                                                        LO 4
+
+--- PAGE 36 ---
+Dollar Signs and Underlining
+
+
+   Dollar Signs
+
+   ◆  Do not appear in journals or ledgers.
+
+   ◆   Typically used only in the trial balance and the financial
+        statements.
+
+   ◆  Shown only for the first item in the column and for the total
+         of that column.
+
+  Underlining
+
+   ◆  A single line is placed under the column of figures to be
+       added or subtracted.
+
+   ◆   Totals are double-underlined.
+
+2-36                                                        LO 4
+
+--- PAGE 37 ---
+A Look at IFRS
+
+
+ LEARNING       Compare the procedures for the accounting
+           5
+ OBJECTIVE       process under GAAP and IFRS.
+
+  Key Points
+
+   Similarities
+
+    ◆   Transaction analysis is the same under IFRS and GAAP.
+
+    ◆   Both the IASB and the FASB go beyond the basic definitions
+         provided in the textbook for the key elements of financial
+         statements, that is assets, liabilities, equity, revenue, and
+        expenses. The implications of the expanded definitions are
+         discussed in more advanced accounting courses.
+
+
+
+
+2-37                                                        LO 5
+
+--- PAGE 38 ---
+A Look at IFRS
+
+
+  Key Points
+
+   Similarities
+
+    ◆   As shown in the textbook, dollar signs are typically used only in
+         the trial balance and the financial statements. The same practice
+            is followed under IFRS, using the currency of the country where
+         the reporting company is headquartered.
+
+    ◆  A trial balance under IFRS follows the same format as shown in
+         the textbook.
+
+
+
+
+
+2-38                                                        LO 5
+
+--- PAGE 39 ---
+A Look at IFRS
+
+
+  Key Points
+
+   Differences
+
+    ◆   IFRS relies less on historical cost and more on fair value than do
+       FASB standards.
+
+    ◆    Internal controls are a system of checks and balances designed to
+         prevent and detect fraud and errors. While most public U.S.
+        companies have these systems in place, many non-U.S.
+        companies have never completely documented the controls nor
+        had an independent auditors attest to their effectiveness.
+
+
+
+
+
+2-39                                                        LO 5
+
+--- PAGE 40 ---
+A Look at IFRS
+
+
+  Looking to the Future
+
+   The basic recording process shown in this textbook is followed by
+   companies across the globe. It is unlikely to change in the future. The
+    definitional structure of assets, liabilities, equity, revenues, and
+   expenses may change over time as the IASB and FASB evaluate their
+   overall conceptual framework for establishing accounting standards.
+
+
+
+
+
+2-40                                                        LO 5
+
+==========================================================================================
+FILE 3/12: Lectures\ch01-A.pdf
+TYPE: .pdf
+SIZE: 72858 bytes
+==========================================================================================
+--- PAGE 1 ---
+CHAPTER 1
+
+  PROBLEMS: SET C
+
+P1-1C On April 1, Barb Massoth established American Travel Agency. The following   Analyze transactions and
+transactions were completed during the month.                                          compute net income.
+                                                                                            (LO 3, 4) 1. Invested $10,000 cash to start the agency.
+ 2. Paid $400 cash for April office rent.
+ 3. Purchased equipment for $2,500 cash.
+ 4. Incurred $300 of advertising costs in the Chicago Tribune, on account.
+ 5. Paid $600 cash for office supplies.
+ 6. Recognized $9,500 for services rendered: $3,000 cash is received from customers, and
+    the balance of $6,500 is billed to customers on account.
+ 7. Withdrew $200 cash for personal use.
+ 8. Paid Chicago Tribune amount due in transaction (4).
+ 9. Paid employees’ salaries $2,200.
+10. Received $4,000 in cash from customers who have previously been billed in
+    transaction (6).
+
+Instructions
+(a) Prepare a tabular analysis of the transactions using the following column headings: Cash,    (a) Total assets $16,400
+   Accounts Receivable, Supplies, Office Equipment, Accounts Payable, Owner’s Capital,
+   Owner’s Drawings, Revenues, and Expenses.
+(b) From an analysis of the owner’s equity column, compute the net income or net loss    (b) Net income $6,600
+    for April.
+
+                                                                                                  Analyze transactions and
+P1-2C Nancy Grimwood opened a law office, Nancy Grimwood, Attorney at Law, on
+                                                                                                     prepare income statement,
+July 1, 2017. On July 31, the balance sheet showed Cash $4,000, Accounts Receivable                                                                                                    owner’s equity statement, and
+$1,500, Supplies $500, Office Equipment $5,000, Accounts Payable $4,200, and Owner’s   balance sheet.
+Capital $6,800. During August the following transactions occurred.
+                                                                                            (LO 3, 4, 5)
+ 1. Collected $1,400 of accounts receivable.
+ 2. Paid $2,700 cash on accounts payable.
+ 3. Recognized revenue of $9,000 of which $3,000 is collected in cash and the balance is
+   due in September.
+ 4. Purchased additional equipment for $1,000, paying $400 in cash and the balance on
+    account.
+ 5. Paid salaries $3,000, rent for August $900, and advertising expenses $350.
+ 6. Withdrew $750 in cash for personal use.
+ 7. Received $4,000 from Standard Federal Bank—money borrowed on a note payable.
+ 8. Incurred utility expenses for month on account $550.
+
+Instructions
+(a) Prepare a tabular analysis of the August transactions beginning with July 31    (a) Total assets $16,900
+   balances. The column headings should be as follows: Cash 1 Accounts Receivable 1
+   Supplies 1 Equipment 5 Notes Payable 1 Accounts Payable 1 Owner’s Capital 2 Owner’s
+   Drawings 1 Revenues 2 Expenses.
+(b) Prepare an income statement for August, an owner’s equity statement for August, and    (b) Net income $4,200
+   a balance sheet at August 31.                                                                               Total assets $16,900
+
+P1-3C On June 1, Laurie Shaw started Fancy Cosmetics Co., a company that provides   Prepare income statement,
+individual skin care treatment, by investing $26,200 cash in the business. Following are   owner’s equity statement, and
+the assets and liabilities of the company at June 30 and the revenues and expenses for the   balance sheet.
+month of June.                                                                             (LO 5)
+
+       Cash                  $11,000     Notes Payable          $13,000
+        Accounts Receivable      4,000     Accounts Payable         1,200
+         Service Revenue          6,000     Supplies Expense         1,600
+         Supplies                 2,000     Gasoline Expense         800
+         Advertising Expense       500       Utilities Expense          300
+       Equipment             25,000
+
+Laurie Shaw made no additional investment in June, but withdrew $1,200 in cash for
+personal use during the month.
+                                                                                                                              (a) Net income $2,800
+Instructions
+                                                                                                   Owner’s capital $27,800(a) Prepare an income statement and owner’s equity statement for the month of June and
+   a balance sheet at June 30, 2017.                                                                          Total assets $42,000
+
+--- PAGE 2 ---
+2  1 Accounting in Action
+
+
+    (b) Net income $3,500           (b) Prepare an income statement and owner’s equity statement for June assuming the fol-
+      Owner’s capital $28,500         lowing data are not included above: (1) $800 of revenue was earned and billed but not
+                                    collected at June 30, and (2) $100 of gasoline expense was incurred but not paid.
+
+   Analyze transactions and      P1-4C Bruce Jenner started his own consulting firm, Jenner Consulting, on May 1, 2017.
+   prepare financial statements.   The following transactions occurred during the month of May.
+   (LO 3, 4, 5)              May 1  Jenner invested $8,000 cash in the business.
+                               2  Paid $800 for office rent for the month.
+                               3  Purchased $500 of supplies on account.
+                               5  Paid $50 to advertise in the County News.
+                               9  Received $3,000 cash for services provided.
+                              12  Withdrew $700 cash for personal use.
+                              15  Performed $4,300 of services on account.
+                              17  Paid $3,000 for employee salaries.
+                              20  Paid for the supplies purchased on account on May 3.
+                              23  Received a cash payment of $3,000 for services provided on account on May 15.
+                              26  Borrowed $5,000 from the bank on a note payable.
+                              29  Purchased office equipment for $2,800 on account.
+                              30  Paid $150 for utilities.
+
+                             Instructions
+    (a) Ending cash $13,800          (a) Show the effects of the previous transactions on the accounting equation using the
+                                  following format.
+
+
+
+                     Assets                                         Liabilities                       Owner’s Equity
+
+                  Accounts                                Notes     Accounts    Owner’s     Owner’s
+   Date Cash 1  Receivable 1 Supplies 1 Equipment 5  Payable 1  Payable 1  Capital 2 Drawings 1  Revenues 2  Expenses
+
+
+
+
+    (b) Net income $3,300           (b) Prepare an income statement for the month of May.
+    (c) Total assets $18,400           (c) Prepare a balance sheet at May 31, 2017.
+
+   Determine financial statement  P1-5C Financial statement information about four different companies is as follows.
+   amounts and prepare owner’s
+   equity statement.                                   Harpo       Curly     Groucho    Moe
+                                           Company   Company   Company  Company
+   (LO 4, 5)
+                            January 1, 2017
+                                 Assets                      $ 80,000      $90,000           (g)        $150,000
+                                     Liabilities                       50,000          (d)         75,000              (j)
+                             Owner’s equity                       (a)         50,000        49,000       100,000
+                         December 31, 2017
+                                 Assets                               (b)        117,000      180,000           (k)
+                                     Liabilities                       55,000       72,000          (h)          80,000
+                             Owner’s equity                  40,000           (e)        100,000       145,000
+                           Owner’s equity changes in year
+                                Additional investment                (c)           8,000        10,000        15,000
+                            Drawings                       10,000             (f)          12,000        10,000
+                                 Total revenues                 350,000      400,000             (i)         500,000
+                                 Total expenses                 335,000      385,000      360,000              (l)
+
+                             Instructions
+                                  (a) Determine the missing amounts. (Hint: For example, to solve for (a), Assets 2 Liabilities
+                    5 Owner’s equity 5 $30,000.)
+                                 (b) Prepare the owner’s equity statement for Harpo Company.
+                                   (c)         Write a memorandum explaining the sequence for preparing financial state-
+                             ments and the interrelationship of the owner’s equity statement to the income state-
+                            ment and balance sheet.
+
+==========================================================================================
+FILE 4/12: Lectures\ch01.pdf
+TYPE: .pdf
+SIZE: 74843 bytes
+==========================================================================================
+--- PAGE 1 ---
+CHAPTER 1
+
+  EXERCISES: SET B
+
+E1-1B Sophie Company performs the following accounting tasks during the year.             Classify the three activities of
+  ______Summarizing economic events.                                                       accounting.
+   ______Selecting economic activities relevant to the company.                             (LO 1)
+   ______Reporting information in a standard format.
+   ______Preparing accounting reports.
+   ______Measuring events in dollars and cents.
+   ______Keeping a systematic chronological diary of events.
+   ______Explaining uses, meaning, and limitations of data.
+   ______Classifying economic events.
+   ______Analyzing and interpreting information.
+
+Accounting is “an information system that identifies, records, and communicates the
+economic events of an organization to interested users.”
+
+Instructions
+Categorize the accounting tasks performed by Sophie as relating to either the identifica-
+tion (I), recording (R), or communication (C) aspects of accounting.
+
+
+E1-2B (a) The following are users of financial statements.                                         Identify users of accounting
+                                                                                                     information.
+   ______Customers                       ______Securities and Exchange Commission
+   ______Internal Revenue Service        ______Investors                                 (LO 1)
+   ______Labor unions                   ______Suppliers
+   ______Factory manager             ______Human resource worker
+   ______Vice-president of finance
+
+Instructions
+Identify the users as being either external users or internal users.
+
+
+(b) The following questions could be asked by an internal user or an external user.
+
+  ______What price should we set for our product?
+   ______Did the company earn a satisfactory income?
+   ______Should we hire more employees?
+  ______How does the company’s profitability compare to other companies?
+  ______What does it cost us to manufacture each unit produced?
+  ______Which product should we emphasize?
+   ______Will the company be able to provide a return to its stockholders?
+
+Instructions
+Identify each of the questions as being more likely asked by an internal user or an external
+user.
+
+
+E1-3B Rick Payne, president of Lions Company, has instructed Ken Mason, the head of the   Discuss ethics and the
+accounting department for Lions Company, to report the company’s land in the company’s    historical cost principle.
+accounting reports at its fair value of $225,000 instead of its cost of $125,000. Payne says,   (LO 1)
+“Showing the land at $225,000 will make our company look like a better investment when
+we try to attract new investors next month.”
+
+Instructions
+Explain the ethical situation involved for Ken Mason, identifying the stakeholders and the
+alternatives.
+
+
+E1-4B The following situations involve accounting principles and assumptions.            Use accounting concepts.
+1. Hodge Company owns land that is worth substantially more than it originally cost.   (LO 2)
+   In an effort to provide more relevant information, Hodge reports the land at fair value
+   in its accounting reports.
+2. Franklin Company includes in its accounting records only transaction data that can be
+   expressed in terms of money.
+3. Jose Ortiz, owner of Jose’s MovieHouse, records his personal living costs as expenses of
+   the MovieHouse.
+
+--- PAGE 2 ---
+2  1 Accounting in Action
+
+
+                             Instructions
+                           For each of the three situations, say if the accounting method used is correct or incorrect.
+                                        If correct, identify which principle or assumption supports the method used. If incorrect,
+                                 identify which principle or assumption has been violated.
+
+
+   Classify accounts as assets,    E1-5B Luther Cleaners has the following balance sheet items.
+    liabilities, and owner’s equity.                                             Accounts payable           Accounts receivable
+   (LO 3)                                   Cash                      Notes payable
+                                         Equipment                Rent payable
+                                                Supplies                   Owner’s capital
+
+                             Instructions
+                                 Classify each item as an asset, liability, or owner’s equity.
+
+
+   Analyze the effect of          E1-6B Selected transactions for Lush Lawn Care Company are listed below.
+   transactions.                                   1. Made cash investment to start business.
+   (LO 3, 4)                        2. Purchased equipment on account.
+                                   3. Paid salaries.
+                                   4. Billed customers for services performed.
+                                   5. Received cash from customers billed in (4).
+                                   6. Withdrew cash for owner’s personal use.
+                                   7. Incurred advertising expense on account.
+                                   8. Purchased additional equipment for cash.
+                                   9. Received cash from customers when service was performed.
+
+                             Instructions
+                                 List the numbers of the above transactions and describe the effect of each transaction on
+                                  assets, liabilities, and owner’s equity. For example, the first answer is: (1) Increase in assets
+                         and increase in owner’s equity.
+
+
+   Analyze the effect of          E1-7B Rita’s Payroll Services Company entered into the following transactions during
+   transactions on assets,      May 2017.
+    liabilities, and owner’s equity.
+                                   1. Purchased computer terminals for $15,000 from Comp-time on account.
+   (LO 3, 4)                        2. Paid $3,000 cash for May rent on storage space.
+                                   3. Received $12,000 cash from customers for contracts billed in April.
+                                   4. Provided computer services to Magic Construction Company for $2,500 cash.
+                                   5. Paid Northern Ohio Power Co. $7,000 cash for energy usage in May.
+                                   6. Rita invested an additional $25,000 in the business.
+                                   7. Paid Comp-time for the terminals purchased in (1) above.
+                                   8. Incurred advertising expense for May of $900 on account.
+
+                             Instructions
+                               Indicate with the appropriate letter whether each of the transactions above results in:
+
+                                  (a) an increase in assets and a decrease in assets.
+                                 (b) an increase in assets and an increase in owner’s equity.
+                                   (c) an increase in assets and an increase in liabilities.
+                                 (d) a decrease in assets and a decrease in owner’s equity.
+                                   (e) a decrease in assets and a decrease in liabilities.
+                                        (f) an increase in liabilities and a decrease in owner’s equity.
+                                  (g) an increase in owner’s equity and a decrease in liabilities.
+
+
+   Analyze transactions and      E1-8B An analysis of the transactions made by Holmes & Co., a certifi ed public
+   compute net income.         accounting fi rm, for the month of August is shown on the next page. The expenses were
+                          $820 for rent, $5,400 for salaries and wages, and $500 for utilities.   (LO 4)
+
+--- PAGE 3 ---
+Exercises: Set B 3
+
+
+                                                                                    Owner’s Equity
+                 Accounts                                Accounts     Owner’s      Owner’s
+    Cash   1  Receivable 1  Supplies 1 Equipment 5  Payable 1   Capital  2 Drawings 1 Revenues 2 Expenses
+ 1. 1$20,000                                                       1$20,000
+ 2.   22,000                              1$5,000      1$3,000
+ 3.    2750                 1$750
+ 4.   15,600     1$2,700                                                                    1$8,300
+ 5.   21,500                                            21,500
+ 6.   22,000                                                                    2$2,000
+ 7.    2820                                                                                              $820
+ 8.    1450       2450
+ 9.   25,400                                                                                             25,400
+10.                                                1500                                       2500
+
+Instructions
+(a)         Describe each transaction that occurred for the month.
+(b) Determine how much owner’s equity increased for the month.
+(c) Compute the amount of net income for the month.
+
+E1-9B An analysis of transactions for Holmes & Co. was presented in E1–8B.                Prepare financial statements.
+                                                                                            (LO 5)
+Instructions
+Prepare an income statement and an owner’s equity statement for August and a balance
+sheet at August 31, 2017.
+
+
+E1-10B Dunn Company had the following assets and liabilities on the dates indicated.      Determine net income (or
+                                                                                                                         loss).
+            December 31   Total Assets   Total Liabilities                                                                                            (LO 4)
+                   2016          $390,000         $240,000
+                   2017          $460,000         $280,000
+                   2018          $590,000         $360,000
+
+Dunn began business on January 1, 2016, with an investment of $100,000.
+
+Instructions
+From an analysis of the change in owner’s equity during the year, compute the net income
+(or loss) for:
+
+(a) 2016, assuming Dunn’s drawings were $20,000 for the year.
+(b) 2017, assuming Dunn made an additional investment of $55,000 and had no drawings
+    in 2017.
+(c) 2018, assuming Dunn made an additional investment of $10,000 and had drawings of
+   $20,000 in 2018.
+
+E1-11B Two items are omitted from each of the following summaries of balance sheet and   Analyze financial statements
+income statement data for two proprietorships for the year 2017, Gary Carmel and Taso   items.
+Enterprises.                                                                                            (LO 3, 4)
+                                        Gary        Taso
+                                       Carmel     Enterprises
+
+          Beginning of year:
+             Total assets                      $ 115,000      $129,000
+             Total liabilities                        90,000           (c)
+             Total owner’s equity                        (a)           78,000
+        End of year:
+             Total assets                          160,000       180,000
+             Total liabilities                       100,000        50,000
+             Total owner’s equity                   60,000       130,000
+         Changes during year in owner’s equity:
+             Additional investment                     (b)           25,000
+           Drawings                             19,000           (d)
+             Total revenues                       215,000       100,000
+             Total expenses                       175,000        61,000
+
+Instructions
+Determine the missing amounts.
+
+--- PAGE 4 ---
+4  1 Accounting in Action
+
+
+   Prepare income statement     E1-12B The following information relates to Eusey Co. for the year 2017.
+   and owner’s equity statement.
+                           Owner’s capital, January 1, 2017    $ 48,000        Advertising expense      $ 1,800
+   (LO 5)
+                           Owner’s drawings during 2017         7,000       Rent expense             12,000
+                              Service revenue                     65,000         Utilities expense           3,100
+                                Salaries and wages expense           30,000
+
+                             Instructions
+                                After analyzing the data, prepare an income statement and an owner’s equity statement for
+                              the year ending December 31, 2017.
+
+
+   Correct an incorrectly        E1-13B Mary Colaw is the bookkeeper for Nymeyer Company. Mary has been trying to get
+   prepared balance sheet.        the balance sheet of Nymeyer Company to balance. Nymeyer balance sheet is shown below.
+   (LO 5)
+                                   NYMEYER COMPANY
+                                                              Balance Sheet
+                                                    December 31, 2017
+
+                                            Assets                             Liabilities
+                                 Cash                $11,000      Accounts payable        $18,000
+                                      Supplies               7,000      Accounts receivable      (10,500)
+                                Equipment           48,000      Owner’s capital           64,500
+                                    Owner’s drawings       6,000        Total liabilities and
+                                           Total assets        $72,000          owner’s equity       $72,000
+
+                             Instructions
+                            Prepare a correct balance sheet.
+
+
+   Compute net income and      E1-14B Linda Pedigo is the sole owner of Wilderness Park, a trailer park near the Lake
+   prepare a balance sheet.       Tahoe National Recreation Area. Linda has compiled the following financial information
+   (LO 5)                      as of December 31, 2017.
+                           Revenues during 2017—camping fees  $120,000     Fair value of equipment  $140,000
+                           Revenues during 2017—general store    60,000    Notes payable              50,000
+                            Accounts payable                      12,000    Expenses during 2017     145,000
+                          Cash on hand                          11,000    Supplies on hand            3,500
+                               Original cost of equipment            119,000
+
+                             Instructions
+                                  (a) Determine Linda Pedigo’s net income from Wilderness Park for 2017.
+                                 (b) Prepare a balance sheet for Wilderness Park as of December 31, 2017.
+
+
+   Prepare an income statement.  E1-15B Presented below is financial information related to the 2017 operations of
+   (LO 5)                    Williamson Company.
+                                          Maintenance and repairs expense          $ 89,000
+                                              Property tax expense (on dock facilities)       11,000
+                                                  Salaries and wages expense                 150,000
+                                                Advertising expense                           5,500
+                                                 Ticket revenue                             370,000
+
+                             Instructions
+                            Prepare the 2017 income statement for Williamson Company.
+
+   Prepare an owner’s equity     E1-16B Presented below is information related to the sole proprietorship of Jeff Tabor,
+   statement.                     attorney.
+   (LO 5)
+                                                  Legal service revenue—2017       $340,000
+                                                      Total expenses—2017              221,000
+                                                        Assets, January 1, 2017             105,000
+                                                             Liabilities, January 1, 2017           63,000
+                                                        Assets, December 31, 2017          165,000
+                                                             Liabilities, December 31, 2017      103,000
+                                          Drawings—2017                       ?
+
+                             Instructions
+                            Prepare the 2017 owner’s equity statement for Jeff Tabor’s legal practice.
+
+==========================================================================================
+FILE 5/12: Lectures\ch02-Exercises.pdf
+TYPE: .pdf
+SIZE: 70620 bytes
+==========================================================================================
+--- PAGE 1 ---
+CHAPTER 2
+
+  EXERCISES: SET B
+
+E2-1B Aby Bazil has prepared the following list of statements about accounts.               Analyze statements about
+                                                                                               accounting and the recording
+1. An account is an accounting record of either a specific asset or a specific owner’s equity item.
+                                                                                                           process.
+2. An account shows both increases and decreases in the item it relates to.
+3. Some items, such as Accounts Payable and Accounts Receivable, are combined into   (LO 1)
+  one account.
+4. An account has a left, or debit side, and a right, or credit side.
+5. A simple form of an account consisting of just the account title, and one column, is
+   called a T-account.
+
+Instructions
+Identify each statement as true or false. If false, indicate how to correct the statement.
+
+E2-2B Selected transactions for B. Dawes, an interior decorator, in her fi rst month of   Identify debits, credits, and
+business, are as follows.                                                                normal balances.
+                                                                                            (LO 1)Jan.  2   Invested $20,000 cash in business.
+     3   Paid $500 cash for advertising.
+     9  Purchased equipment for $7,000 cash.
+    11   Billed customers $2,300 for services performed.
+    16  Purchased supplies on account for $700.
+    20   Received $1,100 cash from customers billed on January 11.
+    23   Paid creditor $400 cash on balance owed.
+    28  Withdrew $1,200 cash for personal use by owner.
+
+Instructions
+For each transaction indicate the following.
+
+(a) The basic type of account debited and credited (asset, liability, owner’s equity).
+(b) The specific account debited and credited (cash, rent expense, service revenue, etc.).
+(c) Whether the specific account is increased or decreased.
+(d) The normal balance of the specific account.
+
+   Use the following format, in which the January 2 transaction is given as an example.
+
+
+           Account Debited                      Account Credited
+
+          (a)      (b)        (c)       (d)        (a)        (b)        (c)      (d)
+       Basic  Specific          Normal   Basic    Specific         Normal
+Date   Type  Account   Effect   Balance   Type   Account   Effect  Balance
+
+Jan. 2  Asset    Cash    Increase    Debit    Owner’s   Owner’s  Increase  Credit
+                                             Equity    Capital
+
+E2-3B Data for B. Dawes, interior decorator, are presented in E2-2B.                          Journalize transactions.
+                                                                                            (LO 2)
+Instructions
+Journalize the transactions using journal page J1. (You may omit explanations.)
+
+E2-4B Presented below is information related to West Lake Real Estate Agency.             Analyze transactions and
+                                                                                                 determine their effect on
+Oct.  1   Paul Ebu begins business as a real estate agent with a cash investment of $22,000.                                                                                                   accounts.
+     2   Paid rent, $700, on office space.
+                                                                                            (LO 1)
+     3   Purchases offi ce furniture for $2,800, on account.
+     6   Sells a house and lot for Jane Hung; bills Jane Hung $5,400 for realty services
+          provided.
+    27   Pays $1,100 on the balance related to the transaction of October 3.
+    30   Receives bill for October utilities, $180 (not paid at this time).
+
+Instructions
+Prepare the debit-credit analysis for each transaction as illustrated on pages xx–xx.
+
+E2-5B Transaction data for West Lake Real Estate Agency are presented in E2-4B.           Journalize transactions.
+
+                                                                                            (LO 2)Instructions
+Journalize the transactions. (You may omit explanations.)
+
+--- PAGE 2 ---
+2 2 The Recording Process
+
+
+   Analyze transactions and      E2-6B Bluma Industries had the following transactions.
+   journalize.
+                                   1. Borrowed $15,000 from the bank by signing a note.
+   (LO 1, 2)                        2. Paid $3,100 cash for a computer.
+                                   3. Paid $900 for rent.
+
+                             Instructions
+                                  (a) Indicate what accounts are increased and decreased by each transaction.
+                                 (b) Journalize each transaction. (Omit explanations).
+
+
+   Analyze transactions and      E2-7B Shirley Enterprises had the following selected transactions.
+   journalize.                                   1. Shirley Estrada invested $6,000 cash in the business.
+   (LO 1, 2)                        2. Purchased $1,100 of supplies on account.
+                                   3. Performed consulting services and billed a client $4,500.
+                                   4. Shirley Estrada withdrew $1,200 cash for personal use.
+
+                             Instructions
+                                  (a) Indicate the effect each transaction has on the basic accounting equation
+                                    (Assets 5 Liabilities 1 Owner’s Equity), using plus and minus signs.
+                                 (b) Journalize each transaction. (Omit explanations).
+
+
+   Analyze statements about the   E2-8B Al Eby has prepared the following list of statements about the general ledger.
+   ledger and the general journal.                                   1. The general ledger contains all the liability and owners’ equity accounts, but no asset
+   (LO 3)                         accounts.
+                                   2. The general ledger is sometimes referred to as simply the journal.
+                                   3. The accounts in the general ledger are arranged in alphabetical order.
+                                   4. Each account in the general ledger is numbered for easier identification.
+                                   5. The general journal is a book of original entry.
+
+                             Instructions
+                                Identify each statement as true or false. If false, indicate how to correct the statement.
+
+
+   Post journal entries and       E2-9B Selected transactions from the journal of Bret Quandt, investment broker, are pre-
+   prepare a trial balance.        sented below.
+   (LO 3, 4)
+
+
+                           Date          Account Titles and Explanation           Ref.  Debit  Credit
+
+                             Aug. 1   Cash                                                     6,000
+                                        Owner’s Capital                                                 6,000
+                                           (Owner’s investment of cash in business)
+
+                               10   Cash                                                     1,700
+                                            Service Revenue                                                1,700
+                                            (Received cash for services performed)
+
+                               12  Equipment                                               6,000
+                                     Cash                                                           1,000
+                                       Notes Payable                                                  5,000
+                                          (Purchased equipment for cash
+                                      and notes payable)
+
+                               25   Accounts Receivable                                       2,500
+                                            Service Revenue                                                2,500
+                                                  (Billed clients for services performed)
+
+                               31   Cash                                                     1,500
+                                       Accounts Receivable                                            1,500
+                                             (Receipt of cash on account)
+
+
+
+                             Instructions
+                                  (a) Post the transactions to T accounts.
+                                 (b) Prepare a trial balance at August 31, 2017.
+
+--- PAGE 3 ---
+Exercises: Set B 3
+
+
+E2-10B The T accounts below summarize the ledger of Carrie’s Gardening Company at   Journalize transactions from
+the end of the first month of operations.                                                    account data and prepare a
+                                                                                                                                  trial balance.
+
+                                                                                            (LO 2, 4)
+           Cash        No. 101          Unearned Service Revenue  No. 209
+
+4/1     18,000  4/15          700                             4/30            1,400
+4/12     1,200  4/25         1,600
+4/29      900
+4/30     1,400
+
+    Accounts Receivable  No. 112                Owner’s Capital      No. 301
+
+4/7      2,900  4/29          900                              4/1           18,000
+
+          Supplies      No. 126                 Service Revenue     No. 400
+
+4/4      1,900                                                    4/7             2,900
+                                                                4/12            1,200
+
+      Accounts Payable  No. 201           Salaries and Wages Expense No. 726
+
+4/25     1,600  4/4          1,900        4/15         700
+
+
+
+Instructions
+(a) Prepare the complete general journal (including explanations) from which the post-
+    ings to Cash were made.
+(b) Prepare a trial balance at April 30, 2017.
+
+
+E2-11B Presented below is the ledger for Nolasko Co.                                           Journalize transactions from
+                                                                                             account data and prepare a
+                                                                                                                                  trial balance.
+
+           Cash        No. 101                 Owner’s Capital     No. 301   (LO 2, 4)
+
+10/1      8,500   10/4         400                             10/1           8,500
+10/10      800   10/12        1,500                            10/25          2,000
+10/10     3,000   10/15        250
+                                              Owner’s Drawings    No. 306
+10/20      450   10/30        300
+10/25     2,000   10/31        500        10/30        300
+
+    Accounts Receivable  No. 112                  Service Revenue    No. 400
+
+10/6       800   10/20        450                             10/6           800
+10/20     1,070                                                10/10          800
+                                                               10/20          1,070
+
+           Supplies      No. 126           Salaries and Wages Expense No. 726
+
+10/4       400                            10/31        500
+
+         Equipment     No. 157                 Rent Expense      No. 729
+
+10/3      2,000                            10/15        250
+
+        Notes Payable    No. 200
+
+                 10/10        3,000
+
+       Accounts Payable  No. 201
+
+10/12     1,500   10/3         2,000
+
+
+
+Instructions
+(a) Reproduce the journal entries for the transactions that occurred on October 1, 10, and 20,
+   and provide explanations for each.
+(b) Determine the October 31 balance for each of the accounts above, and prepare a trial
+   balance at October 31, 2017.
+
+--- PAGE 4 ---
+4 2 The Recording Process
+
+
+   Prepare journal entries and    E2-12B Selected transactions for Reyes Company during its first month in business are
+   post using standard account    presented below.
+   form.
+                               Sept. 1   Invested $25,000 cash in the business.
+   (LO 2, 3)
+                               5  Purchased equipment for $30,000 paying $7,500 in cash and the balance on
+                                       account.
+                              25   Paid $6,500 cash on balance owed for equipment.
+                              30  Withdrew $1,000 cash for personal use.
+
+                               Reyes’s chart of accounts shows: No. 101 Cash, No. 157 Equipment, No. 201 Accounts
+                              Payable, No. 301 Owner’s Capital, No. 306 Owner’s Drawings.
+
+                             Instructions
+                                  (a) Journalize the transactions on page J1 of the journal. (Omit explanations).
+                                 (b) Post the transactions using the standard account form.
+
+
+   Analyze errors and their       E2-13B The bookkeeper for Linebarger Electronic Repair made a number of errors in
+    effects on trial balance.         journalizing and posting, as described below.
+   (LO 4)                          1. A credit posting of $500 to Accounts Receivable was omitted.
+                                   2. A debit posting of $750 for Insurance Expense was debited to Prepaid Insurance.
+                                   3. A collection from a customer of $200 in payment of its account owed was posted as a
+                                  debit to Cash $200 and a debit to Service Revenue $200.
+                                   4. A debit posting of $400 to Property Taxes Payable was made twice.
+                                   5. A cash purchase of supplies for $250 was journalized and posted as a debit to Supplies
+                             $25 and a credit to Cash $25.
+                                   6. A debit of $594 to Advertising Expense was posted as $549.
+
+                             Instructions
+                           For each error:
+
+                                  (a) Indicate whether the trial balance will balance.
+                                 (b) If the trial balance will not balance, indicate the amount of the difference.
+                                   (c) Indicate the trial balance column that will have the larger total.
+
+                            Consider each error separately. Use the following form, in which error (1) is given as an
+                            example.
+
+                                                              (a)              (b)                 (c)
+                                      Error      In Balance     Difference     Larger Column
+
+                                                  (1)        No           $500              debit
+
+   Prepare a trial balance.       E2-14B The accounts in the ledger of Moran Delivery Service contain the following bal-
+   (LO 1, 4)                   ances on July 31, 2017.
+
+                              Accounts Receivable    $ 5,220     Prepaid Insurance                $ 1,190
+                              Accounts Payable         5,110     Maintenance and Repairs Expense      580
+                            Cash                          ?      Service Revenue                      6,360
+                           Equipment              30,000     Owner’s Drawings                    420
+                               Gasoline Expense          450     Owner’s Capital                     26,780
+                               Insurance Expense         310      Salaries and Wages Expense           2,660
+                              Notes Payable           16,000      Salaries and Wages Payable            490
+
+                             Instructions
+                            Prepare a trial balance with the accounts arranged as illustrated in the chapter and fill in
+                              the missing amount for Cash.
+
+==========================================================================================
+FILE 6/12: Lectures\ch02-Problems.pdf
+TYPE: .pdf
+SIZE: 86503 bytes
+==========================================================================================
+--- PAGE 1 ---
+CHAPTER 2
+
+  PROBLEMS: SET B
+
+P2-1B Frontier Park was started on April 1 by M. Preston. The following selected events   Journalize a series of
+and transactions occurred during April.                                                             transactions.
+Apr.  1   Preston invested $35,000 cash in the business.                                    (LO 1, 2)
+     4  Purchased land costing $27,000 for cash.
+     8   Incurred advertising expense of $1,800 on account.
+    11   Paid salaries to employees $1,500.
+    12  Hired park manager at a salary of $4,000 per month, effective May 1.
+    13   Paid $1,650 cash for a one-year insurance policy.
+    17  Withdrew $1,000 cash for personal use.
+    20   Received $6,800 in cash for admission fees.
+    25   Sold 100 coupon books for $25 each. Each book contains 10 coupons that
+           entitle the holder to one admission to the park.
+    30   Received $8,900 in cash admission fees.
+    30   Paid $900 on balance owed for advertising incurred on April 8.
+
+Frontier Park uses the following accounts: Cash, Prepaid Insurance, Land, Accounts Pay-
+able, Unearned Service Revenue, Owner’s Capital, Owner’s Drawings, Service Revenue,
+Advertising Expense, and Salaries and Wages Expense.
+
+Instructions
+Journalize the April transactions.
+
+
+P2-2B Iris Beck is a licensed CPA. During the first month of operations of her business,   Journalize transactions, post,
+the following events and transactions occurred.                                         and prepare a trial balance.
+May 1  Beck invested $20,000 cash in her business.                                       (LO 1, 2, 3, 4)
+     2  Hired a secretary-receptionist at a salary of $2,000 per month.
+     3  Purchased $2,500 of supplies on account from Tinio Supply Company.
+     7   Paid offi ce rent of $900 cash for the month.
+    11  Completed a tax assignment and billed client $3,200 for services performed.
+    12   Received $3,500 advance on a management consulting engagement.
+    17   Received cash of $1,200 for services performed for Misra Co.
+    31   Paid secretary-receptionist $2,000 salary for the month.
+    31   Paid 60% of balance due Tinio Supply Company.
+
+Iris uses the following chart of accounts: No. 101 Cash, No. 112 Accounts Receivable,
+No. 126 Supplies, No. 201 Accounts Payable, No. 209 Unearned Service Revenue, No. 301
+Owner’s Capital, No. 400 Service Revenue, No. 726 Salaries and Wages Expense, and
+No. 729 Rent Expense.
+
+Instructions
+(a) Journalize the transactions.
+(b) Post to the ledger accounts.
+(c) Prepare a trial balance on May 31, 2017.                                                                         (c) Trial balance totals $28,900
+
+
+P2-3B Tony Vian owns and manages a computer repair service, which had the following   Journalize transactions, post,
+trial balance on December 31, 2016 (the end of its fiscal year).                            and prepare a trial balance.
+                                                                                            (LO 1, 2, 3, 4)
+                          VIAN REPAIR SERVICE
+                                             Trial Balance
+                           December 31, 2016
+
+                                              Debit      Credit
+
+             Cash                          $ 8,000
+              Accounts Receivable                15,000
+               Supplies                           13,000
+              Prepaid Rent                        3,000
+             Equipment                        20,000
+              Accounts Payable                             $19,000
+              Owner’s Capital                                40,000
+
+                                               $59,000     $59,000
+
+--- PAGE 2 ---
+2 2 The Recording Process
+
+
+                         Summarized transactions for January 2017 were as follows.
+
+                                   1. Advertising costs, paid in cash, $1,000.
+                                   2. Additional supplies acquired on account $4,200.
+                                   3. Miscellaneous expenses, paid in cash, $2,000.
+                                   4. Cash collected from customers in payment of accounts receivable $14,000.
+                                   5. Cash paid to creditors for accounts payable due $15,000.
+                                   6. Repair services performed during January: for cash $6,000; on account $9,000.
+                                   7. Wages for January, paid in cash, $3,500.
+                                   8. Tony’s drawings during January were $3,000.
+
+                             Instructions
+                                  (a) Open T-accounts for each of the accounts listed in the trial balance, and enter the
+                               opening balances for 2017.
+                                 (b) Prepare journal entries to record each of the January transactions. (Omit explanations.)
+                                   (c) Post the journal entries to the accounts in the ledger. (Add accounts as needed.)
+    (d) Trial balance totals $63,200     (d) Prepare a trial balance as of January 31, 2017.
+
+   Prepare a correct trial        P2-4B The trial balance of the Sean Devine Company shown below does not balance.
+   balance.
+                                              SEAN DEVINE COMPANY
+   (LO 4)
+                                                                                  Trial Balance
+                                                May 31, 2017
+
+                                                                         Debit      Credit
+
+                                       Cash                          $ 5,850
+                                         Accounts Receivable                        $ 2,750
+                                           Prepaid Insurance                   700
+                                      Equipment                          8,000
+                                         Accounts Payable                                4,500
+                                       Unearned Service Revenue            650
+                                          Owner’s Capital                                11,700
+                                              Service Revenue                     6,690
+                                                Salaries and Wages Expense          4,200
+                                              Advertising Expense                             1,100
+                                                      Utilities Expense                    890
+
+                                                                           $26,980     $20,050
+
+
+                              Your review of the ledger reveals that each account has a normal balance. You also
+                              discover the following errors.
+
+                                   1. The totals of the debit sides of Prepaid Insurance, Accounts Payable, and Utilities
+                             Expense were each understated $100.
+                                   2. Transposition errors were made in Accounts Receivable and Service Revenue. Based on
+                                 postings made, the correct balances were $2,570 and $6,960, respectively.
+                                   3. A debit posting to Salaries and Wages Expense of $200 was omitted.
+                                   4. A $1,000 cash drawing by the owner was debited to Owner’s Capital for $1,000 and
+                                  credited to Cash for $1,000.
+                                   5. A $520 purchase of supplies on account was debited to Equipment for $520 and cred-
+                                    ited to Cash for $520.
+                                   6. A cash payment of $540 for advertising was debited to Advertising Expense for $54 and
+                                  credited to Cash for $54.
+                                   7. A collection from a customer for $210 was debited to Cash for $210 and credited to
+                              Accounts Payable for $210.
+
+                             Instructions
+    Trial balance totals $25,020      Prepare a correct trial balance. Note that the chart of accounts includes the following:
+                            Owner’s Drawings and Supplies. (Hint: It helps to prepare the correct journal entry for the
+                               transaction described and compare it to the mistake made.)
+   Journalize transactions, post,
+   and prepare a trial balance.
+                          P2-5B The Classic Theater is owned by Kim Lockerby. All facilities were completed on March
+   (LO 1, 2, 3, 4)                                31. At this time, the ledger showed: No. 101 Cash $4,000, No. 140 Land $10,000, No. 145
+                             Buildings (concession stand, projection room, ticket booth, and screen) $8,000, No. 157
+                          Equipment $6,000, No. 201 Accounts Payable $2,000, No. 275 Mortgage Payable $8,000, and
+                           No. 301 Owner’s Capital $18,000. During April, the following events and transactions occurred.
+
+--- PAGE 3 ---
+Problems: Set B 3
+
+
+Apr.  2   Paid film rental of $1,100 on first movie.
+     3  Ordered two additional films at $1,000 each.
+     9   Received $2,800 cash from admissions.
+    10  Made $2,000 payment on mortgage and $1,000 for accounts payable due.
+    11   Classic Theater contracted with Rhonda Humes to operate the concession
+          stand. Humes is to pay Classic Theater 17% of gross concession receipts,
+         payable monthly, for the rental of the concession stand.
+    12   Paid advertising expenses $500.
+    20   Received one of the films ordered on April 3 and was billed $1,000. The film
+           will be shown in April.
+    25   Received $5,200 cash from admissions.
+    29   Paid salaries $2,000.
+    30   Received statement from Rhonda Humes showing gross concession receipts of
+         $1,000 and the balance due to The Classic Theater of $170 ($1,000 3 17%) for
+           April. Humes paid one-half of the balance due and will remit the remainder on
+       May 5.
+    30   Prepaid $1,200 rental on special film to be run in May.
+
+In addition to the accounts identified above, the chart of accounts shows: No. 112 Accounts
+Receivable, No. 136 Prepaid Rent, No. 400 Service Revenue, No. 429 Rent Revenue,
+No. 610 Advertising Expense, No. 726 Salaries and Wages Expense, and No. 729 Rent Expense.
+
+Instructions
+(a) Enter the beginning balances in the ledger as of April 1. Insert a check mark (✓) in the
+    reference column of the ledger for the beginning balance.
+(b) Journalize the April transactions. Classic records admission revenue as service revenue,
+    rental of the concession stand as rent revenue, and film rental expense as rent expense.
+(c) Post the April journal entries to the ledger. Assume that all entries are posted from
+   page 1 of the journal.
+(d) Prepare a trial balance on April 30, 2017.                                                                   (d) Trial balance totals $34,170
+
+--- PAGE 4 ---
+[OCR: may contain recognition errors]
+
+
+==========================================================================================
+FILE 7/12: Lectures\ch03.pdf
+TYPE: .pdf
+SIZE: 3017797 bytes
+==========================================================================================
+--- PAGE 1 ---
+[OCR: may contain recognition errors]
+gand
+
+kimmgl
+
+J&am for success]
+
+Coby Harmon
+
+University of California, Santa Barbara
+
+Westmont College
+
+ACCOJNTING
+
+PRINCIPLESI
+
+TWELFTH EDITION
+
+--- PAGE 2 ---
+Adjusting The Accounts 3
+
+ Learning Objectives
+
+          Explain the accrual basis of accounting and the
+   1          reasons for adjusting entries.
+
+
+   2     Prepare adjusting entries for deferrals.
+
+
+   3     Prepare adjusting entries for accruals.
+
+
+          Describe the nature and purpose of an adjusted
+   4              trial balance.
+
+
+3-2
+
+--- PAGE 3 ---
+LEARNING         Explain the accrual basis of accounting
+          1
+OBJECTIVE       and the reasons for adjusting entries.
+
+
+   Accountants divide the economic life of a business into
+    artificial time periods (Time Period Assumption).
+
+                                                       . . . . .
+      Jan.     Feb.     Mar.     Apr.                 Dec.
+
+
+
+
+     Generally a
+                                            Alternative Terminology
+     ◆  month,                                    The time period assumption
+                                                         is also called the
+     ◆   quarter, or
+                                                  periodicity assumption.
+     ◆   year.
+
+
+                                                          LO 13-3
+
+--- PAGE 4 ---
+Fiscal and Calendar Years
+
+
+   ◆  Monthly and quarterly time periods are called interim
+        periods.
+
+   ◆  Most large companies must prepare both quarterly and
+       annual financial statements.
+
+   ◆   Fiscal Year = Accounting time period that is one year
+          in length.
+
+   ◆  Calendar Year = January 1 to December 31.
+
+
+
+
+
+                                                          LO 13-4
+
+--- PAGE 5 ---
+Accrual- versus Cash-Basis Accounting
+
+
+  Accrual-Basis Accounting
+
+   ◆   Transactions recorded in the periods in which the
+       events occur.
+
+   ◆  Companies recognize revenues when they perform
+        services (rather than when they receive cash).
+
+   ◆  Expenses are recognized when incurred (rather than
+      when paid).
+
+   ◆   In accordance with generally accepted accounting
+        principles (GAAP).
+
+
+
+
+                                                          LO 13-5
+
+--- PAGE 6 ---
+Accrual- versus Cash-Basis Accounting
+
+
+  Cash-Basis Accounting
+
+   ◆  Revenues recognized when cash is received.
+
+   ◆  Expenses recognized when cash is paid.
+
+   ◆  Cash-basis accounting is not in accordance with
+        generally accepted accounting principles (GAAP).
+
+
+
+
+
+                                                          LO 13-6
+
+--- PAGE 7 ---
+Recognizing Revenues and Expenses
+
+
+  REVENUE RECOGNITION PRINCIPLE
+
+  Recognize revenue in the
+   accounting period in which the
+   performance obligation is
+    satisfied.
+
+
+
+
+
+                                                          LO 13-7
+
+--- PAGE 8 ---
+Recognizing Revenues and Expenses
+
+
+  EXPENSE RECOGNITION PRINCIPLE
+
+  Match expenses with revenues
+    in the period when the company
+  makes efforts that generate those
+   revenues.
+
+
+         “Let the expenses
+        follow the revenues.”
+
+
+
+
+
+                                                          LO 13-8
+
+--- PAGE 9 ---
+Illustration 3-1
+                                                               GAAP relationships in
+                                                                                    revenue and expense
+                                                                                                  recognition
+
+
+
+
+
+                                                          LO 13-9
+
+--- PAGE 10 ---
+The Need for Adjusting Entries
+
+
+  Adjusting Entries
+
+    ◆  Ensure that the revenue recognition and expense
+        recognition principles are followed.
+
+    ◆   Necessary because the trial balance may not contain
+         up-to-date and complete data.
+
+    ◆  Required every time a company prepares financial
+         statements.
+
+    ◆   Will include one income statement account and one
+        balance sheet account.
+
+
+
+
+
+                                                          LO 13-10
+
+--- PAGE 11 ---
+Types of Adjusting Entries
+
+
+
+                                                                                                Illustration 3-2
+                                                                               Categories of adjusting entries
+
+   Deferrals                  Accruals
+
+
+    1. Prepaid Expenses.               1. Accrued Revenues.
+      Expenses paid in cash before        Revenues for services
+       they are used or consumed.          performed but not yet received
+                                                     in cash or recorded.
+
+    2. Unearned Revenues.             2. Accrued Expenses.
+     Cash received before services       Expenses incurred but not yet
+       are performed.                       paid in cash or recorded.
+
+
+
+
+
+                                                          LO 13-11
+
+--- PAGE 12 ---
+Types of Adjusting Entries
+
+
+    Trial Balance – Each account is analyzed to determine
+   whether it is complete and up-to-date.
+                                                                                                 Illustration 3-3
+
+
+
+
+
+                                                          LO 13-12
+
+--- PAGE 13 ---
+LEARNING
+           2   Prepare adjusting entries for deferrals. OBJECTIVE
+
+
+   Deferrals are expenses or revenues that are recognized
+   at a date later than the point when cash was originally
+   exchanged. There are two types:
+
+   ◆  Prepaid expenses
+
+   ◆  Unearned revenues
+
+
+
+
+
+                                                          LO 23-13
+
+--- PAGE 14 ---
+Prepaid Expenses
+
+
+   Payment of cash, that is recorded as an asset to show
+   the service or benefit the company will receive in the
+   future.
+
+
+      Cash Payment  BEFORE   Expense Recorded
+
+
+   Prepayments often occur in regard to:
+
+    ◆   insurance     ◆   rent
+
+    ◆   supplies      ◆  equipment
+
+    ◆   advertising    ◆   buildings
+
+
+
+
+                                                          LO 23-14
+
+--- PAGE 15 ---
+Prepaid Expenses
+
+
+   ◆  Expire either with the passage of time or through use.
+
+   ◆   Adjusting entry:
+
+      ►  Increase (debit) to an expense account and
+
+      ►  Decrease (credit) to an asset account.
+
+
+
+
+                                                                                                               Illustration 3-4
+
+
+
+
+
+                                                          LO 23-15
+
+--- PAGE 16 ---
+Supplies
+
+
+    Illustration: Pioneer Advertising
+   purchased supplies costing $2,500 on
+   October 5. Pioneer recorded the payment
+   by increasing (debiting) the asset
+    Supplies. This account shows a balance
+
+    of $2,500 in the October 31 trial balance.
+   An inventory count at the close of
+   business on October 31 reveals that
+   $1,000 of supplies are still on hand.
+
+
+    Oct. 31    Supplies Expense         1,500
+
+                  Supplies                      1,500
+
+
+                                                          LO 23-16
+
+--- PAGE 17 ---
+Supplies
+
+
+
+                                                                                                             Illustration 3-5
+
+
+
+
+
+3-17                                                        LO 2
+
+--- PAGE 18 ---
+Insurance
+
+
+    Illustration: On October 4, Pioneer
+    Advertising paid $600 for a one-year fire
+   insurance policy. Coverage began on October
+    1. Pioneer recorded the payment by
+    increasing (debiting) Prepaid Insurance. This
+
+   account shows a balance of $600 in the
+   October 31 trial balance. Insurance of $50
+   ($600 ÷ 12) expires each month.
+
+
+
+    Oct. 31    Insurance Expense         50
+
+                 Prepaid Insurance              50
+
+
+                                                          LO 23-18
+
+--- PAGE 19 ---
+Insurance
+
+
+
+                                                                                                             Illustration 3-6
+
+
+
+
+
+3-19                                                        LO 2
+
+--- PAGE 20 ---
+Depreciation
+
+
+   ◆  Buildings, equipment, and motor vehicles
+        (assets that provide service for many years) are
+       recorded as assets, rather than an expense, on
+        the date acquired.
+
+   ◆  Depreciation is the process of allocating the cost
+        of an asset to expense over its useful life.
+
+   ◆  Depreciation does not attempt to report the actual
+       change in the value of the asset.
+
+      ►   Allocation concept, not a valuation concept.
+
+
+
+
+                                                          LO 23-20
+
+--- PAGE 21 ---
+Depreciation
+
+
+    Illustration: For Pioneer Advertising,
+   assume that depreciation on the equipment is
+   $480 a year, or $40 per month.
+
+
+    Oct. 31
+
+   Depreciation expense          40
+
+      Accumulated depreciation          40
+
+
+   Accumulated Depreciation is called
+   a contra asset account.
+
+
+
+
+                                                          LO 23-21
+
+--- PAGE 22 ---
+Illustration 3-7
+
+
+
+
+
+                                                          LO 23-22
+
+--- PAGE 23 ---
+Depreciation
+
+
+  STATEMENT PRESENTATION
+
+    ◆  Accumulated Depreciation is a contra asset account
+           (credit).
+
+    ◆   Offsets related asset account on the balance sheet.
+
+    ◆  Book value is the difference between the cost of any
+        depreciable asset and its accumulated depreciation.
+
+
+                                                                                                              Illustration 3-8
+
+
+
+
+
+                                                          LO 23-23
+
+--- PAGE 24 ---
+Prepaid Expenses
+
+
+  Summary of the accounting for prepaid expenses.
+
+
+
+
+
+  Illustration 3-9
+ Accounting for prepaid expenses
+
+
+
+
+
+                                                          LO 23-24
+
+--- PAGE 25 ---
+Unearned Revenues
+
+
+   Receipt of cash that is recorded as a liability because
+   the service has not been performed.
+
+
+      Cash Receipt   BEFORE   Revenue Recorded
+
+
+   Unearned revenues often occur in regard to:
+
+    ◆  Rent            ◆  Magazine subscriptions
+
+    ◆   Airline tickets     ◆  Customer deposits
+
+
+
+
+
+                                                          LO 23-25
+
+--- PAGE 26 ---
+Unearned Revenues
+
+
+   ◆   Adjusting entry is made to record the revenue for
+        services performed during the period and to show the
+           liability that remains at the end of the period.
+
+   ◆  Results in a decrease (debit) to a liability account
+       and an increase (credit) to a revenue account.
+
+
+
+                                                                                                              Illustration 3-10
+
+
+
+
+
+                                                          LO 23-26
+
+--- PAGE 27 ---
+Unearned Revenues
+
+
+    Illustration: Pioneer Advertising received
+   $1,200 on October 2 from R. Knox for
+    advertising services expected to be
+   completed by December 31. Unearned
+   Service Revenue shows a balance of $1,200
+
+    in the October 31 trial balance. Analysis
+   reveals that the company performed $400 of
+    services in October.
+
+
+
+    Oct. 31    Unearned Service Revenue         400
+
+                  Service Revenue                     400
+
+
+                                                          LO 23-27
+
+--- PAGE 28 ---
+Unearned Revenues
+
+
+
+                                                                                                      Illustration 3-11
+
+
+
+
+
+3-28                                                        LO 2
+
+--- PAGE 29 ---
+Unearned Revenues
+
+
+  Summary of the accounting for unearned revenues.
+
+                                                                                                                   Illustration 3-12
+
+
+
+
+
+                                                          LO 23-29
+
+--- PAGE 30 ---
+LEARNING
+           3   Prepare adjusting entries for accruals. OBJECTIVE
+
+
+    Accruals are made to record
+
+    ◆  Revenues for services performed but not yet
+         recorded at the statement date.
+
+    ◆  Expenses incurred but not yet paid or recorded at
+         the statement date.
+
+
+
+
+
+                                                          LO 33-30
+
+--- PAGE 31 ---
+Accrued Revenues
+
+
+  Revenues for services performed but not yet received
+   in cash or recorded.
+
+
+     Revenue Recorded  BEFORE   Cash Receipt
+
+
+  Accrued revenues often occur in regard to:
+
+   ◆  Rent
+
+   ◆   Interest
+
+   ◆   Services
+
+
+
+
+
+                                                          LO 33-31
+
+--- PAGE 32 ---
+Accrued Revenues
+
+
+   ◆   Adjusting entry shows the receivable that exists and
+        records the revenues for services performed.
+
+   ◆   Adjusting entry:
+
+      ►  Increases (debits) an asset account and
+
+      ►  Increases (credits) a revenue account.
+
+
+
+                                                                                                               Illustration 3-13
+
+
+
+
+
+                                                          LO 33-32
+
+--- PAGE 33 ---
+Accrued Revenues
+
+
+    Illustration: In October Pioneer Advertising
+   performed services worth $200 that were not
+    billed to clients on or before October 31.
+
+
+    Oct. 31
+
+   Accounts Receivable         200
+
+       Service Revenue                200
+
+  On November 10, Pioneer receives cash of $200 for the services
+   performed.
+
+
+   Nov. 10   Cash                      200
+
+                Accounts Receivable             200
+
+                                                          LO 33-33
+
+--- PAGE 34 ---
+Accrued Revenues
+
+
+
+                                                                                                    Illustration 3-14
+
+
+
+
+
+3-34                                                        LO 3
+
+--- PAGE 35 ---
+Accrued Revenues
+
+
+  Summary of the accounting for accrued revenues.
+
+                                                                                                                   Illustration 3-15
+
+
+
+
+
+                                                          LO 33-35
+
+--- PAGE 36 ---
+Accrued Expenses
+
+
+   Expenses incurred but not yet paid in cash or recorded.
+
+
+    Expense Recorded   BEFORE   Cash Payment
+
+
+   Accrued expenses often occur in regard to:
+
+    ◆  Rent         ◆  Taxes
+
+    ◆   Interest       ◆   Salaries
+
+
+
+
+
+                                                          LO 33-36
+
+--- PAGE 37 ---
+Accrued Expenses
+
+
+   ◆   Adjusting entry records the obligation and recognizes
+        the expense.
+
+   ◆   Adjusting entry:
+
+      ►  Increase (debit) an expense account and
+
+      ►  Increase (credit) a liability account.
+
+
+
+                                                                                                            Illustration 3-16
+
+
+
+
+
+                                                          LO 33-37
+
+--- PAGE 38 ---
+Accrued Expenses
+
+
+  ACCRUED INTEREST
+
+    Illustration: Pioneer Advertising signed a three-month note
+   payable in the amount of $5,000 on October 1. The note requires
+   Pioneer to pay interest at an annual rate of 12%.
+
+
+                                                                                                               Illustration 3-17
+
+
+
+
+
+    Oct. 31     Interest expense               50
+
+                    Interest payable                   50
+
+
+                                                          LO 33-38
+
+--- PAGE 39 ---
+Accrued Expenses
+
+
+
+                                                                                                         Illustration 3-18
+
+
+
+
+
+3-39                                                        LO 3
+
+--- PAGE 40 ---
+Accrued Expenses
+
+
+  ACCRUED INTEREST
+
+    Illustration: Pioneer Advertising paid salaries and wages on
+   October 26; the next payment of salaries will not occur until
+   November 9. The employees receive total salaries of $2,000 for a
+    five-day work week, or $400 per day.
+
+                                                                                               Illustration 3-19
+
+
+
+
+
+                                                          LO 33-40
+
+--- PAGE 41 ---
+Accrued Expenses
+
+
+
+                                                                                                        Illustration 3-20
+
+
+
+
+
+3-41                                                        LO 3
+
+--- PAGE 42 ---
+Accrued Expenses
+
+
+  Summary of the accounting for accrued expenses.
+
+
+                                                                                                                   Illustration 3-21
+
+
+
+
+
+                                                          LO 33-42
+
+--- PAGE 43 ---
+Summary of Basic Relationships
+
+
+
+
+                                                                                                                   Illustration 3-22
+
+
+
+
+
+                                                          LO 33-43
+
+--- PAGE 44 ---
+LEARNING        Describe the nature and purpose of an
+           4
+ OBJECTIVE       adjusted trial balance.
+
+  Adjusted Trial Balance
+
+    ◆  Prepared after all adjusting entries are journalized and
+         posted.
+
+    ◆  Purpose is to prove the equality of debit balances and
+          credit balances in the ledger.
+
+    ◆   Is the primary basis for the preparation of financial
+        statements.
+
+
+
+
+
+                                                          LO 43-44
+
+--- PAGE 45 ---
+Illustration 3-25
+
+
+
+
+
+                                                          LO 43-45
+
+--- PAGE 46 ---
+Preparing Financial Statements
+
+
+
+        Financial Statements are prepared directly from the
+                 Adjusted Trial Balance.
+
+
+
+
+
+                      Owner’s
+      Income                            Balance
+                          Equity
+     Statement                            Sheet
+                       Statement
+
+
+
+
+
+                                                          LO 43-46
+
+--- PAGE 47 ---
+Illustration 3-26
+        Preparation of the income statement and owner’s
+         equity statement from the adjusted trial balance
+3-47
+
+--- PAGE 48 ---
+Illustration 3-27
+     Preparation of the balance sheet from
+     the adjusted trial balance
+
+                                                          LO 43-48
+
+--- PAGE 49 ---
+LEARNING      APPENDIX 3A: Prepare adjusting entries
+           5
+ OBJECTIVE        for the alternative treatment of deferrals.
+
+   Alternate Treatment for Adjusting Entries
+
+      1.  When a company prepays an expense, it debits that
+       amount to an expense account.
+
+     2.  When it receives payment for future services, it
+         credits the amount to a revenue account.
+
+
+
+
+
+                                                          LO 53-49
+
+--- PAGE 50 ---
+Prepaid Expenses
+
+
+   Company may choose to debit (increase) an expense account
+    rather than an asset account. This alternative treatment is simply
+   more convenient.
+
+
+                                                                                                                 Illustration 3A-2
+
+
+
+
+
+                                                          LO 53-50
+
+--- PAGE 51 ---
+Unearned Revenues
+
+
+   Company may credit (increase) a revenue account when they
+    receive cash for future services.
+
+                                                                                                                 Illustration 3A-5
+
+
+
+
+
+                                                          LO 53-51
+
+--- PAGE 52 ---
+Summary of Additional Adjustments
+  Relationships
+
+
+
+
+                                                                                                                 Illustration 3A-7
+
+
+
+
+
+                                                          LO 53-52
+
+--- PAGE 53 ---
+LEARNING      APPENDIX 3B: Discuss financial reporting
+           6
+ OBJECTIVE       concepts.
+
+   Qualities of Useful Information
+
+   Two fundamental qualities, relevance and faithful representation.
+
+   Relevance
+
+    ◆  Make a difference in a business decision.
+
+    ◆   Provides information that has predictive value and
+         confirmatory value.
+
+    ◆   Materiality is a company-specific aspect of relevance.
+
+       ►  An item is material when its size makes it likely to influence
+               the decision of an investor or creditor.
+
+
+
+                                                          LO 63-53
+
+--- PAGE 54 ---
+Qualities of Useful Information
+
+
+   Two fundamental qualities, relevance and faithful representation.
+
+    Faithful Representation
+
+    ◆   Information accurately depicts what really happened.
+
+    ◆   Information must be
+
+       ►  complete (nothing important has been omitted),
+
+       ►  neutral (is not biased toward one position or another), and
+
+       ►  free from error.
+
+
+
+
+
+                                                          LO 63-54
+
+--- PAGE 55 ---
+Qualities of Useful Information
+
+
+  ENHANCING QUALITIES
+
+
+     Comparability            Information is           Information has the
+   results when different           verifiable if                  quality of
+   companies use the          independent           understandability
+   same accounting        observers, using the             if it is presented in a
+         principles.        same methods, obtain        clear and concise
+                                    similar results.                fashion.
+
+
+           Consistency means
+                                     For accounting information            that a company uses the
+                                             to have relevance, it must           same accounting
+                                       be timely.             principles and methods
+             from year to year.
+
+
+
+                                                          LO 63-55
+
+--- PAGE 56 ---
+Assumptions in Financial Reporting
+
+
+
+                                                                                                               Illustration 3B-2
+
+
+
+
+
+          Monetary Unit           Economic Entity
+       Requires that only those things        States that every economic
+           that can be expressed in               entity can be separately
+       money are included in the            identified and accounted for.
+            accounting records.
+
+
+
+
+                                                          LO 63-56
+
+--- PAGE 57 ---
+Assumptions in Financial Reporting
+
+
+
+                                                                                                               Illustration 3B-2
+
+
+
+
+
+          Time Period             Going Concern
+                                     The business will remain in           States that the life of a
+                                                  operation for the        business can be divided into
+                                                foreseeable future.                 artificial time periods.
+
+
+
+
+
+                                                          LO 63-57
+
+--- PAGE 58 ---
+Principles of Financial Reporting
+
+
+     MEASUREMENT PRINCIPLES
+
+
+     Historical Cost          Fair Value
+
+     Or cost principle,         Indicates that
+        dictates that            assets and
+    companies record        liabilities should be
+    assets at their cost.       reported at fair
+                             value (the price
+                            received to sell an
+                             asset or settle
+                           a liability).
+
+
+
+
+
+                                                          LO 63-58
+
+--- PAGE 59 ---
+Principles of Financial Reporting
+
+
+
+       Revenue          Expense
+                                                    Full Disclosure
+      Recognition         Recognition
+                                                    Principle
+        Principle             Principle
+
+       Requires that        Dictates that efforts       Requires that
+       companies           (expenses) be      companies disclose
+     recognize revenue       matched with             all circumstances
+      in the accounting       results (revenues).      and events that
+     period in which the      Thus, expenses        would make a
+       performance          follow revenues.          difference to
+         obligation is                                     financial statement
+           satisfied.                                         users.
+
+
+
+
+                                                          LO 63-59
+
+--- PAGE 60 ---
+Cost Constraint
+
+
+                             Cost Constraint
+
+                              Accounting standard-setters weigh
+                               the cost that companies will incur to
+                                provide the information against the
+                                     benefit that financial statement
+                                users will gain from having the
+                                       information available.
+
+
+
+
+
+                                                          LO 63-60
+
+==========================================================================================
+FILE 8/12: Lectures\ch04.pdf
+TYPE: .pdf
+SIZE: 2430025 bytes
+==========================================================================================
+--- PAGE 1 ---
+[OCR: may contain recognition errors]
+gand
+
+kimmgl
+
+J&am for success]
+
+Coby Harmon
+
+University of California, Santa Barbara
+
+Westmont College
+
+ACCOJNTING
+
+PRINCIPLESI
+
+TWELFTH EDITION
+
+--- PAGE 2 ---
+Completing the
+         Accounting Cycle 4
+
+ Learning Objectives
+
+   1    Prepare a worksheet.
+
+
+   2    Prepare closing entries and a post-closing trial balance.
+
+
+          Explain the steps in the accounting cycle and how to
+   3          prepare correcting entries.
+
+
+   4     Identify the sections of a classified balance sheet.
+
+
+4-2
+
+--- PAGE 3 ---
+LEARNING
+          1   Prepare a worksheet.OBJECTIVE
+
+  Worksheet
+
+   ◆   Multiple-column form used in preparing financial
+        statements.
+
+   ◆  Not a permanent accounting record.
+
+   ◆  May be a computerized worksheet using an electronic
+       spreadsheet program such as Excel.
+
+   ◆  Prepared using a five step process.
+
+   ◆  Use of worksheet is optional.
+
+
+
+
+
+4-3                                                        LO 1
+
+--- PAGE 4 ---
+Steps in Preparing a Worksheet
+
+
+                                                                                                                  Illustration 4-1
+
+
+
+
+
+4-4
+
+--- PAGE 5 ---
+Steps in Preparing a Worksheet                Illustration 4-2
+
+  STEP 1: PREPARE A TRIAL BALANCE ON THE WORKSHEET
+
+
+
+
+
+                                              Trial balance amounts come
+                                             directly from ledger accounts.
+
+  Include all accounts
+     with balances.
+
+
+
+
+4-5                                                        LO 1
+
+--- PAGE 6 ---
+Steps in Preparing a Worksheet
+
+
+
+    Illustration 3-23
+   General journal
+   showing adjusting
+    entries
+
+
+  Adjusting
+   Journal
+   Entries
+
+   (Chapter 3)
+
+
+
+
+
+4-6
+                                                          LO 1
+
+--- PAGE 7 ---
+Steps in Preparing a Worksheet                Illustration 4-3
+
+STEP 2: ENTER THE ADJUSTMENTS IN THE ADJUSTMENTS COLUMNS
+
+
+
+
+
+                                                                       (a)
+                                                                    (b)
+                                               Adjustments Key:
+                                                                (a)  Supplies Used.
+                                                          (d)                        (b)  Insurance Expired.
+                                                                   (c)  Depreciation Expensed.
+                                                                    (d)                 (d)  Service Revenue Recognized.
+                                                                       (e)
+                                                          (g)                        (e)  Service Revenue Accrued.
+                                                                                  (f)  Interest Accrued.
+                                                                (g)  Salaries Accrued.                                                             (a)
+                                                          (b)
+                                                                       (c)
+                                                             (c)
+                                                             (e)                      Enter adjustment amounts, total
+                                                                           (f)
+                                                                                        (f)                    adjustments columns,
+                                                                    (g)                 and check for equality.
+
+
+          Add additional accounts as needed.
+4-7                                                        LO 1
+
+--- PAGE 8 ---
+Steps in Preparing a Worksheet                Illustration 4-4
+
+  STEP 3: COMPLETE THE ADJUSTED TRIAL BALANCE COLUMNS
+
+
+
+
+
+                                                                       (a)
+                                                                    (b)
+
+
+
+
+                                                          (d)
+
+
+
+                                                                    (d)
+                                                                       (e)
+                                                          (g)
+
+
+
+                                                             (a)
+                                                          (b)
+                                                                       (c)
+                                                             (c)
+                                                             (e)
+                                                                           (f)
+                                                                                        (f)
+                                                                    (g)
+
+
+               Total the adjusted trial balance
+             columns and check for equality.
+4-8                                                        LO 1
+
+--- PAGE 9 ---
+Steps in Preparing a Worksheet                Illustration 4-5
+
+ STEP 4: EXTEND AMOUNTS TO FINANCIAL STATEMENT COLUMNS
+
+
+
+
+
+                                                                       (a)
+                                                                    (b)
+
+
+
+
+                                                          (d)
+
+
+
+                                                                    (d)
+                                                                       (e)
+                                                          (g)
+
+
+
+                                                             (a)
+                                                          (b)
+                                                                       (c)
+                                                             (c)
+                                                             (e)
+                                                                           (f)
+                                                                                        (f)
+                                                                    (g)
+
+
+            Extend adjusted trial balance amounts to
+              appropriate financial statement columns.
+4-9                                                        LO 1
+
+--- PAGE 10 ---
+Steps in Preparing a Worksheet                Illustration 4-6
+
+  STEP 5: TOTAL COLUMNS, COMPUTE NET INCOME (LOSS)
+
+
+
+
+
+                                                                        (a)
+                                                                     (b)
+
+
+
+
+                                                           (d)
+
+
+
+                                                                     (d)
+                                                                        (e)
+                                                           (g)
+
+
+
+                                                              (a)
+                                                           (b)
+                                                                        (c)
+                                                              (c)
+                                                              (e)
+                                                                            (f)
+                                                                                         (f)
+                                                                     (g)
+
+
+
+                Compute Net Income or Net Loss.
+4-10                                                        LO 1
+
+--- PAGE 11 ---
+Preparing Financial Statements from a
+  Worksheet
+
+
+   ◆  Income statement is prepared from the income statement
+       columns.
+
+   ◆  Balance sheet and owner’s equity statement are
+       prepared from the balance sheet columns.
+
+   ◆  Companies can prepare financial statements before they
+         journalize and post adjusting entries.
+
+
+
+
+
+4-11                                                        LO 1
+
+--- PAGE 12 ---
+Preparing Statements from a Worksheet
+
+
+
+
+
+       Illustration 4-7
+      Financial statements
+      from a worksheet
+
+
+
+4-12                                                        LO 1
+
+--- PAGE 13 ---
+Preparing Statements from a Worksheet
+
+
+
+
+
+    Illustration 4-7
+    Financial statements
+    from a worksheet
+
+
+
+
+
+4-13                                                        LO 1
+
+--- PAGE 14 ---
+Illustration 4-7
+
+
+
+
+
+4-14                                                        LO 1
+
+--- PAGE 15 ---
+Preparing Adjusting Entries from a
+  Worksheet
+
+
+   ◆   Adjusting entries are prepared from the adjustments
+       columns of the worksheet.
+
+   ◆   Journalizing and posting of adjusting entries follows the
+        preparation of financial statements when a worksheet is
+        used.
+
+
+
+
+
+4-15                                                        LO 1
+
+--- PAGE 16 ---
+LEARNING        Prepare closing entries and a
+          2
+ OBJECTIVE        post-closing trial balance.
+
+   At the end of the accounting period, the company makes
+   the accounts ready for the next period.
+
+
+
+
+
+         Illustration 4-8
+       Temporary versus permanent accounts
+4-16                                                        LO 2
+
+--- PAGE 17 ---
+Preparing Closing Entries
+
+
+  Closing entries formally recognize in the ledger the transfer of
+
+   ◆   net income (or net loss) and
+
+   ◆   owner’s drawings
+
+     to owner’s capital.
+
+
+  Companies generally journalize and post closing entries only at
+   the end of the annual accounting period.
+
+   Closing entries produce a zero balance in each temporary
+   account.
+
+
+
+
+
+4-17                                                        LO 2
+
+--- PAGE 18 ---
+Preparing Closing Entries
+
+
+
+
+
+                                                                                                           Illustration 4-9
+                                                                               Diagram of closing
+                                                                                      process—proprietorship
+
+
+
+
+                                                                                 Owner’s Capital is a
+                                                                               permanent account. All
+                                                                                            other accounts are
+                                                                                    temporary accounts.
+
+
+
+
+
+4-18                                                        LO 2
+
+--- PAGE 19 ---
+Preparing Closing Entries
+
+
+CLOSING
+ENTRIES
+ILLUSTRATED
+
+
+
+
+
+           Illustration 4-10
+         Closing entries
+          journalized4-19
+
+--- PAGE 20 ---
+Posting
+                               Closing
+                                 Entries
+
+
+
+
+
+                                                                                               Illustration 4-11
+
+
+4-20                                                        LO 2
+
+--- PAGE 21 ---
+Preparing a Post-Closing Trial Balance
+
+
+  Purpose is to prove the equality of the permanent account balances
+   carried forward into the next accounting period.            Illustration 4-12
+                                                                                                 Post-closing trial balance
+
+
+
+
+
+4-21                                                        LO 2
+
+--- PAGE 22 ---
+LEARNING        Explain the steps in the accounting cycle
+          3
+ OBJECTIVE       and how to prepare correcting entries.
+
+
+
+                                                                                                             Illustration 4-15
+                                1. Analyze business transactions
+
+
+
+          9. Prepare a post-closing                      2. Journalize the
+               trial balance                               transactions
+
+
+          8. Journalize and post
+                                                             3. Post to ledger accounts
+           closing entries
+
+
+          7. Prepare financial
+                                                             4. Prepare a trial balance
+          statements
+
+
+          6. Prepare an adjusted trial                    5. Journalize and post
+          balance                                   adjusting entries
+
+
+
+
+
+4-22
+                                                          LO 3
+
+--- PAGE 23 ---
+Correcting Entries—An Avoidable Step
+
+
+   ◆  Unnecessary if accounting records are free of errors.
+
+   ◆  Made whenever an error is discovered.
+
+   ◆  Must be posted before closing entries.
+
+   Instead of preparing a correcting entry, it is possible to
+  reverse the incorrect entry and then prepare the correct
+   entry.
+
+
+
+
+
+4-23                                                        LO 3
+
+--- PAGE 24 ---
+Correcting Entries—An Avoidable Step
+
+
+  CASE 1: On May 10, Mercato Co. journalized and posted a $50 cash
+   collection on account from a customer as a debit to Cash $50 and a
+   credit to Service Revenue $50. The company discovered the error on
+  May 20, when the customer paid the remaining balance in full.
+
+
+   Incorrect    Cash  50
+     entry
+                     Service Revenue      50
+
+    Correct     Cash  50
+     entry
+                   Accounts Receivable      50
+
+  Correcting     Service Revenue  50
+     entry                   Accounts Receivable      50
+
+
+
+4-24                                                        LO 3
+
+--- PAGE 25 ---
+Correcting Entries—An Avoidable Step
+
+
+  CASE 2: On May 18, Mercato purchased on account equipment
+   costing $450. The transaction was journalized and posted as a debit to
+   Equipment $45 and a credit to Accounts Payable $45. The error was
+   discovered on June 3.
+
+
+   Incorrect     Equipment 45
+     entry
+                   Accounts Payable     45
+
+    Correct     Equipment 450
+     entry
+                   Accounts Payable     450
+
+  Correcting    Equipment 405
+     entry                   Accounts Payable     405
+
+
+
+4-25                                                        LO 3
+
+--- PAGE 26 ---
+Correcting EntriesDO IT!  3
+
+
+   Sanchez Company discovered the following errors made in
+    January 2017 .
+
+       1.  A payment of Salaries and Wages Expense of $600 was
+          debited to Supplies and credited to Cash, both for $600.
+
+      2.  A collection of $3,000 from a client on account was debited
+           to Cash $200 and credited to Service Revenue $200.
+
+      3.  The purchase of supplies on account for $860 was debited
+           to Supplies $680 and credited to Accounts Payable $680.
+
+      Correct the errors without reversing the incorrect entry.
+
+
+
+
+
+4-26                                                        LO 3
+
+--- PAGE 27 ---
+Correcting EntriesDO IT!  3
+
+
+   Sanchez Company discovered the following errors made in
+    January 2017 .
+
+       1.  A payment of Salaries and Wages Expense of $600 was
+          debited to Supplies and credited to Cash, both for $600.
+
+      Correct the error without reversing the incorrect entry.
+
+
+          Salaries and Wages Expense 600
+
+             Supplies     600
+
+
+
+
+
+4-27                                                        LO 3
+
+--- PAGE 28 ---
+Correcting EntriesDO IT!  3
+
+
+   Sanchez Company discovered the following errors made in
+    January 2017 .
+
+      2.  A collection of $3,000 from a client on account was debited
+           to Cash $200 and credited to Service Revenue $200.
+
+      Correct the error without reversing the incorrect entry.
+
+
+         Service Revenue  200
+
+        Cash  2,800
+
+            Accounts Receivable     3,000
+
+
+
+
+
+4-28                                                        LO 3
+
+--- PAGE 29 ---
+Correcting EntriesDO IT!  3
+
+
+   Sanchez Company discovered the following errors made in
+    January 2017 .
+
+      3.  The purchase of supplies on account for $860 was debited
+           to Supplies $680 and credited to Accounts Payable $680.
+
+      Correct the error without reversing the incorrect entry.
+
+
+         Supplies ($860 - $680)   180
+
+            Accounts Payable    180
+
+
+
+
+
+4-29                                                        LO 3
+
+--- PAGE 30 ---
+LEARNING          Identify the sections of a classified
+          4
+ OBJECTIVE       balance sheet.
+
+
+   ◆  Presents a snapshot at a point in time.
+
+   ◆  To improve understanding, companies group similar
+       assets and similar liabilities together.
+
+
+ Standard Classifications
+                                                                                                                   Illustration 4-20
+
+  Assets Liabilities and Owner’s Equity
+
+  Current assets  Current liabilities
+  Long-term investments  Long-term liabilities
+  Property, plant, and equipment   Owner’s (Stockholders’) equity
+  Intangible assets
+
+
+
+4-30                                                        LO 4
+
+--- PAGE 31 ---
+The Classified Balance Sheet
+
+
+
+                                                                                                 Illustration 4-21
+
+
+
+
+
+4-31                                                        LO 4
+
+--- PAGE 32 ---
+The Classified Balance Sheet
+
+
+
+                                                                                                 Illustration 4-21
+
+
+
+
+
+4-32                                                        LO 4
+
+--- PAGE 33 ---
+Current Assets
+
+
+   ◆  Assets that a company expects to convert to cash or
+      use up within one year or the operating cycle, whichever
+          is longer.
+
+   ◆  Operating cycle is the average time that it takes to
+       purchase inventory, sell it on account, and then collect
+       cash from customers.
+
+
+
+
+
+4-33                                                        LO 4
+
+--- PAGE 34 ---
+Current Assets
+
+
+
+                                                                                                             Illustration 4-22
+
+
+
+
+
+   Usually listed in the order they expect to convert them into cash.
+
+
+
+
+4-34                                                        LO 4
+
+--- PAGE 35 ---
+Long-Term Investments
+
+
+   ◆  Investments in stocks and bonds of other companies.
+
+   ◆  Investments in long-term assets such as land or buildings
+         that is not currently being used in operating activities.
+
+   ◆  Long-term notes receivable.
+
+                                                                                                                Illustration 4-23
+
+
+
+
+
+4-35                                                        LO 4
+
+--- PAGE 36 ---
+Property, Plant, and Equipment
+
+
+   ◆  Long useful lives.
+
+   ◆   Currently used in operations.
+
+   ◆  Depreciation - allocating the cost of assets to a number
+         of years.
+
+   ◆  Accumulated depreciation - total amount of
+        depreciation expensed thus far in the asset’s life.
+
+
+
+
+
+4-36                                                        LO 4
+
+--- PAGE 37 ---
+Property, Plant, and Equipment
+
+
+
+
+
+  Illustration 4-24
+
+
+
+
+
+4-37                                                        LO 4
+
+--- PAGE 38 ---
+Intangible Assets
+
+
+   ◆   Long-lived assets that do not have physical substance.
+
+
+
+
+
+         Illustration 4-25
+
+
+
+4-38                                                        LO 4
+
+--- PAGE 39 ---
+Current Liabilities
+
+
+   ◆   Obligations the company is to pay within the coming year
+        or its operating cycle, whichever is longer.
+
+   ◆   Usually list notes payable first, followed by accounts
+        payable. Other items follow in order of magnitude.
+
+   ◆  Common examples are accounts payable, salaries and
+      wages payable, notes payable, interest payable, income
+        taxes payable current maturities of long-term obligations.
+
+   ◆   Liquidity - ability to pay obligations expected to be due
+         within the next year.
+
+
+
+
+
+4-39                                                        LO 4
+
+--- PAGE 40 ---
+Current Liabilities
+
+
+
+
+
+    Illustration 4-26
+
+
+
+
+
+4-40                                                        LO 4
+
+--- PAGE 41 ---
+Long-Term Liabilities
+
+
+   ◆   Obligations a company expects to pay after one year.
+
+
+
+
+
+  Illustration 4-27
+
+
+
+
+
+4-41                                                        LO 4
+
+--- PAGE 42 ---
+Owner’s Equity
+
+
+   ◆   Proprietorship - one capital account.
+
+   ◆   Partnership - capital account for each partner.
+
+   ◆   Corporation - Common Stock and Retained Earnings.
+
+
+
+
+
+        Illustration 4-28
+
+
+
+4-42                                                        LO 4
+
+==========================================================================================
+FILE 9/12: Lectures\ch05.pdf
+TYPE: .pdf
+SIZE: 1538503 bytes
+==========================================================================================
+--- PAGE 1 ---
+[OCR: may contain recognition errors]
+gand
+
+kimmgl
+
+J&am for success]
+
+Coby Harmon
+
+University of California, Santa Barbara
+
+Westmont College
+
+ACCOJNTING
+
+PRINCIPLESI
+
+TWELFTH EDITION
+
+--- PAGE 2 ---
+Accounting for
+         Merchandising Operations 5
+
+ Learning Objectives
+
+          Describe merchandising operations and inventory
+   1          systems.
+
+   2    Record purchases under a perpetual inventory system.
+
+   3    Record sales under a perpetual inventory system.
+
+         Apply the steps in the accounting cycle to a
+   4         merchandising company.
+
+        Compare a multiple-step with a single-step income
+   5          statement.5-2
+
+--- PAGE 3 ---
+LEARNING        Describe merchandising operations and
+          1
+OBJECTIVE       inventory systems.
+
+
+  Merchandising Companies
+
+  Buy and Sell Goods
+
+                              Retailer
+
+
+
+
+
+     Wholesaler                            Consumer
+
+
+         The primary source of revenues is referred to as
+                    sales revenue or sales.
+5-3                                                        LO 1
+
+--- PAGE 4 ---
+Merchandising Operations
+
+
+  Income Measurement
+
+
+                           Not used in a
+    Sales      Less                                                          Illustration 5-1                           Service business.
+   Revenue                                                      Income measurement process for a
+                                                                              merchandising company
+
+
+             Cost of
+                                                       Less                                Equals   Gross
+           Goods
+                                      Profit
+              Sold
+
+
+                                                                       Equals     Net                                       Operating   Cost of goods sold is the total                                                    Income                                   Expenses
+   cost of merchandise sold during                             (Loss)
+             the period.
+
+
+
+
+5-4                                                        LO 1
+
+--- PAGE 5 ---
+Operating Cycles
+
+
+
+                                                                                                               Illustration 5-2
+ The operating
+
+ cycle of a
+
+ merchandising
+
+ company
+
+ ordinarily is longer
+
+ than that of a
+
+ service
+
+ company.
+
+
+
+
+
+                    Illustration 5-3
+
+5-5                                                        LO 1
+
+--- PAGE 6 ---
+Flow of Costs
+
+
+
+                                                                                                    Illustration 5-4
+
+
+
+
+
+  Companies use either a perpetual inventory system or a periodic
+   inventory system to account for inventory.
+
+5-6                                                        LO 1
+
+--- PAGE 7 ---
+Flow of Costs
+
+
+ PERPETUAL SYSTEM
+
+   ◆   Maintain detailed records of the cost of each inventory
+       purchase and sale.
+
+   ◆  Records continuously show inventory that should be on
+      hand for every item.
+
+   ◆  Company determines cost of goods sold each time a
+        sale occurs.
+
+
+
+
+
+5-7                                                        LO 1
+
+--- PAGE 8 ---
+Flow of Costs
+
+
+ PERIODIC SYSTEM
+
+   ◆  Do not keep detailed records of the goods on hand.
+
+   ◆   Cost of goods sold determined by count at the end of
+        the accounting period.
+
+   ◆   Calculation of Cost of Goods Sold:
+
+           Beginning inventory $ 100,000
+           Add: Purchases, net 800,000
+         Goods available for sale 900,000
+            Less: Ending inventory  125,000
+           Cost of goods sold  $ 775,000
+
+
+
+
+5-8                                                        LO 1
+
+--- PAGE 9 ---
+Flow of Costs
+
+
+ ADVANTAGES OF THE PERPETUAL SYSTEM
+
+   ◆   Traditionally used for merchandise with high unit
+        values.
+
+   ◆  Shows the quantity and cost of the inventory that
+       should be on hand at any time.
+
+   ◆   Provides better control over inventories than a periodic
+       system.
+
+
+
+
+
+5-9                                                        LO 1
+
+--- PAGE 10 ---
+LEARNING       Record purchases under a perpetual
+          2
+ OBJECTIVE       inventory system.
+
+
+  ◆  Made using cash or credit (on account).
+
+  ◆   Normally record when
+
+      goods are received from
+
+       the seller.
+
+  ◆  Purchase invoice should
+
+      support each credit
+
+      purchase.
+
+
+
+
+
+                                Illustration 5-6
+                           Sales invoice used as purchase
+                               invoice by Sauk Stereo
+
+5-10                                                        LO 2
+
+--- PAGE 11 ---
+Recording Purchases of Merchandise
+
+
+
+
+                                                                                                                                           Illustration 5-6
+   Illustration: Sauk Stereo (the
+
+  buyer) uses as a purchase
+
+   invoice the sales invoice
+
+  prepared by PW Audio Supply,
+
+   Inc. (the seller). Prepare the
+
+  journal entry for Sauk Stereo for
+
+  the invoice from PW Audio
+
+  Supply.
+
+
+  May 4     Inventory  3,800
+
+               Accounts Payable       3,800
+
+
+5-11                                                        LO 2
+
+--- PAGE 12 ---
+Freight Costs
+
+
+
+                                     Ownership of the goods
+                                  passes to the buyer when the
+                                            public carrier accepts the
+                                     goods from the seller.
+
+
+
+
+                                     Ownership of the goods
+                                     remains with the seller until
+                                         the goods reach the buyer.
+
+
+
+
+Illustration 5-7
+Shipping terms
+                                 Freight costs incurred by the seller are an
+                                      operating expense.
+
+5-12                                                        LO 2
+
+--- PAGE 13 ---
+Freight Costs
+
+
+   Illustration: Assume upon delivery of the goods on May 6, Sauk
+  Stereo pays Public Freight Company $150 for freight charges,
+   the entry on Sauk Stereo’s books is:
+
+  May 6     Inventory  150
+
+              Cash  150
+
+
+  Assume the freight terms on the invoice in Illustration 5-6 had
+   required PW Audio Supply to pay the freight charges, the entry
+  by PW Audio Supply would have been:
+
+  May 4     Freight-Out150
+
+              Cash  150
+
+5-13                                                        LO 2
+
+--- PAGE 14 ---
+Purchase Returns and Allowances
+
+
+  Purchaser may be dissatisfied because goods are damaged
+   or defective, of inferior quality, or do not meet specifications.
+
+
+      Purchase Return        Purchase Allowance
+
+    Return goods for credit if the       May choose to keep the
+     sale was made on credit, or       merchandise if the seller will
+         for a cash refund if the             grant a reduction of the
+       purchase was for cash.               purchase price.
+
+
+
+
+
+5-14                                                        LO 2
+
+--- PAGE 15 ---
+Purchase Returns and Allowances
+
+
+   Illustration: Assume Sauk Stereo returned goods costing
+  $300 to PW Audio Supply on May 8.
+
+
+   May 8   Accounts Payable 300
+
+                 Inventory    300
+
+
+
+
+
+5-15                                                        LO 2
+
+--- PAGE 16 ---
+Purchase Discounts
+
+
+  Credit terms may permit buyer to claim a cash discount
+   for prompt payment.
+
+                               Example: Credit terms  Advantages:
+                               may read 2/10, n/30.
+   ◆   Purchaser saves money.
+
+   ◆   Seller shortens the operating cycle by converting the
+        accounts receivable into cash earlier.
+
+
+
+
+
+5-16                                                        LO 2
+
+--- PAGE 17 ---
+Purchase Discounts
+
+
+
+
+      2/10, n/30         1/10 EOM         n/10 EOM
+
+   2% discount if     1% discount if      Net amount due
+     paid within 10      paid within first 10     within the first 10
+    days, otherwise       days of next       days of the next
+    net amount due         month.             month.
+     within 30 days.
+
+
+
+
+
+5-17                                                        LO 2
+
+--- PAGE 18 ---
+Purchase Discounts
+
+
+   Illustration: Assume Sauk Stereo pays the balance due of
+  $3,500 (gross invoice price of $3,800 less purchase returns
+  and allowances of $300) on May 14, the last day of the
+  discount period. Prepare the journal entry Sauk Stereo
+  makes on May 14 to record the payment.
+
+
+  May 14   Accounts Payable 3,500
+
+                 Inventory    70
+
+             Cash     3,430
+
+
+        (Discount = $3,500 x 2% = $70)
+
+
+
+5-18                                                        LO 2
+
+--- PAGE 19 ---
+Purchase Discounts
+
+
+   Illustration:  If Sauk Stereo failed to take the discount, and
+  instead made full payment of $3,500 on June 3, the journal
+   entry would be:
+
+
+  June 3    Accounts Payable 3,500
+
+             Cash     3,500
+
+
+
+
+
+5-19                                                        LO 2
+
+--- PAGE 20 ---
+Purchase Discounts
+
+
+  Should discounts be taken when offered?
+
+
+
+
+
+         Example: 2% for 20 days = Annual rate of 36.5%
+
+                 $3,500 x 36.5% x 20 ÷ 365 = $70
+
+
+
+
+
+5-20                                                        LO 2
+
+--- PAGE 21 ---
+Summary of Purchasing Transactions
+
+
+
+
+
+ 4th - Purchase       3,800         300     8th - Return
+ 6th – Freight-in        150          70    14th - Discount
+
+
+      Balance       3,580
+
+
+
+
+
+5-21                                                        LO 2
+
+--- PAGE 22 ---
+LEARNING       Record sales under a perpetual
+          3
+ OBJECTIVE       inventory system.
+
+
+  ◆  Made using cash or credit (on account).
+
+                                                                                                                  Illustration 5-6
+  ◆   Sales revenue, like service
+       revenue, is recorded when
+       the performance obligation
+         is satisfied.
+
+  ◆   Performance obligation is
+        satisfied when the goods
+       are transferred from the
+        seller to the buyer.
+
+  ◆   Sales invoice should
+       support each credit sale.
+
+5-22                                                        LO 3
+
+--- PAGE 23 ---
+Recording Sales of Merchandise
+
+
+  Journal Entries to Record a Sale
+
+
+ #1   Cash or Accounts receivable  XXX                                                             Selling
+          Sales revenue    XXX                       Price
+
+
+
+ #2   Cost of goods sold  XXX
+                                                     Cost
+           Inventory   XXX
+
+
+
+
+
+5-23                                                        LO 3
+
+--- PAGE 24 ---
+Recording Sales of Merchandise
+
+
+   Illustration: PW Audio Supply records the sale of $3,800
+  on May 4 to Sauk Stereo on account (Illustration 5-6) as
+   follows (assume the merchandise cost PW Audio Supply
+  $2,400).
+
+
+  May 4    Accounts Receivable 3,800
+
+               Sales Revenue      3,800
+
+
+      4    Cost of Goods Sold  2,400
+
+                 Inventory     2,400
+
+
+
+
+5-24                                                        LO 3
+
+--- PAGE 25 ---
+Sales Returns and Allowances
+
+
+  ◆   “Flip side” of purchase returns and allowances.
+
+  ◆  Contra-revenue account to Sales Revenue (debit).
+
+  ◆  Sales not reduced (debited) because:
+
+    ►  Would obscure importance of sales returns and
+           allowances as a percentage of sales.
+
+    ►   Could distort comparisons.
+
+
+
+
+
+5-25                                                        LO 3
+
+--- PAGE 26 ---
+Sales Returns and Allowances
+
+
+   Illustration: Prepare the entry PW Audio Supply would make
+   to record the credit for returned goods that had a $300 selling
+   price (assume a $140 cost). Assume the goods were not
+  defective.
+
+
+  May 8    Sales Returns and Allowances  300
+
+              Accounts Receivable    300
+
+
+      8    Inventory 140
+
+              Cost of Goods Sold     140
+
+
+
+
+
+5-26                                                        LO 3
+
+--- PAGE 27 ---
+Sales Returns and Allowances
+
+
+   Illustration: Assume the returned goods were defective
+  and had a scrap value of $50, PW Audio would make the
+   following entries:
+
+
+  May 8    Sales Returns and Allowances  300
+
+              Accounts Receivable    300
+
+
+      8    Inventory 50
+
+              Cost of Goods Sold     50
+
+
+
+
+
+5-27                                                        LO 3
+
+--- PAGE 28 ---
+Sales Discount
+
+
+   ◆   Offered to customers to promote prompt payment of
+        the balance due.
+
+   ◆  Contra-revenue account (debit) to Sales Revenue.
+
+
+
+
+
+5-28                                                        LO 3
+
+--- PAGE 29 ---
+Sales Discount
+
+
+   Illustration: Assume Sauk Stereo pays the balance due of
+  $3,500 (gross invoice price of $3,800 less purchase returns
+  and allowances of $300) on May 14, the last day of the
+  discount period. Prepare the journal entry PW Audio Supply
+  makes to record the receipt on May 14.
+
+
+  May 14   Cash  3,430
+
+             Sales Discounts  70                     *
+
+               Accounts Receivable    3,500
+
+
+
+      * [($3,800 – $300) X 2%]
+
+
+5-29                                                        LO 3
+
+--- PAGE 30 ---
+LEARNING       Apply the steps in the accounting cycle
+          4
+ OBJECTIVE        to a merchandising company.
+
+  Adjusting Entries
+
+   ◆   Generally the same as a service company.
+
+   ◆  One additional adjustment to make the records agree with
+        the actual inventory on hand.
+
+   ◆   Involves adjusting Inventory and Cost of Goods Sold.
+
+
+
+
+
+5-30                                                        LO 4
+
+--- PAGE 31 ---
+Adjusting Entries
+
+
+   Illustration: Suppose that PW Audio Supply has an unadjusted
+  balance of $40,500 in Merchandise Inventory. Through a physical
+  count, PW Audio determines that its actual merchandise inventory
+   at year-end is $40,000. The company would make an adjusting
+   entry as follows.
+
+
+       Cost of Goods Sold  500
+
+            Inventory    500
+
+
+
+
+
+5-31                                                        LO 4
+
+--- PAGE 32 ---
+Closing Entries
+
+
+
+
+
+5-32                                                        LO 4
+
+--- PAGE 33 ---
+Closing Entries
+
+
+
+
+
+5-33                                                        LO 4
+
+--- PAGE 34 ---
+LEARNING       Compare a multiple-step with a
+          5
+ OBJECTIVE        single-step income statement.
+
+  Multiple-Step Income Statement
+
+   ◆  Shows several steps in determining net income.
+
+   ◆  Two steps relate to principal operating activities.
+
+   ◆   Distinguishes between operating and non-operating
+          activities.
+
+
+
+
+
+5-34                                                        LO 5
+
+--- PAGE 35 ---
+Illustration 5-14
+ Multiple-
+ Step
+
+
+Key Items:
+
+◆  Net sales
+
+
+
+
+
+                        Illustration 5-14
+
+ 5-35
+                                                          LO 5
+
+--- PAGE 36 ---
+Illustration 5-14
+ Multiple-
+ Step
+
+
+Key Items:
+
+◆   Net sales
+
+◆  Gross profit
+
+
+
+
+
+                        Illustration 5-14
+
+ 5-36
+                                                          LO 5
+
+--- PAGE 37 ---
+Illustration 5-14
+ Multiple-
+ Step
+
+
+Key Items:
+
+◆   Net sales
+
+◆  Gross profit
+
+◆   Operating
+   expenses
+
+
+
+
+
+                        Illustration 5-14
+
+ 5-37
+                                                          LO 5
+
+--- PAGE 38 ---
+Multiple-
+ Step
+
+
+Key Items:
+
+◆   Net sales
+
+◆  Gross profit
+
+◆   Operating
+    expenses
+
+◆  Nonoperating
+     activities
+
+
+
+
+
+                        Illustration 5-14
+
+ 5-38
+                                                          LO 5
+
+--- PAGE 39 ---
+Multiple-
+ Step
+
+
+Key Items:
+
+◆   Net sales
+
+◆  Gross profit
+
+◆   Operating
+    expenses
+
+◆  Nonoperating
+     activities
+
+
+
+
+
+                        Illustration 5-14
+
+ 5-39
+                                                          LO 5
+
+--- PAGE 40 ---
+Multiple-
+ Step
+
+
+Key Items:
+
+◆   Net sales
+
+◆  Gross profit
+
+◆   Operating
+    expenses
+
+◆   Nonoperating
+     activities
+
+◆  Net income
+
+
+
+
+                        Illustration 5-14
+
+ 5-40
+                                                          LO 5
+
+--- PAGE 41 ---
+Single-Step Income Statement
+
+
+   ◆   Subtract total expenses from total revenues
+
+   ◆  Two reasons for using the single-step format:
+
+          1.  Company does not realize any profit until total
+           revenues exceed total expenses.
+
+          2.  Format is simpler and easier to read.
+
+
+
+
+
+5-41                                                        LO 5
+
+--- PAGE 42 ---
+Single-Step Income Statement
+
+
+
+
+
+                                                                                                           Illustration 5-15
+
+
+
+
+
+5-42                                                        LO 5
+
+--- PAGE 43 ---
+Classified Balance Sheet
+
+
+
+
+
+                                                                                                             Illustration 5-16
+
+
+
+
+
+5-43                                                        LO 5
+
+==========================================================================================
+FILE 10/12: Lectures\CourseSyllabus-Accounting.docx
+TYPE: .docx
+SIZE: 23323 bytes
+==========================================================================================
+Course Code & Title: | Principles of Accounting
+Program(s) & Group(s): | BS(AI) & BS(SE)
+Academic Calendar Semester: | Fall 2026
+Lecture Timing: | 
+Prerequisites and/or Expectations: | -----
+Instructor: | Dr. Nadia Iftikhar
+Website (if any): | -----
+Email: | nadia.qadir@imsciences.edu.pk 
+Office Location: | Centre Offices, Ground Floor
+Office Contact Hours: | 8:30 am – 2:00 pm
+Course Description: | Accounting is considered the language of business but its use is not limited to business. Every organization uses the accounting system to generate useful information for better decision making. Hence this course offers an introduction to the financial accounting concepts and financial reporting, with the focus being on how decision makers analyze, interpret, and use accounting information. Emphasis is given to how accounting measures, records, and reports economic activities for organizations and on the relationship between accrual and cash flow measures in interpreting accounting information.
+Course Objectives | To understand the concepts and measurements that underlie financial statements, To develop the skills needed to record, classify and summarize economic events into books of records and convert them to useful information for decision makers. To gain an understanding of the four major types of financial statements resulting from the accounting cycleTo apply the accounting cycle to a merchandising company To understand the role of ethics, principles and practices in the accounting process 
+Course Resources: | Accounting Principles, 12th Edition by Jerry J. Weygandt, Paul D. Kimmel and Donald E. Kieso. WileyFinancial and Managerial Accounting, 18th Edition by William, J., Haka, S., Bettner, M., & Carcello, J. USA: McGraw-Hills Companies.
+Course Assessment(s): | Class quizzes, Home Assignments, Class behavior and participation: 20%Mid-term Exam: 30% [MCQs and practice questions]Final Exam: 50% [MCQs and practice questions]
+Course Methodology: | The course will make use of power point presentations and lectures developed by the instructor. Every concept taught will be further explained with the help of numerical problems which is expected to enhance the students’ understanding. Surprise quizzes as well as announced quizzes will be administered from time to time. Home assignments and comprehensive problem sets will be given to the students from time to time which are to be promptly submitted within the due time. This will help the instructor in fair grading.
+Student Learning Outcomes: | Upon successful completion of this course students shall be able to:Identify the activities and users associated with AccountingState the accounting equation, define its components and analyze the effects of transactions on it.Describe the four financial statements and how they are preparedDescribe how accounts, debits and credits, journal, ledger are used to record business transactionsExplain the accrual basis of accounting, reasons for adjusting entries and their preparation.Explain the steps in the accounting cycle and how to prepare correcting entries.Describe merchandising operations and inventory systemsApply the steps in the accounting cycle to a merchandising company
+Behavioral Expectations/ Class Policies (if any): | Attendance:Attendance will be taken at the end of the class. The official requirement of 75% attendance applies.Punctuality:The students are required to be in time for the class. The activities in class would start five minutes after the official starting time. Students coming late would not only lose attendance for that day but will not be in a position to understand or contribute. Preparedness:The students are also expected to have reviewed the assigned materials in advance of the class in order to be fully prepared for the class. Practical application of the learned concepts will be done in the class but completing the end-of-chapter exercises and practicing the concepts is the responsibility of the student.Participation:Students’ participation will be judged on the basis of the frequency and quality of their contribution in the class. Students will lose points in this category for: being absent on a regular basis, coming late to class or leaving class early, or exhibiting behavior considered obstructive to the learning of other students in class (such as leaving and returning to class while it is in session, surfing the web and checking e-mail, and voicing inappropriate comments).   In addition it is important that they respect and listen to the other students’ points of views too.   Problem set solutions:A series of problem sets will be distributed from time to time. The solution to that should be supported by the necessary working. Due date for the solutions submission will be announced and no late submission will be accepted. Plagiarism:Plagiarism of any sort is not tolerable. Copied material in solutions will not be accepted.
+Course Schedule (tentative)
+Week No. | Chapter  | Learning objectives
+1,  2 & 3 | Accounting in Action | Identify the activities and users associated with AccountingExplain the building blocks of accounting; ethics, principles and assumptionsState the accounting equation and define its componentsAnalyze the effects of transactions on the accounting equationDescribe the four financial statements and how they are prepared
+4, 5 & 6 | The Recording process | Describe how accounts, debits and credits are used to record business transactionsIndicate how a journal is used in the recording processExplain how a ledger and posting helps in recordingPrepare a trial balance
+7 & 8 | Adjusting the Accounts | Explain the accrual basis of accounting and the reasons for adjusting entries.Prepare adjusting entries for deferralsPrepare adjusting entries foraccruals.Describe the nature and purpose of an adjusted trial balance
+Mid-Term Exam
+9, 10 & 11 | 4. Completing the Accounting Cycle | Prepare a worksheet.Prepare closing entries and apost-closing trial balanceExplain the steps in the accountingcycle and how to prepare correctingentries.Identify the sections of a classifiedbalance sheet.
+12, 13, 14 & 15 | 5. Accounting for Merchandising operations | Describe merchandising operationsand inventory systemsRecord purchases under a perpetualinventory system.Record sales under a perpetualinventory system.Apply the steps in the accountingcycle to a merchandising companyCompare a multiple-step with asingle-step income statement.
+16 | Revision
+Final Exam
+
+
+--- word/footnotes.xml ---
+
+--- word/endnotes.xml ---
+
+--- word/header1.xml ---
+ INSTITUTE OF MANAGEMENT SCIENCES │ PESHAWAR
+Course Syllabus – 
+Principles of Accounting
+
+==========================================================================================
+FILE 11/12: Lectures\DFD.pdf
+TYPE: .pdf
+SIZE: 74902 bytes
+==========================================================================================
+--- PAGE 1 ---
+SRE Lab Task: Data Flow Diagram (DFD)
+
+
+           Scenario: University Course Registration System
+
+A university wants to develop an online Course Registration System through which
+students can view available courses and register for their desired courses.
+
+Students provide their login credentials to access the system. After successful
+authentication, they can request a list of available courses and submit their selected
+course details for registration.
+
+The system retrieves student information from the Student Records database and
+course information, including prerequisites and available seats, from the Course
+Records database. Before accepting a registration request, the system verifies whether
+the student has satisfied the course prerequisites and whether seats are available.
+
+If all conditions are satisfied, the system records the registration in the Registration
+Records database and sends a registration confirmation to the student. Otherwise, the
+system rejects the request and provides an appropriate reason, such as unmet
+prerequisites or no available seats.
+
+The university's academic administration staff can request registration reports from
+the system to review student registrations and course enrollment statistics.
+
+                     Task: Level 1 DFD
+
+  Decompose the main system into logical processes.
+   Identify the required data stores.
+  Connect processes, data stores, and external entities using appropriately labelled
+    data-flow arrows.
+  Ensure that every data flow represents data being transferred rather than an action
+    or command.
+
+==========================================================================================
+FILE 12/12: Lectures\The do's & dont's.pdf
+TYPE: .pdf
+SIZE: 67030 bytes
+==========================================================================================
+--- PAGE 1 ---
+Dr. Nadia
+THE DO’S AND DON’T’S                                             Iftikhar
+
+--- PAGE 2 ---
+ATTENDANCE
+
+ If you are not physically present in the class, you are
+      ABSENT (mentally is acceptable!!!)
+
+
+In order to be marked OAE (equivalent to PRESENT),
+   official written letter from relevant faculty or staff
+                      required
+
+
+    Manage your eight allowed absentees wisely
+
+--- PAGE 3 ---
+ASSIGNMENTS
+
+
+    Late submissions amount to non-submission
+
+
+A quiz/presentation missed will not be compensated
+
+--- PAGE 4 ---
+CLASS CONDUCT
+
+
+ Doors to the class will be locked ten minutes after the
+                    official starting time
+
+ Nobody is allowed to leave at their will, attend to your
+  requirements in the 15 minutes between the classes
+
+Schedule your engagements on campus keeping in view
+                  your timetable
+
+--- PAGE 5 ---
+CLASS ACTIVITIES
+
+This course comprises of class practice of the
+concepts learned, thus your performance and
+  activeness in the class activities is marked
+          THEREFORE
+  Stay vigilant, actively participate in class
+          discussions and activities
+
+--- PAGE 6 ---
+COMMUNICATION WITH ME
+
+
+Course materials availability and any communication will
+be done through Google classroom. Join that in time. The
+  course facilitator could be reached out in her office for
+      any thing that you need to discuss in person
+
+==========================================================================================
+EXTRACTION COVERAGE REPORT
+EXTRACTED: Lectures\Acc-1.pdf
+EXTRACTED: Lectures\Acc-2.pdf
+EXTRACTED: Lectures\ch01-A.pdf
+EXTRACTED: Lectures\ch01.pdf
+EXTRACTED: Lectures\ch02-Exercises.pdf
+EXTRACTED: Lectures\ch02-Problems.pdf
+EXTRACTED: Lectures\ch03.pdf
+EXTRACTED: Lectures\ch04.pdf
+EXTRACTED: Lectures\ch05.pdf
+EXTRACTED: Lectures\CourseSyllabus-Accounting.docx
+EXTRACTED: Lectures\DFD.pdf
+EXTRACTED: Lectures\The do's & dont's.pdf

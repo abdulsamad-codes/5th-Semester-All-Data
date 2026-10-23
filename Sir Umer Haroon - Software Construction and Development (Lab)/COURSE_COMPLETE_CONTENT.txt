@@ -1,0 +1,4875 @@
+COMPLETE COURSE TEXT EXPORT
+COURSE FOLDER: Sir Umer Haroon - Software Construction and Development (Lab)
+SOURCE: E:\Study Material\5th Semester All Data\Sir Umer Haroon - Software Construction and Development (Lab)
+
+SCOPE: Full readable text, not summaries. Images use OCR; diagrams/layout cannot be fully represented in plain text. Unsupported files and errors are explicitly identified. Source files are unchanged.
+Excluded directory names: .env, .git, .idea, .mypy_cache, .nox, .pytest_cache, .ruff_cache, .tox, .venv, .vscode, __pycache__, dist-packages, env, node_modules, site-packages, vendor, venv
+This generated export excludes itself.
+
+FOLDER AND FILE STRUCTURE
+Sir Umer Haroon - Software Construction and Development (Lab)/
+    |-- Lab 1 Task/
+        |-- Class Diagram.png
+        |-- library_data.json
+        |-- README.docx
+        |-- task.py
+    |-- Lab Task 2/
+        |-- Abdul Samad - BSSE 5th - Lab Task 2.docx
+        |-- Abdul Samad - BSSE 5th - Lab Task 2.pdf
+        |-- task1.py
+        |-- task2.py
+    |-- Lab Task 2.1/
+        |-- Abdul Samad - Lab Task 2.1 - BSSE A 5th.docx
+        |-- task.py
+    |-- Lab Task 3/
+        |-- Abdul Samad - Lab 3 Task.docx
+        |-- task.py
+    |-- Lab Task 3.1/
+        |-- Abdul Samad - task.docx
+        |-- task.py
+    |-- Lab Task 4/
+        |-- Abdul Samad - Task 4 BSSE Group A.docx
+        |-- lab_4.py
+        |-- part_b.py
+    |-- Lab Task 4.1/
+        |-- Abdul Samad - Task 4.1 BSSE Group A.docx
+        |-- part_c.py
+        |-- part_d.py
+    |-- Lab Task 5/
+        |-- Abdul Samad - 5th Semester Lab 5.docx
+        |-- Git_Versioning_Releases_Lab.pdf
+        |-- LAB_REPORT.md
+        |-- student-grade-calculator/
+            |-- .gitignore
+            |-- GIT_HISTORY.txt
+            |-- grade_calculator.py
+            |-- README.md
+            |-- RELEASES.md
+            |-- requirements.txt
+    |-- Lab Task 6/
+        |-- Abdul Samad - BSSE Group A - 5th Semester Lab Task 6.docx
+        |-- task_1.py
+    |-- Lab Task 6.1/
+        |-- Abdul Samad - BSSE Group A - 5th Semester Lab Task 6.1.docx
+        |-- task.py
+    |-- Lab Task 7/
+        |-- Abdul Samad - BSSE Group A - 5h Semester - Lab Task 7.docx
+        |-- get_sizes.py
+        |-- lab_task_7.md
+        |-- students.json
+        |-- students.xml
+        |-- task1_json.py
+        |-- task2_xml.py
+        |-- top_students.json
+    |-- Lab Task 7.1/
+        |-- Abdul Samad - BSSE Group A - 5h Semester - Lab Task 7.1.docx
+        |-- config.yaml
+        |-- config_from_yaml.json
+        |-- lab_task_7_1.md
+        |-- students.json
+        |-- students.xml
+        |-- students.yaml
+        |-- task3_yaml.py
+        |-- task4_compare.py
+
+EXCLUDED DIRECTORIES
+Lab Task 7.1\.venv
+
+FILE CONTENTS
+
+==========================================================================================
+FILE 1/50: Lab 1 Task\Class Diagram.png
+TYPE: .png
+SIZE: 1227458 bytes
+==========================================================================================
+Image: 2750 x 5650 pixels. Visual layout is not preserved.
+[OCR: may contain recognition errors]
+LibrarySyster
+items
+-List<LibraryItem>
+-int next id
++load_data()
++save_data()
++add item(name: string, item_type: string, rental _ fee: float) : Libraryltem
++find_item(item_id: int) : Libraryltem
++all items() : List<LibraryItem>
++borrow_item(item_id: int, borrower: string) : string
++return_item(item_id: int) : string
++renew_item(item_id: int) : string
++overdue_items() : List<LibraryItem>
++late_fee(item: Libraryltem) : float
+1
+Librarylten
+-int item id
+-string
+-string
+-bool
+-string
+-string
+name
+item _ type
+available
+borrowed_by
+borrow date
+-int
+renewal count
++item id: int
++name: string
++item_type: string
++available: bool
++borrowed_by: string
++borrow_date: string
++renewal count: int
++borrow(borrower: string)
++return_item()
++borrowed_days() : int
++to_dict() : dict
++load status(data: dict)
+Magazine
++int MAX RENEWALS
+DVD
+-float
+rental fee
++rental fee: float
++to_dict() : dict
+
+==========================================================================================
+FILE 2/50: Lab 1 Task\library_data.json
+TYPE: .json
+SIZE: 209 bytes
+==========================================================================================
+[
+  {
+    "id": 1,
+    "name": "The Fantastic Programming",
+    "type": "Book",
+    "available": false,
+    "borrowed_by": "Me",
+    "borrow_date": "2026-09-10T15:25:43",
+    "renewal_count": 0
+  }
+]
+
+==========================================================================================
+FILE 3/50: Lab 1 Task\README.docx
+TYPE: .docx
+SIZE: 261765 bytes
+==========================================================================================
+Instructions 
+BookWise Solutions is a small and easy-to-use library program. Before starting, make sure Python is installed on your computer. Open this folder in VS Code or a terminal, and run the program by typing `python task.py`. Once it starts, you can add books, magazines, and DVDs, then borrow, return, or renew them when needed. The program saves your library information automatically, so you do not lose it when you close the program. When you are finished, simply choose the exit option from the menu.
+Program Output
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Class Diagram
+
+--- EMBEDDED IMAGE word/media/image1.png (OCR, may contain errors) ---
+-a
+92
+93
+94
+95
+96
+98
+101
+102
+102
+def init (self, item id, name):
+super() .
+init (item id, name,
+class Magazine(LibraryItem):
+def init (self, item id, name):
+super() .
+init (item id, name,
+class DVD(LibraryItem) :
+"Book" )
+"Magazine")
+def init (self, item id, name, rentaL_fee=2.ø):
+super() .
+init (item id, name,
+self. rental fee = rentaL_fee
+"DVD")
+Query Results
+Problems Output Debug Console
+Terminal Ports
+BookWise Solutions
+1. Add item
+2. View all items
+3. Borrow item
+Return item
+4.
+5. Renew book
+Late Fee Alert
+6.
+7. Exit
+Choose an option:
+--- EMBEDDED IMAGE word/media/image2.png (OCR, may contain errors) ---
+3. Borrow item
+Return item
+4.
+5. Renew book
+Late Fee Alert
+6.
+7. Exit
+Choose an option: 1
+Enter item name: The Fantastic programming
+Enter item type (Book, Magazine, DVD): Book
+The Fantastic programming was added with ID 1.
+--- EMBEDDED IMAGE word/media/image3.png (OCR, may contain errors) ---
+ID I Name I Type I Status I Borrowed by
+1 | The Fantastic programming I Book I Available I -
+BookWise Solutions
+1. Add item
+2. View all items
+3. Borrow item
+--- EMBEDDED IMAGE word/media/image4.png (OCR, may contain errors) ---
+7. Exit
+Choose an option: 3
+Enter item ID: 1
+Enter borrower name: Me
+The Fantastic programming was borrowed by Me.
+BookWise Solutions
+1. Add item
+2. View all items
+--- EMBEDDED IMAGE word/media/image5.png (OCR, may contain errors) ---
+LibrarySyster
+items
+-List<Libraryltem>
+-int next id
++load_data()
++save_data()
++add item(name: string, item type: string, rental fee: float)
++find item(item id: int) : Libraryltem
++all_items() : List<Libraryltem>
++borrow item(item id: int, borrower: string) : string
++return item(item id: int) : string
++renew_item(item_id: int) : string
++overdue items() : List<Libraryltem>
+Libraryltem) : float
+Librarylten
+-int
+item id
+-string
+-string
+-bool
+-string
+-string
+name
+item _ type
+available
+borrowed by
+borrow date
+-int
+renewal count
++item id: int
++name: string
++item_type: string
++available: bool
++borrowed_by: string
++borrow_date: string
++renewal count: int
++borrow(borrower: string)
++return_item()
++renew()
++borrowed_days() : int
++to_dict() : dict
++load status(data: dict)
+Magazine
+. Libraryltem
+DVD
+Boc*
+MAX RENEWALS
+-float
+rental fee
++rental fee: float
++to_dict() : dict
+
+==========================================================================================
+FILE 4/50: Lab 1 Task\task.py
+TYPE: .py
+SIZE: 10104 bytes
+==========================================================================================
+import json
+from datetime import datetime
+from pathlib import Path
+
+
+DATA_FILE = Path(__file__).with_name("library_data.json")
+BORROWING_DAYS = 14
+
+
+class LibraryItem:
+    def __init__(self, item_id, name, item_type):
+        self.__item_id = item_id
+        self.__name = name
+        self.__item_type = item_type
+        self.__available = True
+        self.__borrowed_by = ""
+        self.__borrow_date = ""
+        self.__renewal_count = 0
+
+    @property
+    def item_id(self):
+        return self.__item_id
+
+    @property
+    def name(self):
+        return self.__name
+
+    @property
+    def item_type(self):
+        return self.__item_type
+
+    @property
+    def available(self):
+        return self.__available
+
+    @property
+    def borrowed_by(self):
+        return self.__borrowed_by
+
+    @property
+    def borrow_date(self):
+        return self.__borrow_date
+
+    @property
+    def renewal_count(self):
+        return self.__renewal_count
+
+    def borrow(self, borrower):
+        self.__available = False
+        self.__borrowed_by = borrower
+        self.__borrow_date = datetime.now().isoformat(timespec="seconds")
+
+    def return_item(self):
+        self.__available = True
+        self.__borrowed_by = ""
+        self.__borrow_date = ""
+        self.__renewal_count = 0
+
+    def renew(self):
+        self.__renewal_count += 1
+        self.__borrow_date = datetime.now().isoformat(timespec="seconds")
+
+    def borrowed_days(self):
+        if self.__available or not self.__borrow_date:
+            return 0
+        borrowed_at = datetime.fromisoformat(self.__borrow_date)
+        return (datetime.now() - borrowed_at).days
+
+    def to_dict(self):
+        return {
+            "id": self.__item_id,
+            "name": self.__name,
+            "type": self.__item_type,
+            "available": self.__available,
+            "borrowed_by": self.__borrowed_by,
+            "borrow_date": self.__borrow_date,
+            "renewal_count": self.__renewal_count,
+        }
+
+    def load_status(self, data):
+        self.__available = bool(data.get("available", True))
+        self.__borrowed_by = data.get("borrowed_by", "") or ""
+        self.__borrow_date = data.get("borrow_date", "") or ""
+        self.__renewal_count = int(data.get("renewal_count", 0))
+
+
+class Book(LibraryItem):
+    MAX_RENEWALS = 2
+
+    def __init__(self, item_id, name):
+        super().__init__(item_id, name, "Book")
+
+
+class Magazine(LibraryItem):
+    def __init__(self, item_id, name):
+        super().__init__(item_id, name, "Magazine")
+
+
+class DVD(LibraryItem):
+    def __init__(self, item_id, name, rental_fee=2.0):
+        super().__init__(item_id, name, "DVD")
+        self.__rental_fee = rental_fee
+
+    @property
+    def rental_fee(self):
+        return self.__rental_fee
+
+    def to_dict(self):
+        data = super().to_dict()
+        data["rental_fee"] = self.__rental_fee
+        return data
+
+
+class LibrarySystem:
+    def __init__(self):
+        self.__items = []
+        self.__next_id = 1
+        self.load_data()
+
+    def load_data(self):
+        if not DATA_FILE.exists():
+            return
+        try:
+            data = json.loads(DATA_FILE.read_text(encoding="utf-8"))
+        except (OSError, json.JSONDecodeError):
+            print("The saved data could not be loaded. Starting with an empty library.")
+            return
+
+        for item_data in data:
+            item_type = str(item_data.get("type", "")).lower()
+            item_id = int(item_data.get("id", self.__next_id))
+            name = str(item_data.get("name", "Unnamed item"))
+            if item_type == "book":
+                item = Book(item_id, name)
+            elif item_type == "magazine":
+                item = Magazine(item_id, name)
+            elif item_type == "dvd":
+                item = DVD(item_id, name, float(item_data.get("rental_fee", 2.0)))
+            else:
+                continue
+            item.load_status(item_data)
+            self.__items.append(item)
+            self.__next_id = max(self.__next_id, item_id + 1)
+
+    def save_data(self):
+        data = [item.to_dict() for item in self.__items]
+        DATA_FILE.write_text(json.dumps(data, indent=2), encoding="utf-8")
+
+    def add_item(self, name, item_type, rental_fee=2.0):
+        item_type = item_type.strip().lower()
+        if item_type == "book":
+            item = Book(self.__next_id, name)
+        elif item_type == "magazine":
+            item = Magazine(self.__next_id, name)
+        elif item_type == "dvd":
+            item = DVD(self.__next_id, name, rental_fee)
+        else:
+            return None
+        self.__items.append(item)
+        self.__next_id += 1
+        self.save_data()
+        return item
+
+    def find_item(self, item_id):
+        return next((item for item in self.__items if item.item_id == item_id), None)
+
+    def all_items(self):
+        return list(self.__items)
+
+    def borrow_item(self, item_id, borrower):
+        item = self.find_item(item_id)
+        if item is None:
+            return "Item was not found."
+        if not item.available:
+            return f"{item.name} is already borrowed by {item.borrowed_by}."
+        item.borrow(borrower)
+        self.save_data()
+        return f"{item.name} was borrowed by {borrower}."
+
+    def return_item(self, item_id):
+        item = self.find_item(item_id)
+        if item is None:
+            return "Item was not found."
+        if item.available:
+            return f"{item.name} is already available."
+        late_fee = self.late_fee(item)
+        item.return_item()
+        self.save_data()
+        message = f"{item.name} was returned successfully."
+        if late_fee:
+            message += f" Late fee: ${late_fee:.2f}."
+        return message
+
+    def renew_item(self, item_id):
+        item = self.find_item(item_id)
+        if item is None:
+            return "Item was not found."
+        if item.available:
+            return f"{item.name} is not borrowed."
+        if not isinstance(item, Book):
+            return "Only books can be renewed."
+        if item.renewal_count >= Book.MAX_RENEWALS:
+            return "This book has reached its renewal limit."
+        if item.borrowed_days() > BORROWING_DAYS:
+            return "This book is overdue and cannot be renewed."
+        item.renew()
+        self.save_data()
+        return f"{item.name} was renewed successfully."
+
+    def overdue_items(self):
+        return [item for item in self.__items if item.borrowed_days() > BORROWING_DAYS]
+
+    def late_fee(self, item):
+        overdue_days = max(0, item.borrowed_days() - BORROWING_DAYS)
+        return overdue_days * 0.50
+
+
+def read_integer(prompt):
+    try:
+        return int(input(prompt).strip())
+    except ValueError:
+        print("Please enter a valid number.")
+        return None
+
+
+def show_items(library):
+    items = library.all_items()
+    if not items:
+        print("There are no items in the library.")
+        return
+    print("\nID | Name | Type | Status | Borrowed by")
+    print("-" * 65)
+    for item in items:
+        status = "Available" if item.available else "Borrowed"
+        borrower = item.borrowed_by or "-"
+        extra = f" | Fee: ${item.rental_fee:.2f}" if isinstance(item, DVD) else ""
+        print(f"{item.item_id} | {item.name} | {item.item_type}{extra} | {status} | {borrower}")
+
+
+def show_overdue_items(library):
+    overdue = library.overdue_items()
+    if not overdue:
+        print("There are no overdue items.")
+        return
+    print("\nLate Fee Alert")
+    for item in overdue:
+        print(f"{item.name} is {item.borrowed_days() - BORROWING_DAYS} days overdue.")
+        print(f"Late fee: ${library.late_fee(item):.2f}")
+
+
+def run_menu():
+    library = LibrarySystem()
+    while True:
+        print("\nBookWise Solutions")
+        print("1. Add item")
+        print("2. View all items")
+        print("3. Borrow item")
+        print("4. Return item")
+        print("5. Renew book")
+        print("6. Late Fee Alert")
+        print("7. Exit")
+        choice = input("Choose an option: ").strip()
+
+        if choice == "1":
+            name = input("Enter item name: ").strip()
+            item_type = input("Enter item type (Book, Magazine, DVD): ").strip()
+            if not name:
+                print("The item name cannot be empty.")
+                continue
+            fee = 2.0
+            if item_type.lower() == "dvd":
+                try:
+                    fee = float(input("Enter DVD rental fee: ").strip())
+                    if fee < 0:
+                        raise ValueError
+                except ValueError:
+                    print("Please enter a valid non-negative fee.")
+                    continue
+            item = library.add_item(name, item_type, fee)
+            print(f"{name} was added with ID {item.item_id}." if item else "Invalid item type.")
+        elif choice == "2":
+            show_items(library)
+        elif choice == "3":
+            item_id = read_integer("Enter item ID: ")
+            if item_id is not None:
+                borrower = input("Enter borrower name: ").strip()
+                print(library.borrow_item(item_id, borrower) if borrower else "Borrower name cannot be empty.")
+        elif choice == "4":
+            item_id = read_integer("Enter item ID: ")
+            if item_id is not None:
+                print(library.return_item(item_id))
+        elif choice == "5":
+            item_id = read_integer("Enter book ID: ")
+            if item_id is not None:
+                print(library.renew_item(item_id))
+        elif choice == "6":
+            show_overdue_items(library)
+        elif choice == "7":
+            print("Thank you for using BookWise Solutions.")
+            break
+        else:
+            print("Please choose a number from 1 to 7.")
+
+
+if __name__ == "__main__":
+    run_menu()
+
+==========================================================================================
+FILE 5/50: Lab Task 2.1\Abdul Samad - Lab Task 2.1 - BSSE A 5th.docx
+TYPE: .docx
+SIZE: 111537 bytes
+==========================================================================================
+ 
+Name: Abdul Samad 
+Program: BSSE Group A 
+Semester: 5th 
+Date: September 17, 2026
+*-----------------------------------------------* 
+Lab Task 2.1
+Program Output:
+
+
+
+
+*-----------------------------------------------* 
+The End 
+--- word/footnotes.xml ---
+
+--- word/endnotes.xml ---
+
+--- word/header1.xml ---
+
+--- word/header2.xml ---
+
+--- word/header3.xml ---
+
+--- EMBEDDED IMAGE word/media/image1.png (OCR, may contain errors) ---
+im sciences
+--- EMBEDDED IMAGE word/media/image2.png (OCR, may contain errors) ---
+Problems Output Debug Console Terminal Ports
+• PS E:\Study Material\5th Semester All Data\Sir
+zainqnk
+Enter a word or phrase or sequence:zain
+The input is not a palindrome.
+• PS E:\Study Material\5th Semester All Data\Sir
+zainqnk
+Enter a word or phrase or sequence:labal
+The input is a palindrome.
+• PS E:\Study Material\5th Semester All Data\Sir
+zainqnk
+Enter a word or phrase or sequence:labal.<!
+The input is a palindrome.
+• PS E:\Study Material\5th Semester All Data\Sir
+zainqnk
+Enter a word or phrase or sequence:non
+The input is a palindrome.
+• PS E:\Study Material\5th Semester All Data\Sir
+zainqnk
+Enter a word or phrase or sequence:python
+The input is not a palindrome.
+PS E:\Study Material\5th Semester All Data\Sir
+Query Results
+Umer
+Umer
+Umer
+Umer
+Umer
+Umer
+Haroon
+Haroon
+Haroon
+Haroon
+Haroon
+Haroon
+Software
+Software
+Software
+Software
+Software
+Construction
+Construction
+Construction
+Construction
+Construction
+and
+and
+and
+and
+and
+and
+Development
+Development
+Development
+Development
+Development
+Development
+(Lab)\Lab
+(Lab)\Lab
+(Lab)\Lab
+(Lab)\Lab
+(Lab)\Lab
+Task
+Task
+Task
+Task
+Task
+2.
+2.
+2.
+2.
+2.
+1>
+1>
+1>
+1>
+1>
+python
+python
+python
+python
+python
+. \task. py
+. \task. py
+. \task. py
+. \task. py
+. \task. py
+Software Construction
+(Lab)\Lab Task 2.1>
+
+==========================================================================================
+FILE 6/50: Lab Task 2.1\task.py
+TYPE: .py
+SIZE: 751 bytes
+==========================================================================================
+def clean_string(input):
+    cleaned_string = ""
+    for character in input:
+        if character.isalnum():
+            cleaned_string += character.lower()
+
+    return cleaned_string
+
+
+def is_palindrome(input_string):
+    if len(input_string) <= 1:
+        return True
+    if input_string[0] != input_string[-1]:
+        return False
+    return is_palindrome(input_string[1:-1])
+
+
+def main():
+    print(clean_string("Zai N Qn.k, "))
+    user_input = input("Enter a word or phrase or sequence:")
+    cleaned_input = clean_string(user_input)
+
+    if is_palindrome(cleaned_input):
+        print("The input is a palindrome.")
+    else:
+        print("The input is not a palindrome.")
+
+
+if __name__ == "__main__":
+    main()
+
+
+==========================================================================================
+FILE 7/50: Lab Task 2\Abdul Samad - BSSE 5th - Lab Task 2.docx
+TYPE: .docx
+SIZE: 227632 bytes
+==========================================================================================
+ 
+Name: Abdul Samad 
+Program: BSSE Group A 
+Semester: 5th 
+Date: September 17, 2026
+*-----------------------------------------------* 
+Lab Task 2
+Program 1:
+
+
+
+Output:
+
+*-----------------------------------------------* 
+Program 2:
+
+Output:
+
+*-----------------------------------------------* 
+The End 
+--- word/footnotes.xml ---
+
+--- word/endnotes.xml ---
+
+--- word/header1.xml ---
+
+--- word/header2.xml ---
+
+--- word/header3.xml ---
+
+--- EMBEDDED IMAGE word/media/image1.png (OCR, may contain errors) ---
+im sciences
+--- EMBEDDED IMAGE word/media/image2.png (OCR, may contain errors) ---
+taskl.py >
+shopping_list = { }
+while True:
+item = input("Enter an item (or press Enter to finish):
+if not item:
+break
+" ) . strip()
+").strip())
+10
+14
+quantity_input = int(input(f"Enter the quantity for {item}:
+if quantity_input < 1:
+print( "please enter a positive number. ")
+else:
+shopping_list[item]
+int(quantity_input)
+print("
+Final shopping list:
+for item, quantity in shopping _ list. items():
+print(f" {item}
+. {quantity}" )
+--- EMBEDDED IMAGE word/media/image3.png (OCR, may contain errors) ---
+PS E:\Study Material\5th Semester All Data\Sir Umer Haroon
+•t (Lab)\Lab Task python .\taskl.py
+Enter
+Enter
+Enter
+Enter
+Enter
+Enter
+Enter
+Final
+an item (or press Enter to finish):
+the quantity for bag: 2
+an item (or press Enter to finish):
+the quantity for shop: 3
+an item (or press Enter to finish):
+the quantity for bag: 4
+an item (or press Enter to finish):
+shopping list:
+bag
+shop
+bag
+bag: 4
+shop: 3
+o PS E:\Study Material\5th Semester All Data\Sir Umer Haroon
++0 t (Lab)\Lab Task
+Software Construction and Developmen
+Software Construction and Developmen
+--- EMBEDDED IMAGE word/media/image4.png (OCR, may contain errors) ---
+task2.py > .
+inventory list
+while True:
+user input
+input("Enter an item (or type
+' done '
+to finish):
+").strip().lower()
+if
+if
+if
+IO
+1]
+12
+14
+15
+16
+18
+22
+26
+27
+user input
+"done" :
+break
+not user input:
+continue
+user input. startswith("remove " ) :
+item to remove = user input [7:] . strip()
+if item to remove in inventory list:
+inventory list. remove(item to remove)
+print(f"Removed: {item to remove}" )
+else:
+print(f"ltem not found: {item to remove}" )
+elif user input in inventory list:
+print(f"ltem already exists: {user input}" )
+else:
+inventory list . append(user input)
+print(f"Added: {user input}" )
+inventory list. sort()
+print("\nFina1 inventory:
+print(f"Tota1 items: {len(inventory list)}")
+for item in inventory list:
+print(item)
+--- EMBEDDED IMAGE word/media/image5.png (OCR, may contain errors) ---
+PS E:\Study Material\5th Semester All Data\Sir Umer Haroon - Software Construction and Development (Lab)\Lab Task 2> python
+11 Data\Sir Umer Haroon - Software Construction and Development (Lab)\Lab Task 2\task2.py"
+Enter an item (or type 'done '
+Added: pencil
+Enter an item (or type 'done '
+Added: pen
+Enter an item (or type 'done '
+Item already exists: pen
+Enter an item (or type 'done '
+Item already exists: pencil
+Enter an item (or type
+Added: sharpner
+Enter an item (or type
+Added: eraser
+Enter an item (or type
+Removed: eraser
+Enter an item (or type
+Enter an item (or type
+Final inventory:
+Total items: 3
+pen
+pencil
+sharpner
+done
+done
+done
+done
+done
+to finish):
+to finish):
+to finish):
+to finish):
+to finish):
+to finish):
+to finish):
+to finish):
+to finish):
+pencil
+pen
+pen
+pencil
+sharpner
+eraser
+remove eraser
+done
+Y. PS E:\Study Material\5th Semester All Data\Sir Umer Haroon
+- Software Construction and Development (Lab)\Lab Task
+
+==========================================================================================
+FILE 8/50: Lab Task 2\Abdul Samad - BSSE 5th - Lab Task 2.pdf
+TYPE: .pdf
+SIZE: 199624 bytes
+==========================================================================================
+--- PAGE 1 ---
+Name: Abdul Samad
+
+    Program: BSSE Group A
+
+          Semester: 5th
+
+    Date: September 17, 2026
+
+*-----------------------------------------------*
+
+       Lab Task 2
+
+Program 1:
+
+--- PAGE 2 ---
+Output:
+
+
+
+
+
+*-----------------------------------------------*
+
+--- PAGE 3 ---
+[OCR: may contain recognition errors]
+Program 2:
+task2.py > .
+inventory _ list
+while True:
+user_input = input("Enter an item (or type
+if user input
+"done" :
+break
+if not user input:
+continue
+if user _ input. "):
+• done '
+to finish):
+. lower()
+item to remove = user input[7:].strip()
+if item to remove in inventory list:
+inventory _ 1 i st. remove (
+print(f"Removed:
+print(f"ltem not found: {item to remove}"
+elif user input in inventory _ list:
+print(f"ltem already exists: {user _ input}" )
+else:
+inventory list. append(user input)
+print(f"Added: {user _ input}" )
+inventory list. sort()
+print("\nFina1 inventory:" )
+print(f"Tota1 items: {len(inventory list)}")
+for item in inventory list:
+print(item)
+Output:
+
+--- PAGE 4 ---
+*-----------------------------------------------*
+
+        The End
+
+==========================================================================================
+FILE 9/50: Lab Task 2\task1.py
+TYPE: .py
+SIZE: 439 bytes
+==========================================================================================
+shopping_list = {}
+while True:
+	item = input("Enter an item (or press Enter to finish): ").strip()
+	if not item:
+		break
+	quantity_input = int(input(f"Enter the quantity for {item}: ").strip())
+	if quantity_input < 1:
+		print("Please enter a positive number.")
+	else:
+		shopping_list[item] = int(quantity_input)
+print('''  Final shopping list:  ''')
+for item, quantity in shopping_list.items():
+	print(f"{item} : {quantity}")
+
+
+==========================================================================================
+FILE 10/50: Lab Task 2\task2.py
+TYPE: .py
+SIZE: 753 bytes
+==========================================================================================
+inventory_list = []
+while True:
+	user_input = input("Enter an item (or type 'done' to finish): ").strip().lower()
+	if user_input == "done":
+		break
+	if not user_input:
+		continue
+	if user_input.startswith("remove "):
+		item_to_remove = user_input[7:].strip()
+		if item_to_remove in inventory_list:
+			inventory_list.remove(item_to_remove)
+			print(f"Removed: {item_to_remove}")
+		else:
+			print(f"Item not found: {item_to_remove}")
+	elif user_input in inventory_list:
+		print(f"Item already exists: {user_input}")
+	else:
+		inventory_list.append(user_input)
+		print(f"Added: {user_input}")
+
+inventory_list.sort()
+
+print("\nFinal inventory:")
+print(f"Total items: {len(inventory_list)}")
+for item in inventory_list:
+	print(item)
+
+
+==========================================================================================
+FILE 11/50: Lab Task 3.1\Abdul Samad - task.docx
+TYPE: .docx
+SIZE: 44461 bytes
+==========================================================================================
+Name: Abdul Samad
+Program: BSSE Group A
+Semester: 5th
+
+Ouput:
+
+--- EMBEDDED IMAGE word/media/image1.png (OCR, may contain errors) ---
+Problems Output Debug Console
+Terminal Ports Query Results
+• PS E:\Study Material\5th Semester All Data\Sir Umer Haroon
+Enter account holder name: Abdul Samad
+Enter PIN: 1234
+Enter withdrawal amount: 500
+RECEIPT
+Account Holder : Abdul Samad
+Amount Withdrawn: 500
+Remaining Balance .
+9500
++4 PS E:\Study Material\5th Semester All Data\Sir Umer Haroon
+- Software Construction and Development (Lab)\Lab Task 3.1> python
+- Software Construction and Development (Lab)\Lab Task 3.1>
+. \task. py
+
+==========================================================================================
+FILE 12/50: Lab Task 3.1\task.py
+TYPE: .py
+SIZE: 1264 bytes
+==========================================================================================
+def validate_pin(entered_pin):
+    return entered_pin == "1234"
+        
+def check_balance(balance, amount):
+    return balance >= amount
+
+def is_valid_multiple(amount):
+    return amount % 500 == 0
+
+def withdraw(balance, amount):
+    return balance - amount
+
+def format_receipt(account_holder_name, amount, new_balance):
+    print('''=================== RECEIPT ==================''')
+    print("Account Holder : ", account_holder_name)
+    print("Amount Withdrawn: ", amount)
+    print("Remaining Balance : ", new_balance)
+    print('''=============================================''')
+
+    # print("=" * 30)
+
+
+def main():
+    account_holder_name = input("Enter account holder name: ")
+    account_pin = input("Enter PIN: ")
+    amount = int(input("Enter withdrawal amount: "))
+    balance = 10000
+    if not(validate_pin(account_pin)):
+        print("Incorrect PIN, Try Again Later")
+
+    if not(check_balance(balance, amount)):
+        print("Your amount is greater than the balance, Try again")
+    
+    if not(is_valid_multiple(amount)):
+        print("Your amount is not a multiplie of 500, Try again")
+    balance = withdraw(balance, amount)
+    format_receipt(account_holder_name, amount, balance)
+
+    
+    
+main()
+
+==========================================================================================
+FILE 13/50: Lab Task 3\Abdul Samad - Lab 3 Task.docx
+TYPE: .docx
+SIZE: 165905 bytes
+==========================================================================================
+Name : Abdul Samad
+Program: BSSE Group A
+Semester: 5th
+
+
+Predicted Output:
+For first output the price will be changes as in python we have everything by address so now the price will be unchanged 
+IT will be printing BuG original cart modified as in python when one list is equalled to another list so they point to the same address. That’s why changing by one will change another as well.
+Now when we make a copy of a list so that means that there is another copy is created for it so it will like different cart objects 
+
+Actual Output:
+
+
+I got my two points correct but I made it wrong the first one.
+
+Corrected Code: 
+
+--- EMBEDDED IMAGE word/media/image1.png (OCR, may contain errors) ---
+•t task.py X
+task.py >
+12
+15
+16
+18
+20
+22
+23
+24
+25
+26
+28
+shared cart. append ("juice")
+if len(cart)
+print("BUG: original cart modified! " ,
+# Safe copy
+cart a = ["pen", "notebook"]
+cart b = cart a. copy()
+cart b. append("eraser")
+if cart a
+cart b:
+Q print("Same items")
+if cart a is cart b:
+print("Same cart object")
+else:
+print("Different cart objects")
+cart)
+Problems Output Debug Console Terminal Ports Query Results
+Code v
+PS E:\Study Material\5th Semester All Data\Sir Umer Haroon - Software Construction and Development (Lab)\Lab Task
+> python -u "e:\Study Semester All Data\Sir Umer Haroon - Software Construction and Development (Lab)h
+• Lab Task 3\task.py"
+price A unchanged: 500
+BUG: original cart modified! [ 'milk' ,
+'bread', 'eggs', 'juice']
+Different cart objects
+o PS E:\Study Material\5th Semester All Data\Sir Umer Haroon - Software Construction and Development (Lab)\Lab Task
+--- EMBEDDED IMAGE word/media/image2.png (OCR, may contain errors) ---
+task.py X
+task.py > .
+# product price (immutable)
+price a = 500
+price b = price a
+price b = price b - 50
+if price a
+500 :
+print("price A unchanged: " ,
+# Shopping cart (mutable)
+price a)
+10
+18
+20
+22
+24
+25
+26
+28
+29
+30
+cart = ["milk", "bread", "
+eggs " ]
+shared cart = cart. copy() # we created a different copy of shared cart
+# so there is no change in the shared copy
+shared cart. append ("juice")
+if len(cart)
+print( "BUG: original cart modified! " ,
+cart)
+else:
+Q Fixed, have two different carts right now,
+# Safe copy
+cart a = ["pen", "notebook"]
+cart b = cart a. copy()
+cart b. append("eraser")
+if cart a
+cart b:
+print("Same items")
+if cart a is cart b:
+print("Same cart object")
+else:
+print("Different cart objects")
+cart and shared cart"
+
+==========================================================================================
+FILE 14/50: Lab Task 3\task.py
+TYPE: .py
+SIZE: 764 bytes
+==========================================================================================
+# Product price (immutable)
+price_a = 500
+price_b = price_a
+price_b = price_b - 50
+
+if price_a == 500:
+    print("Price A unchanged:", price_a)
+
+# Shopping cart (mutable)
+cart = ["milk", "bread", "eggs"]
+shared_cart = cart.copy() # we created a different copy of shared cart
+# so there is no change in the shared copy  
+shared_cart.append("juice")
+
+if len(cart) == 4:
+    print("BUG: original cart modified!", cart)
+else:
+    print("BUG Fixed, We have two different carts right now, cart and shared cart")
+
+# Safe copy
+cart_a = ["pen", "notebook"]
+cart_b = cart_a.copy()
+cart_b.append("eraser")
+
+if cart_a == cart_b:
+    print("Same items")
+if cart_a is cart_b:
+    print("Same cart object")
+else:
+    print("Different cart objects")
+
+
+==========================================================================================
+FILE 15/50: Lab Task 4.1\Abdul Samad - Task 4.1 BSSE Group A.docx
+TYPE: .docx
+SIZE: 231740 bytes
+==========================================================================================
+ 
+Name: Abdul Samad 
+Program: BSSE Group A 
+Semester: 5th 
+Date: October 1, 2026
+*-----------------------------------------------* 
+Lab Task 4.1
+
+
+
+
+
+
+
+
+Part D: Reflection Answers
+
+Why is bad_add_task hard to test?
+
+Because it does way too many things in a single block. It checks the inputs, creates the task dictionary, appends it to the list, and prints messages to the screen all at once. If I want to write an automated test to check if a task actually got added or if the validation worked, I can't just check a simple return value or list state easily because the function forces print statements out to the terminal at the same time.
+
+Why is it hard to reuse?
+
+Because it has print() statements hardcoded right inside it. If I want to use this same function later in a GUI app, a web project, or a script where I don't want terminal output, it will still keep printing text every single time it runs. Since the list logic and the visual printing are stuck together, you can't use the function anywhere else without bringing along the annoying prints.
+
+Which single responsibility should be extracted first?
+
+Input validation (is_valid_priority and is_valid_status). Checking whether the user entered a valid priority or status is a completely separate job that needs to happen first, before you even try to create a task dictionary or modify the list.
+
+*-----------------------------------------------* 
+The End 
+--- word/footnotes.xml ---
+
+--- word/endnotes.xml ---
+
+--- word/header1.xml ---
+
+--- word/header2.xml ---
+
+--- word/header3.xml ---
+
+--- EMBEDDED IMAGE word/media/image1.png (OCR, may contain errors) ---
+im sciences
+--- EMBEDDED IMAGE word/media/image2.png (OCR, may contain errors) ---
+PS E:\Study Material\5th Semester All Data\Sir Umer Haroon - Software Construction and Development (Lab)\Lab Task python
+Semester All Data\Sir Umer Haroon - Software Construction and Development (Lab)\Lab Task 4\part_c.py"
+Sum of 3 and 4 is 7
+Is 3 even? False
+First letter of samad is s
+SAMAD
+Is samad longer than five characters? False
+Task: Buy groceries I priority: high I Status: pending
+Task: Finish assignment I priority: high I Status: done
+Task: Call mom I priority: medium I Status: pending
+Task: Read a chapter I priority: low I Status: pending
+-u
+Task: Clean
+Total tasks:
+Done tasks:
+room I priority: low I Status: pending
+5
+1
+--- EMBEDDED IMAGE word/media/image3.png (OCR, may contain errors) ---
+Total tasks: 5
+Done tasks: 1
+pending tasks: 4
+Sorted by priority:
+Task:
+Task:
+Task:
+Task:
+Task:
+Buy groceries I priority: high I Status: pending
+Finish assignment I priority: high I Status: done
+Call mom I priority: medium I Status: pending
+Read a chapter I priority: low I Status: pending
+Clean room I priority: low I Status: pending
+--- EMBEDDED IMAGE word/media/image4.png (OCR, may contain errors) ---
+PS E:\Study Material\5th Semester All Data\Sir Umer Haroon - Software Construction and Development (Lab)\Lab Task python
+Haroon - Software Construction and Development (Lab)\Lab Task 4\part d.py"
+Sum of 3 and 4 is 7
+Is 3 even? False
+First letter of samad is s
+SAMAD
+Is samad longer than five characters? False
+Task: Buy groceries I priority: high I Status: pending
+Task: Finish assignment I priority: high I Status: done
+Task: Call mom I priority: medium I Status: pending
+Task: Read a chapter I priority: low I Status: pending
+Task: Clean room I priority: low I Status: pending
+Total tasks: 5
+Done tasks: 1
+pending tasks: 4
+Sorted by priority:
+Task: Buy groceries I priority: high I Status: pending
+Task: Finish assignment I priority: high I Status: done
+Task: Call mom I priority: medium I Status: pending
+Task: Read a chapter I priority: low I Status: pending
+Task: Clean room I priority: low I Status: pending
+pending tasks only:
+-u
+"e: \Study Semester All Data\Sir Umer
+Task:
+Task:
+Task:
+Task:
+High
+Task:
+Task:
+Task
+Buy groceries I priority: high I Status: pending
+Call mom I priority: medium I Status: pending
+Read a chapter I priority: low I Status: pending
+Clean room I priority: low I Status: pending
+priority Tasks Only:
+Buy groceries I priority: high I Status: pending
+Finish assignment I priority: high I Status: done
+Names Only:
+[ 'Buy groceries' , 'Finish assignment' , 'Call mom', 'Read a chapter' ,
+Sorted alphabetically:
+'Clean room']
+Task:
+Task:
+Task:
+Task:
+Task:
+Buy groceries I priority: high I Status: pending
+Call mom I priority: medium I Status: pending
+Clean room I priority: low I Status: pending
+Finish assignment I priority: high I Status: done
+Read a chapter I priority: low I Status: pending
+--- EMBEDDED IMAGE word/media/image5.png (OCR, may contain errors) ---
+Task Names Only:
+[ 'Buy groceries' , 'Finish assignment' , 'Call mom', 'Read a chapter' ,
+'Clean room']
+Sorted alphabetically:
+Task: Buy groceries I priority: high I Status: pending
+Task: Call mom I priority: medium I Status: pending
+Task: Clean room I priority: low I Status: pending
+Task: Finish assignment I priority: high I Status: done
+Task: Read a chapter I priority: low I Status: pending
+Task Submit report' added successfully !
+Total tasks now: 1
+PS E:\Study Material\5th Semester All Data\Sir Umer Haroon
+- Software Construction and Development (Lab)\Lab Task
+
+==========================================================================================
+FILE 16/50: Lab Task 4.1\part_c.py
+TYPE: .py
+SIZE: 3557 bytes
+==========================================================================================
+add_numbers = lambda a, b: a + b
+num1 = 3
+num2 = 4
+print(f"Sum of {num1} and {num2} is {add_numbers(num1, num2)}")
+
+is_even = lambda num: num % 2 == 0
+num = 3
+print(f"Is {num} even? {is_even(num)}")
+
+first_letter = lambda my_str: my_str[0]
+name = "samad"
+print(f"First letter of {name} is {first_letter(name)}")
+
+to_upper = lambda my_str: my_str.upper()
+print(to_upper("samad"))
+
+longer_than_five = lambda my_str: len(my_str) > 5
+my_str = "samad"
+print(f"Is {my_str} longer than five characters? {longer_than_five(my_str)}")
+
+
+def create_task(name, priority, status):
+    return {"name": name, "priority": priority, "status": status}
+
+def is_valid_priority(priority):
+    return priority in ("high", "medium", "low")
+    
+def is_valid_status(status):
+    return status in ("pending", "done")
+
+def add_task(to_do_list, name, priority, status):
+    to_do_list.append(create_task(name, priority, status))
+
+def mark_done(to_do_list, name):
+    for task in to_do_list:
+        if task["name"] == name:
+            task["status"] = "done"
+            break
+
+def remove_task(to_do_list, name):
+    for task in to_do_list:
+        if task["name"] == name:
+            to_do_list.remove(task)
+            break
+
+def count_tasks(to_do_list):
+    return len(to_do_list)
+
+def count_done(to_do_list):
+    count = 0
+    for task in to_do_list:
+        if task["status"] == "done":
+            count = count + 1
+    return count
+
+def count_pending(to_do_list):
+    count = 0
+    for task in to_do_list:
+        if task["status"] == "pending": 
+            count = count + 1
+    return count
+
+def print_task(task):
+    print(f"Task: {task["name"]} | Priority: {task["priority"]} | Status: {task["status"]}")
+
+def print_all_tasks(to_do_list):
+    for list in to_do_list:
+        print_task(list)
+
+
+
+def main():
+    to_do_list = []
+
+    add_task(to_do_list, "Buy groceries", "high", "pending")
+    add_task(to_do_list, "Finish assignment", "high", "pending")
+    add_task(to_do_list, "Call mom", "medium", "pending")
+    add_task(to_do_list, "Read a chapter", "low", "pending")
+    add_task(to_do_list, "Clean room", "low", "pending")
+
+    mark_done(to_do_list, "Finish assignment")
+    remove_task(to_do_list, "clean room")
+
+    print_all_tasks(to_do_list)
+    print()
+    print(f"Total tasks: {count_tasks(to_do_list)}")
+    print(f"Done tasks: {count_done(to_do_list)}")
+    print(f"Pending tasks: {count_pending(to_do_list)}")
+
+
+    priority_rank = {"high": 0, "medium": 1, "low": 2}
+    sorted_by_priority = sorted(to_do_list, key=lambda task: priority_rank.get(task["priority"], 3))
+    print("Sorted by priority:")
+    print_all_tasks(sorted_by_priority)
+    print()
+
+
+    filter_lambda = lambda my_task: my_task["status"] == "pending"
+    pending_tasks = list(filter(filter_lambda, to_do_list))
+    print("Pending tasks only:")
+    print_all_tasks(pending_tasks)
+    print()
+
+    print("High Priority Tasks Only: ")
+    high_priority_lambda = lambda my_task: my_task["priority"] == "high"
+    high_priority_tasks = list(filter(high_priority_lambda, to_do_list))
+    print_all_tasks(high_priority_tasks)
+    print()
+
+
+    task_names = list(map(lambda my_task: my_task["name"], to_do_list))
+    print("Task Names Only: ")
+    print(task_names)
+    print()
+
+
+    sorted_alphabetically = sorted(to_do_list, key=lambda my_task: my_task["name"])
+    print("Sorted alphabetically:")
+    print_all_tasks(sorted_alphabetically)
+    print()
+
+
+
+main()
+
+
+
+==========================================================================================
+FILE 17/50: Lab Task 4.1\part_d.py
+TYPE: .py
+SIZE: 4071 bytes
+==========================================================================================
+add_numbers = lambda a, b: a + b
+num1 = 3
+num2 = 4
+print(f"Sum of {num1} and {num2} is {add_numbers(num1, num2)}")
+
+is_even = lambda num: num % 2 == 0
+num = 3
+print(f"Is {num} even? {is_even(num)}")
+
+first_letter = lambda my_str: my_str[0]
+name = "samad"
+print(f"First letter of {name} is {first_letter(name)}")
+
+to_upper = lambda my_str: my_str.upper()
+print(to_upper("samad"))
+
+longer_than_five = lambda my_str: len(my_str) > 5
+my_str = "samad"
+print(f"Is {my_str} longer than five characters? {longer_than_five(my_str)}")
+
+
+def create_task(name, priority, status):
+    return {"name": name, "priority": priority, "status": status}
+
+def is_valid_priority(priority):
+    return priority in ("high", "medium", "low")
+    
+def is_valid_status(status):
+    return status in ("pending", "done")
+
+def add_task(to_do_list, name, priority, status):
+    to_do_list.append(create_task(name, priority, status))
+
+def mark_done(to_do_list, name):
+    for task in to_do_list:
+        if task["name"] == name:
+            task["status"] = "done"
+            break
+
+def remove_task(to_do_list, name):
+    for task in to_do_list:
+        if task["name"] == name:
+            to_do_list.remove(task)
+            break
+
+def count_tasks(to_do_list):
+    return len(to_do_list)
+
+def count_done(to_do_list):
+    count = 0
+    for task in to_do_list:
+        if task["status"] == "done":
+            count = count + 1
+    return count
+
+def count_pending(to_do_list):
+    count = 0
+    for task in to_do_list:
+        if task["status"] == "pending": 
+            count = count + 1
+    return count
+
+def print_task(task):
+    print(f"Task: {task["name"]} | Priority: {task["priority"]} | Status: {task["status"]}")
+
+def print_all_tasks(to_do_list):
+    for list in to_do_list:
+        print_task(list)
+
+
+
+def main():
+    to_do_list = []
+
+    add_task(to_do_list, "Buy groceries", "high", "pending")
+    add_task(to_do_list, "Finish assignment", "high", "pending")
+    add_task(to_do_list, "Call mom", "medium", "pending")
+    add_task(to_do_list, "Read a chapter", "low", "pending")
+    add_task(to_do_list, "Clean room", "low", "pending")
+
+    mark_done(to_do_list, "Finish assignment")
+    remove_task(to_do_list, "clean room")
+
+    print_all_tasks(to_do_list)
+    print()
+    print(f"Total tasks: {count_tasks(to_do_list)}")
+    print(f"Done tasks: {count_done(to_do_list)}")
+    print(f"Pending tasks: {count_pending(to_do_list)}")
+
+
+    priority_rank = {"high": 0, "medium": 1, "low": 2}
+    sorted_by_priority = sorted(to_do_list, key=lambda task: priority_rank.get(task["priority"], 3))
+    print("Sorted by priority:")
+    print_all_tasks(sorted_by_priority)
+    print()
+
+
+    filter_lambda = lambda my_task: my_task["status"] == "pending"
+    pending_tasks = list(filter(filter_lambda, to_do_list))
+    print("Pending tasks only:")
+    print_all_tasks(pending_tasks)
+    print()
+
+    print("High Priority Tasks Only: ")
+    high_priority_lambda = lambda my_task: my_task["priority"] == "high"
+    high_priority_tasks = list(filter(high_priority_lambda, to_do_list))
+    print_all_tasks(high_priority_tasks)
+    print()
+
+
+    task_names = list(map(lambda my_task: my_task["name"], to_do_list))
+    print("Task Names Only: ")
+    print(task_names)
+    print()
+
+
+    sorted_alphabetically = sorted(to_do_list, key=lambda my_task: my_task["name"])
+    print("Sorted alphabetically:")
+    print_all_tasks(sorted_alphabetically)
+    print()
+
+    
+main()
+
+
+def bad_add_task(to_do_list, name, priority, status):
+    if not is_valid_priority(priority) or not is_valid_status(status):
+        print("Error: Invalid priority or status.")
+        return to_do_list
+
+    task = {"name": name, "priority": priority, "status": status}
+    to_do_list.append(task)
+    print(f"Task '{name}' added successfully!")
+    print(f"Total tasks now: {len(to_do_list)}")
+    return to_do_list
+
+sample_list = []
+bad_add_task(sample_list, "Submit report", "high", "pending")
+
+
+==========================================================================================
+FILE 18/50: Lab Task 4\Abdul Samad - Task 4 BSSE Group A.docx
+TYPE: .docx
+SIZE: 90969 bytes
+==========================================================================================
+ 
+Name: Abdul Samad 
+Program: BSSE Group A 
+Semester: 5th 
+Date: October 1, 2026
+*-----------------------------------------------* 
+Lab Task 4
+
+*-----------------------------------------------* 
+The End 
+--- word/footnotes.xml ---
+
+--- word/endnotes.xml ---
+
+--- word/header1.xml ---
+
+--- word/header2.xml ---
+
+--- word/header3.xml ---
+
+--- EMBEDDED IMAGE word/media/image1.png (OCR, may contain errors) ---
+im sciences
+--- EMBEDDED IMAGE word/media/image2.png (OCR, may contain errors) ---
+Problems Output Debug Console Terminal Ports Query Results
+PS E:\Study Material\5th Semester All Data\Sir Umer Haroon - Software Construction and Development (Lab)\Lab Task python
+Semester All Data\Sir Umer Haroon - Software Construction and Development (Lab)\Lab Task 4\part_b.py"
+Sum of 3 and 4 is 7
+Is 3 even? False
+First letter of samad is s
+SAMAD
+Is samad longer than five characters? False
+"e: \Stud)
+Task:
+Task:
+Task:
+Task:
+Task:
+Total
+Buy groceries I priority: high I Status: pending
+Finish assignment I priority: high I Status: done
+Call mom I priority: medium I Status: pending
+Read a chapter I priority: low I Status: pending
+Clean room I priority: low I Status: pending
+tasks: 5
+Done tasks: 1
+pending tasks: 4
+PS E:\Study Material\5th Semester All Data\Sir Umer Haroon
+- Software Construction and Development (Lab)\Lab Task C]
+
+==========================================================================================
+FILE 19/50: Lab Task 4\lab_4.py
+TYPE: .py
+SIZE: 546 bytes
+==========================================================================================
+
+add_numbers = lambda a, b: a + b
+num1 = 3
+num2 = 4
+print(f"Sum of {num1} and {num2} is {add_numbers(num1, num2)}")
+
+is_even = lambda num: num % 2 == 0
+num = 3
+print(f"Is {num} even? {is_even(num)}")
+
+first_letter = lambda my_str: my_str[0]
+name = "samad"
+print(f"First letter of {name} is {first_letter(name)}")
+
+to_upper = lambda my_str: my_str.upper()
+print(to_upper("samad"))
+
+longer_than_five = lambda my_str: len(my_str) > 5
+my_str = "samad"
+print(f"Is {my_str} longer than five characters? {longer_than_five(my_str)}")
+
+
+==========================================================================================
+FILE 20/50: Lab Task 4\part_b.py
+TYPE: .py
+SIZE: 2586 bytes
+==========================================================================================
+def create_task(name, priority, status):
+    return {"name": name, "priority": priority, "status": status}
+
+def is_valid_priority(priority):
+    return priority in ("high", "medium", "low")
+    
+def is_valid_status(status):
+    return status in ("pending", "done")
+
+def add_task(to_do_list, name, priority, status):
+    to_do_list.append(create_task(name, priority, status))
+
+def mark_done(to_do_list, name):
+    for task in to_do_list:
+        if task["name"] == name:
+            task["status"] = "done"
+            break
+
+def remove_task(to_do_list, name):
+    for task in to_do_list:
+        if task["name"] == name:
+            to_do_list.remove(task)
+            break
+
+def count_tasks(to_do_list):
+    return len(to_do_list)
+
+def count_done(to_do_list):
+    count = 0
+    for task in to_do_list:
+        if task["status"] == "done":
+            count = count + 1
+    return count
+
+def count_pending(to_do_list):
+    count = 0
+    for task in to_do_list:
+        if task["status"] == "pending": 
+            count = count + 1
+    return count
+
+def print_task(task):
+    print(f"Task: {task["name"]} | Priority: {task["priority"]} | Status: {task["status"]}")
+
+def print_all_tasks(to_do_list):
+    for list in to_do_list:
+        print_task(list)
+
+
+
+def main():
+    
+    add_numbers = lambda a, b: a + b
+    num1 = 3
+    num2 = 4
+    print(f"Sum of {num1} and {num2} is {add_numbers(num1, num2)}")
+
+    is_even = lambda num: num % 2 == 0
+    num = 3
+    print(f"Is {num} even? {is_even(num)}")
+
+    first_letter = lambda my_str: my_str[0]
+    name = "samad"
+    print(f"First letter of {name} is {first_letter(name)}")
+
+    to_upper = lambda my_str: my_str.upper()
+    print(to_upper("samad"))
+
+    longer_than_five = lambda my_str: len(my_str) > 5
+    my_str = "samad"
+    print(f"Is {my_str} longer than five characters? {longer_than_five(my_str)}")
+    print("\n")
+    to_do_list = []
+
+    add_task(to_do_list, "Buy groceries", "high", "pending")
+    add_task(to_do_list, "Finish assignment", "high", "pending")
+    add_task(to_do_list, "Call mom", "medium", "pending")
+    add_task(to_do_list, "Read a chapter", "low", "pending")
+    add_task(to_do_list, "Clean room", "low", "pending")
+
+    mark_done(to_do_list, "Finish assignment")
+    remove_task(to_do_list, "clean room")
+
+    print_all_tasks(to_do_list)
+    print()
+    print(f"Total tasks: {count_tasks(to_do_list)}")
+    print(f"Done tasks: {count_done(to_do_list)}")
+    print(f"Pending tasks: {count_pending(to_do_list)}")
+main()
+
+==========================================================================================
+FILE 21/50: Lab Task 5\Abdul Samad - 5th Semester Lab 5.docx
+TYPE: .docx
+SIZE: 172299 bytes
+==========================================================================================
+ 
+Name: Abdul Samad 
+Program: BSSE Group A 
+Semester: 5th 
+Date: October 8, 2026
+*-----------------------------------------------* 
+Lab Task 5
+
+
+
+
+
+
+
+
+
+
+
+
+Investigation Answers
+
+Q1. What is the difference between a Git commit and a Git tag?
+A commit records a set of changes in the development history. A tag is a named, stable reference to a specific commit, commonly used to identify a release such as v1.1.0. Annotated tags also store a release message, author, and date.
+
+Q2. Why was v1.1.1 used instead of v2.0.0?
+The change only fixed a bug and did not add a breaking change or new feature. Semantic Versioning therefore requires increasing the PATCH number from 1.1.0 to 1.1.1.
+
+Q3. What would justify changing 1.1.1 to 1.2.0?
+Adding a compatible feature, such as support for importing marks from a CSV file, would justify a MINOR release.
+
+Q4. What would justify changing 1.1.1 to 2.0.0?
+Removing the existing interactive input interface or changing the public function behavior in a way that breaks existing users would justify a MAJOR release.
+
+Q5. Why create a separate branch for the bug fix?
+A separate branch isolates the fix from ongoing development, makes it easier to test and review, and allows the fix to be merged into the release branch without including unfinished work.
+
+Q6. What is the difference between a release and a patch?
+A release is a version of the software marked as ready for users. A patch is a small change, usually a bug fix, that can be delivered as a PATCH release without adding a major feature.
+
+Q7. Why maintain older versions?
+Some users cannot upgrade immediately because of compatibility, stability, certification, or deployment constraints. Maintaining older versions lets the team provide security and bug fixes without forcing users to adopt unfinished or incompatible features
+
+
+*-----------------------------------------------* 
+The End 
+--- word/footnotes.xml ---
+
+--- word/endnotes.xml ---
+
+--- word/header1.xml ---
+
+--- word/header2.xml ---
+
+--- word/header3.xml ---
+
+--- EMBEDDED IMAGE word/media/image1.png (OCR, may contain errors) ---
+im sciences
+--- EMBEDDED IMAGE word/media/image2.png (OCR, may contain errors) ---
+Problems Output Debug Console
+Terminal Ports Query Results
+E: \Study Material\5th Semester All Data\Sir Umer Haroon
+vl.o.o
+vl.l.o
+vl.l.l
+vl.1.2
+E: \Study Material\5th Semester All Data\Sir Umer Haroon
+- Software Construction and Development (Lab)\Lab Task 5> git tag
+- Software Construction and Development (Lab)\Lab Task 5>
+--- EMBEDDED IMAGE word/media/image3.png (OCR, may contain errors) ---
+vl.1.2
+o PS E:\Study Material\5th
+Semester All Data\Sir Umer Haroon - Software Construc
+* 069513a (HEAD "Ein)
+Add lab report and Git history evidence
+9c395c6 Merge hotfix-I. 1.2 into main
+I * 0f30518 (tag: vl.1.2,
+hotfix-I. 1.2) Apply passing grade fix to 1.1 .x
+I I * 0163d7c (
+feature-l.2.ø) Begin development of per-subject grade labels
+* I e844d57 (tag: VI. 1.1) Update release notes for VI. 1.1
+* 1 2a7db80 Fix passing grade boundary
+* 8b83ae9 (tag: vl.l.ø) Update release notes for VI. 1.0
+* 579abb6 Add support for five subjects
+* 33692b5 (tag: vl.ø.ø) Add release notes for vl.0.0
+* 6aa598a Initial commit: Student Grade Calculator vl.0.0
+(END)
+9c395c6 Merge hotfix-I. 1.2 into main
+I * 0f30518 (tag: VI. 1.2, hotfix-I. 1.2) Apply passing grade fix to 1.1 .x
+I I * 0163d7c (
+feature-l.2.ø) Begin development of per-subject grade labels
+* I e844d57 (tag: VI. 1.1) Update release notes for VI. 1.1
+* 1 2a7db80 Fix passing grade boundary
+* 8b83ae9 (tag: vl.l.ø) Update release notes for VI. 1.0
+* 579abb6 Add support for five subjects
+* 33692b5 (tag: vl.ø.ø) Add release notes for vl.0.0
+--- EMBEDDED IMAGE word/media/image4.png (OCR, may contain errors) ---
+ulator.py
+Enter student name: Abdul
+Enter marks for subject
+Enter marks for subject
+Enter marks for subject
+Enter marks for subject
+Enter marks for subject
+Student: Abdul Samad
+Average: 50.0
+Result: FAIL
+1:
+2:
+3:
+a:
+5:
+Samad
+50
+50
+50
+50
+50
+PS E:\Study Material\5th Semester All Data\Sir Umer Haroon
+- Software Construction and Development (Lab)\Lab Task 5>
+
+==========================================================================================
+FILE 22/50: Lab Task 5\Git_Versioning_Releases_Lab.pdf
+TYPE: .pdf
+SIZE: 81797 bytes
+==========================================================================================
+--- PAGE 1 ---
+This makes the lab more of a discovery exercise rather than simply following a lecture
+recipe. By the end of this lab, you should be able to:
+
+  •  Explain why software projects use versions
+  •  Apply the principles of Semantic Versioning (SemVer)
+  •  Create and use Git tags
+  • Understand what a release is in software development
+  •  Distinguish between a feature release and a patch release
+  •  Create a separate branch to fix a bug
+  •  Apply a patch to an older version
+  •  Maintain a simple release history
+  •  Explain how developers maintain software after releasing it
+
+
+ Important: You have not studied this topic in lecture yet. Do not worry if terms such as
+  release, tag, patch, and semantic versioning are new. This lab introduces each concept
+  while you perform the task.
+
+Part 1 — Scenario
+
+Imagine that you are a software developer working on a small application called:
+
+Student Grade Calculator
+
+The first version of the application can calculate a student's average marks and determine
+whether the student has passed.
+
+Your team wants to release the application to users.
+
+After releasing version 1.0.0, users request a new feature.
+
+Later, you discover a bug.
+
+Your job is to manage the application's versions and releases using Git.
+
+Part 2 — Setting Up Your Working Directory
+
+You will create the project from scratch in your own working directory. This lab does not
+depend on any pre-existing online repository.
+
+Open a terminal and run:
+
+
+bash
+
+  mkdir student-grade-calculator
+  cd student-grade-calculator
+  git init
+
+You should see:
+
+
+text
+
+  Initialized empty Git repository in .../student-grade-calculator/.git/
+
+Check the status:
+
+
+
+
+
+                                            Page 1
+
+--- PAGE 2 ---
+bash
+
+  git status
+
+You should see that you are on branch main (or master) with no commits yet.
+
+ Note: If your Git uses master as the default branch, you can rename it:
+
+
+bash
+
+  git branch -M main
+
+Part 3 — Create the Starter Files
+
+Create the following three files inside student-grade-calculator/.
+
+File 1: README.md
+
+markdown
+
+  # Student Grade Calculator
+
+
+  A simple Python application that calculates a student's average marks
+  and determines whether the student has passed or failed.
+
+
+  ## Version
+
+
+  1.0.0
+
+
+  ## Requirements
+
+
+  - Python 3.x
+  - No external packages required
+
+
+  ## Usage
+
+
+      python grade_calculator.py
+
+
+  Enter the student's name and marks for three subjects when prompted.
+
+
+  ## Output
+
+
+  The program displays:
+  - Student name
+  - Average marks
+  - Result (PASS or FAIL)
+
+
+
+
+
+                                            Page 2
+
+--- PAGE 3 ---
+File 2: grade_calculator.py
+
+python
+
+  """
+  Student Grade Calculator
+
+
+  Version: 1.0.0
+  """
+
+
+  def calculate_average(marks):
+      """Calculate the average of a list of marks."""
+      if not marks:
+          return 0
+      return sum(marks) / len(marks)
+
+
+  def get_result(average):
+      """Determine whether the student passed or failed."""
+      if average >= 50:
+          return "PASS"
+      else:
+          return "FAIL"
+
+
+  def main():
+      student_name = input("Enter student name: ")
+
+
+      marks = [
+          float(input("Enter marks for subject 1: ")),
+          float(input("Enter marks for subject 2: ")),
+          float(input("Enter marks for subject 3: "))
+      ]
+
+
+      average = calculate_average(marks)
+      result = get_result(average)
+
+
+      print("\nStudent:", student_name)
+      print("Average:", round(average, 2))
+      print("Result:", result)
+
+
+  if __name__ == "__main__":
+      main()
+
+File 3: requirements.txt
+
+text
+
+  # No external packages required
+
+File 4: .gitignore (recommended)
+
+text
+
+  __pycache__/
+  *.pyc
+  *.pyo
+  *.pyd
+  .Python
+  env/
+  venv/
+  .venv/
+  .vscode/
+  .idea/
+  *.log
+  .DS_Store
+
+
+
+
+
+                                            Page 3
+
+--- PAGE 4 ---
+Part 4 — Your First Version
+
+Run the program:
+
+
+bash
+
+  python grade_calculator.py
+
+Test it with:
+
+
+text
+
+  Student: Ali
+  Subject 1: 70
+  Subject 2: 60
+  Subject 3: 80
+
+Expected result:
+
+
+text
+
+  Student: Ali
+  Average: 70.0
+  Result: PASS
+
+Now commit your work:
+
+
+bash
+
+  git add .
+  git commit -m "Initial commit: Student Grade Calculator v1.0.0"
+
+Inspect Git:
+
+
+bash
+
+  git log --oneline
+
+Question 1
+
+Why is it useful to keep a history of changes in a software project?
+
+Write your answer in your lab report.
+
+Part 5 — Understanding Version Numbers
+
+You will use the following format:
+
+
+text
+
+  MAJOR.MINOR.PATCH
+
+For example:
+
+
+text
+
+  1.2.3
+
+These numbers have different meanings.
+
+MAJOR
+
+Increase the MAJOR number when you make a change that may break existing users.
+
+Example:
+
+
+text
+
+  1.0.0 → 2.0.0
+
+
+
+
+                                            Page 4
+
+--- PAGE 5 ---
+MINOR
+
+Increase MINOR when you add a new feature while maintaining compatibility.
+
+Example:
+
+
+text
+
+  1.0.0 → 1.1.0
+
+PATCH
+
+Increase PATCH when you fix a bug without adding a major new feature.
+
+Example:
+
+
+text
+
+  1.1.0 → 1.1.1
+
+This convention is called Semantic Versioning, commonly written as:
+
+
+text
+
+  SemVer
+
+Part 6 — Create Release 1.0.0
+
+A release is a snapshot of your project that you mark as ready for users. In Git, we mark
+releases using tags.
+
+Make sure everything is committed:
+
+
+bash
+
+  git status
+
+Create a Git tag:
+
+
+bash
+
+  git tag -a v1.0.0 -m "Release v1.0.0 - Initial release"
+
+ Note: The -a flag creates an annotated tag, which stores a message, author, and date
+ — just like a commit. This is the recommended way to tag releases.
+
+
+Verify the tag:
+
+
+bash
+
+  git tag
+
+You should see:
+
+
+text
+
+  v1.0.0
+
+Inspect the tag details:
+
+
+bash
+
+  git show v1.0.0
+
+Now write your release notes in a file called RELEASES.md:
+
+
+
+
+
+                                            Page 5
+
+--- PAGE 6 ---
+markdown
+
+  # Release History
+
+
+  ## v1.0.0 — Initial Release
+
+
+  Features:
+  - Calculate student average
+  - Determine PASS/FAIL
+  - Support three subjects
+
+Commit the release notes:
+
+
+bash
+
+  git add RELEASES.md
+  git commit -m "Add release notes for v1.0.0"
+
+ Important: The tag v1.0.0 points to the commit before the release notes file. If you
+ want the tag to include the release notes, tag the new commit instead:
+
+
+bash
+
+  git tag -d v1.0.0
+  git tag -a v1.0.0 -m "Release v1.0.0 - Initial release"
+
+Part 7 — Add a New Feature
+
+Your users now request:
+
+"The application should support five subjects instead of three."
+
+This is a new feature.
+
+Modify grade_calculator.py. Change:
+
+
+python
+
+  marks = [
+      float(input("Enter marks for subject 1: ")),
+      float(input("Enter marks for subject 2: ")),
+      float(input("Enter marks for subject 3: "))
+  ]
+
+to:
+
+
+python
+
+  marks = []
+
+
+  for i in range(1, 6):
+      mark = float(input(f"Enter marks for subject {i}: "))
+      marks.append(mark)
+
+Update the version in the docstring:
+
+
+text
+
+  Version: 1.1.0
+
+Update README.md to mention five subjects.
+
+Test your program.
+
+Then commit:
+
+
+
+
+
+                                            Page 6
+
+--- PAGE 7 ---
+bash
+
+  git add .
+  git commit -m "Add support for five subjects"
+
+Create a tag:
+
+
+bash
+
+  git tag -a v1.1.0 -m "Release v1.1.0 - Support for five subjects"
+
+Update RELEASES.md:
+
+
+markdown
+
+  ## v1.1.0 — Five-Subject Support
+
+
+  New features:
+  - Support five subjects
+  - Improved input handling
+
+Commit and re-tag:
+
+
+bash
+
+  git add RELEASES.md
+  git commit -m "Update release notes for v1.1.0"
+  git tag -d v1.1.0
+  git tag -a v1.1.0 -m "Release v1.1.0 - Support for five subjects"
+
+Part 8 — You Have a Bug!
+
+Now imagine that a user reports the following:
+
+"When I enter marks such as 50, 50 and 50, the result is PASS. But our university considers
+a student to pass only when the average is greater than 50."
+
+Your current code says:
+
+
+python
+
+  if average >= 50:
+
+But according to the new requirement, it should be:
+
+
+python
+
+  if average > 50:
+
+This is a bug fix.
+
+Your task
+
+Create a new branch:
+
+
+bash
+
+  git checkout -b fix-passing-rule
+
+Fix the code.
+
+Then update the version:
+
+
+text
+
+  Version: 1.1.1
+
+Test:
+
+
+
+
+
+                                            Page 7
+
+--- PAGE 8 ---
+text
+
+  50
+  50
+  50
+
+Expected:
+
+
+text
+
+  Average: 50.0
+  Result: FAIL
+
+Part 9 — Commit the Patch
+
+Commit your bug fix:
+
+
+bash
+
+  git add .
+  git commit -m "Fix passing grade boundary"
+
+View the branch history:
+
+
+bash
+
+  git log --oneline --decorate
+
+You should see that your fix-passing-rule branch is ahead of main by one commit.
+
+Part 10 — Merge the Patch
+
+Switch back to main:
+
+
+bash
+
+  git checkout main
+
+Merge the bug fix:
+
+
+bash
+
+  git merge fix-passing-rule
+
+You should see a "Fast-forward" merge message.
+
+Optional: For a more realistic workflow, you could use --no-ff to force a merge commit:
+
+
+bash
+
+  git merge --no-ff fix-passing-rule -m "Merge fix-passing-rule into main"
+
+Now create the patch tag:
+
+
+bash
+
+  git tag -a v1.1.1 -m "Release v1.1.1 - Fix passing grade boundary"
+
+Update RELEASES.md:
+
+
+markdown
+
+  ## v1.1.1 — Passing Grade Boundary Fix
+
+
+  Bug Fixes:
+  - Fixed the passing-grade boundary.
+  - An average of exactly 50 is now considered FAIL.
+
+
+
+
+
+                                            Page 8
+
+--- PAGE 9 ---
+Commit and re-tag:
+
+
+bash
+
+  git add RELEASES.md
+  git commit -m "Update release notes for v1.1.1"
+  git tag -d v1.1.1
+  git tag -a v1.1.1 -m "Release v1.1.1 - Fix passing grade boundary"
+
+Delete the now-merged branch:
+
+
+bash
+
+  git branch -d fix-passing-rule
+
+Part 11 — Inspect Your Release History
+
+Run:
+
+
+bash
+
+  git tag
+
+You should see:
+
+
+text
+
+  v1.0.0
+  v1.1.0
+  v1.1.1
+
+Now run:
+
+
+bash
+
+  git log --oneline --decorate --all --graph
+
+You should be able to see your release history.
+
+Your development history should roughly represent:
+
+
+text
+
+  v1.0.0
+     |
+     |--- New feature
+     |
+  v1.1.0
+     |
+     |--- Bug discovered
+     |
+     |--- fix-passing-rule
+     |
+  v1.1.1
+
+You can also compare two releases:
+
+
+bash
+
+  git diff v1.1.0 v1.1.1
+
+This shows exactly what changed between the two releases.
+
+Part 12 — Understanding What You Just Did
+
+You have now experienced three different types of changes.
+
+
+
+
+
+                                            Page 9
+
+--- PAGE 10 ---
+Version        Change                             Type
+
+  v1.0.0                 Initial application                            Major release
+
+  v1.1.0          Added five-subject support                   Minor release
+
+  v1.1.1            Fixed passing-grade bug                     Patch release
+
+
+This is the basic idea behind Semantic Versioning.
+
+Part 13 — Investigation
+
+Now explore your local repository using Git commands.
+
+Answer the following questions.
+
+Q1
+
+What is the difference between a Git commit and a Git tag?
+
+Q2
+
+Why did we create:
+
+
+text
+
+  v1.1.1
+
+instead of:
+
+
+text
+
+  v2.0.0
+
+for the bug fix?
+
+Q3
+
+What would justify changing:
+
+
+text
+
+  1.1.1 → 1.2.0
+
+Give one example.
+
+Q4
+
+What would justify changing:
+
+
+text
+
+  1.1.1 → 2.0.0
+
+Give one example.
+
+Q5
+
+Why did we create a separate branch for the bug fix?
+
+Q6
+
+What is the difference between a release and a patch?
+
+
+
+
+
+                                           Page 10
+
+--- PAGE 11 ---
+Q7
+
+Why might a software company need to maintain older versions of its software?
+
+Part 14 — Challenge Task
+
+Now imagine version 1.1.0 is already being used by 1,000 users.
+
+You discover the bug we fixed in 1.1.1.
+
+However, you are currently developing a completely new feature for version 1.2.0.
+
+You do not want to release the unfinished 1.2.0 feature just to fix the bug.
+
+Task
+
+Create this situation using Git.
+
+Your repository should eventually contain:
+
+
+text
+
+  main
+   |
+   +--- development of 1.2.0
+   |
+   +--- bug fix for 1.1.x
+
+Create:
+
+
+text
+
+  v1.1.2
+
+as another patch release.
+
+Hints
+
+You can use tags and branches to represent this. For example:
+
+
+bash
+
+  # Create a branch for the 1.2.0 development
+  git checkout -b feature-1.2.0
+
+
+  # Make some changes, commit them (but don't release)
+
+
+  # Go back to the v1.1.0 tag
+  git checkout -b hotfix-1.1.2 v1.1.0
+
+
+  # Fix the bug, commit, tag v1.1.2
+  git tag -a v1.1.2 -m "Release v1.1.2 - Patch for 1.1.x"
+
+
+  # Merge the hotfix back into main
+  git checkout main
+  git merge hotfix-1.1.2
+
+Think about:
+
+Why would a real software company want to release a bug fix separately from its upcoming
+features?
+
+
+
+
+
+                                           Page 11
+
+--- PAGE 12 ---
+Part 15 — Git Commands Cheat Sheet
+
+You may use the following commands during the lab.
+
+Initialize a repository
+
+bash
+
+  git init
+
+Check status
+
+bash
+
+  git status
+
+See commits
+
+bash
+
+  git log --oneline
+
+See commits with tags and branches
+
+bash
+
+  git log --oneline --decorate --all --graph
+
+Create a branch
+
+bash
+
+  git checkout -b branch-name
+
+Switch branch
+
+bash
+
+  git checkout main
+
+Stage changes
+
+bash
+
+  git add .
+
+Commit
+
+bash
+
+  git commit -m "Your message"
+
+Create an annotated tag
+
+bash
+
+  git tag -a v1.0.0 -m "Release message"
+
+List tags
+
+bash
+
+  git tag
+
+Show tag details
+
+bash
+
+  git show v1.0.0
+
+Delete a tag
+
+bash
+
+  git tag -d v1.0.0
+
+
+
+
+
+                                           Page 12
+
+--- PAGE 13 ---
+Compare two tags
+
+bash
+
+  git diff v1.1.0 v1.1.1
+
+Merge a branch
+
+bash
+
+  git merge branch-name
+
+Delete a branch
+
+bash
+
+  git branch -d branch-name
+
+Submission Requirements
+
+Students should submit:
+
+    1. A copy of the final repository (as a .zip file or a link to a drive folder if its large)
+
+    2. A screenshot or text output of:
+    – git tag
+    – git log --oneline --decorate --all --graph
+
+    3. The contents of RELEASES.md showing all three releases
+
+    4. Answers to Questions
+
+    5. Challenge task implementation (commands used and resulting history)
+
+    6. A short reflection:
+
+What is the difference between releasing a new feature and releasing a patch?
+
+
+
+
+
+                                           Page 13
+
+==========================================================================================
+FILE 23/50: Lab Task 5\LAB_REPORT.md
+TYPE: .md
+SIZE: 3518 bytes
+==========================================================================================
+# Git Versioning and Releases Lab Report
+
+## Project
+
+Student Grade Calculator
+
+## Release Summary
+
+| Version | Change                                                | Type          |
+| ------- | ----------------------------------------------------- | ------------- |
+| v1.0.0  | Initial calculator with three subjects                | Major release |
+| v1.1.0  | Added support for five subjects                       | Minor release |
+| v1.1.1  | Changed the passing boundary from `>= 50` to `> 50`   | Patch release |
+| v1.1.2  | Applied the same bug fix to the maintained 1.1.x line | Patch release |
+
+## Investigation Answers
+
+### Q1. What is the difference between a Git commit and a Git tag?
+
+A commit records a set of changes in the development history. A tag is a named, stable reference to a specific commit, commonly used to identify a release such as `v1.1.0`. Annotated tags also store a release message, author, and date.
+
+### Q2. Why was v1.1.1 used instead of v2.0.0?
+
+The change only fixed a bug and did not add a breaking change or new feature. Semantic Versioning therefore requires increasing the PATCH number from `1.1.0` to `1.1.1`.
+
+### Q3. What would justify changing 1.1.1 to 1.2.0?
+
+Adding a compatible feature, such as support for importing marks from a CSV file, would justify a MINOR release.
+
+### Q4. What would justify changing 1.1.1 to 2.0.0?
+
+Removing the existing interactive input interface or changing the public function behavior in a way that breaks existing users would justify a MAJOR release.
+
+### Q5. Why create a separate branch for the bug fix?
+
+A separate branch isolates the fix from ongoing development, makes it easier to test and review, and allows the fix to be merged into the release branch without including unfinished work.
+
+### Q6. What is the difference between a release and a patch?
+
+A release is a version of the software marked as ready for users. A patch is a small change, usually a bug fix, that can be delivered as a PATCH release without adding a major feature.
+
+### Q7. Why maintain older versions?
+
+Some users cannot upgrade immediately because of compatibility, stability, certification, or deployment constraints. Maintaining older versions lets the team provide security and bug fixes without forcing users to adopt unfinished or incompatible features.
+
+## Challenge Task
+
+The challenge was implemented with these branches and tags:
+
+1. `feature-1.2.0` was created from `main` and received an unfinished per-subject grade-label change. It remains unreleased.
+2. `hotfix-1.1.2` was created from the released `v1.1.0` tag.
+3. The passing-grade boundary fix was applied on `hotfix-1.1.2`, tested with five marks of `50`, committed, and tagged as `v1.1.2`.
+4. `hotfix-1.1.2` was merged into `main`; the release history preserves both `v1.1.1` and `v1.1.2`.
+
+This lets users of the stable 1.1.x line receive the bug fix without receiving the unfinished 1.2.0 feature.
+
+## Verification
+
+The boundary test used five marks of `50` and produced:
+
+```text
+Average: 50.0
+Result: FAIL
+```
+
+The final repository contains annotated tags `v1.0.0`, `v1.1.0`, `v1.1.1`, and `v1.1.2`.
+
+## Reflection
+
+A feature release adds compatible user-facing functionality and increases the MINOR version. A patch release corrects a bug without adding a major feature and increases the PATCH version. Keeping these release types distinct tells users what kind of change to expect and makes maintenance safer.
+
+
+==========================================================================================
+FILE 24/50: Lab Task 5\student-grade-calculator\.gitignore
+TYPE: no extension
+SIZE: 99 bytes
+==========================================================================================
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+.vscode/
+.idea/
+*.log
+.DS_Store
+
+==========================================================================================
+FILE 25/50: Lab Task 5\student-grade-calculator\GIT_HISTORY.txt
+TYPE: .txt
+SIZE: 594 bytes
+==========================================================================================
+Git tags:
+v1.0.0
+v1.1.0
+v1.1.1
+v1.1.2
+
+Git history:
+*   9c395c6 (HEAD -> main) Merge hotfix-1.1.2 into main
+|\
+| * 0f30518 (tag: v1.1.2, hotfix-1.1.2) Apply passing grade fix to 1.1.x
+| | * 0163d7c (feature-1.2.0) Begin development of per-subject grade labels
+| |/
+|/|
+* | e844d57 (tag: v1.1.1) Update release notes for v1.1.1
+* | 2a7db80 Fix passing grade boundary
+|/
+* 8b83ae9 (tag: v1.1.0) Update release notes for v1.1.0
+* 579abb6 Add support for five subjects
+* 33692b5 (tag: v1.0.0) Add release notes for v1.0.0
+* 6aa598a Initial commit: Student Grade Calculator v1.0.0
+
+==========================================================================================
+FILE 26/50: Lab Task 5\student-grade-calculator\grade_calculator.py
+TYPE: .py
+SIZE: 835 bytes
+==========================================================================================
+"""
+Student Grade Calculator
+Version: 1.1.2
+"""
+
+
+def calculate_average(marks):
+    """Calculate the average of a list of marks."""
+    if not marks:
+        return 0
+    return sum(marks) / len(marks)
+
+
+def get_result(average):
+    """Determine whether the student passed or failed."""
+    if average > 50:
+        return "PASS"
+    else:
+        return "FAIL"
+
+
+def main():
+    student_name = input("Enter student name: ")
+    marks = []
+    for subject_number in range(1, 6):
+        mark = float(input(f"Enter marks for subject {subject_number}: "))
+        marks.append(mark)
+    average = calculate_average(marks)
+    result = get_result(average)
+    print("\nStudent:", student_name)
+    print("Average:", round(average, 2))
+    print("Result:", result)
+
+
+if __name__ == "__main__":
+    main()
+
+==========================================================================================
+FILE 27/50: Lab Task 5\student-grade-calculator\README.md
+TYPE: .md
+SIZE: 474 bytes
+==========================================================================================
+# Student Grade Calculator
+
+A simple Python application that calculates a student's average marks and determines whether the student has passed or failed.
+
+## Version
+
+1.1.2
+
+## Requirements
+
+- Python 3.x
+- No external packages required
+
+## Usage
+
+```text
+python grade_calculator.py
+```
+
+Enter the student's name and marks for five subjects when prompted.
+
+## Output
+
+The program displays:
+
+- Student name
+- Average marks
+- Result (PASS or FAIL)
+
+
+==========================================================================================
+FILE 28/50: Lab Task 5\student-grade-calculator\RELEASES.md
+TYPE: .md
+SIZE: 524 bytes
+==========================================================================================
+# Release History
+
+## v1.0.0 - Initial Release
+
+Features:
+
+- Calculate student average
+- Determine PASS/FAIL
+- Support three subjects
+
+## v1.1.0 - Five-Subject Support
+
+New features:
+
+- Support five subjects
+- Improved input handling
+
+## v1.1.1 - Passing Grade Boundary Fix
+
+Bug fixes:
+
+- Fixed the passing-grade boundary.
+- An average of exactly 50 is now considered FAIL.
+
+## v1.1.2 - Patch for 1.1.x
+
+Bug fixes:
+
+- Applied the passing-grade boundary fix to the maintained 1.1.x release line.
+
+
+==========================================================================================
+FILE 29/50: Lab Task 5\student-grade-calculator\requirements.txt
+TYPE: .txt
+SIZE: 31 bytes
+==========================================================================================
+# No external packages required
+
+==========================================================================================
+FILE 30/50: Lab Task 6.1\Abdul Samad - BSSE Group A - 5th Semester Lab Task 6.1.docx
+TYPE: .docx
+SIZE: 411458 bytes
+==========================================================================================
+ 
+Name: Abdul Samad 
+Program: BSSE Group A 
+Semester: 5th 
+Date: October 15, 2026
+*-----------------------------------------------* 
+Lab Task 6.1
+Task 1:
+
+Password Validation:
+
+
+
+
+
+
+Task 2:
+
+Post Cleaning:
+
+*-----------------------------------------------* 
+The End 
+--- word/footnotes.xml ---
+
+--- word/endnotes.xml ---
+
+--- word/header1.xml ---
+
+--- word/header2.xml ---
+
+--- word/header3.xml ---
+
+--- EMBEDDED IMAGE word/media/image1.png (OCR, may contain errors) ---
+im sciences
+--- EMBEDDED IMAGE word/media/image2.png (OCR, may contain errors) ---
+Problems Output Debug Console Terminal Ports Query Results
+• PS E: \Study Plateria1\5th Semester All
+Enter a password: AAdd541@$
+The chosen passvnrd is strong.
+• PS E: \study Material\5th Semester All
+Enter a password: Ad5d
+The chosen password is not strong.
+• PS E: \study Material\5th semester All
+Enter a password: Aadda41@
+The chosen password is strong.
+• PS E: \study Material\5th semester All
+Enter a password: A d23
+The chosen passwrd is not strong.
+• PS E: \Study Flateria1\5th Semester All
+Enter a password: A 3241242&dh
+The chosen password is strong.
+• PS E: \Study Material\5th Semester All
+Enter a password: pa$$wørd123!
+The chosen passvnrd is strong.
+• PS E: \study Material\5th Semester All
+Enter a password: Hellc@2e21
+The chosen password is strong.
+• PS E: \study Material\5th semester All
+Enter a password: password123!
+The chosen passpord is not strong.
+• PS E: \study Material\5th semester All
+Enter a password: password123
+The chosen passwrd is not strong.
+% ps E:\Study Material\5th Semester All
+Data\Sir uner Haroon -
+Software Construction and
+Data\sir Lher Haroon -
+Software Construction and
+Data\sir Lkner• Haroon
+- Software Construction and
+Data\sir uner Haroon •
+software construction and
+Data\Sir liner Haroon
+- Software Construction and
+Data\Sir uner Haroon -
+Software Construction and
+Data\sir Lher Haroon -
+Software Construction and
+Data\sir Lkner• Haroon
+- Software Construction and
+Data\sir uner Haroon •
+software construction and
+Data\Sir liner Haroon
+- Software Construction and
+Development
+Development
+Development
+Development
+Devel opment
+Development
+Development
+Development
+Development
+Devel opment
+( Lab) \ Lab
+( Lab) \ Lab
+( Lab) \ Lab
+(Lab)\Lab
+(Lab)\Lab
+( Lab) \ Lab
+( Lab) \ Lab
+( Lab) \ Lab
+(Lab)\Lab
+(Lab)\Lab
+Task
+Task
+Task
+Task
+T ask
+Task
+Task
+Task
+Task
+Task
+6.1> python
+6.1> python
+6.1> python
+6.1> python
+6.1> python
+6.1> python
+6.1> python
+6.1> python
+6.1> python
+. \task. py
+. \task.py
+. \task.py
+. \task.py
+. \task. py
+. \task. py
+. \task.py
+. \task.py
+. \task.py
+--- EMBEDDED IMAGE word/media/image3.png (OCR, may contain errors) ---
+Problems Output Debug Console Terminal Ports Query Results
+• PS Material\5th Sernester All Data\sir Liner Haroon - Software Construction and Developnent (Lab)\Lab Task 6.1> python
+ter All Data\sir l*ner Haroon • software construction and Develwnent (Lab)\Lab Task 6.1\task2.py"
+-u
+"e: Istudy Material 15th
+Cleaned post: phone x12 is excellent! #techreview
+Keyeaor•ds: ['EXCELLENT']
+Hashtags: [ 'TechReview• ]
+prices: [ ]
+nwnbers not preceded by S: []
+Bbdel references: [ 'XIN ]
+Cleaned post: great camera, but average battery life.
+Keywords: [ 'Great']
+Hashtags: C 'smartphone']
+Prices: [l
+NLrür•s not preceded by $: [J
+references: [l
+#smartphone
+cleaned post: phone x12 costs $799 and phone x13 costs $899. #pricecheck
+Keywords : [l
+Hashtags: [ 'pricecheck']
+prices : [
+Nunbers not preceded by $: [l
+podel references: ['x12', 'x13']
+cleaned post: i love the new phone x14! it has 5g support. #innovation
+Keywords: [ 'love ]
+Hashtags: [ ]
+prices: [ ]
+Nunbers not preceded by S: [l
+t•Ode1 refer•ences: [ • XIN ]
+Cleaned post: excellent performance and great design! "technews
+Keywords: ['EXCELLENT', 'GREAT']
+Hashtags: [ 'TechNews']
+prices: [ ]
+r,ngnbers not preceded by S: [l
+Fbdel references: [l
+Cleaned post: phone x15 is available for $999.
+Keywords: [ ]
+Hashtags: [ 'NewLaunch ' ]
+#newlaunch
+
+==========================================================================================
+FILE 31/50: Lab Task 6.1\task.py
+TYPE: .py
+SIZE: 2572 bytes
+==========================================================================================
+import re 
+
+def password_validation(password):
+    pattern = r"^(?=.*[A-Z])(?=.*[a-z])(?=.*[0-9])(?=.*[^a-zA-Z0-9\s]).{8,}$"
+    return re.match(pattern, password)
+
+
+password = input("Enter a password: ")
+if password_validation(password):
+    print("The chosen password is strong.")
+else:    
+    print("The chosen password is not strong.")
+
+# posts = [
+# "@Ali: Phone X12 is EXCELLENT! #TechReview https://example.com/review&quot",
+# "@Sara99: Great camera, but average battery life. #Smartphone",
+# "@TechWorld: Phone X12 costs $799 and Phone X13 costs $899. #PriceCheck",
+# "@Bilal: I love the new PHONE X14! It has 5G support. #Innovation",
+# "@Ayesha: EXCELLENT performance and GREAT design! #TechNews",
+# "@MobileFan: Phone X15 is available for $999. #NewLaunch",
+# "@Hamza: The camera is great, and the display is EXCELLENT! #Photography",
+# "@ZaraTech: Phone X16 has 12GB RAM and costs $1099. https://example.com/phone&quot",
+# "@Usman: I love Phone X17, but its battery lasts only 8 hours. #Review",
+# "@TechGuru: GREAT features at just $699! Phone X18 is impressive. #Gadgets",
+# "@Mina: Phone X19 has 256GB storage and excellent performance. #Technology",
+# "@Farhan: I LOVE this smartphone! Phone X20 costs $1199. #PremiumPhone",
+# "@DigitalWorld: Phone X21 supports 5G and has 16GB RAM. #MobileTech",
+# "@Hira: Great price, excellent camera, and amazing design! #BestPhone",
+# "@AhmedTech: Phone X22 is priced at $899, while Phone X23 costs $999. #Comparison"
+# ]
+
+# price_pattern = r"(?<=\$)\d+"
+# hashtag_pattern = r"(?<=#)[A-Za-z0-9_]+"
+# number_pattern = r"(?<!\$)\b\d+\b"
+
+# model_pattern = r"\bPhone(?=\s+X\d+\b)\s+(X\d+)\b"
+# positive_pattern = r"\b(?:excellent|great|love)\b"
+# url_pattern = r"https?://\S+"
+# username_pattern = r"@\w+:?"
+
+# for post in posts:
+# 	prices = re.findall(price_pattern, post)
+# 	hashtags = re.findall(hashtag_pattern, post)
+# 	numbers = re.findall(number_pattern, post)
+# 	model_references = re.findall(model_pattern, post, re.IGNORECASE)
+# 	positive_keywords = re.findall(positive_pattern, post, re.IGNORECASE)
+
+# 	cleaned_post = re.sub(url_pattern, "", post)
+# 	cleaned_post = re.sub(username_pattern, "", cleaned_post)
+# 	cleaned_post = re.sub(r"\s+", " ", cleaned_post).strip().lower()
+
+# 	print(f"Cleaned post: {cleaned_post}")
+# 	print(f"  Keywords: {positive_keywords}")
+# 	print(f"  Hashtags: {hashtags}")
+# 	print(f"  Prices: {prices}")
+# 	print(f"  Numbers not preceded by $: {numbers}")
+# 	print(f"  Model references: {model_references}")
+# 	print()
+# l
+
+==========================================================================================
+FILE 32/50: Lab Task 6\Abdul Samad - BSSE Group A - 5th Semester Lab Task 6.docx
+TYPE: .docx
+SIZE: 434359 bytes
+==========================================================================================
+ 
+Name: Abdul Samad 
+Program: BSSE Group A 
+Semester: 5th 
+Date: October 15, 2026
+*-----------------------------------------------* 
+Lab Task 6
+Task 1:
+
+Date Validator:
+
+
+
+
+
+Task 2:
+
+Phone Number Validator:
+
+
+
+Task 3
+
+Advanced Date Validation
+
+*-----------------------------------------------* 
+The End 
+--- word/footnotes.xml ---
+
+--- word/endnotes.xml ---
+
+--- word/header1.xml ---
+
+--- word/header2.xml ---
+
+--- word/header3.xml ---
+
+--- EMBEDDED IMAGE word/media/image1.png (OCR, may contain errors) ---
+im sciences
+--- EMBEDDED IMAGE word/media/image2.png (OCR, may contain errors) ---
+Problems Output Debug Console Terminal Ports Query Results
+• PS E: \Study Plateria1\5th Semester All Data\Sir uner Haroon
+- Software Construction and Development (Lab) \ Lab Task python
+Enter the date in the (DD/m/YY): øl 01 2øøø
+The date is invalid
+• PS E: \study Material\5th Semester All Data\sir Lher Haroon
+- Software Construction and Development (Lab)\Lab Task python
+Enter the date in the (DD/m/W): 12/12/2w6
+The date is valid
+• PS E: \study Material\5th Semester All Data\sir Lkner• Haroon
+- Software Construction and Development (Lab)\Lab Task python
+Enter the date in the (DD/M/W): 13-18-2øøø
+The date is invalid
+• PS E: \study Flateria1\5th semester All Data\sir uner Haroon •
+software construction and Development (Lab)\Lab Task python
+Enter the date in the 12-43-3wø
+The date is invalid
+• PS E: \Study Material\5th Semester All Data\Sir ther Haroon
+- Software Construction and Development (Lab)\Lab Task python
+Enter the date in the (DD/m,'W): 12/12/2006
+The date is valid
+PS E: \Study Plateria1\5th Semester All Data\Sir uner Haroon
+- Software Construction and Development (Lab) \ Lab Task
+. \task_l. py
+--- EMBEDDED IMAGE word/media/image3.png (OCR, may contain errors) ---
+problems Output Debug Console Terminal Ports Query Results
+• PS E: \Study Material\5th Semester All Data\Sir liner Haroon
+- Software Construction and Developnent (Lab)\Lab Task python
+Enter your phone number: 0345235404
+The phone nunber is invalid
+• PS E: \Study Material\5th Sernester All Data\sir Liner Haroon
+- Software Construction and Development (Lab)\Lab Task 6> python
+Enter your phone number: +922338927489
+The phone nunber is invalid
+• PS E: \study Material\5th Semester All Data\sir liner Haroon
+- Software Construction and Developnent (Lab) \Lab Task python
+Enter your phone moter: +92 3169515413
+The phone number is valid
+• PS E:\study material\5th semester All Data\sir l'ner Haroon -
+software construction and Develwnent (Lab)\Lab Task python
+Enter your phone mnnber: +92 316 95154132
+The phone nunber is invalid
+• PS E:\Study Material\5th Semester All Data\Sir ther Haroon
+- Software Construction and Developnent (Lab)\Lab Task python
+Enter your phone nwnber: +92 316-9515413
+The phone nurrber is valid
+PS E: \Study Material\5th Semester All Data\Sir liner Haroon
+- Software Construction and Developnent (Lab)\Lab Task
+. py
+.\task l.py
+.\task l.py
+--- EMBEDDED IMAGE word/media/image4.png (OCR, may contain errors) ---
+Problems Output Debug Console
+Terminal Ports
+• PS E:\study semester
+All Data\sir
+Enter the date in the (DD/N•I/YY) :
+12/12/2øøø
+The date is valid
+• PS E:\Study hateria1\Sth Semester
+All Data\Sir
+Enter the date in the (DD/W/YY)
+: 13/12/201
+The date is valid
+• PS E: \Study Material \5th Semester
+All Data\Sir
+Enter the date in the (DO/W/W): 32/ø1/2øøø
+The date is invalid
+• PS E: \study material\5th Semester
+All Data\sir
+Enter the date in the (DO/nm/w): w/ø1/2øøø
+The date is invalid
+• PS material\5th semester All Data\sir
+Enter the date in the (DD/W/YY): e/12/2øøa
+The date is invalid
++.ps E:\study semester All Data\sir
+Query Results
+Unwr
+LJnær
+Uner
+Uner
+Unwr
+software construction
+Haroon -
+- Software Construction
+Haroon
+- Software Construction
+Haroon
+- Software Construction
+Haroon
+- Software Construction
+Haroon
+software construction
+Haroon -
+and
+and
+and
+and
+and
+and
+Development
+Development
+Development
+Development
+Developrrent
+Development
+Task python
+(Lab)\Lab Task python
+Task python
+Task python
+Task python
+Task
+. py
+
+==========================================================================================
+FILE 33/50: Lab Task 6\task_1.py
+TYPE: .py
+SIZE: 948 bytes
+==========================================================================================
+import re 
+
+# def date_validation(date):
+#     pattern = r"^\d{1,2}/\d{1,2}/\d{4}$"
+#     return re.match(pattern, date)
+
+
+# date = input("Enter the date in the (DD/MM/YY): ")
+# if date_validation(date):
+#     print("The date is valid")
+# else:
+#     print("The date is invalid")
+
+
+# def phone_number_validation(phone_number):
+#     pattern = r"^\+92[-\s]\d{3}[-\s]?\d{7}$"
+#     return re.match(pattern, phone_number)
+
+
+# phone_number = input("Enter your phone number: ")
+# if phone_number_validation(phone_number):
+#     print("The phone number is valid")
+# else:
+#     print("The phone number is invalid")
+
+
+def date_validation_advanced(date):
+    pattern = r"^(0?[1-9]|[12]\d|3[01])/(0?[1-9]|1[0-2])/[1-9]\d{3}$"
+    return re.match(pattern, date)
+
+
+date = input("Enter the date in the (DD/MM/YY): ")
+if date_validation_advanced(date):
+    print("The date is valid")
+else:
+    print("The date is invalid")
+
+
+
+==========================================================================================
+FILE 34/50: Lab Task 7.1\Abdul Samad - BSSE Group A - 5h Semester - Lab Task 7.1.docx
+TYPE: .docx
+SIZE: 130122 bytes
+==========================================================================================
+ 
+Name: Abdul Samad 
+Program: BSSE Group A 
+Semester: 5th 
+Date: October 22, 2026
+*-----------------------------------------------* 
+Lab Task 7.1
+Task 3
+
+
+
+Reading Comparison: 
+In my opinion reading the students.yaml is easier that the students.json file because in the yaml we use indentation instead of the curly braces which increases the reading proficiency of the file. And for machine the json will be easier for machine to read as machine can easily identify the curly braces for it. If we talk about the comments so as we know that there are no comments supported in json and on other hand yaml natively supports comments.
+
+Task 4
+(A)
+
+
+
+(B)
+
+
+
+Columnar and Row sum comparison:
+
+Columnar storage keeps values from the same column together on disk. When calculating a GPA sum, the system can read only the GPA column, skipping names, ages, and courses. This reduces the amount of data read and makes analytical queries more efficient.
+
+(C)
+
+1. Public REST API for a mobile app
+I would choose JSON because it is easy to send and receive between a mobile app and a server. In our lab, JSON used less space than XML and required less code to load in Python. It is also widely supported, which makes it a good choice for a public API.
+
+2. Configuration file for a DevOps pipeline
+I would choose YAML because it is easy for me to read and edit. It uses indentation and supports comments, so we can explain what each setting does. In our lab, YAML also had the smallest file size.
+
+3. Internal analytics system with millions of records
+I would choose a columnar format because it stores the values of each column together. If we only need to calculate the average GPA, we can read the GPA column without reading names, ages, and courses. Our lab example showed how we can get the same result directly from a column.
+
+4. Internal microservice with a response time under ten milliseconds
+I would choose a binary format like Protocol Buffers because its messages are compact and designed for fast processing. This can help services exchange data quickly. We did not test binary formats in our lab, and the response time also depends on the network and the work done by the service.
+
+
+*-----------------------------------------------* 
+The End 
+--- word/footnotes.xml ---
+
+--- word/endnotes.xml ---
+
+--- word/header1.xml ---
+
+--- word/header2.xml ---
+
+--- word/header3.xml ---
+
+--- EMBEDDED IMAGE word/media/image1.png (OCR, may contain errors) ---
+im sciences
+--- EMBEDDED IMAGE word/media/image2.png (OCR, may contain errors) ---
+Problems Output Debug Console Terminal
+Ports Query Results
+• (.venv) PS E:\Study Material\5th Semester All Data\Sir
+Debug mode: True
+Umer Haroon
+powershell v
+. \task3_yam1. py
+Minitwm GPA:
+Students :
+{lid': 101,
+{lid': 102,
+{lid': 104,
+3.5
+name' .
+name' .
+name' .
+' Alex Mercer '
+'age': 20, 'gpa': 3.85, 'courses'.
+'Maya Lin' ,
+'age': 21, 'gpa': 3.92,
+Elena Rostova' ,
+'age': 22, 'gpa': 3.7, 'courses'.
+- Software Construction and Development (Lab)\Lab Task 7.1> python
+[ 'Computer Science I', 'Calculus II' , 'Discrete Mathematics ] }
+'Data Structures' , Linear Algebra' ,
+'Technical Writing' ] }
+Type of students: <class 'list' >
+++ (.venv) PS E:\Study Material\5th Semester All Data\Sir
+' courses .
+Umer Haroon
+[ Database Systems' , 'Operating Systems' , 'Software Engineering' ] }
+- Software Construction and Development (Lab)\Lab Task 7.1>
+--- EMBEDDED IMAGE word/media/image3.png (OCR, may contain errors) ---
+Problems Output Debug Console Terminal Ports Query Results
+• (.venv) PS E:\Study Material\5th Semester All Data\Sir Umer Haroon
+students.json size: 864 bytes
+students .xml size: 1221 bytes
+students. yaml size: 596 bytes
+++ (.venv) PS E:\Study Material\5th Semester All Data\Sir Umer Haroon
+powershell
+. \task4 convare.py
+- Software Construction and Development (Lab)\Lab Task 7.1> python
+- Software Construction and Development (Lab)\Lab Task 7.1>
+--- EMBEDDED IMAGE word/media/image4.png (OCR, may contain errors) ---
+Row based GPA sum: 17.3
+Columar GPA sum: 17.3
+Results match: True
+++ (.venv) PS E:\Study Material\5th Semester All Data\Sir Umer Haroon
+- Software Construction and Development (Lab)\Lab Task 7.1>
+
+==========================================================================================
+FILE 35/50: Lab Task 7.1\config.yaml
+TYPE: .yaml
+SIZE: 509 bytes
+==========================================================================================
+debug: true
+min_gpa: 3.5
+students:
+  - id: 101
+    name: Alex Mercer
+    age: 20
+    gpa: 3.85
+    courses:
+      - Computer Science I
+      - Calculus II
+      - Discrete Mathematics
+  - id: 102
+    name: Maya Lin
+    age: 21
+    gpa: 3.92
+    courses:
+      - Data Structures
+      - Linear Algebra
+      - Technical Writing
+  - id: 104
+    name: Elena Rostova
+    age: 22
+    gpa: 3.70
+    courses:
+      - Database Systems
+      - Operating Systems
+      - Software Engineering
+
+
+==========================================================================================
+FILE 36/50: Lab Task 7.1\config_from_yaml.json
+TYPE: .json
+SIZE: 712 bytes
+==========================================================================================
+{
+  "debug": true,
+  "min_gpa": 3.5,
+  "students": [
+    {
+      "id": 101,
+      "name": "Alex Mercer",
+      "age": 20,
+      "gpa": 3.85,
+      "courses": [
+        "Computer Science I",
+        "Calculus II",
+        "Discrete Mathematics"
+      ]
+    },
+    {
+      "id": 102,
+      "name": "Maya Lin",
+      "age": 21,
+      "gpa": 3.92,
+      "courses": [
+        "Data Structures",
+        "Linear Algebra",
+        "Technical Writing"
+      ]
+    },
+    {
+      "id": 104,
+      "name": "Elena Rostova",
+      "age": 22,
+      "gpa": 3.7,
+      "courses": [
+        "Database Systems",
+        "Operating Systems",
+        "Software Engineering"
+      ]
+    }
+  ]
+}
+
+==========================================================================================
+FILE 37/50: Lab Task 7.1\lab_task_7_1.md
+TYPE: .md
+SIZE: 5452 bytes
+==========================================================================================
+# Lab Task 7.1
+
+If you are not present in lab, no need to attempt it
+
+---
+
+## Task 3: YAML and Config Files
+
+### Background
+
+YAML is a human-readable format often used for configuration files. It uses indentation instead of braces and brackets. Python does not include a YAML parser in the standard library, so you must install one using pip install pyyaml. The function yaml.safe_load converts a YAML string to a Python object. The function yaml.safe_dump converts a Python object to a YAML string.
+
+### Scenario
+
+You are building a configuration system for a small application. The configuration includes a list of students, a setting for the minimum GPA to pass, and a flag for whether the system is in debug mode. You will store this configuration in YAML and also in JSON so you can compare them.
+
+### What to Do
+
+#### Part A: Write the Configuration in YAML
+
+Create a file called config.yaml by hand. It should contain a key debug set to true, a key min_gpa set to 3.5, and a key students that holds a list of at least three student records with the same fields as Task 1.
+
+#### Part B: Load the YAML in Python
+
+Create a file called task3_yaml.py. Install pyyaml first using pip. Write a function called load_config that takes a filename and returns the parsed configuration using yaml.safe_load.
+
+Print the value of debug, the value of min_gpa, and loop over the students printing each one. Then print the type of the students value to confirm it is a list.
+
+#### Part C: Convert YAML to JSON
+
+Write a function called yaml_to_json that takes a YAML filename and a JSON filename, loads the YAML, and writes it as JSON. Call it to produce config_from_yaml.json.
+
+Open both files side by side and write a short note in your report. Which one is easier to read as a human. Which one is easier for a machine to parse and why. Which one supports comments and why that matters for configuration.
+
+### Expected Output
+
+```text
+Debug mode: True
+Minimum GPA: 3.5
+
+Students:
+{'name': 'Ali Khan', 'age': 22, 'gpa': 3.75}
+{'name': 'Sara Ahmed', 'age': 21, 'gpa': 3.90}
+{'name': 'John Doe', 'age': 23, 'gpa': 3.60}
+
+Type of students: <class 'list'>
+```
+
+The file config.yaml should look like this.
+
+```yaml
+debug: true
+min_gpa: 3.5
+
+students:
+  - name: Ali Khan
+    age: 22
+    gpa: 3.75
+  - name: Sara Ahmed
+    age: 21
+    gpa: 3.90
+  - name: John Doe
+    age: 23
+    gpa: 3.60
+```
+
+---
+
+## Task 4: Comparing Formats and Columnar Thinking
+
+### Background
+
+Different formats serve different needs. JSON is best for web APIs because browsers parse it natively. XML is best for enterprise systems that need schema validation and namespaces. YAML is best for configuration files because it is readable. Binary formats such as Protocol Buffers and Avro are best for performance-critical systems. Columnar storage is best for analytical queries over large datasets.
+
+This task does not ask you to install a binary format library. Instead, it asks you to think about the tradeoffs concretely by measuring file sizes and simulating columnar access in pure Python.
+
+### What to Do
+
+#### Part A: Measure File Sizes
+
+Write a file called task4_compare.py. Reuse the student data from Task 1. Write the same data to three files, students.json, students.xml, and students.yaml. Use os.path.getsize to print the size of each file in bytes.
+
+#### Part B: Simulate Columnar Access
+
+Write a function called sum_gpa_row_x	based that takes a list of student dictionaries and returns the sum of GPAs by looping over each student and reading the gpa key.ar
+
+
+Write a function called sum_gpa_columnar that takes a dictionary where each key is a column name and each value is a list of values for that column, and returns the sum of the gpa column directly.
+
+Call both functions on the same data and confirm they return the same result. Then write a short note in your report explaining in your own words why the columnar version is more efficient when the data is stored column by column on disk.
+
+#### Part C: Design a Format Choice
+
+Write a short report section answering these questions. If you were building a public REST API for a mobile app, which format would you choose and why. If you were building a configuration file for a DevOps pipeline, which format would you choose and why. If you were building an internal analytics system that scans millions of records to compute averages, which format would you choose and why. If you were building an internal microservice that must respond in under ten milliseconds, which format would you choose and why.
+
+For each question, justify your answer using what you observed in this lab and what you learned in the theory class.
+
+### Expected Output
+
+```text
+students.json size: 412 bytes
+students.xml size: 624 bytes
+students.yaml size: 298 bytes
+
+Row based GPA sum: 18.5
+Columnar GPA sum: 18.5
+Results match: True
+```
+
+The exact byte counts will depend on the formatting you use. The important thing is the comparison between formats.
+
+### HINTS
+
+For Task 3, install pyyaml with pip before importing it, and always use yaml.safe_load instead of yaml.load for untrusted input. For Task 4, the exact byte counts do not matter as much as the relative comparison between formats. Keep each function focused on one task. Write comments explaining what each function does. Test your code with the sample data before moving on. If something does not work, read the error message carefully, it usually tells you exactly what is wrong.
+
+
+==========================================================================================
+FILE 38/50: Lab Task 7.1\students.json
+TYPE: .json
+SIZE: 864 bytes
+==========================================================================================
+[
+  {
+    "name": "Alice Smith",
+    "age": 20,
+    "courses": [
+      "Introduction to Python",
+      "Data Structures",
+      "Calculus I"
+    ],
+    "gpa": 3.8
+  },
+  {
+    "name": "Bob Jones",
+    "age": 22,
+    "courses": [
+      "Database Systems",
+      "Web Development"
+    ],
+    "gpa": 3.2
+  },
+  {
+    "name": "Charlie Brown",
+    "age": 19,
+    "courses": [
+      "Discrete Mathematics",
+      "Linear Algebra",
+      "Introduction to Python"
+    ],
+    "gpa": 3.9
+  },
+  {
+    "name": "Diana Prince",
+    "age": 21,
+    "courses": [
+      "Artificial Intelligence",
+      "Computer Networks",
+      "Operating Systems"
+    ],
+    "gpa": 3.5
+  },
+  {
+    "name": "Evan Wright",
+    "age": 23,
+    "courses": [
+      "Software Engineering",
+      "Human-Computer Interaction"
+    ],
+    "gpa": 2.9
+  }
+]
+
+==========================================================================================
+FILE 39/50: Lab Task 7.1\students.xml
+TYPE: .xml
+SIZE: 1221 bytes
+==========================================================================================
+<students>
+  <student>
+    <name>Alice Smith</name>
+    <age>20</age>
+    <gpa>3.8</gpa>
+    <courses>
+      <course>Introduction to Python</course>
+      <course>Data Structures</course>
+      <course>Calculus I</course>
+    </courses>
+  </student>
+  <student>
+    <name>Bob Jones</name>
+    <age>22</age>
+    <gpa>3.2</gpa>
+    <courses>
+      <course>Database Systems</course>
+      <course>Web Development</course>
+    </courses>
+  </student>
+  <student>
+    <name>Charlie Brown</name>
+    <age>19</age>
+    <gpa>3.9</gpa>
+    <courses>
+      <course>Discrete Mathematics</course>
+      <course>Linear Algebra</course>
+      <course>Introduction to Python</course>
+    </courses>
+  </student>
+  <student>
+    <name>Diana Prince</name>
+    <age>21</age>
+    <gpa>3.5</gpa>
+    <courses>
+      <course>Artificial Intelligence</course>
+      <course>Computer Networks</course>
+      <course>Operating Systems</course>
+    </courses>
+  </student>
+  <student>
+    <name>Evan Wright</name>
+    <age>23</age>
+    <gpa>2.9</gpa>
+    <courses>
+      <course>Software Engineering</course>
+      <course>Human-Computer Interaction</course>
+    </courses>
+  </student>
+</students>
+
+==========================================================================================
+FILE 40/50: Lab Task 7.1\students.yaml
+TYPE: .yaml
+SIZE: 596 bytes
+==========================================================================================
+- name: Alice Smith
+  age: 20
+  courses:
+  - Introduction to Python
+  - Data Structures
+  - Calculus I
+  gpa: 3.8
+- name: Bob Jones
+  age: 22
+  courses:
+  - Database Systems
+  - Web Development
+  gpa: 3.2
+- name: Charlie Brown
+  age: 19
+  courses:
+  - Discrete Mathematics
+  - Linear Algebra
+  - Introduction to Python
+  gpa: 3.9
+- name: Diana Prince
+  age: 21
+  courses:
+  - Artificial Intelligence
+  - Computer Networks
+  - Operating Systems
+  gpa: 3.5
+- name: Evan Wright
+  age: 23
+  courses:
+  - Software Engineering
+  - Human-Computer Interaction
+  gpa: 2.9
+
+
+==========================================================================================
+FILE 41/50: Lab Task 7.1\task3_yaml.py
+TYPE: .py
+SIZE: 699 bytes
+==========================================================================================
+import json
+from typing import Any, Dict
+import yaml
+
+
+def load_config(filename):
+    with open(filename, "r") as file:
+        return yaml.safe_load(file)
+
+
+def yaml_to_json(yaml_filename, json_filename):
+    config_data = load_config(yaml_filename)
+    with open(json_filename, "w") as json_file:
+        json.dump(config_data, json_file, indent=2)
+
+
+config = load_config("config.yaml")
+print(f"Debug mode: {config.get('debug')}")
+print(f"Minimum GPA: {config.get('min_gpa')}\n")
+print("Students:")
+for student in config.get("students", []):
+    print(student)
+print(f"\nType of students: {type(config.get('students'))}")
+yaml_to_json("config.yaml", "config_from_yaml.json")
+
+==========================================================================================
+FILE 42/50: Lab Task 7.1\task4_compare.py
+TYPE: .py
+SIZE: 1962 bytes
+==========================================================================================
+import json
+import os
+import xml.etree.ElementTree as ET
+import yaml
+
+
+def save_json(students, filename):
+    with open(filename, "w") as file:
+        json.dump(students, file, indent=2)
+
+
+def save_xml(students, filename):
+    root = ET.Element("students")
+    for student in students:
+        student_element = ET.SubElement(root, "student")
+        ET.SubElement(student_element, "name").text = student["name"]
+        ET.SubElement(student_element, "age").text = str(student["age"])
+        ET.SubElement(student_element, "gpa").text = str(student["gpa"])
+
+        courses = ET.SubElement(student_element, "courses")
+        for course in student["courses"]:
+            ET.SubElement(courses, "course").text = course
+
+    ET.indent(root, space="  ")
+    tree = ET.ElementTree(root)
+    tree.write(filename)
+
+
+def save_yaml(students, filename):
+    with open(filename, "w") as file:
+        yaml.safe_dump(students, file, sort_keys=False)
+
+
+def sum_gpa_row_based(students):
+    sum = 0
+    for student in students: 
+        sum += student["gpa"]
+    return sum
+
+
+def sum_gpa_columnar(columns):
+    return sum(columns["gpa"])
+
+
+with open("students.json", "r") as file:
+    students = json.load(file)
+
+save_json(students, "students.json")
+save_xml(students, "students.xml")
+save_yaml(students, "students.yaml")
+
+for filename in ["students.json", "students.xml", "students.yaml"]:
+    size = os.path.getsize(filename)
+    print(f"{filename} size: {size} bytes")
+
+columns = {
+    "name": [],
+    "age": [],
+    "courses": [],
+    "gpa": []
+}
+
+for student in students:
+    columns["name"].append(student["name"])
+    columns["age"].append(student["age"])
+    columns["courses"].append(student["courses"])
+    columns["gpa"].append(student["gpa"])
+
+row_sum = sum_gpa_row_based(students)
+columnar_sum = sum_gpa_columnar(columns)
+
+print(f"\nRow based GPA sum: {row_sum}")
+print(f"Columnar GPA sum: {columnar_sum}")
+print(f"Results match: {row_sum == columnar_sum}")
+
+
+==========================================================================================
+FILE 43/50: Lab Task 7\Abdul Samad - BSSE Group A - 5h Semester - Lab Task 7.docx
+TYPE: .docx
+SIZE: 172969 bytes
+==========================================================================================
+ 
+Name: Abdul Samad 
+Program: BSSE Group A 
+Semester: 5th 
+Date: October 22, 2026
+*-----------------------------------------------* 
+Lab Task 7
+Task 1
+
+Reason for Indentation:
+
+The indentation is used for prettiness of the code. In our example we use the indent=2 in our code so it means that our last curly or any bracket should be indented by 2 indents (which means it will be indented by 8 spaces) to make it more pretty so can make it indent=4 in this case our file will be looking very perfectly nice and more readable.
+
+Task 2
+
+
+Comparison Between Json and XML from my code:
+
+The json file was easier to write by hand than xml file. As in json we can directly write everything while in xml we do write opening and closing tags for each thing so in hand writing json is easier. In short students.json was easier to write than students.xml.
+The xml file was larger in bytes and the reason for that in xml we store the opening and closing tags as well. So it occupy more space that json. Both students.json and top_students.json has less size than students.xml file.
+Json was easier to read for me than xml file.
+The xml file required more code to parse and read its content rather than the xml file.
+
+
+Size comparison Of two files 
+
+
+
+
+
+*-----------------------------------------------* 
+The End 
+--- word/footnotes.xml ---
+
+--- word/endnotes.xml ---
+
+--- word/header1.xml ---
+
+--- word/header2.xml ---
+
+--- word/header3.xml ---
+
+--- EMBEDDED IMAGE word/media/image1.png (OCR, may contain errors) ---
+im sciences
+--- EMBEDDED IMAGE word/media/image2.png (OCR, may contain errors) ---
+Problems Output Debug Console Terminal Ports Query Results
+• PS E:\Study Material\5th Semester All Data\Sir Umer Haroon - Software Construction and Development (Lab)\Lab Task 7> python
+. \taskl_json. py
+Students
+{ 'name' .
+{ 'name' .
+{ 'name' .
+{ 'name' .
+data saved to the file successfully
+'Alice Smith' ,
+'age': 20, 'courses' .
+'Bob Jones '
+'age': 22, 'courses' .
+[ 'Introduction to python', 'Data Structures', 'Calculus I'], 'gpa': 3.8}
+['Database Systems', 'Web Development'], 'gpa': 3 2}
+[ ' Discrete Mathematics ' ,
+' Linear Algebra ,
+'Charlie Brown' ,
+{'name': 'Diana prince'
+'Evan Wright' ,
+'age': 19, 'courses'.
+'age': 21, 'courses' .
+'age': 23, 'courses' .
+Introduction to python'], 'gpa': 3 9}
+[ 'Artificial Intelligence' , 'Computer Networks' , 'Operating Systems I], 'gpa': 3 5}
+[ Software Engineering' , 'Human-Computer Interaction'], 'gpa' : 2.9}
+Students
+{ 'name':
+{ 'name':
+{ 'name':
+Students
+with the gpa higher or equal to 3.5 are:
+'Alice Smith' ,
+'age': 20, 'courses' .
+[ ' Introduction to python ,
+'Data Structures', 'Calculus I'], 'gpa': 3.8}
+'Charlie Brown' ,
+'age': 19, 'courses' .
+[ ' Discrete Mathematics ' ,
+' Linear Algebra' ,
+Introduction to python'], 'gpa': 3 9}
+Diana prince '
+'age': 21, 'courses' .
+[ 'Artificial Intelligence' , 'Computer Networks' , 'Operating Systems I], 'gpa': 3 5}
+data saved to the file successfully
+PS E:\Study Material\5th Semester All Data\Sir Umer Haroon - Software Construction and Development (Lab)\Lab Task 7>
+--- EMBEDDED IMAGE word/media/image3.png (OCR, may contain errors) ---
+Problems Output Debug Console Terminal
+Ports Query Results
+• PS E:\Study Material\5th Semester All Data\Sir Umer Haroon - Software Construction and Development (Lab)\Lab Task 7> python .\task2 xml.py
+{ 'name':
+{ 'name':
+{ 'name':
+{ 'name':
+{ 'name':
+'Alex Rivera'
+'age': '20', 'gpa'•
+'3.85',
+' courses .
+[ Introduction to Computer Science' , 'Calculus I', 'Discrete Mathematics ] }
+' Jordan Chen ,
+'age'
+'22', 'gpa':
+'3.50',
+' courses .
+[ 'Data Structures' , 'Linear Algebra' ] }
+'Taylor Swift', 'age':
+'21', 'gpa'•
+'3.92', '
+courses ' .
+[ 'Creative Writing' ,
+History of rmsic' , 'Microeconomics ] }
+'Morgan Freeman '
+'age'
+'23', 'gpa'•
+'3.15',
+' courses .
+[ ' Introduction to Acting' ,
+' public Speaking' ] }
+Sam Wilson' ,
+' age '
+'19', 'gpa'•
+'3.70',
+' courses .
+[ 'General physics', 'Calculus II', 'Aerodynamics ] }
+PS E:\Study Material\5th Semester All Data\Sir Umer Haroon - Software Construction and Development (Lab)\Lab Task 7>
+--- EMBEDDED IMAGE word/media/image4.png (OCR, may contain errors) ---
+Problems Output Debug Console Terminal Ports Query Results
+• PS E:\Study Material\5th Semester All Data\Sir Umer Haroon
+The json file size is: 864
+The xml file size is: 1493
+PS E:\Study Material\5th Semester All Data\Sir Umer Haroon
+- Software Construction and Development (Lab)\Lab Task 7> python
+- Software Construction and Development (Lab)\Lab Task
+.\get sizes.py
+
+==========================================================================================
+FILE 44/50: Lab Task 7\get_sizes.py
+TYPE: .py
+SIZE: 195 bytes
+==========================================================================================
+import os
+
+json_size = os.path.getsize("students.json")
+xml_size = os.path.getsize("students.xml")
+
+print(f"The json file size is: {json_size}")
+print(f"The xml file size is: {xml_size}")
+
+
+==========================================================================================
+FILE 45/50: Lab Task 7\lab_task_7.md
+TYPE: .md
+SIZE: 5766 bytes
+==========================================================================================
+# Lab Task 7
+
+---
+
+## Task 1: Working with JSON
+
+### Background
+
+JSON is a text format for representing structured data as key-value pairs and lists. Python has a built-in json module that converts Python dictionaries and lists to JSON strings and back. The function json.dumps converts a Python object to a JSON string. The function json.loads converts a JSON string back to a Python object. The functions json.dump and json.load do the same but work with files.
+
+### Scenario
+
+You are building a small student records system. Each student has a name, age, list of courses, and GPA. You will store this data in JSON, read it back, filter it, and write the filtered result to a new file.
+
+### What to Do
+
+#### Part A: Serialize a Python Dictionary to JSON
+
+Create a file called task1_json.py. Inside it, create a list of at least five student dictionaries. Each dictionary should have keys name, age, courses, and gpa. The courses key should hold a list of course names.
+
+Write a function called save_students that takes a list of students and a filename and writes the list to a JSON file using json.dump with an indent of 2.
+
+Write a function called load_students that takes a filename and returns the list of students using json.load.
+
+Call save_students to write your list to a file called students.json. Then call load_students to read it back and print each student.
+
+#### Part B: Filter and Write
+
+Write a function called filter_by_gpa that takes a list of students and a minimum GPA and returns a new list containing only the students whose GPA is greater than or equal to the minimum.
+
+Write a function called save_filtered that takes a list of students and a filename and writes them to a JSON file, reusing save_students.
+
+Call filter_by_gpa with a minimum of 3.5, then call save_filtered to write the result to top_students.json. Print the contents of the filtered list.
+
+#### Part C: Pretty Print and Inspect
+
+Open students.json in a text editor and observe the structure. Notice the curly braces, square brackets, double quotes, and the indentation produced by the indent argument. Then open top_students.json and compare. Write a short note in your report explaining what the indent argument did and why it is useful.
+
+### Expected Output
+
+```text
+Student: Ali Khan, Age: 22, GPA: 3.75, Courses: ['SCD', 'DB']
+Student: Sara Ahmed, Age: 21, GPA: 3.90, Courses: ['SCD', 'OS']
+Student: John Doe, Age: 23, GPA: 3.60, Courses: ['DS', 'DB']
+Student: Ayesha Malik, Age: 20, GPA: 3.40, Courses: ['SCD']
+Student: Bilal Raza, Age: 24, GPA: 3.85, Courses: ['Networks', 'DB']
+
+Students with GPA >= 3.5:
+Student: Ali Khan, Age: 22, GPA: 3.75
+Student: Sara Ahmed, Age: 21, GPA: 3.90
+Student: John Doe, Age: 23, GPA: 3.60
+Student: Bilal Raza, Age: 24, GPA: 3.85
+```
+
+The file students.json should look like this.
+
+```json
+[
+  {
+    "name": "Ali Khan",
+    "age": 22,
+    "courses": ["SCD", "DB"],
+    "gpa": 3.75
+  },
+  {
+    "name": "Sara Ahmed",
+    "age": 21,
+    "courses": ["SCD", "OS"],
+    "gpa": 3.9
+  }
+]
+```
+
+**\*seperate submission files for both tasks**
+
+---
+
+## Task 2: Working with XML
+
+### Background
+
+XML represents data using tags. An element has an opening tag and a closing tag, and may contain text, attributes, or nested elements. Python's xml.etree.ElementTree module parses XML strings and files and lets you navigate the tree of elements. The function ET.fromstring parses a string. The function ET.parse parses a file. The method findall finds all matching child elements. The method find finds the first match. The method get reads an attribute. The attribute .text reads the text content of an element.
+
+### Scenario
+
+You are given the same student data as Task 1, but this time it is in XML. You will parse the XML, extract the data, and convert it to a list of dictionaries so that it can be processed like any other Python data.
+
+### What to Do
+
+#### Part A: Create the XML File
+
+Create a file called students.xml by hand. The root element should be `<students>`. Inside it, create at least five `<student>` elements. Each student element should have an id attribute and child elements for name, age, gpa, and courses. The courses element should contain multiple `<course>` child elements.
+
+#### Part B: Parse the XML
+
+Create a file called task2_xml.py. Write a function called parse_students that takes a filename and returns a list of dictionaries. Each dictionary should have the same keys as in Task 1, name, age, courses, and gpa. Use ET.parse to load the file, findall to find all student elements, find to find each field, and .text to read the text.
+
+Print each student dictionary as you parse it.
+
+#### Part C: Compare JSON and XML
+
+Write a short note in your report answering these questions. Which file was easier to write by hand, students.json or students.xml. Which file was larger in bytes. Which one was easier to read. Which one required more code to parse in Python.
+
+Use the os.path.getsize function or the file size shown in your file explorer to compare file sizes.
+
+### Expected Output
+
+```text
+{'name': 'Ali Khan', 'age': '22', 'gpa': '3.75', 'courses': ['SCD', 'DB']}
+{'name': 'Sara Ahmed', 'age': '21', 'gpa': '3.90', 'courses': ['SCD', 'OS']}
+{'name': 'John Doe', 'age': '23', 'gpa': '3.60', 'courses': ['DS', 'DB']}
+{'name': 'Ayesha Malik', 'age': '20', 'gpa': '3.40', 'courses': ['SCD']}
+{'name': 'Bilal Raza', 'age': '24', 'gpa': '3.85', 'courses': ['Networks', 'DB']}
+```
+
+The file students.xml should look like this.
+
+```xml
+<?xml version="1.0" encoding="UTF-8"?>
+<students>
+    <student id="1">
+        <name>Ali Khan</name>
+        <age>22</age>
+        <gpa>3.75</gpa>
+        <courses>
+            <course>SCD</course>
+            <course>DB</course>
+        </courses>
+    </student>
+</students>
+```
+
+
+==========================================================================================
+FILE 46/50: Lab Task 7\students.json
+TYPE: .json
+SIZE: 864 bytes
+==========================================================================================
+[
+  {
+    "name": "Alice Smith",
+    "age": 20,
+    "courses": [
+      "Introduction to Python",
+      "Data Structures",
+      "Calculus I"
+    ],
+    "gpa": 3.8
+  },
+  {
+    "name": "Bob Jones",
+    "age": 22,
+    "courses": [
+      "Database Systems",
+      "Web Development"
+    ],
+    "gpa": 3.2
+  },
+  {
+    "name": "Charlie Brown",
+    "age": 19,
+    "courses": [
+      "Discrete Mathematics",
+      "Linear Algebra",
+      "Introduction to Python"
+    ],
+    "gpa": 3.9
+  },
+  {
+    "name": "Diana Prince",
+    "age": 21,
+    "courses": [
+      "Artificial Intelligence",
+      "Computer Networks",
+      "Operating Systems"
+    ],
+    "gpa": 3.5
+  },
+  {
+    "name": "Evan Wright",
+    "age": 23,
+    "courses": [
+      "Software Engineering",
+      "Human-Computer Interaction"
+    ],
+    "gpa": 2.9
+  }
+]
+
+==========================================================================================
+FILE 47/50: Lab Task 7\students.xml
+TYPE: .xml
+SIZE: 1493 bytes
+==========================================================================================
+<?xml version="1.0" encoding="UTF-8"?>
+<students>
+    <student id="S101">
+        <name>Alex Rivera</name>
+        <age>20</age>
+        <gpa>3.85</gpa>
+        <courses>
+            <course>Introduction to Computer Science</course>
+            <course>Calculus I</course>
+            <course>Discrete Mathematics</course>
+        </courses>
+    </student>
+    <student id="S102">
+        <name>Jordan Chen</name>
+        <age>22</age>
+        <gpa>3.50</gpa>
+        <courses>
+            <course>Data Structures</course>
+            <course>Linear Algebra</course>
+        </courses>
+    </student>
+    <student id="S103">
+        <name>Taylor Swift</name>
+        <age>21</age>
+        <gpa>3.92</gpa>
+        <courses>
+            <course>Creative Writing</course>
+            <course>History of Music</course>
+            <course>Microeconomics</course>
+        </courses>
+    </student>
+    <student id="S104">
+        <name>Morgan Freeman</name>
+        <age>23</age>
+        <gpa>3.15</gpa>
+        <courses>
+            <course>Introduction to Acting</course>
+            <course>Public Speaking</course>
+        </courses>
+    </student>
+    <student id="S105">
+        <name>Sam Wilson</name>
+        <age>19</age>
+        <gpa>3.70</gpa>
+        <courses>
+            <course>General Physics</course>
+            <course>Calculus II</course>
+            <course>Aerodynamics</course>
+        </courses>
+    </student>
+</students>
+
+
+==========================================================================================
+FILE 48/50: Lab Task 7\task1_json.py
+TYPE: .py
+SIZE: 1854 bytes
+==========================================================================================
+import json
+
+
+def save_students(students, file_name):
+    with open(file_name, "w") as file:
+        json.dump(students, file, indent=2)
+    print("\nStudents data saved to the file successfully")
+
+def load_students(file_name):
+    with open(file_name, "r") as file:
+        students = json.load(file)
+
+    for student in students:
+        print(student)
+
+def filter_by_gpa(students, min_gpa):
+    filtered_list = []
+    for student in students:
+        if student["gpa"] >= min_gpa:
+            filtered_list.append(student)
+
+    print(f"Students with the gpa higher or equal to {min_gpa} are: ")
+    for student in filtered_list:
+        print(student)
+    return filtered_list
+
+
+def save_filtered(filtered_list, file_name):
+    save_students(filtered_list, file_name)
+
+students = [
+    {
+        "name": "Alice Smith",
+        "age": 20,
+        "courses": ["Introduction to Python", "Data Structures", "Calculus I"],
+        "gpa": 3.8
+    },
+    {
+        "name": "Bob Jones",
+        "age": 22,
+        "courses": ["Database Systems", "Web Development"],
+        "gpa": 3.2
+    },
+    {
+        "name": "Charlie Brown",
+        "age": 19,
+        "courses": ["Discrete Mathematics", "Linear Algebra", "Introduction to Python"],
+        "gpa": 3.9
+    },
+    {
+        "name": "Diana Prince",
+        "age": 21,
+        "courses": ["Artificial Intelligence", "Computer Networks", "Operating Systems"],
+        "gpa": 3.5
+    },
+    {
+        "name": "Evan Wright",
+        "age": 23,
+        "courses": ["Software Engineering", "Human-Computer Interaction"],
+        "gpa": 2.9
+    }
+]
+
+
+save_students(students, "students.json")
+print("\n")
+load_students("students.json")
+print("\n")
+filtered_list = filter_by_gpa(students, 3.5)
+save_filtered(filtered_list, "top_students.json")
+
+
+==========================================================================================
+FILE 49/50: Lab Task 7\task2_xml.py
+TYPE: .py
+SIZE: 679 bytes
+==========================================================================================
+import xml.etree.ElementTree as ET
+
+def parse_students(file_name):
+    with open(file_name, "r") as file:
+        data = ET.parse(file)
+    students = data.findall("student")
+    result = []
+    for student in students:
+        name = student.find("name").text
+        age = student.find("age").text
+        gpa = student.find("gpa").text
+        courses = []
+        for course in student.find("courses").findall("course"):
+            courses.append(course.text)
+        student_dict = {"name": name, "age": age, "gpa": gpa, "courses": courses}
+        print(student_dict)
+        result.append(student_dict)
+    return result
+
+parse_students("students.xml")
+
+==========================================================================================
+FILE 50/50: Lab Task 7\top_students.json
+TYPE: .json
+SIZE: 553 bytes
+==========================================================================================
+[
+  {
+    "name": "Alice Smith",
+    "age": 20,
+    "courses": [
+      "Introduction to Python",
+      "Data Structures",
+      "Calculus I"
+    ],
+    "gpa": 3.8
+  },
+  {
+    "name": "Charlie Brown",
+    "age": 19,
+    "courses": [
+      "Discrete Mathematics",
+      "Linear Algebra",
+      "Introduction to Python"
+    ],
+    "gpa": 3.9
+  },
+  {
+    "name": "Diana Prince",
+    "age": 21,
+    "courses": [
+      "Artificial Intelligence",
+      "Computer Networks",
+      "Operating Systems"
+    ],
+    "gpa": 3.5
+  }
+]
+
+==========================================================================================
+EXTRACTION COVERAGE REPORT
+OCR: Lab 1 Task\Class Diagram.png
+EXTRACTED: Lab 1 Task\library_data.json
+EXTRACTED: Lab 1 Task\README.docx
+EXTRACTED: Lab 1 Task\task.py
+EXTRACTED: Lab Task 2.1\Abdul Samad - Lab Task 2.1 - BSSE A 5th.docx
+EXTRACTED: Lab Task 2.1\task.py
+EXTRACTED: Lab Task 2\Abdul Samad - BSSE 5th - Lab Task 2.docx
+EXTRACTED: Lab Task 2\Abdul Samad - BSSE 5th - Lab Task 2.pdf
+EXTRACTED: Lab Task 2\task1.py
+EXTRACTED: Lab Task 2\task2.py
+EXTRACTED: Lab Task 3.1\Abdul Samad - task.docx
+EXTRACTED: Lab Task 3.1\task.py
+EXTRACTED: Lab Task 3\Abdul Samad - Lab 3 Task.docx
+EXTRACTED: Lab Task 3\task.py
+EXTRACTED: Lab Task 4.1\Abdul Samad - Task 4.1 BSSE Group A.docx
+EXTRACTED: Lab Task 4.1\part_c.py
+EXTRACTED: Lab Task 4.1\part_d.py
+EXTRACTED: Lab Task 4\Abdul Samad - Task 4 BSSE Group A.docx
+EXTRACTED: Lab Task 4\lab_4.py
+EXTRACTED: Lab Task 4\part_b.py
+EXTRACTED: Lab Task 5\Abdul Samad - 5th Semester Lab 5.docx
+EXTRACTED: Lab Task 5\Git_Versioning_Releases_Lab.pdf
+EXTRACTED: Lab Task 5\LAB_REPORT.md
+EXTRACTED: Lab Task 5\student-grade-calculator\.gitignore
+EXTRACTED: Lab Task 5\student-grade-calculator\GIT_HISTORY.txt
+EXTRACTED: Lab Task 5\student-grade-calculator\grade_calculator.py
+EXTRACTED: Lab Task 5\student-grade-calculator\README.md
+EXTRACTED: Lab Task 5\student-grade-calculator\RELEASES.md
+EXTRACTED: Lab Task 5\student-grade-calculator\requirements.txt
+EXTRACTED: Lab Task 6.1\Abdul Samad - BSSE Group A - 5th Semester Lab Task 6.1.docx
+EXTRACTED: Lab Task 6.1\task.py
+EXTRACTED: Lab Task 6\Abdul Samad - BSSE Group A - 5th Semester Lab Task 6.docx
+EXTRACTED: Lab Task 6\task_1.py
+EXTRACTED: Lab Task 7.1\Abdul Samad - BSSE Group A - 5h Semester - Lab Task 7.1.docx
+EXTRACTED: Lab Task 7.1\config.yaml
+EXTRACTED: Lab Task 7.1\config_from_yaml.json
+EXTRACTED: Lab Task 7.1\lab_task_7_1.md
+EXTRACTED: Lab Task 7.1\students.json
+EXTRACTED: Lab Task 7.1\students.xml
+EXTRACTED: Lab Task 7.1\students.yaml
+EXTRACTED: Lab Task 7.1\task3_yaml.py
+EXTRACTED: Lab Task 7.1\task4_compare.py
+EXTRACTED: Lab Task 7\Abdul Samad - BSSE Group A - 5h Semester - Lab Task 7.docx
+EXTRACTED: Lab Task 7\get_sizes.py
+EXTRACTED: Lab Task 7\lab_task_7.md
+EXTRACTED: Lab Task 7\students.json
+EXTRACTED: Lab Task 7\students.xml
+EXTRACTED: Lab Task 7\task1_json.py
+EXTRACTED: Lab Task 7\task2_xml.py
+EXTRACTED: Lab Task 7\top_students.json
