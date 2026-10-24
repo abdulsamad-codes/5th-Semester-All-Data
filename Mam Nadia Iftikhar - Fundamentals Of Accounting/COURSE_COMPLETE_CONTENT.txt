@@ -1,6 +1,6 @@
 COMPLETE COURSE TEXT EXPORT
 COURSE FOLDER: Mam Nadia Iftikhar - Fundamentals Of Accounting
-SOURCE: E:\Study Material\5th Semester All Data\Mam Nadia Iftikhar - Fundamentals Of Accounting
+SOURCE: \\?\E:\Study Material\5th Semester All Data\Mam Nadia Iftikhar - Fundamentals Of Accounting
 
 SCOPE: Full readable text, not summaries. Images use OCR; diagrams/layout cannot be fully represented in plain text. Unsupported files and errors are explicitly identified. Source files are unchanged.
 Excluded directory names: .env, .git, .idea, .mypy_cache, .nox, .pytest_cache, .ruff_cache, .tox, .venv, .vscode, __pycache__, dist-packages, env, node_modules, site-packages, vendor, venv
@@ -22,6 +22,8 @@ Mam Nadia Iftikhar - Fundamentals Of Accounting/
         |-- DFD.pdf
         |-- The do's & dont's.pdf
     |-- Mids Quiz/
+        |-- WhatsApp Image 2026-10-20 at 12.10.28 PM (1).jpeg
+        |-- WhatsApp Image 2026-10-20 at 12.10.28 PM.jpeg
 
 EXCLUDED DIRECTORIES
 None
@@ -29,20 +31,28 @@ None
 FILE CONTENTS
 
 ==========================================================================================
-FILE 1/12: Lectures\Acc-1.pdf
+FILE 1/14: Lectures\Acc-1.pdf
 TYPE: .pdf
 SIZE: 1649387 bytes
 ==========================================================================================
 --- PAGE 1 ---
 [OCR: may contain recognition errors]
 gand
+
 kimmgl
+
 J&am for success]
+
 Coby Harmon
+
 University of California, Santa Barbara
+
 Westmont College
+
 ACCOJNTING
+
 PRINCIPLESI
+
 TWELFTH EDITION
 
 --- PAGE 2 ---
@@ -1150,7 +1160,7 @@ Key Points
 1-43                                                        LO 7
 
 ==========================================================================================
-FILE 2/12: Lectures\Acc-2.pdf
+FILE 2/14: Lectures\Acc-2.pdf
 TYPE: .pdf
 SIZE: 3282793 bytes
 ==========================================================================================
@@ -1842,7 +1852,7 @@ A Look at IFRS
 2-40                                                        LO 5
 
 ==========================================================================================
-FILE 3/12: Lectures\ch01-A.pdf
+FILE 3/14: Lectures\ch01-A.pdf
 TYPE: .pdf
 SIZE: 72858 bytes
 ==========================================================================================
@@ -1987,7 +1997,7 @@ Instructions
                             ment and balance sheet.
 
 ==========================================================================================
-FILE 4/12: Lectures\ch01.pdf
+FILE 4/14: Lectures\ch01.pdf
 TYPE: .pdf
 SIZE: 74843 bytes
 ==========================================================================================
@@ -2274,7 +2284,7 @@ Determine the missing amounts.
                             Prepare the 2017 owner’s equity statement for Jeff Tabor’s legal practice.
 
 ==========================================================================================
-FILE 5/12: Lectures\ch02-Exercises.pdf
+FILE 5/14: Lectures\ch02-Exercises.pdf
 TYPE: .pdf
 SIZE: 70620 bytes
 ==========================================================================================
@@ -2570,7 +2580,7 @@ Instructions
                               the missing amount for Cash.
 
 ==========================================================================================
-FILE 6/12: Lectures\ch02-Problems.pdf
+FILE 6/14: Lectures\ch02-Problems.pdf
 TYPE: .pdf
 SIZE: 86503 bytes
 ==========================================================================================
@@ -2759,7 +2769,7 @@ Instructions
 
 
 ==========================================================================================
-FILE 7/12: Lectures\ch03.pdf
+FILE 7/14: Lectures\ch03.pdf
 TYPE: .pdf
 SIZE: 3017797 bytes
 ==========================================================================================
@@ -3920,7 +3930,7 @@ Cost Constraint
                                                           LO 63-60
 
 ==========================================================================================
-FILE 8/12: Lectures\ch04.pdf
+FILE 8/14: Lectures\ch04.pdf
 TYPE: .pdf
 SIZE: 2430025 bytes
 ==========================================================================================
@@ -4819,7 +4829,7 @@ Owner’s Equity
 4-42                                                        LO 4
 
 ==========================================================================================
-FILE 9/12: Lectures\ch05.pdf
+FILE 9/14: Lectures\ch05.pdf
 TYPE: .pdf
 SIZE: 1538503 bytes
 ==========================================================================================
@@ -5749,7 +5759,7 @@ Classified Balance Sheet
 5-43                                                        LO 5
 
 ==========================================================================================
-FILE 10/12: Lectures\CourseSyllabus-Accounting.docx
+FILE 10/14: Lectures\CourseSyllabus-Accounting.docx
 TYPE: .docx
 SIZE: 23323 bytes
 ==========================================================================================
@@ -5792,7 +5802,7 @@ Course Syllabus –
 Principles of Accounting
 
 ==========================================================================================
-FILE 11/12: Lectures\DFD.pdf
+FILE 11/14: Lectures\DFD.pdf
 TYPE: .pdf
 SIZE: 74902 bytes
 ==========================================================================================
@@ -5832,7 +5842,7 @@ the system to review student registrations and course enrollment statistics.
     or command.
 
 ==========================================================================================
-FILE 12/12: Lectures\The do's & dont's.pdf
+FILE 12/14: Lectures\The do's & dont's.pdf
 TYPE: .pdf
 SIZE: 67030 bytes
 ==========================================================================================
@@ -5896,6 +5906,128 @@ be done through Google classroom. Join that in time. The
       any thing that you need to discuss in person
 
 ==========================================================================================
+FILE 13/14: Mids Quiz\WhatsApp Image 2026-10-20 at 12.10.28 PM (1).jpeg
+TYPE: .jpeg
+SIZE: 110839 bytes
+==========================================================================================
+Image: 720 x 1280 pixels. Visual layout is not preserved.
+[OCR: may contain recognition errors]
+s l. soa,
+sz.seoi
+an S 1.500. liability
+liabilities.
+equity.
+nses
+At Company owner's
+During rhe
+additioml of and the
+a net of If
+equity at $70,000, amount
+2017.
+Armando CD •
+Jnrøme fldrnent
+Ar year Oecemyt
+Revenue
+Cervic e
+: expe,xe
+Ren & Expenre -
+Expen'e - —
+SO
+S4,cco
+S6,cco
+d- src,coo
+Indicate whether each of the following items is an
+liAbiliry or part of owner's equity {OE).
+receiwble
+_Æßet.- (b) Supplies
+OF (c) Salaries a nd wages payab le
+_Æ_ (d) Owner's capital
+(e) Equipment
+(t) Notes pa ble
+22. Indicate Whether the following items would appear on
+the income statement (IS), balance sheet (BS), or
+owner's equity Statement (OE).
+_ES— (a) Notes payable
+—ZS_ (c) Advertising expense
+(d) Service revenue
+drawings made during month?
+-SIBSoc
+Net Income -
+Armand &
+Chon" in '*afrnatt
+For year end' Oec 32 '2014
+Bejinnmy CapAal 'Dec 3024-7------bq
+add:
+tess :
+wikdraud by Cuyler - . -
+3 ' 201?
+
+==========================================================================================
+FILE 14/14: Mids Quiz\WhatsApp Image 2026-10-20 at 12.10.28 PM.jpeg
+TYPE: .jpeg
+SIZE: 108599 bytes
+==========================================================================================
+Image: 720 x 1280 pixels. Visual layout is not preserved.
+[OCR: may contain recognition errors]
+of would
+b, of a company.
+of t m pan
+thar •A'hcn
+are he recorded
+a apprai'*l
+d- book value.
+GAAP for
+a. Generallv Aw•ccpred Auditing Pr«edures.
+Generally Ac.xptc•d Accounting Principles.
+c_ Gcncrallv Accepted Auditing
+d. Generally A•cepted Accounting
+6. The Dulce Company has iGu• plants nationwide that
+total Of $200 million. The current fair value of
+the plants million. The plants will be
+recorded Bnd reponed as assets at
+a. $200 m
+b $600 million.
+$400 Ilion,
+d. million.
+7. A business organl:ed as a corporation
+a. is not separate legal e n nn in most states.
+b. requires that stockholders be persona Ilv liable
+for rhe debts of the business.
+—c. is owned bv i rs stockholders.
+d. terminates when one of its'. original
+stockholders d'es.
+8. A small neighborhocxl barber shop that is operated b;
+irs owner would likely be organized as a
+a, joint
+y b • partnership.
+c. Corporation.
+d. proprietorship.
+All of e
+are of
+I Lab dines exceed
+14
+equity increased by dunr.g a of
+time. total
+amount •nd direction during
+S i acre ase
+SsO.COO
+15. The accounting equation fet Cineo Enterprises as
+follows:
+S12C.oco -
+tf Cineo purchases office equipment on account
+5,000. the accounting equation will
+S 120.000 -
+b S135,coo - $60.coo
+c. S135.coo • $61,500 •
+S135.COO - $75,000 • soo.oeo
+16. As of lune 30, 2016, Little Giant: Compam Ka-s assets
+of S 100,000 and owner's equin of 560.000.
+are the liabilities for Little Giant: as of
+June 30, 2016!
+COO
+-Ale.
+
+==========================================================================================
 EXTRACTION COVERAGE REPORT
 EXTRACTED: Lectures\Acc-1.pdf
 EXTRACTED: Lectures\Acc-2.pdf
@@ -5909,3 +6041,5 @@ EXTRACTED: Lectures\ch05.pdf
 EXTRACTED: Lectures\CourseSyllabus-Accounting.docx
 EXTRACTED: Lectures\DFD.pdf
 EXTRACTED: Lectures\The do's & dont's.pdf
+OCR: Mids Quiz\WhatsApp Image 2026-10-20 at 12.10.28 PM (1).jpeg
+OCR: Mids Quiz\WhatsApp Image 2026-10-20 at 12.10.28 PM.jpeg

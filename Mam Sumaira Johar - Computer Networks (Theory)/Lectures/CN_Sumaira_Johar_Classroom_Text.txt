@@ -1,0 +1,43 @@
+COMPUTER NETWORKS (BSSE A 2024-28) - Google Classroom text content
+Teacher: Ma'am Sumaira Johar
+
+============================================================
+ANNOUNCEMENTS
+============================================================
+
+[2026-10-20] https://classroom.google.com/c/ODc4MDQ1MjcxNzM1/p/ODkzMjI5NTAwMjM2
+Quiz will be taken in lecture 1 to 8 on 26th October
+
+============================================================
+MATERIAL POSTS (oldest first)
+============================================================
+
+[2026-09-07] Lecture 1,2
+  Attachments: CN-Lec-01 (Intro to data com).ppt, CN-Lec-02 (Networks).ppt
+
+[2026-09-14] Lec3,4
+  Attachments: CN-Lec-03  (topologies).ppt, CN-Lec-04 (Categories of network).ppt
+
+[2026-09-21] Lec 5
+  Attachments: CN-Lec-05 (OSI Model).ppt
+
+[2026-09-28] Lec 6
+  Attachments: CN-Lec-06 (TCP-IP Model).ppt
+
+[2026-10-05] Lec 7
+  Attachments: CN-Lec-07 (guided media) (1).ppt
+
+[2026-10-05] NW Book
+  Attachments: computer-networking-a-top-down-approach-8th-edition.pdf
+
+[2026-10-14] Lec 8
+  Attachments: CN-Lec-08 (unguided media).ppt
+
+[2026-10-19] Lec 9 and 10
+  Attachments: CN-Lec-09 & 10 (Multiplexing).ppt
+
+============================================================
+ASSIGNMENTS / MY SUBMISSIONS
+============================================================
+
+None. This classroom has no assignments, so you have nothing uploaded here.

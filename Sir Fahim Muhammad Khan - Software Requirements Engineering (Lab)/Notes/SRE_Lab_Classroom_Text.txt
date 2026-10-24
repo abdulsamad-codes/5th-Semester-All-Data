@@ -1,0 +1,110 @@
+SRE LAB (BSSE, Section A) - Google Classroom text content
+Teacher: Sir Fahim
+
+============================================================
+ANNOUNCEMENTS (oldest first)
+============================================================
+
+[2026-09-09] https://classroom.google.com/c/ODc4NDIzNzk4Mzkw/p/ODc4NDI1MTAwNTE4
+Course Pack
+  Attachment: 2. SRE -Lab Outline.docx
+
+[2026-09-09] https://classroom.google.com/c/ODc4NDIzNzk4Mzkw/p/ODc4NDI0NTA3MDU5
+Lab Manual
+  Attachment: Software Requirement Engineering-Lab Manual.docx
+
+[2026-09-09] https://classroom.google.com/c/ODc4NDIzNzk4Mzkw/p/ODc4NDIzNTIyNTQ3
+Lab Task-1
+  Attachment: Software_Requirements_Engineering_Lab_Manual.docx
+
+[2026-09-15] https://classroom.google.com/c/ODc4NDIzNzk4Mzkw/p/ODg1MTE3NDMyMTQ1
+LAB Task-2
+  Attachment: SRE_Lab_Generating_System_and_Context_Diagrams (1).docx
+
+[2026-09-22] https://classroom.google.com/c/ODc4NDIzNzk4Mzkw/p/ODg2NTE3NjIyNTMw
+Lab Task # 3
+  Attachment: SRE_Lab_Requirements_Sources_Kano_Model.docx
+
+[2026-09-30] https://classroom.google.com/c/ODc4NDIzNzk4Mzkw/p/ODg4MTk0OTQwNzY0
+Lab Task 4
+  Attachment: Lab_5_Requirements_Elicitation_Techniques_Detailed.docx
+
+[2026-10-07] https://classroom.google.com/c/ODc4NDIzNzk4Mzkw/p/ODg5NjA2MjQzMzM4
+Lab Task # 5
+  Attachment: Use_Case_Modeling_Lab.pdf
+
+[2026-10-07] https://classroom.google.com/c/ODc4NDIzNzk4Mzkw/p/ODg5NjA4MjY4MjI2
+Scenario for Lab Task # 5
+  Attachment: Lab Task 5 Scenario.pdf
+
+[2026-10-11] https://classroom.google.com/c/ODc4NDIzNzk4Mzkw/p/ODkwNDA4NjI3MTk4
+Dear Students! Buckle Up & get ready for the Problem Based Learning (PBL) activity, Which is going to be held in this coming week. The PBL contents include all of the topics & concepts which we had cover so-far. Good Luck!
+
+[2026-10-14] https://classroom.google.com/c/ODc4NDIzNzk4Mzkw/p/ODkyMDc4MDg0NzMy
+Lab Task # 6
+  Attachment: DFD.pdf
+
+[2026-10-20] https://classroom.google.com/c/ODc4NDIzNzk4Mzkw/p/ODkzMjQ2OTU2NTA0
+Software Requirement Specification (SRS) Document
+  Attachment: SRS.pdf
+
+[2026-10-20] https://classroom.google.com/c/ODc4NDIzNzk4Mzkw/p/ODkzMjU0NjQ1NTY3
+Lab Task # 7 
+  Attachment: Activity and State Scenarios.docx
+
+[2026-10-21] https://classroom.google.com/c/ODc4NDIzNzk4Mzkw/p/ODkzNTA5NTQ5MzM5
+ISO/IEC/IEEE 29148:2018(en)
+
+Systems and software engineering ? Life cycle processes ? Requirements engineering
+https://www.iso.org/obp/ui?_escaped_fragment_=iso:std:iso-iec-ieee:29148:ed-2:v1:en&utm_source=chatgpt.com
+
+============================================================
+ASSIGNMENTS (oldest first)
+============================================================
+
+[2026-09-09] Lab Report 1 Submission Log  (max points: 100, due: 9 Sep 2026)
+(no description)
+
+[2026-09-15] Lab Report-2nd Submission Log  (max points: 100, due: 16 Sep 2026)
+(no description)
+
+[2026-09-22] Lab Task 3 Submission Log  (max points: 100, due: 23 Sep 2026)
+(no description)
+
+[2026-09-30] Lab Task 4 Submission Log  (max points: 100, due: 1 Oct 2026)
+(no description)
+
+[2026-10-07] Lab Task # 5 Submission Log  (max points: 100, due: 7 Oct 2026)
+(no description)
+
+[2026-10-14] Lab Task # 6 Submission Log  (max points: 100, due: 20 Oct 2026)
+(no description)
+
+[2026-10-20] Lab Task # 7 Submission Log  (max points: 100, due: 21 Oct 2026)
+(no description)
+
+============================================================
+MY SUBMISSIONS
+============================================================
+
+Lab Task # 7 Submission Log: TURNED_IN, grade: None
+  Uploaded: Abdul Samad - 5th Semester Group A - Lab Task 7.docx
+
+Lab Task # 6 Submission Log: TURNED_IN, grade: None
+  Uploaded: Abdul Samad - 5th Semester Group A - Lab Task 6.docx
+
+Lab Task # 5 Submission Log: TURNED_IN, grade: None
+  Uploaded: Abdul Samad - Task Lab 5 - Use Case Modeling.pdf
+
+Lab Task 4 Submission Log: TURNED_IN, grade: None
+  Uploaded: Abdul Samad - BSSE Group A - Task - Lab 4.pdf
+
+Lab Task 3 Submission Log: TURNED_IN, grade: None
+  Uploaded: Kano_Analysis_Full.xlsx
+  Uploaded: SRE_Lab_Report_Short.docx
+
+Lab Report-2nd Submission Log: TURNED_IN, grade: None
+  Uploaded: Abdul_Samad BSSE Group A - 5th - Lab Task 2.pdf
+
+Lab Report 1 Submission Log: TURNED_IN, grade: None
+  Uploaded: Abdul Samad - Assignment.docx
