@@ -1,0 +1,142 @@
+COMPUTER NETWORKS LAB - SEMESTER V (GROUP A) - Google Classroom text content
+Teacher: Ma'am Maimoon Khilji
+
+============================================================
+ANNOUNCEMENTS (oldest first)
+============================================================
+
+[2026-09-07] https://classroom.google.com/c/ODc4MDgyNTg1OTcy/p/ODc4MDgzMzM5ODk1
+Quiz 1:
+https://forms.gle/VkVnfHf3NZoNR7Ph8
+
+[2026-10-07] https://classroom.google.com/c/ODc4MDgyNTg1OTcy/p/ODg5NjE5ODY2NjUx
+Assalam o Alaikum.
+I hope you are doing well. I will be taking a quiz on Friday. Lab 1 to 8 are included. 
+Good luck!.
+
+[2026-10-21] https://classroom.google.com/c/ODc4MDgyNTg1OTcy/p/ODkzNTE5NDQzMjU3
+Assalam o Alaikum,
+
+Hope you are well. There will be a midterm exam on Tuesday (October 27th, 2026) at 12:00 PM.
+
+Good luck and be on time!
+
+============================================================
+MATERIAL POSTS (oldest first)
+============================================================
+
+[2026-09-07] Introduction to Computer Networks
+  Attachments: Computer Networking Foundations.pdf, Lab 01 - Computer Networks.pdf
+
+[2026-09-07] Curriculum
+  Attachments: Computer Networks_Curriculum.pdf
+
+[2026-09-08] Lab 02
+  Attachments: Lab 02 - Computer Networks.pdf, Lab 02.pkt, Lab 02 Task.png
+
+[2026-09-08] Books
+  Attachments: Computer Networking A Top-Down Approach, 8th Edition by James F. Kurose, Keith W. Ross-Pearson-9780136681557.pdf, (McGraw-Hill Forouzan Networking) Behrouz A. Forouzan - Data Communications and Networking -McGraw-Hill Higher Education (2007).pdf
+
+[2026-09-13] Lab 03
+  Attachments: Lab 03 - Computer Networks.pdf, activity_solution.xlsx
+
+[2026-09-14] Lab 04
+  Attachments: Lab 04 - Computer Networks.pdf, Lab 04.pkt, Lab 04.png
+
+[2026-09-21] lab 05 & 6
+  Attachments: lab 05.pkt, lab 05.xlsx, Lab 06.pkt, Lab 05 & 6 - Computer Networks.pdf
+
+[2026-09-28] Lab 07 & 08
+  Attachments: lab 07.xlsx, Lab 07 & 08 - Computer Networks.pdf
+
+[2026-10-09] Quiz 1 - Solution
+  Attachments: Quiz 01 - solution.pdf
+
+[2026-10-12] Lab 09 & 10
+  Attachments: Lab 09 - Computer Networks.pdf, Lab 10 - Computer Networks.pdf, Topology.pkt
+
+[2026-10-19] Lab 11
+  Attachments: Lab 11 - Computer Networks.pdf, lab 11_.pkt, city.png, building.jpg
+
+[2026-10-20] Mids-Course and Sample Paper
+1. Introduction to computer networks, importance, applications, and basic communication concepts
+2. Introduction to Cisco Packet Tracer (Realtime and Simulation Modes)
+3. IP Addressing and IPv4 Fundamentals
+• Binary Conversion of IP Address
+• Configure IPv4 addresses, subnet masks
+
+4. IPv4 Subnetting and Subnet Design
+• Calculate network ID, broadcast address, usable host range, subnets, and hosts
+• Design subnet address ranges
+• Implement subnetted networks in Packet Tracer
+
+5. Variable Length Subnet Masking (VLSM)
+• Calculate network ID, broadcast address, usable host range, subnets, and hosts
+• Design subnet address ranges
+
+6. Topologies in Cisco Packet Tracer
+• Point-to-Point, Bus, Star, Ring, and Mesh Topologies
+
+7. Connecting Two LANs Through a Router (Logical Interface)
+  Attachments: CN - Sample Paper.pdf
+
+============================================================
+ASSIGNMENTS (oldest first)
+============================================================
+
+[2026-09-10] Task 01 (10 points, due 11 Sep 2026)
+  Attachment: Task 01.pdf
+
+[2026-09-18] Task 02 (10 points, due 18 Sep 2026)
+  Attachment: Task 02.pdf
+
+[2026-09-21] Task 03 (20 points, due 22 Sep 2026)
+  Attachment: Task 03 (Google Doc)
+
+[2026-09-25] Task 04 (10 points, due 26 Sep 2026)
+  Attachment: Task 04 (Google Doc)
+
+[2026-09-28] Task 05 (10 points, due 29 Sep 2026)
+  Attachment: Task 05 (Google Doc)
+
+[2026-10-06] Task 06 (10 points, due 6 Oct 2026)
+  Attachment: Task 06 (Google Doc)
+
+[2026-10-09] Quiz 1 (50 points, no due date)
+
+[2026-10-16] Task 07 (10 points, due 16 Oct 2026)
+  Attachment: Task 07 - A (Google Doc)
+
+[2026-10-19] Task 08 (10 points, due 20 Oct 2026)
+  Attachment: Task 08 (Google Doc)
+
+============================================================
+MY SUBMISSIONS
+============================================================
+
+Task 08: turned in, not graded yet
+  Uploaded: Abdul Samad - 5th Semester Group A -  Lab Task 8.docx
+
+Task 07: turned in, not graded yet
+  Uploaded: Abdul Samad - 5th semester Group A - Lab Task 7.docx
+
+Quiz 1: returned, grade 50/50
+
+Task 06: returned, grade 10/10
+  Uploaded: Abdul Samad - BSSE Group A - 5th Semester.docx
+
+Task 05: returned, grade 10/10
+  Uploaded: Abdul_Samad_-_BSSE_5th_Group_A.docx
+
+Task 04: returned, grade 10/10
+  Uploaded: Abdul Samad - BSSE Group A - Task 4.docx
+
+Task 03: returned, grade 20/20
+  Uploaded: Abdul Samad - Task 03.docx
+
+Task 02: returned, grade 10/10
+  Uploaded: Abdul Samad - Task Lab 2.docx
+
+Task 01: returned, grade 10/10
+  Uploaded: Abdul Samad - BSSE Group A - 5th Semester.docx
+  Uploaded: task.pkt

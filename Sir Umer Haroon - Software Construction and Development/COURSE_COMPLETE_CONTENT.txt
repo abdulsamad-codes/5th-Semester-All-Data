@@ -1,8 +1,8 @@
 COMPLETE COURSE TEXT EXPORT
 COURSE FOLDER: Sir Umer Haroon - Software Construction and Development
-SOURCE: E:\Study Material\5th Semester All Data\Sir Umer Haroon - Software Construction and Development
+SOURCE: \\?\E:\Study Material\5th Semester All Data\Sir Umer Haroon - Software Construction and Development
 
-SCOPE: Full readable text, not summaries. Images use OCR; diagrams/layout cannot be fully represented in plain text. Unsupported files and errors are explicitly identified. Source files are unchanged.
+SCOPE: Full readable course text, except the three large reference books whose contents are omitted at user request. Python source files remain complete. Images use OCR; diagrams/layout cannot be fully represented in plain text. Unsupported files and errors are explicitly identified. Source files are unchanged.
 Excluded directory names: .env, .git, .idea, .mypy_cache, .nox, .pytest_cache, .ruff_cache, .tox, .venv, .vscode, __pycache__, dist-packages, env, node_modules, site-packages, vendor, venv
 This generated export excludes itself.
 
@@ -12,8 +12,6 @@ Sir Umer Haroon - Software Construction and Development/
         |-- simple_python_learning_class 2.py
     |-- 3rd Class/
         |-- prac1.py
-    |-- Assignment 1/
-        |-- Assignment_1_SCD_IMSCIENCES.pdf
     |-- Final Projoect/
         |-- .gitignore
         |-- CHANGELOG.md
@@ -42,6 +40,12 @@ Sir Umer Haroon - Software Construction and Development/
         |-- 2b_SOFTWARE CONSTRUCTION AND DEVELOPMENT_MuhammadUmerHaroon.pdf
         |-- 3_SOFTWARE CONSTRUCTION AND DEVELOPMENT_MuhammadUmerHaroon.pdf
         |-- 4_SOFTWARE CONSTRUCTION AND DEVELOPMENT_MuhammadUmerHaroon.pdf
+        |-- 5_SOFTWARE CONSTRUCTION AND DEVELOPMENT_MuhammadUmerHaroon.pdf
+        |-- Clean.Code.A.Handbook.of.Agile.Software.Craftsmanship.pdf
+        |-- Code Complete 2nd.pdf
+        |-- Python for Programmers with Big Data and Artificial Intelligence Case Studies by Paul J. Deitel, Harvey Deitel (z-lib.org).pdf
+        |-- SCD_Theory_Umer_Haroon_Classroom_Text.txt
+        |-- scd_xml.pdf
         |-- Software Construction and Development Outline for Students.pdf
 
 EXCLUDED DIRECTORIES
@@ -50,7 +54,7 @@ Final Projoect\.git
 FILE CONTENTS
 
 ==========================================================================================
-FILE 1/25: 2nd Class\simple_python_learning_class 2.py
+FILE 1/30: 2nd Class\simple_python_learning_class 2.py
 TYPE: .py
 SIZE: 238 bytes
 ==========================================================================================
@@ -71,7 +75,7 @@ print(colors)
 
 
 ==========================================================================================
-FILE 2/25: 3rd Class\prac1.py
+FILE 2/30: 3rd Class\prac1.py
 TYPE: .py
 SIZE: 164 bytes
 ==========================================================================================
@@ -87,122 +91,7 @@ arr = [5, 4, 2, 6, 1, 0, 9]
 x = min(arr)
 
 ==========================================================================================
-FILE 3/25: Assignment 1\Assignment_1_SCD_IMSCIENCES.pdf
-TYPE: .pdf
-SIZE: 632684 bytes
-==========================================================================================
---- PAGE 1 ---
-Engr. Muhammad Umer Haroon
-
-
-
-
-
-Assignment 1
-
-
-
-
-
-SOFTWARE CONSTRUCTION AND
-DEVELOPMENT
-“Project Initiation, Git Collaboration, and
-Requirements Documentation”
-
---- PAGE 2 ---
-Objective: To initiate your semester project using collaborative software development practices,
-establish a shared Git repository, and document the initial requirements of your project using an
-agile approach.
-
-Tasks
-
-1. Create a Shared Git Repository
-
-       Create a public repository on GitHub for your semester project.
-      Each group must consist of multiple members. Exceptionally one, who has taken
-       permission.
-      Add all group members as collaborators and ensure that everyone contributes to the same
-        repository.
-      Each member must use their own GitHub account and make meaningful contributions
-       through commits.
-      Maintain a complete and traceable record of project development using Git commits.
-      Use meaningful commit messages that clearly describe the changes made.
-
-2. Document Project Requirements
-
-Prepare a lightweight requirements document for your project. A formal Software Requirements
-Specification (SRS) is not required.
-
-The document should include:
-
-       Project title and group member details.
-      A brief description of the problem being addressed.
-       Project objectives and intended users.
-       Initial functional requirements, describing what the application should do.
-       Relevant non-functional requirements, where applicable.
-      A prioritized list of features or a simple product backlog.
-       Initial assumptions, constraints, and known limitations.
-
-Follow an agile approach: document the requirements clearly enough to guide development, while
-recognizing that they may evolve as the project progresses.
-
-
-
-
-
-Designed by : Engr. Muhammad Umer Haroon
-
---- PAGE 3 ---
-3. Organize and Maintain the Repository
-
-       Include the requirements document in the repository.
-      Use a clear and consistent folder structure.
-       Include a README.md file containing the project overview, group members, and current
-        project status.
-       Establish and follow a consistent naming convention for files, folders, and project versions.
-      Use Git commits and tags to maintain a history of changes and significant project versions.
-
-For project versions, you may use a convention such as v0.1.0 for an initial development version
-and v1.0.0 for the first complete release. Do not create separate copies of files merely to represent
-different versions; use Git history and tags instead.
-
-4. Work as an Agile Team
-
-      Divide initial responsibilities among group members.
-      Maintain a simple task list or product backlog.
-      Ensure that all group members participate in project development and repository activities.
-      Update the requirements and task list as the project evolves.
-
-Submission Requirements
-
-Submit the following:
-
-    1.  Public GitHub repository link — the repository must be accessible without requesting
-       permission.
-    2.  Requirements document — submitted as a PDF or other instructor-approved format.
-    3.  Repository copy of the requirements document — the same document must also be
-      committed to the repository.
-
-Only one submission per group is required. One designated group member may submit the
-repository link and requirements document on behalf of the entire group.
-
-However, all group members are individually responsible for contributing to and understanding
-the work in the shared repository.
-
-Important: This assignment establishes the foundation for subsequent project milestones. Your
-repository, requirements, and development history should be maintained throughout the semester
-rather than created only for submission. Copied  / plagiarized, massively AI generated work,
-(identical working or identical mistakes) will receive zero for everyone involved. Random students
-may be asked to explain their solutions in a short viva.
-
-
-
-
-
-Designed by : Engr. Muhammad Umer Haroon
-
-==========================================================================================
-FILE 4/25: Final Projoect\.gitignore
+FILE 3/30: Final Projoect\.gitignore
 TYPE: no extension
 SIZE: 170 bytes
 ==========================================================================================
@@ -221,7 +110,7 @@ reports/
 
 
 ==========================================================================================
-FILE 5/25: Final Projoect\CHANGELOG.md
+FILE 4/30: Final Projoect\CHANGELOG.md
 TYPE: .md
 SIZE: 1204 bytes
 ==========================================================================================
@@ -254,7 +143,7 @@ Initial project planning and requirements baseline. No analyzer code is implemen
 
 
 ==========================================================================================
-FILE 6/25: Final Projoect\docs\backlog.md
+FILE 5/30: Final Projoect\docs\backlog.md
 TYPE: .md
 SIZE: 1222 bytes
 ==========================================================================================
@@ -282,7 +171,7 @@ Add relevant tests with each implemented check, including valid examples, violat
 
 
 ==========================================================================================
-FILE 7/25: Final Projoect\docs\references\Assignment_1_SCD_IMSCIENCES.pdf
+FILE 6/30: Final Projoect\docs\references\Assignment_1_SCD_IMSCIENCES.pdf
 TYPE: .pdf
 SIZE: 632684 bytes
 ==========================================================================================
@@ -397,7 +286,7 @@ may be asked to explain their solutions in a short viva.
 Designed by : Engr. Muhammad Umer Haroon
 
 ==========================================================================================
-FILE 8/25: Final Projoect\docs\references\CodeInspector_Project_Proposal.pdf
+FILE 7/30: Final Projoect\docs\references\CodeInspector_Project_Proposal.pdf
 TYPE: .pdf
 SIZE: 4088 bytes
 ==========================================================================================
@@ -442,7 +331,7 @@ indentation, arguments, returns, recursion). Phase 3, if time allows: duplicate 
 and the overall score.
 
 ==========================================================================================
-FILE 9/25: Final Projoect\docs\requirements.md
+FILE 8/30: Final Projoect\docs\requirements.md
 TYPE: .md
 SIZE: 5800 bytes
 ==========================================================================================
@@ -526,7 +415,7 @@ Update this file and docs/requirements.pdf together as requirements change. Revi
 
 
 ==========================================================================================
-FILE 10/25: Final Projoect\docs\requirements.pdf
+FILE 9/30: Final Projoect\docs\requirements.pdf
 TYPE: .pdf
 SIZE: 5447 bytes
 ==========================================================================================
@@ -627,7 +516,7 @@ For course checks, initial configurable limits are 20 physical lines per functio
 CodeInspector | Requirements 0.1.1                                                                                    2
 
 ==========================================================================================
-FILE 11/25: Final Projoect\README.md
+FILE 10/30: Final Projoect\README.md
 TYPE: .md
 SIZE: 3501 bytes
 ==========================================================================================
@@ -703,422 +592,760 @@ Reference: [PEP 8](https://peps.python.org/pep-0008/)
 
 
 ==========================================================================================
-FILE 12/25: Final Projoect\tmp\course_review\regex_examples.png
+FILE 11/30: Final Projoect\tmp\course_review\regex_examples.png
 TYPE: .png
 SIZE: 391582 bytes
 ==========================================================================================
 Image: 1500 x 1920 pixels. Visual layout is not preserved.
 [OCR: may contain recognition errors]
 : input_string)
+
 of [A-Zl[a-zl:•, output)
+
 'utput input_st+g)
+
 of [AA•Z):•. output)
+
 # Find aLL occurrences of 'dog' in the text
+
 matches 2 re.findall(pattern, text)
+
 CODE
+
 - 3: occurrences of uppercase Letter 5)' Lowercase
+
 the
+
 ends with
+
 output
+
 of
+
 input
+
 of output)
+
 tters (G -2
+
 input_string)
+
 the
+
 Puppy
+
 txampte Z: Find ait uppercase letters (A-a ) in the input string
+
 output
+
 input_string)
+
 Of output)
+
 match : re.search(pattern.
+
 .f match:
+
 text)
+
 the
+
 Substitute GIL occurrences of 'dog • witn
+
 new_text z re.
+
 "Puppy", text)
+
 natch. group()) # the matched String if found
+
 parts text)
+
 parts) # print the List of split parts
+
 parts:".
+
 matches:" ,
+
 matches)
+
 use 'F
+
 Sample input string
+
 input_string2 : "The cat sat on the
+
 use regex to find occurrences of
+
 pattern r" cats?" Matches ' cat'
+
 # print at L matches found
+
 print("modified text:". new_text) # Print the modified
+
 mat.
+
 'cat'
+
 or
+
 The cats are cute."
+
 optional Ly followed by
+
 Sample input String
+
 input_string -
+
 aaa aa aaaaaa
+
 use regex to find sequences
+
 aa
+
 of
+
 aaaaa aaa
+
 'a' that occur between 2
+
 4
+
 text
+
 times
+
 ' input_string
+
 "The fox jumps the lazy dog,
+
 "The quick fox jumps the lazy dog.
+
 *hat about mad dog
+
 ; Use regex to find if the string ends with 'dog. '
+
 r "dogl.S" # Matches if string
+
 is used to escape period, as it
+
 Check if the input String matches the pattern
+
 : f re.search(pattern. input_string):
+
 string ends with •dog. '
+
 string does not end "ith •dog. •
+
 •dog. •
+
 'cats'
+
 Find matches in the input string
+
 matches re.findall(pattern, input_string2)
+
 Print the matches found
+
 found: "a matches)
+
 input_string = "Hello, how are feeling now ? "
+
 Use regex to check if the string Starts with 'HeLLO '
+
 Matches if the string starts With
+
 pattern "A
+
 Hello"
+
 Check if the input string matches the pattern
+
 — # Matches 'a' appearing 2 to 4 tines
+
 pattern
+
 Find matches in the input
+
 matches re.findall(pattern, input_string)
+
 print the matches found
+
 print( "Matches found:" . matches)
+
 'HeLLo'
+
 if re.match(pattern. input_string):
+
 string starts with 'Hello' .
+
 else:
+
 print("The string does not start with
+
 'Hello' .
 
 ==========================================================================================
-FILE 13/25: Final Projoect\tmp\pdf_review\contact_sheet.png
+FILE 12/30: Final Projoect\tmp\pdf_review\contact_sheet.png
 TYPE: .png
 SIZE: 530704 bytes
 ==========================================================================================
 Image: 1260 x 1200 pixels. Visual layout is not preserved.
 [OCR: may contain recognition errors]
 Page I
+
 Codelnspector: Project Requirements
+
 1. Pr#ct
+
 'R-027
+
 pep
+
 Page 4
+
 7. '"ming. Ruiew
+
 Page 2
+
 Page 3
+
 PCP
+
 FR.OS:
+
 PEP
+
 4. Requirements
+
 5. Plan
+
 - PEP
+
 6. and L
 
 ==========================================================================================
-FILE 14/25: Final Projoect\tmp\pdf_review\page_1.png
+FILE 13/30: Final Projoect\tmp\pdf_review\page_1.png
 TYPE: .png
 SIZE: 125787 bytes
 ==========================================================================================
 Image: 685 x 969 pixels. Visual layout is not preserved.
 [OCR: may contain recognition errors]
 Codelnspector: Project Requirements
+
 Initial baseline: 0_1.0 19 October 2026
+
 Course: Software Construction and Development, IMSciences.
+
 Instructor: Engr. Muhammad l_lrner Haroon
+
 1. Project Member
+
 Abdul Samad 8SSE, Group A Semester 5 Roll number 2.
+
 GitHub username:
+
 Repository: httpsflgithub.com/abdulsamad-codescodelnspector
+
 This is an individual project with instructor perm'ssion, as confirmed by Abdul Samad. He is responsible for
+
 requirements, development, testing, documentation, Git history, and submission.
+
 2. Problem, Objectives, and Users
+
 Python student projects may contain unclear names, inconsistent formatting, large functions, repeated code,
+
 and incomplete documentation. Manual review can take time and miss issues.
+
 Codelnspector will inspect a local Python project and provide specific findings with locations and improvement
+
 suggestions. Its objectives are to support clean code practice, apply selected PEP B guidance and course
+
 rules, and make project review easier. Intended users are students and instructors.
+
 Sir umer recommended researching PEP B after reviewing the project idea. PEP 8 is a style guide, not a
+
 Python module. The project will implement a selected, documented subset Of 'ts guidance rather than claim to
+
 check every recommendation.
+
 3. Functional Requirements
+
 FR-OI: Read a Python project [Must)
+
 Accept a local folder path, find Python files recursive y, and exclude Git data, virtual environments, and
+
 generated\cache folders. Do not follow links outside the selected project. Report an invalid path or a project
+
 with no Python files clearly.
+
 Check: A sample folder produces the expected file list while excluded files are ignored.
+
 FR-02: Analyze Without executing code [Must]
+
 Read source using its declared Python encoding and parse Structure using the built-in ast module. use Source
+
 text and tokens for layout checks that AST does not preserve. Do not run or import the submitted code. Report
+
 syntax/read errors and continue with other readable files.
+
 Check: An input containing a top-level file-writing Statement does not execute. A Syntax error in one file does
+
 not hide results from valid files.
+
 FR-03: Check selected PEP 8 naming conventions [Must]
+
 Check lowercase underscore-separated function\variable names, CapWords class names, lowercase
+
 module,'package names, and uppercase module-level constants where they can be identified conservative y _
+
 Check conventional self/cls receiver names and warn about ambiguous single- etter names I, O, and I. Respect
+
 documented special names and underscore conventions.
+
 Codelnspeclor _O
+
 Page
 
 ==========================================================================================
-FILE 15/25: Final Projoect\tmp\pdf_review\page_2.png
+FILE 14/30: Final Projoect\tmp\pdf_review\page_2.png
 TYPE: .png
 SIZE: 140416 bytes
 ==========================================================================================
 Image: 685 x 969 pixels. Visual layout is not preserved.
 [OCR: may contain recognition errors]
 Check: Examples cover conform'ng and nonconforming names, methods, special methods, and constants.
+
 Findings explain their rule and location. Python does not declare constants explicitly, so uncertain
+
 classifications require review.
+
 FR-04: Check selected PEP 8 layout conventions [Must]
+
 Check four-space block indentation, code lines over 79 characters, comment,'docstring lines Over 72, definition
+
 spacing, avoidable whitespace, and simple import Iap•ut. Continuation lines and documented exceptions must
+
 be handled separately. Start with checks that can be tested reliably; list supported checks in the
+
 report'documentation_
+
 Check: Fixtures include correctly formatted ccxie, each supported violation, and valid multiline Statements.
+
 Configurable line limits allow project-specific conventions.
+
 FR-05: Apply course clean code rules [Must)
+
 Rev'ew meaningful names, function size, nesting depth, parameter counts, multiple returns, loop
+
 break\continue, and direct recursion. Where feasible, distinguish a direct tail-call pattern from a non-tail pattern.
+
 These are course review rules, not PEP B rules or proof of incorrect code.
+
 Initial configurable defaults: 20 physical lines per function, nesting depth 2 with the function body counted as
+
 level I and 2 explicit parameters excluding self.'cls. The 20-line limit is a project decision; the slides ask for
+
 small functions without specifying a line count. Zero,'one explicit return is acceptable for the multiple-return
+
 check. Nested functions are evaluated separately.
+
 Check: Test boundaries at and above each limit, nested functions, direct recursion, and retum patterns. Explain
+
 that static checks cannot prove a function has one responsibility or resolve every recursive cal.
+
 FR-06: Check project completeness [Must]
+
 Identify missing root README tiles, missing conventional test files, and empty functions. Accept README,
+
 README.md, README.rst, or README.txt case-insensitively. Recognize ard •_test.py outside
+
 excluded folders. Empty functions include docstring-only, pass-only, and ellipsis-only bodes.
+
 Check: Examples cover present/absent files and implemented/empty functions. State that file presence does
+
 not establish documentation quality or test coverage.
+
 FR-07: Configure rules and report findings
+
 Provide documented defaults and a settings file for supported limits and enabled rules. Reject invalid settings
+
 clearly. Produce a readable terminal report with rule identifier, category, relative path, line number where
+
 applicable, explanation, and suggestion. Distinguish PEP 8, course, and completeness findings. Project-level
+
 findings have no invented line number. use stable ordering and clearly mark •ncomplete scans.
+
 Check: Disabling a rule removes its findings; 'nvalid limits produce useful errors; repeated scans produce the
+
 Same ordered findings for the same input,'settings.
+
 FR-08: Extend analysis and scoring [Should]
+
 After the core checks work, add conservative unused-import analysis, candidate duplicate-function detect'on,
+
 report export, and category.'overall scoring. Define score penalties before implementing them; disabled rules
+
 must not reduce Scores, and Scan failures must not appear as a perfect complete Scan.
+
 Check: Used.'unused imports and similar/different functions have documented examples. Reported scores
+
 agree with hand-calcu ated cases.
+
 Codelnspeclor _O
+
 Page 2
 
 ==========================================================================================
-FILE 16/25: Final Projoect\tmp\pdf_review\page_3.png
+FILE 15/30: Final Projoect\tmp\pdf_review\page_3.png
 TYPE: .png
 SIZE: 138423 bytes
 ==========================================================================================
 Image: 685 x 969 pixels. Visual layout is not preserved.
 [OCR: may contain recognition errors]
 FR-09: Research Al-use detection [Could: later research]
+
 nvestigate possible Al-associated style signals after the core analyzer is stable. Research must examine false
+
 positives and limitations before deciding whether a feature is suitable. No vmrkjng detector or reliable accuracy
+
 is promised at this stage. Any future estimate must be labelled exper'mental and must not be presented as
+
 proof of authorship or misconduct.
+
 Check before inclusion: Document the method, evaluation data, false-positive results, limitations, and how
+
 uncertainty is communicated. Avoid presenting an unvalidated percentage as a reliable probability.
+
 4. Non-Functional Requirements
+
 - Safety/privacy: Analyze ocally without executing target code or uploading it. Do not modify input Source files.
+
 - Maintainability: Keep parsing, rule checks, settings, and reporting Separate. use descriptive names, focused
+
 functions, and consistent conventions.
+
 - Reliability: Handle invalid paths, unreadable files, Syntax errors, and invalid settings with usefu messages.
+
 - Reproducibility: Keep findings ordered and identify enabled checks and the analyzer version in reports.
+
 - Portability: Target Python 3.11 Or newer initially; avoid machine-specific drive paths in application code.
+
 - Usability: Document actual commands, supported checks, configuration, and limitations as they are
+
 implemented.
+
 - Verification: Test normal inputs, rule boundaries, valid exceptions, error handling, and the no-execution
+
 gu arantee.
+
 Initial inputs are small student repositories. Performance limits and benchmarks will be decided dur'ng
+
 implementation; no measured performance claim is made yet.
+
 5. Priorities and Development Plan
+
 PO - Requirements, README, backlog, naming/version conventions, and the first Git baseline.
+
 PI - File discovery and safe pars'ng, follmved by PEP 8 naming/layout checks, course rules, completeness
+
 checks, settings, and reporting (FR-OI to FR-07)_
+
 P2 - Unused imports, duplicate-code review, exports, and transparent scoring (FR-08).
+
 P3 - Al-use detection research and feasibility review (FR-09).
+
 Abdul Samad owns all tasks. Detailed Status is kept in docs/backlog.md. Complete work in small, testable
+
 pieces and update requirements as understanding changes. There are no invented implementation deadlines.
+
 6. Assumptions, Constraints, and Limitations
+
 - users provide a readable local Python project. Syntax depends on the running Python interpreter.
+
 - The initial interface is a command-line tool. A database, cloud service, and web interface are Outside initia
+
 Scope.
+
 - PEP 8 style compliance does not prove meaningful names, correct logic, security, Or good architecture.
+
 Some guidance needs context Or human judgment.
+
 - Short/generic-name heuristics come from the course/project, not a PEP B ban on every short name.
+
 - Function-length, argument-count, return-count, and recursion rules are Separate course,'project guidance.
+
 Python does not optimize tail recursion.
+
 - Test-file detection cannot measure test coverage. Import/similarity analysis may miss dynam•c behavior and
+
 produce false positives.
+
 Codelnspeclor _O
+
 Page 3
 
 ==========================================================================================
-FILE 17/25: Final Projoect\tmp\pdf_review\page_4.png
+FILE 16/30: Final Projoect\tmp\pdf_review\page_4.png
 TYPE: .png
 SIZE: 118943 bytes
 ==========================================================================================
 Image: 685 x 969 pixels. Visual layout is not preserved.
 [OCR: may contain recognition errors]
 - Scores summarize configured checks and are not industry-readiness certificates.
+
 - Al-use detection remains research; style alone cannot establish authorsh'p. Cross-team plagiarism detection
+
 is outside scope.
+
 - Scope is limited by the semester and One student's capacity. Optional work follows a tested core.
+
 7. Naming, Versioning, and Review
+
 Python nam'ng follows the selected PEP B conventions in FR•03. Folders and ordinary documents use
+
 descriptive lowercase names; standard README/CHANGELOG names and supplied PDF names are
+
 preserved.
+
 use meaningfu commits for actual chunks of work, with Cit history instead of duplicate versioned filenames.
+
 Use annotated vMAJOR. MINOR.PATCH tags for significant milestones. VO.I.O identifies the
+
 planning/requirements baseline, not a completed analyzer. Later o.x milestones may change developing
+
 interfaces; vl .0.0 will represent the agreed complete version. CHANGELOG_md records each milestone.
+
 Requirements are maintained in The matching is submission
+
 copy and must be updated with its Source. The document baseline may remain unchanged for unrelated
+
 implementation changes.
+
 Before submission, Abdul Samad must review and understand the documents, verify unauthenticated public
+
 repository access, and submit the repository URL plus the exact committed POF. The assignment wams
+
 against copied or massively Al-generated work and allows a viva; the Student must follow the instructor's
+
 assistance rules and be able to explain the submitted work.
+
 8. References
+
 - Assignment_l _SCD_IMSCIENCES.pdf, pages 2-3: required repository, requ'rernents content,
+
 responsibilities, history/tags, and submission.
+
 - page I : initial project scope and phases. This document refines
+
 proposal with PEP B and records Al-use detection as later research.
+
 - Official PEP 8: https://peps.pythonMg.'pep•0008,/ (reviewed 19 October 2026).
+
 - Lecture I , pages I I and 14-16: construction principles and meaningful names.
+
 - Lecture 2, pages 9-13 and 3943: reuse, small functions, naming, and shallow nesting.
+
 - Lecture 2b, pages 7-11 and 17-26: arguments, entry/exit guidance, recursion, and tail calls.
+
 - Lecture 3, pages 7-12 and 18-28: stack choice, releases, changelog, and semantic versioning.
+
 - Lecture 4, pages 4-14 and 3743: regex, raw strings, and text patterns. Python Structure will use AST rather
+
 than regex alone.
+
 Lecture filenames correspond to the supplied Lectures folder in the parent course directory. These Sources
+
 guide the project; application code will not depend on that local directory.
+
 Codelnspeclor _O
+
 Page
 
 ==========================================================================================
-FILE 18/25: Final Projoect\tmp\pdf_review\short_requirements.png
+FILE 17/30: Final Projoect\tmp\pdf_review\short_requirements.png
 TYPE: .png
 SIZE: 305924 bytes
 ==========================================================================================
 Image: 1320 x 630 pixels. Visual layout is not preserved.
 [OCR: may contain recognition errors]
 Codelnspector - Project Requirements
+
 Engr. Hw
+
 project
+
 gssE, A S— S 2
+
 PE P g us. PCP
+
 What Too' 00
+
 a Md rind
+
 2 irmttiog
+
 Ci—k
+
 7 a a PEP 8.
+
 et«ks
+
 i; any
+
 . PEP g:
+
 - 2 2b
+
 AST
+
 the my a
+
 be
+
 wing
+
 Assmptions
+
 State
+
 PEP g
+
 tail A
+
 Roository and
+
 LA POE bad*'
 
 ==========================================================================================
-FILE 19/25: Final Projoect\tmp\pdf_review\short_requirements_final.png
+FILE 18/30: Final Projoect\tmp\pdf_review\short_requirements_final.png
 TYPE: .png
 SIZE: 341127 bytes
 ==========================================================================================
 Image: 1000 x 710 pixels. Visual layout is not preserved.
 [OCR: may contain recognition errors]
 Codelnspector - Project Requirements
+
 2026 O.
+
 Engr
+
 pr*ct and Member
+
 gssE. A S 1 2
+
 This is an I code.
+
 Problem and Purpo Se
+
 studmts giw a pen'
+
 Sir PE P B N TN PEF 8 style
+
 tram
+
 What the Tool Should Do
+
 a fmd Git data. virtual Md
+
 2. mdWe
+
 „iih
+
 3 PEP S
+
 Onliliable.
+
 layout. with 79. Ines
+
 PEP
+
 6. READVEt"t e
+
 or •_tegy
+
 README %t_•
+
 20 physical restir. 2
+
 - mabis
+
 . checking
+
 initial'
+
 . never
+
 Fist 'ming
+
 reports sconng
+
 task list mff A its its
+
 Assumptions and Limits
+
 ...port depeNb on he-on
+
 A & *ton
+
 PEP
+
 Pytlm optimi& A
+
 esWish
+
 Repository and Submission
+
 as chanp he
+
 U RL e PDF_
+
 . _SCO_WS C 2-3.
+
 . PEP g:
+
 7, p Mth a PEP 8.
+
 a sette•.gs
+
 9. with
+
 ct•s
+
 10 e it:
+
 a tod AST
 
 ==========================================================================================
-FILE 20/25: Lectures\1_SOFTWARE CONSTRUCTION AND DEVELOPMENT.pdf
+FILE 19/30: Lectures\1_SOFTWARE CONSTRUCTION AND DEVELOPMENT.pdf
 TYPE: .pdf
 SIZE: 841533 bytes
 ==========================================================================================
 --- PAGE 1 ---
 [OCR: may contain recognition errors]
 clas
+
 o ule
+
 class ModuleA { }
+
 export function build()
+
 { components: [J )
+
 SOFTWARE
+
 rin (IHe
+
 CONSTRUCTION
+
 AND DEVELOPMENT
+
 Engr. Muhammad Umer Haroon Port f
+
 unction build
+
 {c
+
 m ponents•
 
 --- PAGE 2 ---
@@ -1255,18 +1482,31 @@ The first four concepts apply to design as well as to construction.
 --- PAGE 13 ---
 [OCR: may contain recognition errors]
 Michael Feathers, author of Working
+
 Effectively with Legacy Code
+
 I could list all of the qualities that I notice in
+
 clean code, but there is one overarching quality
+
 that leads to all of them. Clean code always
+
 looks like it was written by someone who cares.
+
 There is nothing obvious that you can do to
+
 make it better. All of those things were thought
+
 about by the code's author, and if you try to
+
 imagine improvements, you're led back to
+
 where you are, sitting in appreciation of the
+
 code someone left for you—code left by some-
+
 one who cares deeply about the craft.
+
 Engr. Muhammad Umer Haroon
 
 --- PAGE 14 ---
@@ -1360,7 +1600,7 @@ Muhammad Umer Haroon | LinkedIn
                                                                      Engr. Muhammad Umer Haroon
 
 ==========================================================================================
-FILE 21/25: Lectures\2_SOFTWARE CONSTRUCTION AND DEVELOPMENT.pdf
+FILE 20/30: Lectures\2_SOFTWARE CONSTRUCTION AND DEVELOPMENT.pdf
 TYPE: .pdf
 SIZE: 1135069 bytes
 ==========================================================================================
@@ -2083,7 +2323,7 @@ Muhammad Umer Haroon | LinkedIn
                                                                      Engr. Muhammad Umer Haroon                                                    45
 
 ==========================================================================================
-FILE 22/25: Lectures\2b_SOFTWARE CONSTRUCTION AND DEVELOPMENT_MuhammadUmerHaroon.pdf
+FILE 21/30: Lectures\2b_SOFTWARE CONSTRUCTION AND DEVELOPMENT_MuhammadUmerHaroon.pdf
 TYPE: .pdf
 SIZE: 985578 bytes
 ==========================================================================================
@@ -2517,7 +2757,7 @@ For queries
                                                                      Engr. Muhammad Umer Haroon                                                    27
 
 ==========================================================================================
-FILE 23/25: Lectures\3_SOFTWARE CONSTRUCTION AND DEVELOPMENT_MuhammadUmerHaroon.pdf
+FILE 22/30: Lectures\3_SOFTWARE CONSTRUCTION AND DEVELOPMENT_MuhammadUmerHaroon.pdf
 TYPE: .pdf
 SIZE: 1082135 bytes
 ==========================================================================================
@@ -3092,7 +3332,7 @@ Muhammad Umer Haroon | LinkedIn
                                                                      Engr. Muhammad Umer Haroon                                                    34
 
 ==========================================================================================
-FILE 24/25: Lectures\4_SOFTWARE CONSTRUCTION AND DEVELOPMENT_MuhammadUmerHaroon.pdf
+FILE 23/30: Lectures\4_SOFTWARE CONSTRUCTION AND DEVELOPMENT_MuhammadUmerHaroon.pdf
 TYPE: .pdf
 SIZE: 1255082 bytes
 ==========================================================================================
@@ -3376,182 +3616,303 @@ CODE
 --- PAGE 22 ---
 [OCR: may contain recognition errors]
 # Example 1: Find all Lowercase letters (a-z) in the input string
+
 re.findall(" [a-z]",
+
 input _ string)
+
 output
+
 of [a-z]:
+
 output)]
+
 Engr.Muhammad Umer Haroon
 
 --- PAGE 23 ---
 [OCR: may contain recognition errors]
 # Example 2: Find all uppercase letters (A-Z) in the input string
+
 output = re.findall(" [A-ZI"
+
 input _ string)
+
 print("Output of [A-Z] :
+
 output)
+
 Engr.Muhammad Umer Haroon
 
 --- PAGE 24 ---
 [OCR: may contain recognition errors]
 # Example 3: Find all occurrences of an uppercase letter followed by a lowercase letter
+
 output : re.findall(" ,
+
 input_string)
+
 print("0utput of [A-ZI [a-z]:",
+
 output )
+
 Engr.Muhammad Umer Haroon
 
 --- PAGE 25 ---
 [OCR: may contain recognition errors]
 # Example 4: Find all occurrences of an uppercase Letter followed by one or more Lowercase
+
 Letters
+
 - re.finda11("[A-Z][a-z]+", input _ string)
+
 output
+
 of [A-Z][a-z]+:",
+
 output)]
+
 Engr.Muhammad Umer Haroon
 
 --- PAGE 26 ---
 [OCR: may contain recognition errors]
 # Example 5: Find all occurrences of an uppercase Letter followed by zero or more Lowercase
+
 Letters
+
 output = re.findall("
+
 input_string) # The
+
 means zero or more occurrences of
+
 the Lowercase Letters
+
 print("Output of [A-ZI
+
 , output)
+
 Engr.Muhammad Umer Haroon
 
 --- PAGE 27 ---
 [OCR: may contain recognition errors]
 # Example 6: Find all characters that are NOT uppercase Letters (negation)
+
 input _ string) # The
+
 inside brackets negates the character
+
 output
+
 class
+
 print("Output of [AA-Z] : ", output)
+
 Engr.Muhammad Umer Haroon
 
 --- PAGE 28 ---
 [OCR: may contain recognition errors]
 # Example 7: Find sequences of characters that do not contain uppercase Letters (one or more)
+
 output = input _ string) # Matches one or more characters that are not
+
 uppercase Letters
+
 print("Output of [AA-Z]+:",
+
 output)
+
 Engr.Muhammad Umer Haroon
 
 --- PAGE 29 ---
 [OCR: may contain recognition errors]
 # Search for the first occurrence of 'dog' in the text
+
 - re.search(pattern, text)
+
 match
+
 if
+
 match:
+
 print( " Found:" ,
+
 match. group()) # Print the matched string if found
+
 Engr.Muhammad Umer Haroon
 
 --- PAGE 30 ---
 [OCR: may contain recognition errors]
 # Find all occurrences of 'dog' in the text
+
 re.findall(pattern, text)
+
 matches
+
 print("A11 matches: ",
+
 matches) # Print all matches found
+
 Engr.Muhammad Umer Haroon
 
 --- PAGE 31 ---
 [OCR: may contain recognition errors]
 # Substitute all occurrences of 'dog' with 'Puppy'
+
 re. sub (r"dog" ,
+
 "Puppy", text)
+
 new text
+
 print("Modified text: " ,
+
 new_text) # Print the modified text
+
 Engr.Muhammad Umer Haroon
 
 --- PAGE 32 ---
 [OCR: may contain recognition errors]
 F Split the text into parts based on wnttespace characters
+
 text)
+
 parts
+
 print("Sp1it parts:
+
 parts) # Print the List of split parts
+
 Engr.Muhammad Umer Haroon
 
 --- PAGE 33 ---
 [OCR: may contain recognition errors]
 # UNDERSTANDING USE OF ?
+
 # Sample input string
+
 input_string2
+
 "The cat sat on the mat.
+
 # use regex to find occurrences of 'cat '
+
 The cats are cute. "
+
 optionally followed by
+
 's'
+
 - r"cats?" # Matches 'cat' or 'cats'
+
 pattern
+
 # Find all matches in the input string
+
 re. findall(pattern, input_string2)
+
 matches
+
 # Print the matches found
+
 print("Matches found: " ,
+
 matches)
+
 Engr.Muhammad Umer Haroon
 
 --- PAGE 34 ---
 [OCR: may contain recognition errors]
 # UNDERSTANDING OF { }
+
 # Sample input string
+
 input _ string
+
 "aaa aa aaaaaa aa aaaaa aaa"
+
 # Use regex to find sequences of 'a' that occur between 2 and 4 times
+
 - # Matches 'a' appearing 2 to 4 times
+
 pattern
+
 # Find all matches in the input string
+
 re.findall(pattern, input _ string)
+
 matches
+
 # Print the matches found
+
 print("Matches found:
+
 matches)
+
 Engr.Muhammad Umer Haroon
 
 --- PAGE 35 ---
 [OCR: may contain recognition errors]
 *UNDERSTANDING OF $
+
 #input_string = "The quick brown fox jumps over the Lazy dog. What about mad dog ? "
+
 input _ string
+
 — "The quick brown fox jumps over the lazy dog. "
+
 # Use regex to find if the string ends with 'dog. '
+
 - r"dog\.$"
+
 # Matches if the string ends with 'dog. '
+
 pattern
+
 # The \ is used to escape the period, as it has a special meaning in regex.
+
 # Check if the input string matches the pattern
+
 re. search(pattern, input _ string) :
+
 if
+
 print("The string ends with 'dog.
+
 else:
+
 print("The string does not end with 'dog.
+
 Engr.Muhammad Umer Haroon
 
 --- PAGE 36 ---
 [OCR: may contain recognition errors]
 #UNDERSTANDING OF
+
 input_string
+
 "Hello, how are feeling now
+
 # Use regex to check if the string starts with 'Hello '
+
 # Matches if the string starts with
+
 - "AHe110"
+
 pattern
+
 # Check if the input string matches the pattern
+
 re.match(pattern, input _ string):
+
 print("The string starts with 'Hello .
+
 else:
+
 print("The string does not start with 'Hello' . ")
+
 Engr.Muhammad Umer Haroon
+
 'Hello '
 
 --- PAGE 37 ---
@@ -3644,7 +4005,1479 @@ Regex flags can modify how patterns are matched:
 Engr. Muhammad Umer Haroon                                                    44
 
 ==========================================================================================
-FILE 25/25: Lectures\Software Construction and Development Outline for Students.pdf
+FILE 24/30: Lectures\5_SOFTWARE CONSTRUCTION AND DEVELOPMENT_MuhammadUmerHaroon.pdf
+TYPE: .pdf
+SIZE: 1221685 bytes
+==========================================================================================
+--- PAGE 1 ---
+[OCR: may contain recognition errors]
+clas
+
+o ule
+
+class ModuleA { }
+
+export function build()
+
+{ components: [J )
+
+SOFTWARE
+
+rin (IHe
+
+CONSTRUCTION
+
+AND DEVELOPMENT
+
+Engr. Muhammad Umer Haroon Port f
+
+unction build
+
+{c
+
+m ponents•
+
+--- PAGE 2 ---
+SOFTWARE CONSTRUCTION
+  AND DEVELOPMENT
+
+                     WEEK 7
+
+--- PAGE 3 ---
+RECALL LAST WEEKS
+
+
+
+
+
+                                                                     Engr. Muhammad Umer Haroon                                                     3
+
+--- PAGE 4 ---
+Software systems rarely operate in isolation. They talk to databases,
+web browsers, mobile apps, third-party services, and each other. For
+that communication to work, both sides must agree on how data is
+structured, encoded, and decoded. This agreement is what we call a
+data interchange format.
+
+
+
+
+
+                                                                     Engr. Muhammad Umer Haroon                                                     4
+
+--- PAGE 5 ---
+What Is a Data Interchange Format
+
+   • A data interchange format is a set of rules for representing structured
+   data as a sequence of bytes so that it can be stored, transmitted, and
+    reconstructed by another system. The format defines how objects,
+    arrays, strings, numbers, and other data types are written, and how a
+    parser should read them back.
+   • Think of it as a shared language. If your Python backend speaks JSON
+   and your JavaScript frontend speaks JSON, they can exchange data
+   without confusion. If one speaks JSON and the other speaks XML, you
+   need a translator. Choosing the right format is therefore a design
+    decision that affects performance, readability, and maintainability.
+                                                          What Is XML? 🧾Explained in 60
+What Is JSON? 🧾Explained in 60                                                                    Seconds#QuikZen #XML #Programming
+Seconds#QuikZen #JSON #API
+                                                                          Engr. Muhammad Umer Haroon                                                     5
+
+--- PAGE 6 ---
+Serialization
+
+
+Serialization is the process of converting an in-memory data structure
+into a format that can be stored or transmitted. Your Python dictionary,
+your Java object, your C# class, these live in memory as complex
+structures with pointers and references. They cannot be written to a
+file or sent over a network in that form. Serialization flattens them into
+a sequence of bytes or characters that can be saved or sent.
+
+
+
+
+
+                                                                     Engr. Muhammad Umer Haroon                                                     6
+
+--- PAGE 7 ---
+Think of it like packing furniture for shipping. Your furniture (the data
+structure)  is  bulky and awkward.  Serialization  is the  process  of
+disassembling  it, wrapping  it, and putting  it in a box so  it can be
+transported. The box  is the serialized form.  It can be stored in a
+warehouse or shipped on a truck.
+
+
+
+
+
+                                                                     Engr. Muhammad Umer Haroon                                                     7
+
+--- PAGE 8 ---
+Deserialization
+
+
+Deserialization is the reverse. It takes a serialized format, a string or a
+sequence of bytes, and reconstructs the in-memory data structure
+from it. The receiver of the data reads the bytes, parses them according
+to the format rules, and builds the original object back.
+
+
+
+
+
+                                                                     Engr. Muhammad Umer Haroon                                                     8
+
+--- PAGE 9 ---
+Continuing the furniture analogy, deserialization is unpacking the box
+and reassembling the furniture. The box arrives at its destination, and
+you open it, take out the pieces, and put them back together into a
+usable form.
+
+
+
+
+
+                                                                     Engr. Muhammad Umer Haroon                                                     9
+
+--- PAGE 10 ---
+Serialization and deserialization are always a pair.
+Whatever you serialize must be deserializable by
+the other side. This is why the format must be
+agreed upon in advance. If you serialize with JSON
+and the receiver expects XML, deserialization will
+fail.
+
+
+
+
+
+                                                                     Engr. Muhammad Umer Haroon                                                    10
+
+--- PAGE 11 ---
+JSON: JavaScript Object Notation
+
+• JSON is a lightweight, text-based format that represents data as key-
+ value pairs and ordered lists. It was derived from JavaScript syntax but
+  is now language-independent and supported by  virtually every
+ programming language.
+•  It  is the  default format  for most  APIs, web  applications, and
+  configuration files in modern software.
+
+
+
+
+
+                                                                     Engr. Muhammad Umer Haroon                                                    11
+
+--- PAGE 12 ---
+JSON Syntax Rules
+
+RULE                     EXAMPLE
+Objects use curly braces with
+                              {"name": "Ali", "age": 25}
+key-value pairs
+Keys must be double-quoted
+                           "name" is valid, name is not
+strings
+
+Arrays use square brackets        ["apple", "banana"]
+
+Strings use double quotes        "hello"
+
+Numbers have no quotes         42, 3.14
+
+Booleans are lowercase           true, false
+
+Null is lowercase                   null
+
+No comments allowed            // comment is invalid
+
+                                                                     Engr. Muhammad Umer Haroon                                                    12
+
+--- PAGE 13 ---
+example
+
+
+{
+ "student": {
+  "name": “Sara Khan",
+  "age": 22,
+  "courses": ["SCD", "Data Structures", "Databases"],
+  "active": true,
+  "gpa": 3.75
+ }
+}
+
+
+
+                                                                     Engr. Muhammad Umer Haroon                                                    13
+
+--- PAGE 14 ---
+To be practiced in lab
+
+
+
+import json
+
+# Python dictionary
+
+student = {
+
+  "name": "Ali Khan",
+
+  "age": 22,
+
+  "courses": ["SCD", "Data Structures", "Databases"],
+
+  "active": True,
+
+  "gpa": 3.75
+
+}
+
+# Serialize: Python object to JSON string
+
+json_string = json.dumps(student, indent=2)
+
+print(json_string)
+
+# Deserialize: JSON string to Python object
+
+parsed = json.loads(json_string)
+
+print(parsed["name"])   # Ali Khan
+
+print(parsed["courses"][0]) # SCD
+
+
+
+                                                                     Engr. Muhammad Umer Haroon                                                    14
+
+--- PAGE 15 ---
+Common JSON Operations
+
+
+
+
+OPERATION                               PYTHON CODE
+
+
+Write to file                                         json.dump(data, open("file.json", "w"))
+
+
+Read from file                                       data = json.load(open("file.json"))
+
+
+Pretty print                                          json.dumps(data, indent=2)
+
+
+Sort keys                                            json.dumps(data, sort_keys=True)
+
+
+Handle non-ASCII                                    json.dumps(data, ensure_ascii=False)
+
+
+                                                                     Engr. Muhammad Umer Haroon                                                    15
+
+--- PAGE 16 ---
+JSON offers the best compromise between interoperability and
+ease of use for most web and API scenarios.  It  is not the
+smallest or fastest format, but it is almost always good enough
+
+
+
+ STRENGTHS                                WEAKNESSES
+
+
+ Simple syntax, easy to learn                    No support for comments
+
+
+ Native support in JavaScript                    No schema validation built in
+
+
+ Compact compared to XML                      Numbers are limited to floating point
+
+
+ Fast parsing in most languages                  No support for dates or binary data
+
+
+ Universal language support                          Keys must be strings
+
+
+
+                                                                     Engr. Muhammad Umer Haroon                                                    16
+
+--- PAGE 17 ---
+XML: eXtensible Markup Language
+
+
+XML  is a markup language that uses tags to describe data.  It was
+designed to be both human-readable and machine-readable, and  it
+supports complex structures such as nested elements,  attributes,
+namespaces, and schema validation. XML was the dominant format for
+web services in the early 2000s and remains widely used in enterprise
+systems, configuration files, and document formats such as Microsoft
+Office files.
+
+
+
+
+
+                                                                     Engr. Muhammad Umer Haroon                                                    17
+
+--- PAGE 18 ---
+XML Syntax Rules
+
+RULE                           EXAMPLE
+
+Elements have opening and closing tags  <name>Ali</name>
+
+Elements can have attributes            <student id="1">
+
+Elements can be nested                <student><name>Ali</name></student>
+
+
+Every document has one root element    <students>...</students>
+
+Tags are case-sensitive              <Name> and <name> are different
+
+Comments use <!-- -->                       <!-- this is a comment -->
+
+Namespaces use xmlns                  xmlns:ns="http://example.com"
+
+                                                                     Engr. Muhammad Umer Haroon                                                    18
+
+--- PAGE 19 ---
+<?xml version="1.0" encoding="UTF-8"?>
+<students>
+  <student id="1">
+    <name>Sara Khan</name>
+    <age>22</age>
+    <courses>
+      <course>SCD</course>
+      <course>Data Structures</course>
+    </courses>
+    <active>true</active>
+    <gpa>3.75</gpa>
+  </student>
+</students>
+
+
+
+
+                                                                     Engr. Muhammad Umer Haroon                                                    19
+
+--- PAGE 20 ---
+Python provides xml.etree.ElementTree in the
+standard library for parsing and creating XML
+
+
+import xml.etree.ElementTree as ET
+
+# Parse XML from a string
+
+xml_string = """
+
+<students>
+
+  <student id="1">
+
+    <name>Ali Khan</name>
+
+    <age>22</age>
+
+    <gpa>3.75</gpa>
+
+  </student>
+
+</students>
+
+"""
+
+root = ET.fromstring(xml_string)
+
+# Access elements
+
+for student in root.findall("student"):
+
+  name = student.find("name").text
+
+  age = student.find("age").text
+
+  gpa = student.find("gpa").text
+
+  student_id = student.get("id")
+
+  print(f"ID: {student_id}, Name: {name}, Age: {age}, GPA: {gpa}")
+
+
+
+                                                                     Engr. Muhammad Umer Haroon                                                    20
+
+--- PAGE 21 ---
+Creating xml in python
+
+
+
+import xml.etree.ElementTree as ET
+
+
+root = ET.Element("students")
+
+student = ET.SubElement(root, "student", id="1")
+
+
+name = ET.SubElement(student, "name")
+
+name.text = "Ali Khan"
+
+
+age = ET.SubElement(student, "age")
+
+age.text = "22"
+
+
+tree = ET.ElementTree(root)
+
+ET.indent(tree, space=" ")
+
+tree.write("students.xml", encoding="utf-8", xml_declaration=True)
+
+
+
+
+
+                                                                     Engr. Muhammad Umer Haroon                                                    21
+
+--- PAGE 22 ---
+Strengths                     Weaknesses
+
+Supports schema validation (XSD)  Verbose and bulky
+
+Supports namespaces             Slower to parse than JSON
+
+Supports comments              Complex syntax
+
+Good for document-centric data      Overkill for simple data exchange
+
+                                Not natively supported in
+Mature tooling and standards
+                                   JavaScript
+
+
+
+
+
+                                                                   Engr. Muhammad Umer Haroon                                                    22
+
+--- PAGE 23 ---
+JSON is generally preferred for browser-side and API communication
+because its files are smaller and parse faster. XML is preferred in server-
+side enterprise systems where validation, namespaces, and document
+structure matter more than size.
+
+Feature                                    JSON                                    XML
+
+
+Data model                                              Key-value pairs and arrays                            Tags and attributes
+
+
+Readability                                         Easy                                                Moderate to difficult
+
+
+File size                                                  Smaller                                                   Larger due to tags
+
+
+Parsing speed                                            Fast                                                   Slower
+
+
+Schema support                               JSON Schema (optional)                        XSD (standardized)
+
+
+Comments                                            Not supported                                          Supported
+
+
+Namespaces                                          Not supported                                          Supported
+
+
+Native JavaScript support                             Yes                                         No
+
+
+
+Best for                                   Web APIs, config files                                        Enterprise systems, documents
+
+
+
+                                                                      Engr. Muhammad Umer Haroon                                                    23
+
+--- PAGE 24 ---
+Modern Alternatives
+
+
+While JSON and XML dominate, several other formats have emerged
+for specific needs. The choice depends on whether you prioritize size,
+speed, readability, or schema enforcement.
+
+
+
+
+
+                                                                     Engr. Muhammad Umer Haroon                                                    24
+
+--- PAGE 25 ---
+YAML
+
+• YAML is a human-readable format often used for configuration files. It
+ uses indentation instead of braces and brackets, which makes it more
+ readable than JSON for complex configurations. YAML is popular in
+ DevOps  tools such as Docker Compose, Kubernetes, and CI/CD
+  pipelines.
+
+
+
+
+
+                                                                     Engr. Muhammad Umer Haroon                                                    25
+
+--- PAGE 26 ---
+Yaml syntax example
+
+
+student:
+ name: Sara Khan
+ age: 22
+ courses:
+   - SCD
+   - Data Structures
+ active: true
+ gpa: 3.75
+
+
+
+
+                                                                     Engr. Muhammad Umer Haroon                                                    26
+
+--- PAGE 27 ---
+• YAML is more functional and readable than JSON, but JSON is much
+  faster for serialization and deserialization. Use YAML for human-
+  written configuration, and JSON for machine-to-machine exchange.
+
+
+
+
+
+                                                                     Engr. Muhammad Umer Haroon                                                    27
+
+--- PAGE 28 ---
+Protocol Buffers (Protobuf)
+
+
+Protocol Buffers  is a binary format developed by Google.  It uses a
+schema file (.proto) to define the structure of messages, and a compiler
+generates  code  in  the  target  language  for  serialization  and
+deserialization. Because  the schema  is  separate from  the  data,
+payloads are much smaller than JSON or XML.
+
+
+Research shows that Protocol Buffers excels in compactness and speed
+within Java and Python environments. It is ideal for high-performance
+microservices, gRPC APIs, and situations where bandwidth and latency
+matter.
+
+
+
+                                                                     Engr. Muhammad Umer Haroon                                                    28
+
+--- PAGE 29 ---
+protobuf
+
+
+// student.proto
+message Student {
+  string name = 1;
+  int32 age = 2;
+  repeated string courses = 3;
+  bool active = 4;
+  float gpa = 5;
+}
+
+
+
+
+                                                                     Engr. Muhammad Umer Haroon                                                    29
+
+--- PAGE 30 ---
+Apache Avro
+
+
+Avro is a binary format that stores the schema alongside the data,
+which makes it self-describing. It supports schema evolution, meaning
+you can add or remove fields without breaking compatibility. Avro is
+widely used in big data systems such as Apache Hadoop and Apache
+Kafka.
+
+
+
+
+
+                                                                     Engr. Muhammad Umer Haroon                                                    30
+
+--- PAGE 31 ---
+MessagePack
+
+
+MessagePack is a binary format that aims to be as simple as JSON but
+more compact. It is useful when you want JSON-like simplicity with
+better performance. However,  industry demand  for MessagePack
+remains lower than for Protobuf and Avro.
+
+
+
+
+
+                                                                     Engr. Muhammad Umer Haroon                                                    31
+
+--- PAGE 32 ---
+Cap'n Proto
+
+
+Cap'n Proto  is a binary format designed  for extreme speed.  Its
+documentation claims it is "infinity times faster" than Protocol Buffers
+in some benchmarks because  it supports zero-copy deserialization,
+meaning data can be read directly from the wire without parsing. It is
+used in performance-critical systems.
+
+
+
+
+
+                                                                     Engr. Muhammad Umer Haroon                                                    32
+
+--- PAGE 33 ---
+ULMEN
+
+
+ULMEN is a newer serialization format built in Rust, designed for AI
+agent communication and LLM context. It claims to be 8x faster than
+JSON while producing payloads 55-97% smaller. This is an emerging
+format, and its long-term adoption is not yet established
+
+
+
+
+
+                                                                     Engr. Muhammad Umer Haroon                                                    33
+
+--- PAGE 34 ---
+EXPLORE IF IT INTERESTS YOU
+
+SCENARIO                RECOMMENDED FORMAT     WHY
+
+Public REST API               JSON                             Universal support, easy to debug
+
+
+Internal microservices            Protobuf or gRPC                Small payloads, fast serialization
+
+                                                            Human-readable, supports
+Configuration files            YAML
+                                                     comments
+
+Enterprise integration         XML                       Schema validation, namespaces
+
+                                                     Schema evolution, columnar
+Big data pipelines               Avro or Parquet
+                                                                  storage
+
+Real-time systems               Cap'n Proto or Protobuf         Extreme speed, low latency
+
+Browser-to-server             JSON                            Native JavaScript support
+
+Legacy system integration      XML                                Existing tooling and standards
+
+
+
+                                                                      Engr. Muhammad Umer Haroon                                                    34
+
+--- PAGE 35 ---
+Some Keypoints
+
+• Data interchange formats are a foundational concern in software
+  construction.
+• The format you choose affects how fast your system runs, how easy it
+  is to debug, and how well it integrates with other systems.
+• JSON and XML remain the workhorses, but binary formats such as
+ Protobuf and Avro are increasingly important in performance-critical
+ and data-intensive applications.
+• Understanding the tradeoffs allows you to make informed decisions
+  rather than defaulting to whatever is familiar.
+
+
+
+
+
+                                                                     Engr. Muhammad Umer Haroon                                                    35
+
+--- PAGE 36 ---
+LAB
+
+
+Write a Python script that reads a JSON file containing a list of students,
+filters those with a GPA above 3.5, and writes the result to a new JSON
+file. Write a second script that performs the same task using XML
+instead of JSON. Compare the amount of code required in each case.
+Then write a third script that serializes the same data using Protocol
+Buffers and compare the file size of the three outputs. This exercise will
+give you hands-on intuition for the tradeoffs discussed in this lecture.
+
+
+
+
+
+                                                                     Engr. Muhammad Umer Haroon                                                    36
+
+--- PAGE 37 ---
+For queries
+
+
+Office : B05, RSB
+Counselling Hours :
+
+                    Monday                   11:00 am -12:00 pm
+
+                       Tuesday                   12:00 pm -1:00 pm
+
+                        Thursday                  10:15 am -11:15 am
+
+
+mumer.haroon@imsciences.edu.pk
+Muhammad Umer Haroon | LinkedIn
+
+
+
+
+
+                                                                     Engr. Muhammad Umer Haroon                                                    37
+
+==========================================================================================
+FILE 25/30: Lectures\Clean.Code.A.Handbook.of.Agile.Software.Craftsmanship.pdf
+TYPE: .pdf
+SIZE: 3782924 bytes
+==========================================================================================
+[BOOK CONTENT OMITTED AT USER REQUEST: listed in the folder structure only. Original PDF remains unchanged.]
+
+==========================================================================================
+FILE 26/30: Lectures\Code Complete 2nd.pdf
+TYPE: .pdf
+SIZE: 8880461 bytes
+==========================================================================================
+[BOOK CONTENT OMITTED AT USER REQUEST: listed in the folder structure only. Original PDF remains unchanged.]
+
+==========================================================================================
+FILE 27/30: Lectures\Python for Programmers with Big Data and Artificial Intelligence Case Studies by Paul J. Deitel, Harvey Deitel (z-lib.org).pdf
+TYPE: .pdf
+SIZE: 15349175 bytes
+==========================================================================================
+[BOOK CONTENT OMITTED AT USER REQUEST: listed in the folder structure only. Original PDF remains unchanged.]
+
+==========================================================================================
+FILE 28/30: Lectures\SCD_Theory_Umer_Haroon_Classroom_Text.txt
+TYPE: .txt
+SIZE: 2473 bytes
+==========================================================================================
+SCD THEORY SEC A (Software Construction and Development) - Google Classroom text content
+Teacher: Sir Muhammad Umer Haroon
+
+============================================================
+ANNOUNCEMENTS (oldest first)
+============================================================
+
+[2026-09-25] https://classroom.google.com/c/ODc4MTc1Mjc1NjYz/p/ODg3MzQ2MjQ2OTY2
+SCD project groups, fill it by tomorrow evening.
+  Link: SCD PROJECT GROUPS SECTION A - https://forms.gle/rkYgqLgKv6za2JzB7
+
+[2026-10-01] https://classroom.google.com/c/ODc4MTc1Mjc1NjYz/p/ODg4NDMzOTAyMjgx
+If you have joined class with not your own name you will be removed, get it sorted ASAP
+
+============================================================
+MATERIAL POSTS (oldest first)
+============================================================
+
+[2026-09-17] COURSE OUTLINE
+PFA
+  Attachment: Software Construction and Development Outline for Students.pdf
+
+[2026-09-17] BOOKS
+PFA
+  Attachments: Clean.Code.A.Handbook.of.Agile.Software.Craftsmanship.pdf, Code Complete 2nd.pdf, Python for Programmers with Big Data and Artificial Intelligence Case Studies by Paul J. Deitel, Harvey Deitel (z-lib.org).pdf
+
+[2026-09-24] LECTURES WEEK 1,WEEK 2 ,WEEK 3
+PFA
+  Attachments: 2_SOFTWARE CONSTRUCTION AND DEVELOPMENT.pdf, 1_SOFTWARE CONSTRUCTION AND DEVELOPMENT.pdf
+
+[2026-10-01] WEEK 4 LECTURES
+PFA
+  Attachment: 2b_SOFTWARE CONSTRUCTION AND DEVELOPMENT_MuhammadUmerHaroon.pdf
+
+[2026-10-10] WEEK 5
+PFA
+  Attachment: 3_SOFTWARE CONSTRUCTION AND DEVELOPMENT_MuhammadUmerHaroon.pdf
+
+[2026-10-15] WEEK 6
+(no description)
+  Attachment: 4_SOFTWARE CONSTRUCTION AND DEVELOPMENT_MuhammadUmerHaroon.pdf
+
+[2026-10-22] WEEK 7
+PFA
+  Attachment: 5_SOFTWARE CONSTRUCTION AND DEVELOPMENT_MuhammadUmerHaroon.pdf
+
+[2026-10-22] Related to XML 
+It is not our course content but shared for interest and exploration
+  Attachment: scd_xml.pdf
+
+============================================================
+ASSIGNMENTS (oldest first)
+============================================================
+
+[2026-10-16] Assignment 1 (100 points, due 20 Oct 2026)
+PFA, submission will close after due time.
+  Attachment: Assignment_1_SCD_IMSCIENCES.pdf
+
+============================================================
+MY SUBMISSIONS
+============================================================
+
+Assignment 1: turned in, not graded yet
+  Link: GitHub - abdulsamad-codes/CodeInspector (https://github.com/abdulsamad-codes/CodeInspector)
+  Uploaded: requirements.pdf
+
+
+==========================================================================================
+FILE 29/30: Lectures\scd_xml.pdf
+TYPE: .pdf
+SIZE: 558361 bytes
+==========================================================================================
+--- PAGE 1 ---
+SE3001-
+Software
+constructio
+n and
+Developme
+
+
+
+   ENGR.MUHAMMAD UMER HAROONnt
+
+--- PAGE 2 ---
+• What is XML?
+
+• XML stands for eXtensible Markup Language. It is a language (not> a
+ programming language) that uses the markup and can extend. It is derived
+ from Standard Generalized Markup Language(SGML). XML also uses DTDs
+ (Document Type Definitions) to define the XML document structure.
+
+                                                                                                                                                                                                                                                                                                                                                                                      Haroon
+                                                                                                                                                                                                                                                         Umer
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          Engr.Muhammad
+
+--- PAGE 3 ---
+• XML is not for handling computational operations and algorithms. Thus, XML
+  is not a programming language.
+
+• The main goal is to transport data not to display information. XML bridges
+  the gap between human readability and machine readability. Unlike HTML
+  tags, XML tags are self-descriptive.
+
+                                                                                                                                                                                                                                                                                                                                                                                      Haroon
+                                                                                                                                                                                                                                                         Umer
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          Engr.Muhammad
+
+--- PAGE 4 ---
+XML Features
+
+
+
+• Here are some important features of XML:
+
+• It is extensible and human-readable.
+
+• It is platform and language independent.
+
+• It preserves white space.
+• Overall simplicity.                                                                                                                                                                                                                                                                                                         Haroon
+• XML tags are not predefined. You need to define your customized tags.                                                                                                                                                                                                                                                         Umer
+• XML was designed to carry data, not to display that data.
+
+• Well-structured format is easy to read and write from programs.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          Engr.Muhammad
+
+--- PAGE 5 ---
+XML Encoding
+
+
+
+Encoding is the conversion of Unicode characters to their binary representation. UTF is use for XML
+encoding. UTF stands for UCS (UCS stands for Universal Character Set) Transformation Format.
+Mainly, there are two types of UTF encoding.
+1.UTF-8 : UTF-8 uses 8-bits to represent the characters.
+Example:
+<?xml version="1.0" encoding="UTF-8"?>
+2.UTF-16                                                                                                                                                                                                                                                                                                                                                                                                                     HaroonIt uses 16-bits to represent the characters.
+Example:                                                                                                                                                                                                                                                      Umer
+<?xml version="1.0" encoding="UTF-16"?>
+You can use encoding inside the XML declaration. UTF-8 is the default encoding in XML.
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              Engr.Muhammad
+
+--- PAGE 6 ---
+XML Syntax
+
+The below code segment shows the basic XML syntax.
+<?xml version = "1.0" encoding = "UTF-8" ?>
+ <root>
+       <child>
+              <subchild>
+             .....</subchild>
+       </child>
+ </root>                                                                                                                                                                                                                                                                                                                                                                                                             Haroon
+                                                                                                                                                                                                                                                                        Umer
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           Engr.Muhammad
+
+--- PAGE 7 ---
+XML Declaration
+
+
+
+XML declaration consists of the XML version, character encoding or/and standalone
+status. The declaration is optional.
+Syntax for XML Declaration
+The below code segment shows the syntax for XML declaration.
+<?xml version="version_number," encoding="character_encoding" standalone="yes_or_no" ?>
+                                                                                                                                                                                                                                                                                                                                                                                                             Haroon
+                                                                                                                                                                                                                                                                        Umer
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           Engr.Muhammad
+
+--- PAGE 8 ---
+XML Declaration Rules
+
+
+
+
+
+Following are XML declaration rules.
+•If the XML declaration is present, it must be the first thing that appears.
+•The XML declaration is case sensitive, and it must start with the lowercased <?xml.
+•It has no closing tag.
+                                                                                                                                                                                                                                                                                                                                                                                                        Haroon
+                                                                                                                                                                                                                                                                      UmerExample of XML Declaration
+Following code segment shows an example of an XML declaration.
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  Engr.Muhammad
+
+--- PAGE 9 ---
+XML Comments
+Comments are optional. Adding comments help to understand the document content.
+Syntax for XML Comments
+A comment begins with <!– and ends with –>.
+Following code segment shows the syntax for XML comments.                                                                                                                                                                  Haroon
+<!-- Add your comment here -->                                                                                                                                                                                                                                                                           Umer
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     Engr.Muhammad
+
+--- PAGE 10 ---
+XML Tags and Elements
+
+
+
+
+
+Tags work as pairs except for declarations. Every tag pair consists of an opening tag (also known as the start
+tag)
+and a closing tag (also known as the end tag).
+Tag names are enclosed in <>. For a particular tag pair, the start and end tags must be identical except the end
+tag has / after the <.
+                                                                                                                                                                                                                                                                                                                                                                                                                                 Haroon
+<name>...</name>                                                                                                                                                                                                                                                                                      Umer
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       Engr.Muhammad
+
+--- PAGE 11 ---
+Anything between the opening and closing tags is referred to
+as content.
+Opening tag, content, and closing tag, altogether, is referred
+to as an element.                                                                                                                                                                                                                                                                                                         Haroon
+Opening tag + content + closing tag = an element                                                                                                     Umer
+Note: Elements may also contain attributes.
+<age>20</age>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             Engr.Muhammad
+
+--- PAGE 12 ---
+<age>20</age>
+
+
+
+
+In the above element,
+•age is the name of the element.
+Note: Tag name also referred to as an element or element name.
+•<age> – opening tag
+•25 – content
+•</age> – closing tag.
+If there is no content between the tags, as shown below, it referred to as empty tags.                                                                        Haroon
+<result></result>                                                                                                                                              Umer
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      Engr.Muhammad
+
+--- PAGE 13 ---
+XML Tag and Element Rules
+
+
+
+Following list shows XML tag and element rules.
+•Tags are case sensitive.
+                                                                                                                                                                                                                                                                                                                                                                                                        Haroon
+                                                                                                                                                                                                                                                                      UmerCorrect:
+<age>20</age>
+Wrong:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  Engr.Muhammad<age>20</Age>
+
+--- PAGE 14 ---
+• Note: AGE, Age, and age are three different names in XML.
+
+• All XML documents must contain a single root element.
+
+• All elements must have a closing tag (except for declarations).
+
+• A tag name must begin with a letter or an underscore, and it cannot start
+  with the XML.
+                                                                                                                                                                                                                                                                                                                                                                                      Haroon• A tag name can contain letters, digits, hyphens, underscores, and periods.
+ Hyphens underscore, and periods are the only punctuation marks allowed.                                                    Umer
+• A tag name cannot contain spaces.
+
+• All elements must be nested properly.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          Engr.Muhammad
+
+--- PAGE 15 ---
+<book>
+<book-title>
+<_data>
+<data_1>
+                                                                                                                                                                                                                                                                                                                                                                                        Haroon
+<item.name>                                                                                                                                                                                                                                                           Umer
+<1book>
+<-title>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              Engr.Muhammad
+<.data>
+
+--- PAGE 16 ---
+[OCR: may contain recognition errors]
+
+
+--- PAGE 17 ---
+Correct nesting
+
+<parent>
+
+  <child>Content</child>
+
+</parent>
+
+                                                                                                                                                                                                                                                                                                                                                                                      Haroon
+                                                                                                                                                                                                                                                         Umer
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          Engr.Muhammad
+
+--- PAGE 18 ---
+Incorrect nesting
+
+<parent>
+
+  <child>Content</parent>
+
+</child>
+
+                                                                                                                                                                                                                                                                                                                                                                                      Haroon
+                                                                                                                                                                                                                                                         Umer
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          Engr.Muhammad
+
+--- PAGE 19 ---
+Example:
+
+
+
+
+
+<b><u>This text is bold and italic</u></b>
+<b><u>This text is bold and italic.</b></u>
+                                                                                                                                                                                                                                                                                                                                                                                                               Haroon
+                                                                                                                                                                                                                                                                          Umer
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 Engr.Muhammad
+
+--- PAGE 20 ---
+XML Attributes
+
+
+Attribute for an element is placed after the tag
+name in the start tag. You can add more than
+one attribute for a single element with different                                                                                                                                                                                                                                                                                                                                                                                                                                  Haroon
+                                                                                                                                                                                                                                                                                       Umerattribute names.
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          Engr.Muhammad
+
+--- PAGE 21 ---
+Let’s consider the below XML
+document.
+<company name="ABC Holdings" location="London">
+<chairman>Mr. John</chairman>
+ <gm>Mr. Wood</gm>                                                                                                                                                                                                                                                                                 Haroon</company>
+                                                                                                                                                                                                                                                         Umer
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          Engr.Muhammad
+
+--- PAGE 22 ---
+• There are two attributes in the company element, i.e. name and location.
+
+• Let’s study the name attribute,
+
+• name=”ABC Holdings” – an attribute
+
+• name – attribute name / attribute
+• ABC Holdings – attribute value                                                                                                                                                                                                                                                       Haroon
+• the company is the root element.                                                                                                                                                                                                                                                         Umer
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          Engr.Muhammad
+
+--- PAGE 23 ---
+XML Attribute Rules
+
+
+
+
+• Attribute values must be within quotes.
+
+• An element cannot contain several attributes with the same name.
+
+                                                                                                                                                                                                                                                                                                                                                                                                     Haroon
+                                                                                                                                                                                                                                                                   Umer
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           Engr.Muhammad
+
+--- PAGE 24 ---
+Attribute versus Element
+
+
+Here is another example.
+Let’s consider documents A and B given below.
+Document A:
+<teacher subject="English"> <name>Mr. John</name>.
+<qualification>Graduate</qualification> </teacher>
+Document B:                                                                                                                                                                                                                                                                                                                                                                                                              Haroon
+<teacher> <subject>English</subject> <name>Mr. John</name>                                                                                                                                                                                                                                                                         Umer<qualification>Graduate</qualification> </teacher>
+In document A, the subject is an attribute.
+In document B, the subject is an element.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             Engr.Muhammad
+
+--- PAGE 25 ---
+XML Entities
+
+
+
+
+
+                                                                                                                                                                                                                                                                                                                                                                                      Haroon
+                                                                                                                                                                                                                                                         Umer
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          Engr.Muhammad
+
+--- PAGE 26 ---
+• What are XML Entities?
+• In simple terms, entities are a way of representing special
+ characters. Entities are also known as entity references.
+• Why You Need XML Entities?
+• Some characters (such as “, & <, and so on) are reserved
+ in XML. They are referred to as special characters and
+ cannot be directly used for other purposes.                                                                                                                                                                                                                                                                                                                                                                                                              Haroon
+                                                                                                                                                                                                                                                                         Umer• For example, the < and > symbols a used for tags. You
+ cannot directly type from the keyboard for less
+ than and greater than signs. Instead, you need to use                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              Engr.Muhammad
+ entities.
+
+--- PAGE 27 ---
+Following table shows some of the popular
+ XML entities.
+
+
+
+Example:
+
+
+
+            Character        Description       Entity Name     Usage
+                             Quotation mark
+                “                             quot            &quot;
+                              (double quote)
+       &             Ampersand     amp          &amp;                                                                                             Haroon                            Apostrophe
+                              ‘                             apos            &apos;                                  (single quote)                                                                                                                                             Umer
+          <                Less than sign     lt                  &lt;
+                             Greater than
+          >                                gt               &gt;
+                               sign                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    Engr.Muhammad
+
+--- PAGE 28 ---
+Example:
+<friend>
+<name>My friends are Alice &amp; Jane.
+</name>
+</friend>                                                                                                                                                                                                                                                                                                                                                                                                             Haroon
+                                                                                                                                                                                                                                                                        Umer
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           Engr.Muhammad
+
+--- PAGE 29 ---
+JSON versus XML
+
+Similarities between JSON and XML
+The below list shows the similarities between JSON and XML.
+•Both are open formats.
+•Both are self-describing.
+•Both have a hierarchical structure.
+•Both can parse and use by several programming languages.                  Haroon
+                                                                                                                                                                                                                                                                   Umer
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           Engr.Muhammad
+
+--- PAGE 30 ---
+Differences between JSON and XML
+
+
+
+
+
+                                                                                                                                                                                                                                                                                                                                                                                      Haroon
+                                                                                                                                                                                                                                                         Umer
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          Engr.Muhammad
+
+--- PAGE 31 ---
+Read
+                                                                                   your
+                                                                                                             self                 XML
+JSON
+                                                     Extensible Markup
+Stands for               JavaScript Object Notation                                              Language
+Extended from           JavaScript           SGML
+                       Data stored as key-value   Data stored as a tree
+Data storage
+                              pairs.                       structure.
+
+Namespaces          No support for namespaces. Supports namespaces.
+
+                       Adding comments is not
+Comments                                 Can add comments.
+                           supported.
+                          Readily accessible as JSON                                                                                                                                                HaroonData accessibility                              Data need to be parsed.
+                              objects.                                                                                                                                                                                                                                                              Umer
+                       Adding metadata is not
+Metadata                                  Can write metadata.
+                           supported.
+                   JSON types: string,         All XML data should
+Types
+                       number, array, Boolean.   be strings.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          Engr.Muhammad
+                                                 Support many data types
+                         Supports text and numbe
+Data types of support                                     (text, numbers, images, so
+                         r data types only.
+                                                      on)
+
+--- PAGE 32 ---
+Read
+                                                                                         your
+                           More support for arrays                                                 self
+Array’s support                                    No or less support for arrays.
+                            compared to XML.
+                                                      The object has to be express by
+Object’s support              Native support for object.
+                                                                  conventions.
+AJAX toolkit support          Supported.                   Not fully supported.
+Retrieving values             Easy.                                Difficult.
+                                                              Developers have to write
+Deserializing/serializing       Fully automated.
+                                                                JavaScript code.
+                                                               Cross-browser XML parsing can
+Browser support             Supported by most browsers.
+                                                            be tricky.
+Encoding                   Only supports UTF-8 encoding.   It supports various encoding.
+Display capabilities        No display capabilities.           Offer display capabilities.                                            HaroonDocument size                Smaller than XML.             Large than JSON.
+Filename Extension           .json                        .xml                                                                                  Umer
+Security                      Less secured.                More secure than JSON.
+Easy to read                    Relatively easy.                  Relatively difficult.
+Learning curve              Easy to learn.                  Steep learning curve.Website                         https://www.json.org/json-en.html https://www.w3.org/TR/xml11/                                                       Engr.Muhammad
+
+--- PAGE 33 ---
+Basic JSON Syntax
+
+
+
+{string:value, .......}
+Same example with JSON and XML
+With JSON
+{"books":[ {"name":"Anna Karenina", "author":"Leo Tolstoy"},
+{"name":"One Hundred Years of Solitude", "author":"Gabriel Garcia                                                                                                                                                                                                                                                                                                                                                                                                                         Haroon
+Marquez"}, {"name":"The Great Gatsby", "author":"Scott Fitzgerald"},                                                                                                                                                                                                                                                                                 Umer{"name":"Invisible Man", "author":"Ralph Ellison"} ]}
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      Engr.Muhammad
+
+--- PAGE 34 ---
+With XML
+<?xml version = "1.0" encoding = "UTF-8" ?>
+ <books> <book>
+<name>Anna Karenina</name> <author>Leo Tolstoy</author> </book>
+ <book> <name>One Hundred Years of Solitude</name> <author>Gabriel
+Garcia Marquez</author> </book>                                                                                                                                                                                                                         Haroon <book> <name>The Great Gatsby</name> <author>Scott Fitzgerald</author>
+</book>                                                                                                                                                                                                                                         Umer
+ <book> <name>Invisible Man</name> <author>Ralph Ellison</author>
+</book> </books>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           Engr.Muhammad
+
+--- PAGE 35 ---
+XML DTD
+
+
+
+• What is DTD?
+
+• DTD stands for Document Type Definition. It defines the structure of an XML
+ document using some legal elements. XML DTD is optional.
+
+• DTD Rules
+
+• Following list shows DTD rules.
+                                                                                                                                                                                                                                                                                                                                                                                      Haroon•  If DTD is present, it must appear at the start of the document (only the XML
+  declaration can appear above the DTD).                                                                                                                                              Umer
+• The element declaration must start with an ! mark.
+
+• The DTD name and element type of the root element must be the same.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          Engr.Muhammad
+
+--- PAGE 36 ---
+Example of an internal DTD:
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE student [ <!ELEMENT student(firstname,lastname,school)>
+<!ELEMENT firstname (#PCDATA)>
+<!ELEMENT lastname (#PCDATA)>
+<!ELEMENT school (#PCDATA)> ]>
+<student>
+      <firstname>Mark</firstname>
+      <lastname>Wood</lastname>
+      <school>Hills College</school>                                                                                                                                                                                                                                                                                                                                                                                                Haroon
+ </student>
+                                                                                                                                                                                                                                                                Umer
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                Engr.Muhammad
+
+--- PAGE 37 ---
+• In the above example,
+
+• !DOCTYPE student indicates the beginning of the DTD declaration. And
+  the student is the root element of the XML document.
+
+• !ELEMENT student indicates the student element must contain firstname,
+ lastname and school elements.
+
+• !ELEMENT firstname indicates the firstname element is of                                                                                                                                                                                                                                                                                                                                                                                      Haroon
+  type #PCDATA (Parsed Character Data).
+                                                                                                                                                                                                                                                         Umer
+• !ELEMENT lastname indicates the lastname element is of type #PCDATA.
+
+• !ELEMENT school indicates the school element is of type #PCDATA.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          Engr.Muhammad
+
+--- PAGE 38 ---
+The DTD file content (student.dtd) as follows.
+
+<!ELEMENT student (firstname,lastname,school)>                                                                                                                                     Haroon<!ELEMENT firstname (#PCDATA)>
+<!ELEMENT lastname (#PCDATA)>                                                                                                                                                        Umer
+<!ELEMENT school (#PCDATA)>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     Engr.Muhammad
+
+--- PAGE 39 ---
+• XML DOM
+
+• What is DOM?
+
+• DOM stands for Document Object Model. It defines a standard manner of
+  accessing and manipulating XML documents. DOM has a (hierarchical) tree
+  structure.
+                                                                                                                                                                                                                                                                                                                                                                                      Haroon
+                                                                                                                                                                                                                                                         Umer
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          Engr.Muhammad
+
+--- PAGE 40 ---
+example of DOM
+
+Let’s consider the below XML document.
+<?xml version="1.0" encoding="UTF-8" ?>
+ <school>
+ <student>
+<name>
+<first_name>Alex</first_name>
+ <last_name>Clarke</last_name>
+</name>                                                                                                                                                                                                                                                                                                                                                                 Haroon
+ <age>14</age>                                                                                                                                                                                                                 Umer
+<address>No. 35, Flower Road, Leeds</address>
+ </student>
+</school>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  Engr.Muhammad
+
+--- PAGE 41 ---
+XML DOM Example
+
+
+
+
+
+                                                                                                                                                                                                                                                                                                                                                                                      Haroon
+                                                                                                                                                                                                                                                         Umer
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          Engr.Muhammad
+
+--- PAGE 42 ---
+XML Validation
+
+What are Well-formed XML Documents?
+Well-formed XML documents are XML documents
+with correct syntax.
+What are Valid XML Documents?
+                                                                                                                                                                                                                                                                                                                                                                                                     HaroonValid XML documents are well-formed and also                                                                                                                                                                                                                                                                   Umer
+conform to the DTD rules.
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           Engr.Muhammad
+
+--- PAGE 43 ---
+XML Editors
+
+
+
+• Search them some are open source , other are paid , some might be
+ graphical
+
+
+
+                                                                                                                                                                                                                                                                                                                                                                                      Haroon
+                                                                                                                                                                                                                                                         Umer
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          Engr.Muhammad
+
+--- PAGE 44 ---
+XML Schemas
+XML schema (also known as XML schema definition or XSD)
+use to describe the XML document  structure.  It  is an
+alternative to DTD.
+Why Schema is Important?
+DTD is not powerful as schema as it is not extensible and
+flexible enough.  So,  it may not be  suitable  for some                       Haroon
+                                                                                                                                                                                                                                                                           Umersituations. In such a situation schema is important. The main
+purpose of using XML schema is to define the elements and
+attributes of an XML document.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     Engr.Muhammad
+
+--- PAGE 45 ---
+Advantages of XML
+Here, pros/benefits of XML:
+•It made it easy to transport and share data.
+•XML improves the exchange of data between various
+platforms.
+•It is a markup language, which is a set of characters or/and
+symbols placed in a text document.
+•XML indicates how the XML document should look after it is
+displayed.
+•It simplifies the platform change process.
+•It enhances data availability.
+•It supports multilingual documents and Unicode.
+•Provide relatively easy to learn and code.
+•It is a markup language, which is a set of characters or/and                                                                                                                                                                                                                                                                                                                                                       Haroon
+symbols placed in a text document.
+                                                                                                                                                                                                                                     Umer•It performs validation using DTD and Schema.
+•Makes documents transportable across systems and
+applications. With the help of XML, you can exchange data
+quickly between different platforms.•XML separates the data from HTML.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         Engr.Muhammad
+
+--- PAGE 46 ---
+[OCR: may contain recognition errors]
+
+
+==========================================================================================
+FILE 30/30: Lectures\Software Construction and Development Outline for Students.pdf
 TYPE: .pdf
 SIZE: 15445 bytes
 ==========================================================================================
@@ -3679,7 +5512,6 @@ Tentative Course Content
 EXTRACTION COVERAGE REPORT
 EXTRACTED: 2nd Class\simple_python_learning_class 2.py
 EXTRACTED: 3rd Class\prac1.py
-EXTRACTED: Assignment 1\Assignment_1_SCD_IMSCIENCES.pdf
 EXTRACTED: Final Projoect\.gitignore
 EXTRACTED: Final Projoect\CHANGELOG.md
 EXTRACTED: Final Projoect\docs\backlog.md
@@ -3701,4 +5533,10 @@ EXTRACTED: Lectures\2_SOFTWARE CONSTRUCTION AND DEVELOPMENT.pdf
 EXTRACTED: Lectures\2b_SOFTWARE CONSTRUCTION AND DEVELOPMENT_MuhammadUmerHaroon.pdf
 EXTRACTED: Lectures\3_SOFTWARE CONSTRUCTION AND DEVELOPMENT_MuhammadUmerHaroon.pdf
 EXTRACTED: Lectures\4_SOFTWARE CONSTRUCTION AND DEVELOPMENT_MuhammadUmerHaroon.pdf
+EXTRACTED: Lectures\5_SOFTWARE CONSTRUCTION AND DEVELOPMENT_MuhammadUmerHaroon.pdf
+OMITTED AT USER REQUEST: Lectures\Clean.Code.A.Handbook.of.Agile.Software.Craftsmanship.pdf
+OMITTED AT USER REQUEST: Lectures\Code Complete 2nd.pdf
+OMITTED AT USER REQUEST: Lectures\Python for Programmers with Big Data and Artificial Intelligence Case Studies by Paul J. Deitel, Harvey Deitel (z-lib.org).pdf
+EXTRACTED: Lectures\SCD_Theory_Umer_Haroon_Classroom_Text.txt
+EXTRACTED: Lectures\scd_xml.pdf
 EXTRACTED: Lectures\Software Construction and Development Outline for Students.pdf

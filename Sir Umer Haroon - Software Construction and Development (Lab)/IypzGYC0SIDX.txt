@@ -1,0 +1,247 @@
+SOFTWARE CONSTRUCTION AND DEVELOPMENT LAB — SECTION A
+Teacher: Sir Muhammad Umer Haroon
+Condensed Google Classroom task requirements, 10 September–22 October 2026.
+This is a shortened source reference, not a set of solutions. Repeated explanations,
+large sample outputs, starter templates, and duplicate examples have been removed.
+
+CLASS RULES
+- Lab attendance is required: submitted tasks are not accepted if absent.
+- Use your own name in Google Classroom.
+- Follow each task's individual-work and AI-use restrictions below.
+- Each listed task carries 100 points. All listed submissions are TURNED_IN;
+  no grades were recorded in the source.
+
+1. LAB TASK 1 — LIBRARY SYSTEM
+Date/due: 10 September 2026.
+Build an OOP library system for BookWise Solutions, in any language.
+- Items: Books (borrow/return), Magazines (borrow, no renewal), DVDs (rental fee).
+- Menu: add, borrow, return, and view items.
+- Persist item data to a file and restore it on reopening.
+- Mark items borrowed for more than 14 days overdue and display a warning.
+- Use private variables, getters/setters, clean structure, and input validation.
+Submit: source code, short run-instructions README, and feature screenshots.
+Recorded upload: task.py.
+
+2. LAB TASK 1.1 — CLASS DIAGRAM
+Date/due: 10 September 2026, before class ends.
+Draw the Task 1 class diagram without looking at your code. Then compare the
+diagram with the implementation and submit the diagram plus written comparison.
+Restriction: no AI assistance.
+Recorded upload: README.docx.
+
+3. LAB TASK 2 — DICTIONARIES AND LISTS
+Date/due: 17 September 2026. Individual work; no discussion.
+Program 1: shopping dictionary mapping item names to quantities. Read an item
+and quantity; update existing items or add new ones; display the final inventory.
+Use meaningful names and validate input.
+Program 2: unique inventory_list registry.
+- Prompt until "done"; strip outer whitespace, lowercase, and ignore empty input.
+- Add new items; report duplicates without adding them.
+- Handle "remove ITEM" with .remove(); report missing items.
+- On exit, .sort() alphabetically, count with len(), and print with a for loop.
+Recorded upload: Abdul Samad - BSSE 5th - Lab Task 2.pdf.
+
+4. LAB TASK 2.1 — RECURSIVE PALINDROME
+Date/due: 17 September 2026. Individual work; no discussion.
+- clean_string(s): normalize the input for comparison.
+- is_palindrome(s): recursively compare first/last characters and check the
+  inner substring; return True/False.
+- Main: input, clean, check, and print the result.
+- Use clear names, modular functions, and comments for tricky logic.
+Source ambiguity: the overall definition ignores spaces, punctuation, and case;
+the clean_string instructions explicitly mention only spaces and lowercase.
+AI is allowed for syntax familiarity only; develop your own logic.
+Recorded uploads: Abdul Samad - Lab Task 2.1 - BSSE A 5th.docx; task.py.
+
+5. LAB TASK 3 — MUTABILITY AND OBJECT IDENTITY
+Date/due: 24 September 2026.
+Predict output before running the supplied MegaMart cart example. Run it and
+explain the results in 3–5 sentences using mutable/immutable, ==, and is.
+Essential supplied operations:
+    price_a = 500
+    price_b = price_a
+    price_b = price_b - 50
+    cart = ["milk", "bread", "eggs"]
+    shared_cart = cart
+    shared_cart.append("juice")
+    cart_a = ["pen", "notebook"]
+    cart_b = cart_a.copy()
+    cart_b.append("eraser")
+Explain the unchanged integer, shared-list mutation, and copied-list behavior.
+Distinguish value equality (==) from object identity (is).
+Submit: predicted output, actual output, and explanation of the cart-sharing bug.
+Recorded uploads: Abdul Samad - Lab 3 Task.docx; task.py.
+
+6. LAB TASK 3.1 — MODULAR ATM
+Date/due: 24 September 2026.
+Constants: correct PIN 1234; starting balance 10000; withdrawals in multiples
+of 500 and no greater than the balance. Each function must return a value:
+- validate_pin(pin) -> whether PIN matches.
+- check_balance(balance, amount) -> whether amount <= balance.
+- is_valid_multiple(amount) -> whether amount is a multiple of 500.
+- withdraw(balance, amount) -> new balance.
+- format_receipt(name, amount, new_balance) -> receipt string.
+Main reads name, PIN, and amount; orchestrates validation and withdrawal;
+prints appropriate messages and receipt. Example: withdraw 2500 -> balance 7500.
+Recorded uploads: Abdul Samad - task.docx; task.py.
+
+7. LAB TASK 4 — LAMBDAS AND SINGLE-RESPONSIBILITY FUNCTIONS
+Date/due: 1 October 2026.
+Principles: lambdas are short single-expression operations; each named function
+should have one responsibility. Keep validation, mutation, and printing separate.
+Part A: define and demonstrate add_numbers, is_even, first_letter, to_upper,
+and longer_than_five as lambdas.
+Part B: to-do list = list of dictionaries with name, priority, and status.
+Allowed priority: high/medium/low. Allowed status: pending/done.
+Required focused functions:
+- create_task: return task dictionary.
+- is_valid_priority / is_valid_status: validate one field each.
+- add_task: append only, without printing.
+- mark_done: update matching task status only.
+- remove_task: remove matching task only.
+- count_tasks / count_done / count_pending: return their respective counts.
+- print_task: display one task; print_all_tasks: loop and delegate.
+Main: add at least five varied tasks, mark one done, remove one, print remaining
+tasks and total/done/pending counts.
+Submit code and screenshots demonstrating your own execution.
+Recorded uploads: Abdul Samad - Task 4 BSSE Group A.docx; lab_4.py; part_b.py.
+
+8. LAB TASK 4.1 — SORTING, FILTERING, AND REFACTORING
+Date/due: 1 October 2026. Continuation of Task 4.
+Part C: use inline lambdas with sorted/filter/map to:
+- Sort priority as high -> medium -> low using numeric ranks.
+- Filter pending tasks and high-priority tasks separately.
+- Extract task names with map.
+- Sort task names alphabetically. Display results with existing print functions.
+Part D: deliberately write bad_add_task that validates, reports errors, creates
+and appends a task, prints success/count, and returns the list in one function.
+Explain why it is difficult to test/reuse and which responsibility to extract
+first. Refactor using the focused Part B functions; compare the designs briefly.
+Recorded upload: Abdul Samad - Task 4.1 BSSE Group A.docx.
+
+9. LAB TASK 5 — GIT VERSIONS, RELEASES, AND HOTFIXES
+Date/due: 8 October 2026.
+Project: student-grade-calculator, created locally with git init.
+Starter files: grade_calculator.py, README.md, requirements.txt, and recommended
+.gitignore. Initial program calculates a three-subject average and PASS/FAIL.
+calculate_average returns 0 for an empty list; initial passing rule is >= 50.
+
+Version sequence:
+- v1.0.0: initial three-subject calculator.
+- v1.1.0: compatible feature adding five-subject support.
+- v1.1.1: patch changing passing rule to > 50; exactly 50 must return FAIL.
+SemVer: MAJOR = breaking change; MINOR = compatible feature; PATCH = bug fix.
+Keep code version, README, and RELEASES.md consistent. Commit changes and use
+annotated release tags. A tag includes only its target commit: commit release
+notes before tagging if those notes must belong to that release.
+
+Workflow:
+    git init
+    git branch -M main
+    git add .
+    git commit -m "Initial commit: Student Grade Calculator v1.0.0"
+    git tag -a v1.0.0 -m "Release v1.0.0"
+    # Add five-subject feature, update documentation, commit, tag v1.1.0.
+    git checkout -b fix-passing-rule
+    # Fix boundary, update version/documentation, test, and commit.
+    git checkout main
+    git merge fix-passing-rule
+    # Commit release notes before creating the final v1.1.1 tag.
+    git tag -a v1.1.1 -m "Release v1.1.1"
+    git branch -d fix-passing-rule
+Inspect with git status, git tag, git show TAG,
+git log --oneline --decorate --all --graph, and git diff v1.1.0 v1.1.1.
+The source also demonstrates git tag -d TAG and re-tagging local releases after
+updating release notes, plus optional --no-ff merges.
+
+Challenge: continue unfinished feature-1.2.0 development while patching the older
+1.1.x release separately. Source example branches hotfix-1.1.2 from v1.1.0;
+fix, commit, tag v1.1.2, then merge the hotfix back into main.
+Investigation: commit vs tag; patch vs major version; what warrants minor/major
+changes; why isolate bug fixes; release vs patch; why maintain older versions;
+why release fixes independently from unfinished features; value of Git history.
+Submit: repository ZIP/link, tag list, graph/history, RELEASES.md, investigation
+answers, challenge commands/history, and a short feature-vs-patch reflection.
+Recorded uploads: Abdul Samad - 5th Semester Lab 5.docx;
+student-grade-calculator.zip.
+
+10. LAB TASK 6 — REGEX VALIDATORS
+Date/due: 15 October 2026.
+- Date DD-MM-YYYY: day 01–31, month 01–12, four-digit year.
+- Pakistani phone: +92 country code, three-digit carrier, seven-digit subscriber
+  number; accommodate stated optional spaces/hyphens.
+  Examples: +92 300 1234567; +92-300-1234567; +92 3001234567.
+- Date DD/MM/YYYY: reject day 00/32 and month 00/13; accept 25/12/2023 and
+  01/01/2000. Use further validation for real calendar dates/leap years if needed.
+Source note: numerical day/month ranges do not alone prove a calendar date exists.
+Recorded uploads: Abdul Samad - BSSE Group A - 5th Semester Lab Task 6.docx;
+task_1.py.
+
+11. LAB TASK 6.1 — PASSWORDS AND SOCIAL-MEDIA REGEX
+Date/due: 15 October 2026.
+Password: at least 8 characters, one uppercase, lowercase, digit, and special
+character. Accept Pa$$w0rd123! / Hello@2021; reject password123! / Pa$$word.
+Social-media task: process supplied posts containing @users, #hashtags, URLs,
+$prices, Phone model identifiers, and mixed-case positive words.
+- Apply lookahead/lookbehind and re.IGNORECASE as requested.
+- Identify Phone followed by a model identifier such as X12.
+- Extract prices after $, hashtags after #, and numbers not preceded by $.
+- Extract excellent/great/love regardless of case.
+- Remove usernames and URLs, normalize whitespace, and lowercase cleaned posts.
+- Display cleaned posts and extracted keywords, hashtags, prices, model references.
+The original has 15 sample posts; repetitive sample data is omitted here.
+Recorded uploads: Abdul Samad - BSSE Group A - 5th Semester Lab Task 6.1.docx;
+task.py.
+
+12. LAB TASK 7 — JSON AND XML
+Date/due: 22 October 2026. Submit separate files for the two tasks.
+Shared student fields: name, age, courses (list), and gpa.
+Task 1, task1_json.py:
+- Create at least five student dictionaries.
+- save_students(students, filename): json.dump(..., indent=2).
+- load_students(filename): json.load; print loaded records.
+- Write students.json; filter_by_gpa(students, minimum) returns GPA >= minimum.
+- With minimum 3.5, use save_filtered (reusing save_students) to write
+  top_students.json and print the filtered records.
+- Compare the files and explain indent's readability benefit.
+JSON API distinction: dumps/loads work with strings; dump/load with files.
+
+Task 2, task2_xml.py:
+- Handwrite students.xml: <students> root, at least five <student id="...">
+  elements, name/age/gpa children, and courses containing multiple <course> tags.
+- parse_students(filename): ET.parse, findall, find, and .text; return a list
+  of dictionaries with the shared fields; print each dictionary.
+- ET.fromstring parses XML strings; element.get reads an attribute.
+- Compare JSON vs XML: ease of writing/reading, bytes, and parsing effort.
+  Measure with os.path.getsize. Source XML output shows age/GPA as strings.
+Recorded uploads: Abdul Samad - BSSE Group A - 5h Semester - Lab Task 7.docx;
+get_sizes.py; lab_task_7.md; students.json; students.xml; task1_json.py;
+task2_xml.py; top_students.json.
+
+13. LAB TASK 7.1 — YAML, FORMAT COMPARISON, AND COLUMNAR ACCESS
+Date/due: 22 October 2026. Attendance required; absent students should not attempt.
+Task 3, task3_yaml.py:
+- Install PyYAML: pip install pyyaml. Use yaml.safe_load / yaml.safe_dump.
+- Handwrite config.yaml with debug: true, min_gpa: 3.5, and at least three student
+  records (name, age, courses, gpa).
+- load_config(filename): parse safely; print debug/min_gpa, students, and the
+  students value's type to confirm it is a list.
+- yaml_to_json(yaml_filename, json_filename): produce config_from_yaml.json.
+- Compare readability, machine parsing, and support for configuration comments.
+
+Task 4, task4_compare.py:
+- Write the same student dataset to JSON, XML, and YAML; print file sizes using
+  os.path.getsize. Exact sizes vary with formatting; compare observed sizes.
+- sum_gpa_row_based: loop over student dictionaries and read gpa.
+- sum_gpa_columnar: accept a dictionary of column lists and sum its gpa column.
+- Confirm equal results. Explain column-oriented storage's benefit for scanning
+  selected columns on disk; the exercise itself simulates access in Python.
+- Justify format choices for a mobile REST API, DevOps configuration, analytics
+  over millions of records, and a microservice needing sub-10-ms responses.
+Source comparison topics: JSON for web APIs; XML schemas/namespaces; YAML for
+readable configuration; Protocol Buffers/Avro for binary-format tradeoffs;
+columnar storage for analytics. No binary-format library installation required.
+Use focused functions, explanatory comments, and tests with the sample data.
+Recorded uploads: Abdul Samad - BSSE Group A - 5h Semester - Lab Task 7.1.docx;
+config.yaml; config_from_yaml.json; students.json; students.xml; students.yaml;
+task3_yaml.py; task4_compare.py.

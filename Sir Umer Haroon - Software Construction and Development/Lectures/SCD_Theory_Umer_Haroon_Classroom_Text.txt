@@ -1,0 +1,65 @@
+SCD THEORY SEC A (Software Construction and Development) - Google Classroom text content
+Teacher: Sir Muhammad Umer Haroon
+
+============================================================
+ANNOUNCEMENTS (oldest first)
+============================================================
+
+[2026-09-25] https://classroom.google.com/c/ODc4MTc1Mjc1NjYz/p/ODg3MzQ2MjQ2OTY2
+SCD project groups, fill it by tomorrow evening.
+  Link: SCD PROJECT GROUPS SECTION A - https://forms.gle/rkYgqLgKv6za2JzB7
+
+[2026-10-01] https://classroom.google.com/c/ODc4MTc1Mjc1NjYz/p/ODg4NDMzOTAyMjgx
+If you have joined class with not your own name you will be removed, get it sorted ASAP
+
+============================================================
+MATERIAL POSTS (oldest first)
+============================================================
+
+[2026-09-17] COURSE OUTLINE
+PFA
+  Attachment: Software Construction and Development Outline for Students.pdf
+
+[2026-09-17] BOOKS
+PFA
+  Attachments: Clean.Code.A.Handbook.of.Agile.Software.Craftsmanship.pdf, Code Complete 2nd.pdf, Python for Programmers with Big Data and Artificial Intelligence Case Studies by Paul J. Deitel, Harvey Deitel (z-lib.org).pdf
+
+[2026-09-24] LECTURES WEEK 1,WEEK 2 ,WEEK 3
+PFA
+  Attachments: 2_SOFTWARE CONSTRUCTION AND DEVELOPMENT.pdf, 1_SOFTWARE CONSTRUCTION AND DEVELOPMENT.pdf
+
+[2026-10-01] WEEK 4 LECTURES
+PFA
+  Attachment: 2b_SOFTWARE CONSTRUCTION AND DEVELOPMENT_MuhammadUmerHaroon.pdf
+
+[2026-10-10] WEEK 5
+PFA
+  Attachment: 3_SOFTWARE CONSTRUCTION AND DEVELOPMENT_MuhammadUmerHaroon.pdf
+
+[2026-10-15] WEEK 6
+(no description)
+  Attachment: 4_SOFTWARE CONSTRUCTION AND DEVELOPMENT_MuhammadUmerHaroon.pdf
+
+[2026-10-22] WEEK 7
+PFA
+  Attachment: 5_SOFTWARE CONSTRUCTION AND DEVELOPMENT_MuhammadUmerHaroon.pdf
+
+[2026-10-22] Related to XML 
+It is not our course content but shared for interest and exploration
+  Attachment: scd_xml.pdf
+
+============================================================
+ASSIGNMENTS (oldest first)
+============================================================
+
+[2026-10-16] Assignment 1 (100 points, due 20 Oct 2026)
+PFA, submission will close after due time.
+  Attachment: Assignment_1_SCD_IMSCIENCES.pdf
+
+============================================================
+MY SUBMISSIONS
+============================================================
+
+Assignment 1: turned in, not graded yet
+  Link: GitHub - abdulsamad-codes/CodeInspector (https://github.com/abdulsamad-codes/CodeInspector)
+  Uploaded: requirements.pdf
