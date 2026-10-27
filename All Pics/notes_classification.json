@@ -1,0 +1,920 @@
+{
+  "description": "Individual visual review of all 102 original class-note photos. Complete unmodified images copied to every matching course. Me and Mudassir originals retained. Theory/lab inferred from explicit headings, context and matching notes; boundary uncertainties recorded below.",
+  "reviewed": 102,
+  "copies": 199,
+  "images": [
+    {
+      "number": 1,
+      "source": "Me\\WhatsApp Image 2026-10-26 at 8.23.45 PM.jpeg",
+      "destinations": [
+        "Fundamentals of Accounting\\Me - WhatsApp Image 2026-10-26 at 8.23.45 PM.jpeg"
+      ],
+      "reason": "14 September accounting: equation, assets, receivables/payables and accounting process."
+    },
+    {
+      "number": 2,
+      "source": "Me\\WhatsApp Image 2026-10-26 at 8.23.46 PM.jpeg",
+      "destinations": [
+        "Fundamentals of Accounting\\Me - WhatsApp Image 2026-10-26 at 8.23.46 PM.jpeg",
+        "Computer Networks\\Me - WhatsApp Image 2026-10-26 at 8.23.46 PM.jpeg",
+        "Technical and Business Writing\\Me - WhatsApp Image 2026-10-26 at 8.23.46 PM.jpeg",
+        "Software Construction and Development\\Me - WhatsApp Image 2026-10-26 at 8.23.46 PM.jpeg"
+      ],
+      "reason": "Accounting liabilities/equity; networks and shared scanners; TBW communication models; SCD clean-code naming."
+    },
+    {
+      "number": 3,
+      "source": "Me\\WhatsApp Image 2026-10-26 at 8.23.48 PM (1).jpeg",
+      "destinations": [
+        "Fundamentals of Accounting\\Me - WhatsApp Image 2026-10-26 at 8.23.48 PM (1).jpeg"
+      ],
+      "reason": "Accounting transactions and expanded accounting equation across both pages."
+    },
+    {
+      "number": 4,
+      "source": "Me\\WhatsApp Image 2026-10-26 at 8.23.48 PM.jpeg",
+      "destinations": [
+        "Software Construction and Development\\Me - WhatsApp Image 2026-10-26 at 8.23.48 PM.jpeg",
+        "Computer Networks (Lab)\\Me - WhatsApp Image 2026-10-26 at 8.23.48 PM.jpeg",
+        "Software Requirements Engineering (Lab)\\Me - WhatsApp Image 2026-10-26 at 8.23.48 PM.jpeg",
+        "Fundamentals of Accounting\\Me - WhatsApp Image 2026-10-26 at 8.23.48 PM.jpeg"
+      ],
+      "reason": "Python lists/comments continues SCD lesson; explicit CN Lab addressing; SRE Lab system/context diagrams; accounting equation."
+    },
+    {
+      "number": 5,
+      "source": "Me\\WhatsApp Image 2026-10-26 at 8.23.49 PM.jpeg",
+      "destinations": [
+        "Fundamentals of Accounting\\Me - WhatsApp Image 2026-10-26 at 8.23.49 PM.jpeg",
+        "Technical and Business Writing\\Me - WhatsApp Image 2026-10-26 at 8.23.49 PM.jpeg",
+        "Parallel and Distributed Computing (Lab)\\Me - WhatsApp Image 2026-10-26 at 8.23.49 PM.jpeg"
+      ],
+      "reason": "Accounting transaction table; TBW communication qualities; explicitly PDC Lab measured serial/parallel speedup."
+    },
+    {
+      "number": 6,
+      "source": "Me\\WhatsApp Image 2026-10-26 at 8.23.51 PM.jpeg",
+      "destinations": [
+        "Parallel and Distributed Computing\\Me - WhatsApp Image 2026-10-26 at 8.23.51 PM.jpeg"
+      ],
+      "reason": "PDC theory: distributed systems, scaling, Amdahl law, von Neumann CPU architecture and pipelining."
+    },
+    {
+      "number": 7,
+      "source": "Me\\WhatsApp Image 2026-10-26 at 8.23.52 PM.jpeg",
+      "destinations": [
+        "Software Requirements Engineering\\Me - WhatsApp Image 2026-10-26 at 8.23.52 PM.jpeg"
+      ],
+      "reason": "Explicit SRE theory: functional/nonfunctional, usability, reliability, portability and organizational requirements."
+    },
+    {
+      "number": 8,
+      "source": "Me\\WhatsApp Image 2026-10-26 at 8.23.53 PM.jpeg",
+      "destinations": [
+        "Software Requirements Engineering\\Me - WhatsApp Image 2026-10-26 at 8.23.53 PM.jpeg"
+      ],
+      "reason": "External/ethical/legislative requirements, McCall quality factors, NFR measures and metrics."
+    },
+    {
+      "number": 9,
+      "source": "Me\\WhatsApp Image 2026-10-26 at 8.23.55 PM.jpeg",
+      "destinations": [
+        "Fundamentals of Accounting\\Me - WhatsApp Image 2026-10-26 at 8.23.55 PM.jpeg"
+      ],
+      "reason": "Accounting question 4 transaction table and asset/liability/equity totals."
+    },
+    {
+      "number": 10,
+      "source": "Me\\WhatsApp Image 2026-10-26 at 8.23.56 PM.jpeg",
+      "destinations": [
+        "Fundamentals of Accounting\\Me - WhatsApp Image 2026-10-26 at 8.23.56 PM.jpeg",
+        "Computer Networks\\Me - WhatsApp Image 2026-10-26 at 8.23.56 PM.jpeg",
+        "Technical and Business Writing\\Me - WhatsApp Image 2026-10-26 at 8.23.56 PM.jpeg"
+      ],
+      "reason": "Accounting table; Computer Networks star topology/Ethernet and OSI; TBW writing-process steps."
+    },
+    {
+      "number": 11,
+      "source": "Me\\WhatsApp Image 2026-10-26 at 8.23.57 PM.jpeg",
+      "destinations": [
+        "Technical and Business Writing\\Me - WhatsApp Image 2026-10-26 at 8.23.57 PM.jpeg",
+        "Software Construction and Development\\Me - WhatsApp Image 2026-10-26 at 8.23.57 PM.jpeg",
+        "Computer Networks (Lab)\\Me - WhatsApp Image 2026-10-26 at 8.23.57 PM.jpeg"
+      ],
+      "reason": "SQ4R writing/reading note at top; explicit SCD functions/reuse; subnet masks and /26 addresses continue CN Lab."
+    },
+    {
+      "number": 12,
+      "source": "Me\\WhatsApp Image 2026-10-26 at 8.23.59 PM.jpeg",
+      "destinations": [
+        "Fundamentals of Accounting\\Me - WhatsApp Image 2026-10-26 at 8.23.59 PM.jpeg"
+      ],
+      "reason": "Accounting transaction table, totals, and four financial statements."
+    },
+    {
+      "number": 13,
+      "source": "Me\\WhatsApp Image 2026-10-26 at 8.24.00 PM.jpeg",
+      "destinations": [
+        "Fundamentals of Accounting\\Me - WhatsApp Image 2026-10-26 at 8.24.00 PM.jpeg",
+        "Parallel and Distributed Computing (Lab)\\Me - WhatsApp Image 2026-10-26 at 8.24.00 PM.jpeg",
+        "Software Requirements Engineering\\Me - WhatsApp Image 2026-10-26 at 8.24.00 PM.jpeg"
+      ],
+      "reason": "Accounting reporting-period continuation; explicit PDC Lab OpenMP pragma; explicit SRE theory NFR metrics/robustness."
+    },
+    {
+      "number": 14,
+      "source": "Me\\WhatsApp Image 2026-10-26 at 8.24.03 PM.jpeg",
+      "destinations": [
+        "Software Requirements Engineering\\Me - WhatsApp Image 2026-10-26 at 8.24.03 PM.jpeg"
+      ],
+      "reason": "SRE domain/inverse requirements, user versus contract requirements, traceability, completeness and consistency."
+    },
+    {
+      "number": 15,
+      "source": "Me\\WhatsApp Image 2026-10-26 at 8.24.05 PM.jpeg",
+      "destinations": [
+        "Fundamentals of Accounting\\Me - WhatsApp Image 2026-10-26 at 8.24.05 PM.jpeg"
+      ],
+      "reason": "Both pages are American Travel Agency financial statements (income, equity and cash flows); stray TBW heading has no writing content."
+    },
+    {
+      "number": 16,
+      "source": "Me\\WhatsApp Image 2026-10-26 at 8.24.06 PM.jpeg",
+      "destinations": [
+        "Fundamentals of Accounting\\Me - WhatsApp Image 2026-10-26 at 8.24.06 PM.jpeg",
+        "Computer Networks\\Me - WhatsApp Image 2026-10-26 at 8.24.06 PM.jpeg"
+      ],
+      "reason": "Accounting cash flow/balance sheet and articulation; explicit CN theory PDU sequence and application/Telnet."
+    },
+    {
+      "number": 17,
+      "source": "Me\\WhatsApp Image 2026-10-26 at 8.24.07 PM.jpeg",
+      "destinations": [
+        "Software Construction and Development\\Me - WhatsApp Image 2026-10-26 at 8.24.07 PM.jpeg",
+        "Computer Networks (Lab)\\Me - WhatsApp Image 2026-10-26 at 8.24.07 PM.jpeg",
+        "Fundamentals of Accounting\\Me - WhatsApp Image 2026-10-26 at 8.24.07 PM.jpeg"
+      ],
+      "reason": "SCD arguments/parameters/scope; explicit CN Lab subnetting; Accounting Jenner income statement."
+    },
+    {
+      "number": 18,
+      "source": "Me\\WhatsApp Image 2026-10-26 at 8.24.10 PM.jpeg",
+      "destinations": [
+        "Fundamentals of Accounting\\Me - WhatsApp Image 2026-10-26 at 8.24.10 PM.jpeg"
+      ],
+      "reason": "Jenner equity statement, cash-flow heading, balance sheet and equity formula."
+    },
+    {
+      "number": 19,
+      "source": "Me\\WhatsApp Image 2026-10-26 at 8.24.11 PM.jpeg",
+      "destinations": [
+        "Fundamentals of Accounting\\Me - WhatsApp Image 2026-10-26 at 8.24.11 PM.jpeg",
+        "Technical and Business Writing\\Me - WhatsApp Image 2026-10-26 at 8.24.11 PM.jpeg",
+        "Software Requirements Engineering (Lab)\\Me - WhatsApp Image 2026-10-26 at 8.24.11 PM.jpeg",
+        "Parallel and Distributed Computing\\Me - WhatsApp Image 2026-10-26 at 8.24.11 PM.jpeg"
+      ],
+      "reason": "Accounting question 5c; TBW email-writing note; explicit SRE Lab system archaeology; PDC theory ILP/pipelining."
+    },
+    {
+      "number": 20,
+      "source": "Me\\WhatsApp Image 2026-10-26 at 8.24.12 PM.jpeg",
+      "destinations": [
+        "Parallel and Distributed Computing\\Me - WhatsApp Image 2026-10-26 at 8.24.12 PM.jpeg"
+      ],
+      "reason": "PDC theory continuation: superscalar/VLIW, Flynn taxonomy, shared memory, UMA/NUMA."
+    },
+    {
+      "number": 21,
+      "source": "Me\\WhatsApp Image 2026-10-26 at 8.24.18 PM.jpeg",
+      "destinations": [
+        "Parallel and Distributed Computing\\Me - WhatsApp Image 2026-10-26 at 8.24.18 PM.jpeg",
+        "Software Requirements Engineering\\Me - WhatsApp Image 2026-10-26 at 8.24.18 PM.jpeg"
+      ],
+      "reason": "PDC cache coherence/interconnect latency-bandwidth; explicit SRE theory reliability/integrity/maintainability/testability and contract requirements."
+    },
+    {
+      "number": 22,
+      "source": "Me\\WhatsApp Image 2026-10-26 at 8.24.19 PM.jpeg",
+      "destinations": [
+        "Software Requirements Engineering\\Me - WhatsApp Image 2026-10-26 at 8.24.19 PM.jpeg"
+      ],
+      "reason": "SRE theory continuation: system/business-process requirements, classification, UML specifications and requirement problems."
+    },
+    {
+      "number": 23,
+      "source": "Me\\WhatsApp Image 2026-10-26 at 8.24.20 PM (1).jpeg",
+      "destinations": [
+        "Fundamentals of Accounting\\Me - WhatsApp Image 2026-10-26 at 8.24.20 PM (1).jpeg",
+        "Computer Networks\\Me - WhatsApp Image 2026-10-26 at 8.24.20 PM (1).jpeg"
+      ],
+      "reason": "Accounting general journal entries across both pages; explicit CN theory physical layer and transmission media."
+    },
+    {
+      "number": 24,
+      "source": "Me\\WhatsApp Image 2026-10-26 at 8.24.20 PM.jpeg",
+      "destinations": [
+        "Software Requirements Engineering\\Me - WhatsApp Image 2026-10-26 at 8.24.20 PM.jpeg",
+        "Fundamentals of Accounting\\Me - WhatsApp Image 2026-10-26 at 8.24.20 PM.jpeg"
+      ],
+      "reason": "SRE four worlds/requirement clarity and amalgamation; accounting cycle and debit-credit journal entry."
+    },
+    {
+      "number": 25,
+      "source": "Me\\WhatsApp Image 2026-10-26 at 8.24.24 PM.jpeg",
+      "destinations": [
+        "Computer Networks\\Me - WhatsApp Image 2026-10-26 at 8.24.24 PM.jpeg",
+        "Software Construction and Development\\Me - WhatsApp Image 2026-10-26 at 8.24.24 PM.jpeg",
+        "Software Requirements Engineering (Lab)\\Me - WhatsApp Image 2026-10-26 at 8.24.24 PM.jpeg"
+      ],
+      "reason": "CN guided media continuation; SCD technology stack/COTS; explicit SRE Lab PBL/OEL and use-case modelling/actors/boundaries."
+    },
+    {
+      "number": 26,
+      "source": "Me\\WhatsApp Image 2026-10-26 at 8.24.35 PM.jpeg",
+      "destinations": [
+        "Software Requirements Engineering (Lab)\\Me - WhatsApp Image 2026-10-26 at 8.24.35 PM.jpeg",
+        "Fundamentals of Accounting\\Me - WhatsApp Image 2026-10-26 at 8.24.35 PM.jpeg"
+      ],
+      "reason": "SRE Lab continuation include/extend/generalization and fully dressed use cases; accounting journals/posting/T-accounts."
+    },
+    {
+      "number": 27,
+      "source": "Me\\WhatsApp Image 2026-10-26 at 8.24.36 PM.jpeg",
+      "destinations": [
+        "Fundamentals of Accounting\\Me - WhatsApp Image 2026-10-26 at 8.24.36 PM.jpeg",
+        "Parallel and Distributed Computing (Lab)\\Me - WhatsApp Image 2026-10-26 at 8.24.36 PM.jpeg",
+        "Parallel and Distributed Computing\\Me - WhatsApp Image 2026-10-26 at 8.24.36 PM.jpeg",
+        "Software Construction and Development\\Me - WhatsApp Image 2026-10-26 at 8.24.36 PM.jpeg"
+      ],
+      "reason": "Accounting ledgers; explicit PDC Lab parallel sorting/speedup; PDC theory heading followed by software-architecture/components/ERD/DFD notes also relevant to SCD (boundary uncertain)."
+    },
+    {
+      "number": 28,
+      "source": "Me\\WhatsApp Image 2026-10-26 at 8.24.37 PM.jpeg",
+      "destinations": [
+        "Parallel and Distributed Computing\\Me - WhatsApp Image 2026-10-26 at 8.24.37 PM.jpeg"
+      ],
+      "reason": "PDC theory shared/distributed memory, SPMD/MPMD, processes/threads, load balancing and static/dynamic threads."
+    },
+    {
+      "number": 29,
+      "source": "Me\\WhatsApp Image 2026-10-26 at 8.24.38 PM.jpeg",
+      "destinations": [
+        "Parallel and Distributed Computing\\Me - WhatsApp Image 2026-10-26 at 8.24.38 PM.jpeg"
+      ],
+      "reason": "PDC theory partitioned address spaces, explicit messaging, nondeterminism, blocking/nonblocking and buffered/unbuffered communication."
+    },
+    {
+      "number": 30,
+      "source": "Me\\WhatsApp Image 2026-10-26 at 8.24.39 PM.jpeg",
+      "destinations": [
+        "Technical and Business Writing\\Me - WhatsApp Image 2026-10-26 at 8.24.39 PM.jpeg",
+        "Software Construction and Development\\Me - WhatsApp Image 2026-10-26 at 8.24.39 PM.jpeg",
+        "Fundamentals of Accounting\\Me - WhatsApp Image 2026-10-26 at 8.24.39 PM.jpeg"
+      ],
+      "reason": "TBW letter types; explicit SCD theory releases/rollback/patch/regex; Accounting general journal."
+    },
+    {
+      "number": 31,
+      "source": "Me\\WhatsApp Image 2026-10-26 at 8.24.40 PM.jpeg",
+      "destinations": [
+        "Fundamentals of Accounting\\Me - WhatsApp Image 2026-10-26 at 8.24.40 PM.jpeg"
+      ],
+      "reason": "Accounting T-accounts and Iris Beck trial balance across both pages."
+    },
+    {
+      "number": 32,
+      "source": "Me\\WhatsApp Image 2026-10-26 at 8.24.41 PM (1).jpeg",
+      "destinations": [
+        "Computer Networks\\Me - WhatsApp Image 2026-10-26 at 8.24.41 PM (1).jpeg",
+        "Software Requirements Engineering\\Me - WhatsApp Image 2026-10-26 at 8.24.41 PM (1).jpeg"
+      ],
+      "reason": "Top CN continuation microwave/radio frequency and antenna direction; SRE theory process inputs, regulations, elicitation/analysis."
+    },
+    {
+      "number": 33,
+      "source": "Me\\WhatsApp Image 2026-10-26 at 8.24.41 PM.jpeg",
+      "destinations": [
+        "Software Requirements Engineering (Lab)\\Me - WhatsApp Image 2026-10-26 at 8.24.41 PM.jpeg",
+        "Computer Networks\\Me - WhatsApp Image 2026-10-26 at 8.24.41 PM.jpeg"
+      ],
+      "reason": "Explicit SRE Lab elicitation/UML/CRC/state/activity/DFD; explicit CN theory optical fibre and unguided propagation."
+    },
+    {
+      "number": 34,
+      "source": "Me\\WhatsApp Image 2026-10-26 at 8.24.42 PM.jpeg",
+      "destinations": [
+        "Software Requirements Engineering\\Me - WhatsApp Image 2026-10-26 at 8.24.42 PM.jpeg",
+        "Parallel and Distributed Computing (Lab)\\Me - WhatsApp Image 2026-10-26 at 8.24.42 PM.jpeg"
+      ],
+      "reason": "Requirements classification, negotiation and traceability; separate explicitly headed PDC lab section on shared memory and message passing."
+    },
+    {
+      "number": 35,
+      "source": "Me\\WhatsApp Image 2026-10-26 at 8.24.43 PM.jpeg",
+      "destinations": [
+        "Parallel and Distributed Computing (Lab)\\Me - WhatsApp Image 2026-10-26 at 8.24.43 PM.jpeg",
+        "Computer Networks (Lab)\\Me - WhatsApp Image 2026-10-26 at 8.24.43 PM.jpeg",
+        "Parallel and Distributed Computing\\Me - WhatsApp Image 2026-10-26 at 8.24.43 PM.jpeg"
+      ],
+      "reason": "Client/server and peer architecture continue PDC lab; CN lab cabling/topologies; explicit PDC theory non-determinism and message passing."
+    },
+    {
+      "number": 36,
+      "source": "Me\\WhatsApp Image 2026-10-26 at 8.24.44 PM (1).jpeg",
+      "destinations": [
+        "Software Requirements Engineering\\Me - WhatsApp Image 2026-10-26 at 8.24.44 PM (1).jpeg",
+        "Fundamentals of Accounting\\Me - WhatsApp Image 2026-10-26 at 8.24.44 PM (1).jpeg"
+      ],
+      "reason": "Requirements role/action pizza diagram and social/cultural issues; Accounting trial balance."
+    },
+    {
+      "number": 37,
+      "source": "Me\\WhatsApp Image 2026-10-26 at 8.24.44 PM.jpeg",
+      "destinations": [
+        "Software Requirements Engineering\\Me - WhatsApp Image 2026-10-26 at 8.24.44 PM.jpeg"
+      ],
+      "reason": "Explicit SRE theory: role/action perspective, prototyping, analysis and midterm guidance."
+    },
+    {
+      "number": 38,
+      "source": "Me\\WhatsApp Image 2026-10-26 at 8.24.45 PM.jpeg",
+      "destinations": [
+        "Fundamentals of Accounting\\Me - WhatsApp Image 2026-10-26 at 8.24.45 PM.jpeg",
+        "Computer Networks\\Me - WhatsApp Image 2026-10-26 at 8.24.45 PM.jpeg",
+        "Software Construction and Development\\Me - WhatsApp Image 2026-10-26 at 8.24.45 PM.jpeg"
+      ],
+      "reason": "Accounting trial balance; CN multiplexing continuation; explicit SCD data interchange and serialization formats."
+    },
+    {
+      "number": 39,
+      "source": "Me\\WhatsApp Image 2026-10-26 at 8.24.46 PM.jpeg",
+      "destinations": [
+        "Fundamentals of Accounting\\Me - WhatsApp Image 2026-10-26 at 8.24.46 PM.jpeg",
+        "Software Requirements Engineering\\Me - WhatsApp Image 2026-10-26 at 8.24.46 PM.jpeg"
+      ],
+      "reason": "Accounting exam guidance; explicit SRE theory cultural issues and professional ethics."
+    },
+    {
+      "number": 40,
+      "source": "Mudassir\\WhatsApp Image 2026-10-26 at 8.19.40 PM (1).jpeg",
+      "destinations": [
+        "Software Construction and Development\\Mudassir - WhatsApp Image 2026-10-26 at 8.19.40 PM (1).jpeg",
+        "Software Requirements Engineering (Lab)\\Mudassir - WhatsApp Image 2026-10-26 at 8.19.40 PM (1).jpeg",
+        "Software Requirements Engineering\\Mudassir - WhatsApp Image 2026-10-26 at 8.19.40 PM (1).jpeg",
+        "Fundamentals of Accounting\\Mudassir - WhatsApp Image 2026-10-26 at 8.19.40 PM (1).jpeg",
+        "Computer Networks (Lab)\\Mudassir - WhatsApp Image 2026-10-26 at 8.19.40 PM (1).jpeg"
+      ],
+      "reason": "SCD construction fundamentals; SRE lab goals/planning; SRE theory process and Kano; accounting framework; CN lab IPv4 notation at page top."
+    },
+    {
+      "number": 41,
+      "source": "Mudassir\\WhatsApp Image 2026-10-26 at 8.19.40 PM.jpeg",
+      "destinations": [
+        "Software Construction and Development\\Mudassir - WhatsApp Image 2026-10-26 at 8.19.40 PM.jpeg"
+      ],
+      "reason": "Explicit SCD theory introduction: SDLC, maintainability, clean code and construction."
+    },
+    {
+      "number": 42,
+      "source": "Mudassir\\WhatsApp Image 2026-10-26 at 8.19.42 PM.jpeg",
+      "destinations": [
+        "Fundamentals of Accounting\\Mudassir - WhatsApp Image 2026-10-26 at 8.19.42 PM.jpeg",
+        "Technical and Business Writing\\Mudassir - WhatsApp Image 2026-10-26 at 8.19.42 PM.jpeg"
+      ],
+      "reason": "Accounting standards, business entity and cost/objectivity principles; TBW introduction to communication."
+    },
+    {
+      "number": 43,
+      "source": "Mudassir\\WhatsApp Image 2026-10-26 at 8.19.43 PM.jpeg",
+      "destinations": [
+        "Technical and Business Writing\\Mudassir - WhatsApp Image 2026-10-26 at 8.19.43 PM.jpeg",
+        "Software Requirements Engineering\\Mudassir - WhatsApp Image 2026-10-26 at 8.19.43 PM.jpeg",
+        "Parallel and Distributed Computing\\Mudassir - WhatsApp Image 2026-10-26 at 8.19.43 PM.jpeg"
+      ],
+      "reason": "TBW communication principles; SRE MoSCoW and requirements; PDC programs/processes/concurrency and Flynn taxonomy."
+    },
+    {
+      "number": 44,
+      "source": "Mudassir\\WhatsApp Image 2026-10-26 at 8.19.45 PM.jpeg",
+      "destinations": [
+        "Parallel and Distributed Computing\\Mudassir - WhatsApp Image 2026-10-26 at 8.19.45 PM.jpeg",
+        "Software Construction and Development (Lab)\\Mudassir - WhatsApp Image 2026-10-26 at 8.19.45 PM.jpeg"
+      ],
+      "reason": "PDC computing/serial/concurrency and CPU memory notes; SCD lab library class diagram continued in next image."
+    },
+    {
+      "number": 45,
+      "source": "Mudassir\\WhatsApp Image 2026-10-26 at 8.19.47 PM.jpeg",
+      "destinations": [
+        "Software Construction and Development (Lab)\\Mudassir - WhatsApp Image 2026-10-26 at 8.19.47 PM.jpeg",
+        "Software Requirements Engineering\\Mudassir - WhatsApp Image 2026-10-26 at 8.19.47 PM.jpeg"
+      ],
+      "reason": "Library class diagram for SCD lab; SRE theory contracts, formal requirements and stakeholders."
+    },
+    {
+      "number": 46,
+      "source": "Mudassir\\WhatsApp Image 2026-10-26 at 8.19.57 PM.jpeg",
+      "destinations": [
+        "Software Requirements Engineering\\Mudassir - WhatsApp Image 2026-10-26 at 8.19.57 PM.jpeg",
+        "Fundamentals of Accounting\\Mudassir - WhatsApp Image 2026-10-26 at 8.19.57 PM.jpeg"
+      ],
+      "reason": "SRE importance, functional/non-functional requirements; accounting equation at bottom right."
+    },
+    {
+      "number": 47,
+      "source": "Mudassir\\WhatsApp Image 2026-10-26 at 8.20.06 PM.jpeg",
+      "destinations": [
+        "Fundamentals of Accounting\\Mudassir - WhatsApp Image 2026-10-26 at 8.20.06 PM.jpeg",
+        "Computer Networks\\Mudassir - WhatsApp Image 2026-10-26 at 8.20.06 PM.jpeg"
+      ],
+      "reason": "Accounting assets/liabilities/equity and process; CN data flow, duplex modes and network criteria."
+    },
+    {
+      "number": 48,
+      "source": "Mudassir\\WhatsApp Image 2026-10-26 at 8.20.12 PM.jpeg",
+      "destinations": [
+        "Computer Networks\\Mudassir - WhatsApp Image 2026-10-26 at 8.20.12 PM.jpeg",
+        "Technical and Business Writing\\Mudassir - WhatsApp Image 2026-10-26 at 8.20.12 PM.jpeg"
+      ],
+      "reason": "CN physical connections and topologies; TBW linear communication model below."
+    },
+    {
+      "number": 49,
+      "source": "Mudassir\\WhatsApp Image 2026-10-26 at 8.20.14 PM.jpeg",
+      "destinations": [
+        "Technical and Business Writing\\Mudassir - WhatsApp Image 2026-10-26 at 8.20.14 PM.jpeg",
+        "Software Construction and Development\\Mudassir - WhatsApp Image 2026-10-26 at 8.20.14 PM.jpeg"
+      ],
+      "reason": "TBW communication models and clarity; SCD naming conventions and clean code."
+    },
+    {
+      "number": 50,
+      "source": "Mudassir\\WhatsApp Image 2026-10-26 at 8.20.17 PM.jpeg",
+      "destinations": [
+        "Software Construction and Development\\Mudassir - WhatsApp Image 2026-10-26 at 8.20.17 PM.jpeg",
+        "Software Requirements Engineering (Lab)\\Mudassir - WhatsApp Image 2026-10-26 at 8.20.17 PM.jpeg"
+      ],
+      "reason": "SCD Python syntax/comments/lists continuation; SRE lab context/system boundaries and modelling."
+    },
+    {
+      "number": 51,
+      "source": "Mudassir\\WhatsApp Image 2026-10-26 at 8.20.19 PM (1).jpeg",
+      "destinations": [
+        "Fundamentals of Accounting\\Mudassir - WhatsApp Image 2026-10-26 at 8.20.19 PM (1).jpeg",
+        "Technical and Business Writing\\Mudassir - WhatsApp Image 2026-10-26 at 8.20.19 PM (1).jpeg"
+      ],
+      "reason": "Accounting transaction equation table; TBW completeness, conciseness and concreteness."
+    },
+    {
+      "number": 52,
+      "source": "Mudassir\\WhatsApp Image 2026-10-26 at 8.20.19 PM.jpeg",
+      "destinations": [
+        "Fundamentals of Accounting\\Mudassir - WhatsApp Image 2026-10-26 at 8.20.19 PM.jpeg"
+      ],
+      "reason": "Accounting transactions and expanded accounting equation across both pages."
+    },
+    {
+      "number": 53,
+      "source": "Mudassir\\WhatsApp Image 2026-10-26 at 8.20.20 PM.jpeg",
+      "destinations": [
+        "Technical and Business Writing\\Mudassir - WhatsApp Image 2026-10-26 at 8.20.20 PM.jpeg",
+        "Software Construction and Development\\Mudassir - WhatsApp Image 2026-10-26 at 8.20.20 PM.jpeg",
+        "Parallel and Distributed Computing\\Mudassir - WhatsApp Image 2026-10-26 at 8.20.20 PM.jpeg"
+      ],
+      "reason": "TBW consideration/coherence; SCD Python collection types; PDC Amdahl speedup calculations."
+    },
+    {
+      "number": 54,
+      "source": "Mudassir\\WhatsApp Image 2026-10-26 at 8.20.27 PM.jpeg",
+      "destinations": [
+        "Parallel and Distributed Computing\\Mudassir - WhatsApp Image 2026-10-26 at 8.20.27 PM.jpeg"
+      ],
+      "reason": "PDC distributed systems, shared/distributed memory, scaling, Amdahl and CPU architectures."
+    },
+    {
+      "number": 55,
+      "source": "Mudassir\\WhatsApp Image 2026-10-26 at 8.20.32 PM.jpeg",
+      "destinations": [
+        "Parallel and Distributed Computing\\Mudassir - WhatsApp Image 2026-10-26 at 8.20.32 PM.jpeg",
+        "Software Requirements Engineering\\Mudassir - WhatsApp Image 2026-10-26 at 8.20.32 PM.jpeg"
+      ],
+      "reason": "PDC von Neumann, scalar/vector and ILP; SRE non-functional product requirements."
+    },
+    {
+      "number": 56,
+      "source": "Mudassir\\WhatsApp Image 2026-10-26 at 8.20.37 PM.jpeg",
+      "destinations": [
+        "Software Requirements Engineering\\Mudassir - WhatsApp Image 2026-10-26 at 8.20.37 PM.jpeg",
+        "Fundamentals of Accounting\\Mudassir - WhatsApp Image 2026-10-26 at 8.20.37 PM.jpeg",
+        "Computer Networks\\Mudassir - WhatsApp Image 2026-10-26 at 8.20.37 PM.jpeg"
+      ],
+      "reason": "Blurred SRE quality metrics continuation, clarified by next sharper photo of same spread; accounting equation; CN mesh faults and network categories."
+    },
+    {
+      "number": 57,
+      "source": "Mudassir\\WhatsApp Image 2026-10-26 at 8.20.38 PM (1).jpeg",
+      "destinations": [
+        "Software Requirements Engineering\\Mudassir - WhatsApp Image 2026-10-26 at 8.20.38 PM (1).jpeg",
+        "Fundamentals of Accounting\\Mudassir - WhatsApp Image 2026-10-26 at 8.20.38 PM (1).jpeg",
+        "Computer Networks\\Mudassir - WhatsApp Image 2026-10-26 at 8.20.38 PM (1).jpeg"
+      ],
+      "reason": "SRE McCall quality factors, tradeoffs and NFR metrics; accounting equation; CN mesh and SAN/EPN/VPN."
+    },
+    {
+      "number": 58,
+      "source": "Mudassir\\WhatsApp Image 2026-10-26 at 8.20.38 PM.jpeg",
+      "destinations": [
+        "Software Requirements Engineering\\Mudassir - WhatsApp Image 2026-10-26 at 8.20.38 PM.jpeg"
+      ],
+      "reason": "SRE NFR continuation: reliability, portability, organizational, delivery, external, legal and ethical requirements."
+    },
+    {
+      "number": 59,
+      "source": "Mudassir\\WhatsApp Image 2026-10-26 at 8.20.42 PM.jpeg",
+      "destinations": [
+        "Computer Networks\\Mudassir - WhatsApp Image 2026-10-26 at 8.20.42 PM.jpeg",
+        "Technical and Business Writing\\Mudassir - WhatsApp Image 2026-10-26 at 8.20.42 PM.jpeg"
+      ],
+      "reason": "CN LAN/MAN/WAN and OSI; TBW writing process and prewriting."
+    },
+    {
+      "number": 60,
+      "source": "Mudassir\\WhatsApp Image 2026-10-26 at 8.20.45 PM.jpeg",
+      "destinations": [
+        "Software Construction and Development\\Mudassir - WhatsApp Image 2026-10-26 at 8.20.45 PM.jpeg"
+      ],
+      "reason": "Explicit SCD theory: sets, functions, routines, methods and reusability."
+    },
+    {
+      "number": 61,
+      "source": "Mudassir\\WhatsApp Image 2026-10-26 at 8.20.46 PM.jpeg",
+      "destinations": [
+        "Computer Networks (Lab)\\Mudassir - WhatsApp Image 2026-10-26 at 8.20.46 PM.jpeg",
+        "Software Requirements Engineering (Lab)\\Mudassir - WhatsApp Image 2026-10-26 at 8.20.46 PM.jpeg"
+      ],
+      "reason": "CN lab subnet masks and network/host/broadcast calculations; SRE lab requirement sources and Kano prioritization exercise."
+    },
+    {
+      "number": 62,
+      "source": "Mudassir\\WhatsApp Image 2026-10-26 at 8.20.47 PM.jpeg",
+      "destinations": [
+        "Software Requirements Engineering (Lab)\\Mudassir - WhatsApp Image 2026-10-26 at 8.20.47 PM.jpeg"
+      ],
+      "reason": "SRE lab continuation: OEL before midterm and CEP after midterm."
+    },
+    {
+      "number": 63,
+      "source": "Mudassir\\WhatsApp Image 2026-10-26 at 8.20.50 PM.jpeg",
+      "destinations": [
+        "Fundamentals of Accounting\\Mudassir - WhatsApp Image 2026-10-26 at 8.20.50 PM.jpeg"
+      ],
+      "reason": "Accounting transaction analysis, four financial statements and time-period principle."
+    },
+    {
+      "number": 64,
+      "source": "Mudassir\\WhatsApp Image 2026-10-26 at 8.20.52 PM.jpeg",
+      "destinations": [
+        "Fundamentals of Accounting\\Mudassir - WhatsApp Image 2026-10-26 at 8.20.52 PM.jpeg",
+        "Technical and Business Writing\\Mudassir - WhatsApp Image 2026-10-26 at 8.20.52 PM.jpeg"
+      ],
+      "reason": "Accounting fiscal/calendar reporting periods; TBW document types, audience, presentation context and budget."
+    },
+    {
+      "number": 65,
+      "source": "Mudassir\\WhatsApp Image 2026-10-26 at 8.20.56 PM.jpeg",
+      "destinations": [
+        "Technical and Business Writing\\Mudassir - WhatsApp Image 2026-10-26 at 8.20.56 PM.jpeg",
+        "Software Construction and Development\\Mudassir - WhatsApp Image 2026-10-26 at 8.20.56 PM.jpeg"
+      ],
+      "reason": "TBW planning/approval and writing improvement; SCD functions should be small and do one thing."
+    },
+    {
+      "number": 66,
+      "source": "Mudassir\\WhatsApp Image 2026-10-26 at 8.20.57 PM.jpeg",
+      "destinations": [
+        "Software Construction and Development\\Mudassir - WhatsApp Image 2026-10-26 at 8.20.57 PM.jpeg",
+        "Parallel and Distributed Computing (Lab)\\Mudassir - WhatsApp Image 2026-10-26 at 8.20.57 PM.jpeg",
+        "Software Requirements Engineering\\Mudassir - WhatsApp Image 2026-10-26 at 8.20.57 PM.jpeg"
+      ],
+      "reason": "SCD indentation/naming; PDC lab OpenMP/pthreads, race conditions and reduction; SRE NFR robustness."
+    },
+    {
+      "number": 67,
+      "source": "Mudassir\\WhatsApp Image 2026-10-26 at 8.21.02 PM.jpeg",
+      "destinations": [
+        "Software Requirements Engineering\\Mudassir - WhatsApp Image 2026-10-26 at 8.21.02 PM.jpeg"
+      ],
+      "reason": "SRE robustness and portability metrics, domain/inverse requirements and design constraints."
+    },
+    {
+      "number": 68,
+      "source": "Mudassir\\WhatsApp Image 2026-10-26 at 8.21.07 PM.jpeg",
+      "destinations": [
+        "Software Requirements Engineering\\Mudassir - WhatsApp Image 2026-10-26 at 8.21.07 PM.jpeg"
+      ],
+      "reason": "SRE user/customer and system contract requirements; rationale and three traceability directions."
+    },
+    {
+      "number": 69,
+      "source": "Mudassir\\WhatsApp Image 2026-10-26 at 8.21.10 PM.jpeg",
+      "destinations": [
+        "Software Requirements Engineering\\Mudassir - WhatsApp Image 2026-10-26 at 8.21.10 PM.jpeg",
+        "Fundamentals of Accounting\\Mudassir - WhatsApp Image 2026-10-26 at 8.21.10 PM.jpeg"
+      ],
+      "reason": "SRE complete/consistent requirements continuation; accounting travel agency income and equity statements."
+    },
+    {
+      "number": 70,
+      "source": "Mudassir\\WhatsApp Image 2026-10-26 at 8.21.12 PM.jpeg",
+      "destinations": [
+        "Fundamentals of Accounting\\Mudassir - WhatsApp Image 2026-10-26 at 8.21.12 PM.jpeg",
+        "Computer Networks\\Mudassir - WhatsApp Image 2026-10-26 at 8.21.12 PM.jpeg"
+      ],
+      "reason": "Accounting cash-flow statement and balance sheet; CN OSI/application layer at bottom right."
+    },
+    {
+      "number": 71,
+      "source": "Mudassir\\WhatsApp Image 2026-10-26 at 8.21.19 PM.jpeg",
+      "destinations": [
+        "Computer Networks\\Mudassir - WhatsApp Image 2026-10-26 at 8.21.19 PM.jpeg",
+        "Technical and Business Writing\\Mudassir - WhatsApp Image 2026-10-26 at 8.21.19 PM.jpeg"
+      ],
+      "reason": "CN Telnet and OSI presentation/session layers; TBW professional emails and digital communication."
+    },
+    {
+      "number": 72,
+      "source": "Mudassir\\WhatsApp Image 2026-10-26 at 8.21.20 PM.jpeg",
+      "destinations": [
+        "Technical and Business Writing\\Mudassir - WhatsApp Image 2026-10-26 at 8.21.20 PM.jpeg",
+        "Software Construction and Development\\Mudassir - WhatsApp Image 2026-10-26 at 8.21.20 PM.jpeg",
+        "Computer Networks (Lab)\\Mudassir - WhatsApp Image 2026-10-26 at 8.21.20 PM.jpeg"
+      ],
+      "reason": "TBW email attachments/courtesy; SCD arguments, objects and recursion; CN lab variable-length subnetting."
+    },
+    {
+      "number": 73,
+      "source": "Mudassir\\WhatsApp Image 2026-10-26 at 8.21.23 PM.jpeg",
+      "destinations": [
+        "Technical and Business Writing\\Mudassir - WhatsApp Image 2026-10-26 at 8.21.23 PM.jpeg",
+        "Software Construction and Development\\Mudassir - WhatsApp Image 2026-10-26 at 8.21.23 PM.jpeg",
+        "Computer Networks (Lab)\\Mudassir - WhatsApp Image 2026-10-26 at 8.21.23 PM.jpeg"
+      ],
+      "reason": "Sharper separate photo: TBW email guidance, SCD arguments/recursion and CN lab VLSM; retained alongside blurred version."
+    },
+    {
+      "number": 74,
+      "source": "Mudassir\\WhatsApp Image 2026-10-26 at 8.21.24 PM.jpeg",
+      "destinations": [
+        "Computer Networks (Lab)\\Mudassir - WhatsApp Image 2026-10-26 at 8.21.24 PM.jpeg",
+        "Fundamentals of Accounting\\Mudassir - WhatsApp Image 2026-10-26 at 8.21.24 PM.jpeg"
+      ],
+      "reason": "CN lab borrowed/host bits, subnet count and prefix; Accounting equation exercises and Jenner income statement."
+    },
+    {
+      "number": 75,
+      "source": "Mudassir\\WhatsApp Image 2026-10-26 at 8.21.25 PM.jpeg",
+      "destinations": [
+        "Fundamentals of Accounting\\Mudassir - WhatsApp Image 2026-10-26 at 8.21.25 PM.jpeg"
+      ],
+      "reason": "Accounting consulting firm equity statement and balance sheet."
+    },
+    {
+      "number": 76,
+      "source": "Mudassir\\WhatsApp Image 2026-10-26 at 8.21.26 PM.jpeg",
+      "destinations": [
+        "Technical and Business Writing\\Mudassir - WhatsApp Image 2026-10-26 at 8.21.26 PM.jpeg",
+        "Software Requirements Engineering (Lab)\\Mudassir - WhatsApp Image 2026-10-26 at 8.21.26 PM.jpeg",
+        "Parallel and Distributed Computing\\Mudassir - WhatsApp Image 2026-10-26 at 8.21.26 PM.jpeg"
+      ],
+      "reason": "TBW memos; SRE lab system archaeology and candidate requirements; PDC instruction-level parallelism."
+    },
+    {
+      "number": 77,
+      "source": "Mudassir\\WhatsApp Image 2026-10-26 at 8.21.43 PM.jpeg",
+      "destinations": [
+        "Parallel and Distributed Computing\\Mudassir - WhatsApp Image 2026-10-26 at 8.21.43 PM.jpeg"
+      ],
+      "reason": "PDC superscalar/speculation/VLIW, Flynn taxonomy, shared/distributed memory and UMA/NUMA."
+    },
+    {
+      "number": 78,
+      "source": "Mudassir\\WhatsApp Image 2026-10-26 at 8.21.44 PM.jpeg",
+      "destinations": [
+        "Software Requirements Engineering\\Mudassir - WhatsApp Image 2026-10-26 at 8.21.44 PM.jpeg"
+      ],
+      "reason": "SRE theory system contract, service/constraint specification, natural language and UML."
+    },
+    {
+      "number": 79,
+      "source": "Mudassir\\WhatsApp Image 2026-10-26 at 8.21.45 PM.jpeg",
+      "destinations": [
+        "Software Requirements Engineering\\Mudassir - WhatsApp Image 2026-10-26 at 8.21.45 PM.jpeg",
+        "Fundamentals of Accounting\\Mudassir - WhatsApp Image 2026-10-26 at 8.21.45 PM.jpeg"
+      ],
+      "reason": "SRE requirements problems and four worlds; Accounting cycle diagram at lower right."
+    },
+    {
+      "number": 80,
+      "source": "Mudassir\\WhatsApp Image 2026-10-26 at 8.21.47 PM.jpeg",
+      "destinations": [
+        "Fundamentals of Accounting\\Mudassir - WhatsApp Image 2026-10-26 at 8.21.47 PM.jpeg"
+      ],
+      "reason": "Accounting double-entry debit/credit rules and general journal entries across both pages."
+    },
+    {
+      "number": 81,
+      "source": "Mudassir\\WhatsApp Image 2026-10-26 at 8.21.48 PM.jpeg",
+      "destinations": [
+        "Computer Networks\\Mudassir - WhatsApp Image 2026-10-26 at 8.21.48 PM.jpeg",
+        "Technical and Business Writing\\Mudassir - WhatsApp Image 2026-10-26 at 8.21.48 PM.jpeg",
+        "Software Construction and Development\\Mudassir - WhatsApp Image 2026-10-26 at 8.21.48 PM.jpeg"
+      ],
+      "reason": "CN transmission/guided media and optical fiber; short TBW notice definition; SCD technology stack."
+    },
+    {
+      "number": 82,
+      "source": "Mudassir\\WhatsApp Image 2026-10-26 at 8.21.49 PM (1).jpeg",
+      "destinations": [
+        "Software Requirements Engineering (Lab)\\Mudassir - WhatsApp Image 2026-10-26 at 8.21.49 PM (1).jpeg",
+        "Fundamentals of Accounting\\Mudassir - WhatsApp Image 2026-10-26 at 8.21.49 PM (1).jpeg"
+      ],
+      "reason": "SRE lab use-case modelling, actors, boundaries and include/extend; accounting prepaid insurance, unearned revenue and posting."
+    },
+    {
+      "number": 83,
+      "source": "Mudassir\\WhatsApp Image 2026-10-26 at 8.21.49 PM.jpeg",
+      "destinations": [
+        "Software Construction and Development\\Mudassir - WhatsApp Image 2026-10-26 at 8.21.49 PM.jpeg"
+      ],
+      "reason": "SCD technology selection, technical debt, build-versus-buy/COTS and release types."
+    },
+    {
+      "number": 84,
+      "source": "Mudassir\\WhatsApp Image 2026-10-26 at 8.21.50 PM.jpeg",
+      "destinations": [
+        "Fundamentals of Accounting\\Mudassir - WhatsApp Image 2026-10-26 at 8.21.50 PM.jpeg",
+        "Technical and Business Writing\\Mudassir - WhatsApp Image 2026-10-26 at 8.21.50 PM.jpeg"
+      ],
+      "reason": "Accounting T accounts/running-balance ledger; TBW meeting minutes and their structure."
+    },
+    {
+      "number": 85,
+      "source": "Mudassir\\WhatsApp Image 2026-10-26 at 8.21.51 PM.jpeg",
+      "destinations": [
+        "Technical and Business Writing\\Mudassir - WhatsApp Image 2026-10-26 at 8.21.51 PM.jpeg",
+        "Software Construction and Development\\Mudassir - WhatsApp Image 2026-10-26 at 8.21.51 PM.jpeg",
+        "Parallel and Distributed Computing\\Mudassir - WhatsApp Image 2026-10-26 at 8.21.51 PM.jpeg"
+      ],
+      "reason": "TBW minutes and business letters; software architecture definition/ERD/DFD; PDC shared/distributed memory, SPMD/MPMD and load balancing. Architecture overlaps preceding PDC-labelled notes, so also retained for SCD."
+    },
+    {
+      "number": 86,
+      "source": "Mudassir\\WhatsApp Image 2026-10-26 at 8.21.56 PM.jpeg",
+      "destinations": [
+        "Parallel and Distributed Computing\\Mudassir - WhatsApp Image 2026-10-26 at 8.21.56 PM.jpeg",
+        "Technical and Business Writing\\Mudassir - WhatsApp Image 2026-10-26 at 8.21.56 PM.jpeg"
+      ],
+      "reason": "PDC threads, address space, nondeterminism and blocking/buffered messages; TBW business letter types/parts/formats."
+    },
+    {
+      "number": 87,
+      "source": "Mudassir\\WhatsApp Image 2026-10-26 at 8.21.57 PM.jpeg",
+      "destinations": [
+        "Software Construction and Development\\Mudassir - WhatsApp Image 2026-10-26 at 8.21.57 PM.jpeg"
+      ],
+      "reason": "SCD release notes, changelogs, rollback, canary releases, semantic versioning, patching and regular expressions."
+    },
+    {
+      "number": 88,
+      "source": "Mudassir\\WhatsApp Image 2026-10-26 at 8.21.58 PM.jpeg",
+      "destinations": [
+        "Fundamentals of Accounting\\Mudassir - WhatsApp Image 2026-10-26 at 8.21.58 PM.jpeg"
+      ],
+      "reason": "Accounting general journal, posting balances and Iris Beck trial balance."
+    },
+    {
+      "number": 89,
+      "source": "Mudassir\\WhatsApp Image 2026-10-26 at 8.22.00 PM.jpeg",
+      "destinations": [
+        "Computer Networks\\Mudassir - WhatsApp Image 2026-10-26 at 8.22.00 PM.jpeg",
+        "Software Requirements Engineering\\Mudassir - WhatsApp Image 2026-10-26 at 8.22.00 PM.jpeg"
+      ],
+      "reason": "CN unguided media, radio/microwave/infrared; SRE process inputs and outputs."
+    },
+    {
+      "number": 90,
+      "source": "Mudassir\\WhatsApp Image 2026-10-26 at 8.22.01 PM.jpeg",
+      "destinations": [
+        "Software Requirements Engineering\\Mudassir - WhatsApp Image 2026-10-26 at 8.22.01 PM.jpeg"
+      ],
+      "reason": "SRE elicitation, analysis/classification perspectives, negotiation, prioritization, specification and traceability; blurred areas also present in next sharper photo."
+    },
+    {
+      "number": 91,
+      "source": "Mudassir\\WhatsApp Image 2026-10-26 at 8.22.05 PM.jpeg",
+      "destinations": [
+        "Software Requirements Engineering\\Mudassir - WhatsApp Image 2026-10-26 at 8.22.05 PM.jpeg"
+      ],
+      "reason": "Sharper photo of SRE elicitation, business/data-flow/role-action perspectives, conflict resolution and traceability."
+    },
+    {
+      "number": 92,
+      "source": "Mudassir\\WhatsApp Image 2026-10-26 at 8.22.10 PM.jpeg",
+      "destinations": [
+        "Parallel and Distributed Computing (Lab)\\Mudassir - WhatsApp Image 2026-10-26 at 8.22.10 PM.jpeg",
+        "Parallel and Distributed Computing\\Mudassir - WhatsApp Image 2026-10-26 at 8.22.10 PM.jpeg",
+        "Software Requirements Engineering\\Mudassir - WhatsApp Image 2026-10-26 at 8.22.10 PM.jpeg"
+      ],
+      "reason": "PDC lab shared/distributed memory, client/server, peer and pipe IPC (matches explicitly labelled lab pages in Me); PDC theory blocking messages; SRE actors, role/action and prototyping."
+    },
+    {
+      "number": 93,
+      "source": "Mudassir\\WhatsApp Image 2026-10-26 at 8.22.12 PM.jpeg",
+      "destinations": [
+        "Software Requirements Engineering\\Mudassir - WhatsApp Image 2026-10-26 at 8.22.12 PM.jpeg"
+      ],
+      "reason": "SRE role/action pizza-delivery diagram, role descriptions, stakeholders and social issues."
+    },
+    {
+      "number": 94,
+      "source": "Mudassir\\WhatsApp Image 2026-10-26 at 8.22.14 PM (1).jpeg",
+      "destinations": [
+        "Computer Networks\\Mudassir - WhatsApp Image 2026-10-26 at 8.22.14 PM (1).jpeg",
+        "Technical and Business Writing\\Mudassir - WhatsApp Image 2026-10-26 at 8.22.14 PM (1).jpeg",
+        "Software Construction and Development\\Mudassir - WhatsApp Image 2026-10-26 at 8.22.14 PM (1).jpeg"
+      ],
+      "reason": "CN multiplexing FDM/WDM/TDM; TBW cover letters; SCD interchange formats, serialization and JSON."
+    },
+    {
+      "number": 95,
+      "source": "Mudassir\\WhatsApp Image 2026-10-26 at 8.22.14 PM.jpeg",
+      "destinations": [
+        "Fundamentals of Accounting\\Mudassir - WhatsApp Image 2026-10-26 at 8.22.14 PM.jpeg",
+        "Computer Networks\\Mudassir - WhatsApp Image 2026-10-26 at 8.22.14 PM.jpeg"
+      ],
+      "reason": "Accounting cycle journal and Vian repair trial balance; CN multiplexing and FDM."
+    },
+    {
+      "number": 96,
+      "source": "Mudassir\\WhatsApp Image 2026-10-26 at 8.22.15 PM.jpeg",
+      "destinations": [
+        "Software Construction and Development\\Mudassir - WhatsApp Image 2026-10-26 at 8.22.15 PM.jpeg",
+        "Software Requirements Engineering (Lab)\\Mudassir - WhatsApp Image 2026-10-26 at 8.22.15 PM.jpeg",
+        "Parallel and Distributed Computing\\Mudassir - WhatsApp Image 2026-10-26 at 8.22.15 PM.jpeg",
+        "Software Requirements Engineering\\Mudassir - WhatsApp Image 2026-10-26 at 8.22.15 PM.jpeg"
+      ],
+      "reason": "SCD XML/YAML/Protobuf/Avro; requirements diagram list associated with lab modelling (boundary unclear); PDC quantum/edge computing note; separate SRE theory social/cultural section."
+    },
+    {
+      "number": 97,
+      "source": "Mudassir\\WhatsApp Image 2026-10-26 at 8.22.47 PM.jpeg",
+      "destinations": [
+        "Software Requirements Engineering\\Mudassir - WhatsApp Image 2026-10-26 at 8.22.47 PM.jpeg"
+      ],
+      "reason": "SRE social process, client organization, requirement/development teams and ethical obligations."
+    },
+    {
+      "number": 98,
+      "source": "Mudassir\\WhatsApp Image 2026-10-26 at 8.22.48 PM.jpeg",
+      "destinations": [
+        "Software Requirements Engineering\\Mudassir - WhatsApp Image 2026-10-26 at 8.22.48 PM.jpeg"
+      ],
+      "reason": "SRE cultural, language, religious/racial and ethical issues and confidential information."
+    },
+    {
+      "number": 99,
+      "source": "Mudassir\\WhatsApp Image 2026-10-26 at 8.22.51 PM.jpeg",
+      "destinations": [
+        "Software Requirements Engineering\\Mudassir - WhatsApp Image 2026-10-26 at 8.22.51 PM.jpeg",
+        "Computer Networks (Lab)\\Mudassir - WhatsApp Image 2026-10-26 at 8.22.51 PM.jpeg"
+      ],
+      "reason": "SRE exam question categories and explicit Network Lab exam guidance. Right page is unrelated prompt-engineering workshop notes; whole image retained unchanged."
+    },
+    {
+      "number": 100,
+      "source": "Mudassir\\WhatsApp Image 2026-10-26 at 8.22.52 PM.jpeg",
+      "destinations": [
+        "Software Requirements Engineering (Lab)\\Mudassir - WhatsApp Image 2026-10-26 at 8.22.52 PM.jpeg",
+        "Software Requirements Engineering\\Mudassir - WhatsApp Image 2026-10-26 at 8.22.52 PM.jpeg"
+      ],
+      "reason": "SRE lab group mind-mapping/candidate requirements assignment; through/horizontal/vertical prototyping also matches SRE theory notes, so retained in both."
+    },
+    {
+      "number": 101,
+      "source": "Mudassir\\WhatsApp Image 2026-10-26 at 8.22.56 PM.jpeg",
+      "destinations": [
+        "Software Requirements Engineering\\Mudassir - WhatsApp Image 2026-10-26 at 8.22.56 PM.jpeg"
+      ],
+      "reason": "Foreground is a separate Prompt Engineering workshop sheet, not one of the ten courses. Partially visible background pages contain SRE social/cultural/ethical notes matching image 98, so entire photo is preserved with SRE; workshop association is explicitly flagged."
+    },
+    {
+      "number": 102,
+      "source": "Mudassir\\WhatsApp Image 2026-10-26 at 8.22.57 PM.jpeg",
+      "destinations": [
+        "Fundamentals of Accounting\\Mudassir - WhatsApp Image 2026-10-26 at 8.22.57 PM.jpeg"
+      ],
+      "reason": "Explicit Accounting equation, assets/liabilities/equity, accounting process and receivable/payable definitions."
+    }
+  ]
+}
