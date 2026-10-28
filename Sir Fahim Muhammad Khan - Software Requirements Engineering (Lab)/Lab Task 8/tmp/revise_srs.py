@@ -302,8 +302,8 @@ prefix=r'''% Enterprise RAG Assistant SRS
 \usepackage[hidelinks,bookmarksnumbered,pdfauthor={Abdul Samad},pdftitle={Enterprise RAG Assistant Software Requirements Specification}]{hyperref}
 \usepackage{lastpage}
 \setlength{\parindent}{0pt}
-\setlength{\parskip}{5pt}
-\linespread{1.05}
+\setlength{\parskip}{4pt}
+\linespread{1.02}
 \setlength{\emergencystretch}{2em}
 \setlength{\tabcolsep}{5pt}
 \renewcommand{\arraystretch}{1.13}
@@ -379,9 +379,10 @@ for block in blocks:
     text=block['text'];style=block['style']
     if text=='Document Control':body.extend([r'\section*{Document Control}',r'\addcontentsline{toc}{section}{Document Control}']);continue
     if text=='Revision History':body.append(r'\subsection*{Revision History}');continue
-    if text=='Table of Contents':body.extend([r'\clearpage',r'\tableofcontents',r'\clearpage']);continue
+    if text=='Table of Contents':body.extend([r'\clearpage',r'\begingroup\small\setlength{\parskip}{0pt}',r'\tableofcontents',r'\endgroup',r'\clearpage']);continue
     if style.startswith('Heading '):
         level=int(style[-1]);title=re.sub(r'^\d+(?:\.\d+)*\s+','',text)
+        if text=='6.6 Subject Index':body.append(r'\clearpage')
         if level==1:body.append(r'\clearpage')
         body.append('\\'+['section','subsection','subsubsection'][level-1]+'{'+tex(title)+'}')
     elif style=='List Bullet':
