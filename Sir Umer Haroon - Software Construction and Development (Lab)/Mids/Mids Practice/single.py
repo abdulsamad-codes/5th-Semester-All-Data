@@ -119,6 +119,7 @@ def update_trust_score(friends_list):
     print("Friend username not found.")
 
 def main():
+
     friends_list = load_data()
     while True:
         print("\n=== True Friends Platform ===")

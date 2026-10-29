@@ -84,7 +84,6 @@ Write a file called task4_compare.py. Reuse the student data from Task 1. Write 
 
 Write a function called sum_gpa_row_x	based that takes a list of student dictionaries and returns the sum of GPAs by looping over each student and reading the gpa key.ar
 
-
 Write a function called sum_gpa_columnar that takes a dictionary where each key is a column name and each value is a list of values for that column, and returns the sum of the gpa column directly.
 
 Call both functions on the same data and confirm they return the same result. Then write a short note in your report explaining in your own words why the columnar version is more efficient when the data is stored column by column on disk.

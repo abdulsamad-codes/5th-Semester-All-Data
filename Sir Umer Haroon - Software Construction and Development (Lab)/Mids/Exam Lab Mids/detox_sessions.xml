@@ -1,0 +1,16 @@
+<detox_log>
+ <session>
+  <app_name>Whatsapp</app_name>
+  <duration_min>3</duration_min>
+  <category>Work</category>
+  <time_str>3:12</time_str>
+  <date_str>2026-12-23</date_str>
+ </session>
+ <session>
+  <app_name>insta</app_name>
+  <duration_min>180</duration_min>
+  <category>Social</category>
+  <time_str>10:30</time_str>
+  <date_str>2026-10-27</date_str>
+ </session>
+</detox_log>
