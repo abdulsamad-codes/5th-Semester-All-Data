@@ -113,7 +113,7 @@ def average(numbers):
 def collect_results():
     """Record real original errors and assert every patched expected result."""
     rows = []
-    with tempfile.TemporaryDirectory(prefix="crash_gallery_") as folder:
+    with tempfile.TemporaryDirectory(prefix="crash_gallery_", dir=Path(__file__).resolve().parent) as folder:
         missing = str(Path(folder) / "missing.txt")
         sample = Path(folder) / "sample.txt"
         sample.write_text("Hello, lab!", encoding="utf-8")

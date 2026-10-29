@@ -1,0 +1,93 @@
+calculate_discount(100, 0)
+  Original:  100.0
+  Fixed: 100.0 [PASS]
+calculate_discount(100, 150)
+  Original:  -50.0
+  Fixed: 'Error: discount must be between 0 and 100' [PASS]
+calculate_discount(100, 100)
+  Original:  0.0
+  Fixed: 0.0 [PASS]
+calculate_discount(100, -10)
+  Original:  110.0
+  Fixed: 'Error: discount must be between 0 and 100' [PASS]
+calculate_discount(-100, 10)
+  Original:  -90.0
+  Fixed: 'Error: price cannot be negative' [PASS]
+calculate_discount(200, 25)
+  Original:  150.0
+  Fixed: 150.0 [PASS]
+calculate_average([])
+  Original:  ZeroDivisionError: division by zero
+  Fixed: 'Error: cannot average empty list' [PASS]
+calculate_average([0, 100])
+  Original:  50.0
+  Fixed: 50.0 [PASS]
+calculate_average([80, 90, 100])
+  Original:  90.0
+  Fixed: 90.0 [PASS]
+calculate_average([-10, 90])
+  Original:  40.0
+  Fixed: 'Error: marks must be numbers between 0 and 100' [PASS]
+calculate_average([101])
+  Original:  101.0
+  Fixed: 'Error: marks must be numbers between 0 and 100' [PASS]
+find_student(students, 'missing')
+  Original:  {'name': 'Ali', 'age': 20}
+  Fixed: None [PASS]
+find_student([], 'Ali')
+  Original:  IndexError: list index out of range
+  Fixed: None [PASS]
+find_student(students, 'Sara')
+  Original:  {'name': 'Sara', 'age': 19}
+  Fixed: {'name': 'Sara', 'age': 19} [PASS]
+find_student([{}], 'Ali')
+  Original:  KeyError: 'name'
+  Fixed: 'Error: every student must have a nonempty text name' [PASS]
+is_adult(18)
+  Original:  False
+  Fixed: True [PASS]
+is_adult(17)
+  Original:  False
+  Fixed: False [PASS]
+is_adult(19)
+  Original:  True
+  Fixed: True [PASS]
+is_adult(-1)
+  Original:  False
+  Fixed: False [PASS]
+is_adult('18')
+  Original:  TypeError: '>' not supported between instances of 'str' and 'int'
+  Fixed: False [PASS]
+apply_tax(100, -0.1)
+  Original:  90.0
+  Fixed: 'Error: tax rate cannot be negative' [PASS]
+apply_tax(100, 0)
+  Original:  100
+  Fixed: 100 [PASS]
+apply_tax(100, 0.1)
+  Original:  110.0
+  Fixed: 110.0 [PASS]
+apply_tax(-100, 0.1)
+  Original:  -110.0
+  Fixed: 'Error: amount cannot be negative' [PASS]
+apply_tax(0, 0.1)
+  Original:  0.0
+  Fixed: 0.0 [PASS]
+count_passed([50, 50, 50])
+  Original:  0
+  Fixed: 3 [PASS]
+count_passed([49, 50, 51])
+  Original:  1
+  Fixed: 2 [PASS]
+count_passed([])
+  Original:  0
+  Fixed: 0 [PASS]
+count_passed([59, 60, 61], 60)
+  Original:  1
+  Fixed: 2 [PASS]
+count_passed([-1, 50])
+  Original:  0
+  Fixed: 'Error: marks must be numbers between 0 and 100' [PASS]
+count_passed([50], 101)
+  Original:  0
+  Fixed: 'Error: passing mark must be between 0 and 100' [PASS]

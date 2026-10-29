@@ -51,6 +51,13 @@ Sir Saim Sanan - Parallel and Distributed Computing (Lab)/
         |-- Week-4-Lab-2.pdf
         |-- Week-5-Lab-1.pdf
         |-- Week-5-Lab-2.pdf
+    |-- Mids Past Paper/
+        |-- WhatsApp Image 2026-10-28 at 11.32.07 AM.jpeg
+        |-- WhatsApp Image 2026-10-28 at 11.32.12 AM.jpeg
+        |-- WhatsApp Image 2026-10-28 at 11.32.13 AM.jpeg
+        |-- WhatsApp Image 2026-10-28 at 11.32.14 AM.jpeg
+        |-- WhatsApp Image 2026-10-28 at 11.58.17 AM (1).jpeg
+        |-- WhatsApp Image 2026-10-28 at 11.58.17 AM.jpeg
     |-- Mids Paper Format/
         |-- PDC (4).pdf
         |-- PDC_Lab_Practice_Paper.docx
@@ -65,7 +72,7 @@ Lab Week 5\__pycache__
 FILE CONTENTS
 
 ==========================================================================================
-FILE 1/36: Assignment 1\Abdul Samad BSSE group A - 5th semester.pdf
+FILE 1/42: Assignment 1\Abdul Samad BSSE group A - 5th semester.pdf
 TYPE: .pdf
 SIZE: 146426 bytes
 ==========================================================================================
@@ -122,7 +129,7 @@ A further optimization would parallelize the merge stage as well. It could reduc
 bandwidth, synchronization, and the small size of individual merge tasks could eliminate the expected benefit on the machine used.
 
 ==========================================================================================
-FILE 2/36: Assignment 1\Assignment - Abdul Samad BSSE Group A - 5th Semester.rar
+FILE 2/42: Assignment 1\Assignment - Abdul Samad BSSE Group A - 5th Semester.rar
 TYPE: .rar
 SIZE: 183228 bytes
 ==========================================================================================
@@ -40480,7 +40487,7 @@ A further optimization would parallelize the merge stage as well. It could reduc
 bandwidth, synchronization, and the small size of individual merge tasks could eliminate the expected benefit on the machine used.
 
 ==========================================================================================
-FILE 3/36: Assignment 1\Assignment.pdf
+FILE 3/42: Assignment 1\Assignment.pdf
 TYPE: .pdf
 SIZE: 74574 bytes
 ==========================================================================================
@@ -40586,7 +40593,7 @@ the recorded output, and diff serial out.txt parallel out.txt produces no output
                                              2
 
 ==========================================================================================
-FILE 4/36: Assignment 1\attempt.c
+FILE 4/42: Assignment 1\attempt.c
 TYPE: .c
 SIZE: 1608 bytes
 ==========================================================================================
@@ -40656,7 +40663,7 @@ int main(int argc, char *argv[])
 
 
 ==========================================================================================
-FILE 5/36: Assignment 1\parallel out.txt
+FILE 5/42: Assignment 1\parallel out.txt
 TYPE: .txt
 SIZE: 133167 bytes
 ==========================================================================================
@@ -60663,7 +60670,7 @@ SIZE: 133167 bytes
 
 
 ==========================================================================================
-FILE 6/36: Assignment 1\parallel.c
+FILE 6/42: Assignment 1\parallel.c
 TYPE: .c
 SIZE: 3590 bytes
 ==========================================================================================
@@ -60812,7 +60819,7 @@ int main(int argc, char *argv[])
 
 
 ==========================================================================================
-FILE 7/36: Assignment 1\report.pdf
+FILE 7/42: Assignment 1\report.pdf
 TYPE: .pdf
 SIZE: 2503 bytes
 ==========================================================================================
@@ -60872,7 +60879,7 @@ A further optimization would parallelize the merge stage as well.  It could redu
 bandwidth, synchronization, and the small size of individual merge tasks could eliminate the expected benefit on the machine used.
 
 ==========================================================================================
-FILE 8/36: Assignment 1\serial out.txt
+FILE 8/42: Assignment 1\serial out.txt
 TYPE: .txt
 SIZE: 133167 bytes
 ==========================================================================================
@@ -80879,7 +80886,7 @@ SIZE: 133167 bytes
 
 
 ==========================================================================================
-FILE 9/36: Assignment 1\serial.c
+FILE 9/42: Assignment 1\serial.c
 TYPE: .c
 SIZE: 1721 bytes
 ==========================================================================================
@@ -80958,7 +80965,7 @@ int main(int argc, char *argv[])
 
 
 ==========================================================================================
-FILE 10/36: Lab Week 2\SE-A-Abdul_Samad\timeCalc.c
+FILE 10/42: Lab Week 2\SE-A-Abdul_Samad\timeCalc.c
 TYPE: .c
 SIZE: 364 bytes
 ==========================================================================================
@@ -80984,14 +80991,14 @@ int main(void)
 
 
 ==========================================================================================
-FILE 11/36: Lab Week 2\SE-A-Abdul_Samad\timeCalc.exe
+FILE 11/42: Lab Week 2\SE-A-Abdul_Samad\timeCalc.exe
 TYPE: .exe
 SIZE: 133158 bytes
 ==========================================================================================
 [CONTENT NOT EXTRACTED: binary .exe file; requires its native application or archive reader. No binary data was presented as readable course text.]
 
 ==========================================================================================
-FILE 12/36: Lab Week 2\SE-A-Abdul_Samad\timeCalc2.c
+FILE 12/42: Lab Week 2\SE-A-Abdul_Samad\timeCalc2.c
 TYPE: .c
 SIZE: 493 bytes
 ==========================================================================================
@@ -81023,21 +81030,21 @@ int main(void)
 
 
 ==========================================================================================
-FILE 13/36: Lab Week 2\SE-A-Abdul_Samad\timeCalc2.exe
+FILE 13/42: Lab Week 2\SE-A-Abdul_Samad\timeCalc2.exe
 TYPE: .exe
 SIZE: 137691 bytes
 ==========================================================================================
 [CONTENT NOT EXTRACTED: binary .exe file; requires its native application or archive reader. No binary data was presented as readable course text.]
 
 ==========================================================================================
-FILE 14/36: Lab Week 2\SE-A-Abdul_Samad\timeCalc2_debug.exe
+FILE 14/42: Lab Week 2\SE-A-Abdul_Samad\timeCalc2_debug.exe
 TYPE: .exe
 SIZE: 137074 bytes
 ==========================================================================================
 [CONTENT NOT EXTRACTED: binary .exe file; requires its native application or archive reader. No binary data was presented as readable course text.]
 
 ==========================================================================================
-FILE 15/36: Lab Week 3\cal2.c
+FILE 15/42: Lab Week 3\cal2.c
 TYPE: .c
 SIZE: 651 bytes
 ==========================================================================================
@@ -81073,14 +81080,14 @@ int main(void)
 }
 
 ==========================================================================================
-FILE 16/36: Lab Week 3\cal2.exe
+FILE 16/42: Lab Week 3\cal2.exe
 TYPE: .exe
 SIZE: 137621 bytes
 ==========================================================================================
 [CONTENT NOT EXTRACTED: binary .exe file; requires its native application or archive reader. No binary data was presented as readable course text.]
 
 ==========================================================================================
-FILE 17/36: Lab Week 3\task.c
+FILE 17/42: Lab Week 3\task.c
 TYPE: .c
 SIZE: 443 bytes
 ==========================================================================================
@@ -81108,14 +81115,14 @@ int main(void)
 
 
 ==========================================================================================
-FILE 18/36: Lab Week 3\task.exe
+FILE 18/42: Lab Week 3\task.exe
 TYPE: .exe
 SIZE: 136397 bytes
 ==========================================================================================
 [CONTENT NOT EXTRACTED: binary .exe file; requires its native application or archive reader. No binary data was presented as readable course text.]
 
 ==========================================================================================
-FILE 19/36: Lab Week 4\task.c
+FILE 19/42: Lab Week 4\task.c
 TYPE: .c
 SIZE: 929 bytes
 ==========================================================================================
@@ -81164,14 +81171,14 @@ int main(void)
 }
 
 ==========================================================================================
-FILE 20/36: Lab Week 4\task.exe
+FILE 20/42: Lab Week 4\task.exe
 TYPE: .exe
 SIZE: 137977 bytes
 ==========================================================================================
 [CONTENT NOT EXTRACTED: binary .exe file; requires its native application or archive reader. No binary data was presented as readable course text.]
 
 ==========================================================================================
-FILE 21/36: Lab Week 5\1\client.py
+FILE 21/42: Lab Week 5\1\client.py
 TYPE: .py
 SIZE: 257 bytes
 ==========================================================================================
@@ -81186,7 +81193,7 @@ print("Server response:", response)
 client.close()
 
 ==========================================================================================
-FILE 22/36: Lab Week 5\1\server.py
+FILE 22/42: Lab Week 5\1\server.py
 TYPE: .py
 SIZE: 434 bytes
 ==========================================================================================
@@ -81207,7 +81214,7 @@ conn.close()
 server.close()
 
 ==========================================================================================
-FILE 23/36: Lab Week 5\2\task.c
+FILE 23/42: Lab Week 5\2\task.c
 TYPE: .c
 SIZE: 517 bytes
 ==========================================================================================
@@ -81241,7 +81248,7 @@ int main(void)
 }
 
 ==========================================================================================
-FILE 24/36: Lectures\Notes.docx
+FILE 24/42: Lectures\Notes.docx
 TYPE: .docx
 SIZE: 14330 bytes
 ==========================================================================================
@@ -81272,7 +81279,7 @@ Part B and C: Scenario based small questions, which can be answered within two l
 Week 5 Lab 1: Distributed computing intro and client-server sockets
 
 ==========================================================================================
-FILE 25/36: Lectures\Week-1-Lab-1.pdf
+FILE 25/42: Lectures\Week-1-Lab-1.pdf
 TYPE: .pdf
 SIZE: 60045 bytes
 ==========================================================================================
@@ -81373,7 +81380,7 @@ Forgot ./ → command not found.
 
 
 ==========================================================================================
-FILE 26/36: Lectures\Week-1-Lab-2.pdf
+FILE 26/42: Lectures\Week-1-Lab-2.pdf
 TYPE: .pdf
 SIZE: 109352 bytes
 ==========================================================================================
@@ -81480,7 +81487,7 @@ C
                                             2
 
 ==========================================================================================
-FILE 27/36: Lectures\Week-2-Lab-1.pdf
+FILE 27/42: Lectures\Week-2-Lab-1.pdf
 TYPE: .pdf
 SIZE: 107702 bytes
 ==========================================================================================
@@ -81584,7 +81591,7 @@ N = 4, total 20 s, loop 16 s, other 4 s:
                                             2
 
 ==========================================================================================
-FILE 28/36: Lectures\Week-2-Lab-2.pdf
+FILE 28/42: Lectures\Week-2-Lab-2.pdf
 TYPE: .pdf
 SIZE: 134674 bytes
 ==========================================================================================
@@ -81732,7 +81739,7 @@ Four threads is not always 4× (Amdahl). Use the times from this run.
                                          3
 
 ==========================================================================================
-FILE 29/36: Lectures\Week-3-Lab-1.pdf
+FILE 29/42: Lectures\Week-3-Lab-1.pdf
 TYPE: .pdf
 SIZE: 121135 bytes
 ==========================================================================================
@@ -81892,7 +81899,7 @@ int main(void) {
                                            3
 
 ==========================================================================================
-FILE 30/36: Lectures\Week-3-Lab-2.pdf
+FILE 30/42: Lectures\Week-3-Lab-2.pdf
 TYPE: .pdf
 SIZE: 111546 bytes
 ==========================================================================================
@@ -82068,7 +82075,7 @@ threads take turns on sum.
                                             3
 
 ==========================================================================================
-FILE 31/36: Lectures\Week-4-Lab-1.pdf
+FILE 31/42: Lectures\Week-4-Lab-1.pdf
 TYPE: .pdf
 SIZE: 119511 bytes
 ==========================================================================================
@@ -82228,7 +82235,7 @@ C
                                            3
 
 ==========================================================================================
-FILE 32/36: Lectures\Week-4-Lab-2.pdf
+FILE 32/42: Lectures\Week-4-Lab-2.pdf
 TYPE: .pdf
 SIZE: 124400 bytes
 ==========================================================================================
@@ -82395,7 +82402,7 @@ start = omp_get_wtime ();
                                            3
 
 ==========================================================================================
-FILE 33/36: Lectures\Week-5-Lab-1.pdf
+FILE 33/42: Lectures\Week-5-Lab-1.pdf
 TYPE: .pdf
 SIZE: 97286 bytes
 ==========================================================================================
@@ -82502,7 +82509,7 @@ response:  Hello from server!.
                                             2
 
 ==========================================================================================
-FILE 34/36: Lectures\Week-5-Lab-2.pdf
+FILE 34/42: Lectures\Week-5-Lab-2.pdf
 TYPE: .pdf
 SIZE: 92467 bytes
 ==========================================================================================
@@ -82598,7 +82605,7 @@ printf("Child received: %s\n", buffer);
                                             2
 
 ==========================================================================================
-FILE 35/36: Mids Paper Format\PDC (4).pdf
+FILE 35/42: Mids Paper Format\PDC (4).pdf
 TYPE: .pdf
 SIZE: 109618 bytes
 ==========================================================================================
@@ -82686,7 +82693,7 @@ One sentence after Layer 2: What was this file?
                                             2
 
 ==========================================================================================
-FILE 36/36: Mids Paper Format\PDC_Lab_Practice_Paper.docx
+FILE 36/42: Mids Paper Format\PDC_Lab_Practice_Paper.docx
 TYPE: .docx
 SIZE: 14434 bytes
 ==========================================================================================
@@ -82814,6 +82821,208 @@ PAGE
 
 
 ==========================================================================================
+FILE 37/42: Mids Past Paper\WhatsApp Image 2026-10-28 at 11.32.07 AM.jpeg
+TYPE: .jpeg
+SIZE: 180436 bytes
+==========================================================================================
+[VISUALLY REVIEWED TRANSCRIPTION — added 29 October 2026]
+Source: other-section paper, same course/instructor per user. Printed header: SWE 537 Mid-Term, Variant A. Repeated photos retained as separate source records. Student writing is labelled and is not an official answer key. Cropped/unclear text is explicitly noted.
+SWE 537 Mid-Term — Variant A
+Part B — Performance (Amdahl) [8 marks]
+An image-processing program is timed on one core as follows. The serial phase cannot be parallelised. The parallel phase may use N cores and scales ideally (ignore overhead). Speedup is defined as 60/T(N), where T(N) is the total time on N cores.
+Phase | Time on 1 core
+Serial | 15 s
+Parallel | 45 s
+Total | 60 s
+1. Write a formula for the total time T(N) on N cores. [1]
+2. Compute T(5). [1]
+3. Compute the speedup when N = 5. Show brief working. [2]
+4. Fill in the values, then write the smallest integer N with speedup >= 2. [2]
+N = 2: T = _____; speedup = _____
+N = 3: T = _____; speedup = _____
+Smallest N: _____
+5. Answer both parts:
+(i) Why can the speedup with N = 5 not equal 5? [1]
+(ii) If the parallel phase took time 0, what is the maximum possible speedup? [1]
+HANDWRITTEN STUDENT WORK (not an official answer key): A formula resembling Ts + P/N is visible; several other entries are crossed out or difficult to read. Use the clearer duplicate photo at 11.58.17 AM for the numerical handwriting.
+
+==========================================================================================
+FILE 38/42: Mids Past Paper\WhatsApp Image 2026-10-28 at 11.32.12 AM.jpeg
+TYPE: .jpeg
+SIZE: 204337 bytes
+==========================================================================================
+[VISUALLY REVIEWED TRANSCRIPTION — added 29 October 2026]
+Source: other-section paper, same course/instructor per user. Printed header: SWE 537 Mid-Term, Variant A. Repeated photos retained as separate source records. Student writing is labelled and is not an official answer key. Cropped/unclear text is explicitly noted.
+SWE 537 Mid-Term — Variant A
+Part A — Concepts [10 marks]
+Each question: 2 marks. Encircle one option. Missing or wrong justification = zero.
+1. Two threads of the same process both update shared votes. Which is most accurate?
+(a) They cannot see votes without message passing.
+(b) They share the process address space, so both can touch votes.
+(c) Each thread automatically gets a private copy of every variable.
+(d) Only the main thread may write; the others may only read.
+Justification: [blank answer space]
+2. Inside #pragma omp parallel (no for) there is the loop for (int i = 0; i < n; i++) over a[i]. 4 threads run. Which is most accurate?
+(a) Only thread 0 runs the loop; the others skip it.
+(b) It will not compile unless it is written as parallel for.
+(c) The iterations are split, so each a[i] is visited once.
+(d) Every thread runs the full loop, so each a[i] is visited 4 times.
+Justification: [blank answer space]
+3. Which statement about critical vs reduction(+:x) for a large array sum is false?
+(a) reduction uses private partial sums, then combines them.
+(b) Both can give a correct total if used properly.
+(c) critical is usually faster for a large numeric total.
+(d) critical makes threads take turns on the protected block.
+Justification: [blank answer space]
+4. Which statement correctly distinguishes single from critical?
+(a) single: one thread runs it, then the team waits. critical: each thread that reaches it runs it one at a time; no team wait by itself.
+(b) single runs on every thread at once, while critical runs on exactly one thread.
+(c) critical never protects shared data, but single always does.
+(d) single needs MPI, while critical works only inside OpenMP.
+Justification: [blank answer space]
+5. #pragma omp atomic is appropriate when:
+(a) every thread must wait at a meeting point.
+(b) one simple update such as likes++ must be exclusive.
+(c) five printfs must be protected as one bundle.
+(d) the compiler must split loop iterations.
+[The lower edge of this question/its justification area is cropped in the photographs.]
+HANDWRITTEN MARKINGS (not an official answer key): Choices b, d, c, a, b appear selected for questions 1–5 respectively. Most justification spaces visible in this photo are blank.
+
+==========================================================================================
+FILE 39/42: Mids Past Paper\WhatsApp Image 2026-10-28 at 11.32.13 AM.jpeg
+TYPE: .jpeg
+SIZE: 185948 bytes
+==========================================================================================
+[VISUALLY REVIEWED TRANSCRIPTION — added 29 October 2026]
+Source: other-section paper, same course/instructor per user. Printed header: SWE 537 Mid-Term, Variant A. Repeated photos retained as separate source records. Student writing is labelled and is not an official answer key. Cropped/unclear text is explicitly noted.
+SWE 537 Mid-Term — Variant A
+Part C — OpenMP code [12 marks]
+Assume -fopenmp and several threads. Array a holds n integers. The same fragment is used for items 1–4.
+int sum = 0;
+#pragma omp parallel for
+for (int i = 0; i < n; i++) {
+    sum = sum + a[i];
+}
+1. Is the final sum guaranteed to be correct? [3]
+(i) Circle one: Yes / No [1]
+(ii) Why (one sentence)? [2]
+2. Replace the pragma with #pragma omp parallel for reduction(+:sum). Is the final sum then guaranteed correct? Circle one: Yes / No. [1]
+3. Keep parallel for (no reduction). Replace the original sum update with this critical block: [3]
+#pragma omp critical
+{
+    sum = sum + a[i];
+}
+(i) Is the total correct? Circle one: Yes / No. [1]
+(ii) Compared with reduction, this is usually: faster / slower / about the same. [2]
+4. Replace #pragma omp parallel for with #pragma omp parallel (same for loop inside). State one clear problem that occurs. [2]
+Fragment for question 5:
+int ready = 0;
+#pragma omp parallel
+{
+    if (omp_get_thread_num() == 0)
+        ready = 1;
+    #pragma omp barrier
+    printf("ready=%d\n", ready);
+}
+5. If the barrier is deleted, can every print be guaranteed to show ready=1? [3]
+[Photo ends partway through the answer area. The Yes/No choices are partly visible, but any remaining wording/subparts are outside the photograph. No missing text has been invented.]
+[Transcription note: spacing and indentation normalized for readability; source photograph retained unchanged.]
+
+==========================================================================================
+FILE 40/42: Mids Past Paper\WhatsApp Image 2026-10-28 at 11.32.14 AM.jpeg
+TYPE: .jpeg
+SIZE: 171836 bytes
+==========================================================================================
+[VISUALLY REVIEWED TRANSCRIPTION — added 29 October 2026]
+Source: other-section paper, same course/instructor per user. Printed header: SWE 537 Mid-Term, Variant A. Repeated photos retained as separate source records. Student writing is labelled and is not an official answer key. Cropped/unclear text is explicitly noted.
+SWE 537 Mid-Term — Variant A
+Part B — Performance (Amdahl) [8 marks]
+An image-processing program is timed on one core as follows. The serial phase cannot be parallelised. The parallel phase may use N cores and scales ideally (ignore overhead). Speedup is defined as 60/T(N), where T(N) is the total time on N cores.
+Phase | Time on 1 core
+Serial | 15 s
+Parallel | 45 s
+Total | 60 s
+1. Write a formula for the total time T(N) on N cores. [1]
+2. Compute T(5). [1]
+3. Compute the speedup when N = 5. Show brief working. [2]
+4. Fill in the values, then write the smallest integer N with speedup >= 2. [2]
+N = 2: T = _____; speedup = _____
+N = 3: T = _____; speedup = _____
+Smallest N: _____
+5. Answer both parts:
+(i) Why can the speedup with N = 5 not equal 5? [1]
+(ii) If the parallel phase took time 0, what is the maximum possible speedup? [1]
+DUPLICATE VIEW: Same Part B page as 11.32.07 AM, photographed with more blur. Handwritten formula/crossings visible; not reliably legible in full.
+
+==========================================================================================
+FILE 41/42: Mids Past Paper\WhatsApp Image 2026-10-28 at 11.58.17 AM (1).jpeg
+TYPE: .jpeg
+SIZE: 149528 bytes
+==========================================================================================
+[VISUALLY REVIEWED TRANSCRIPTION — added 29 October 2026]
+Source: other-section paper, same course/instructor per user. Printed header: SWE 537 Mid-Term, Variant A. Repeated photos retained as separate source records. Student writing is labelled and is not an official answer key. Cropped/unclear text is explicitly noted.
+SWE 537 Mid-Term — Variant A
+Part A — Concepts [10 marks]
+Each question: 2 marks. Encircle one option. Missing or wrong justification = zero.
+1. Two threads of the same process both update shared votes. Which is most accurate?
+(a) They cannot see votes without message passing.
+(b) They share the process address space, so both can touch votes.
+(c) Each thread automatically gets a private copy of every variable.
+(d) Only the main thread may write; the others may only read.
+Justification: [blank answer space]
+2. Inside #pragma omp parallel (no for) there is the loop for (int i = 0; i < n; i++) over a[i]. 4 threads run. Which is most accurate?
+(a) Only thread 0 runs the loop; the others skip it.
+(b) It will not compile unless it is written as parallel for.
+(c) The iterations are split, so each a[i] is visited once.
+(d) Every thread runs the full loop, so each a[i] is visited 4 times.
+Justification: [blank answer space]
+3. Which statement about critical vs reduction(+:x) for a large array sum is false?
+(a) reduction uses private partial sums, then combines them.
+(b) Both can give a correct total if used properly.
+(c) critical is usually faster for a large numeric total.
+(d) critical makes threads take turns on the protected block.
+Justification: [blank answer space]
+4. Which statement correctly distinguishes single from critical?
+(a) single: one thread runs it, then the team waits. critical: each thread that reaches it runs it one at a time; no team wait by itself.
+(b) single runs on every thread at once, while critical runs on exactly one thread.
+(c) critical never protects shared data, but single always does.
+(d) single needs MPI, while critical works only inside OpenMP.
+Justification: [blank answer space]
+5. #pragma omp atomic is appropriate when:
+(a) every thread must wait at a meeting point.
+(b) one simple update such as likes++ must be exclusive.
+(c) five printfs must be protected as one bundle.
+(d) the compiler must split loop iterations.
+[The lower edge of this question/its justification area is cropped in the photographs.]
+HANDWRITTEN STUDENT WORK (not an official answer key; legible meaning paraphrased): Selected choices are 1(b), 2(d), 3(c), 4(a), 5(b). Q1 refers to threads sharing the same process address space. Q2 distinguishes parallel (threads execute the loop) from parallel for (iterations are divided). Q3 says critical is slower while reduction uses private copies. Q4 says only one thread enters a critical region at a time; the rest of the handwriting extends beyond the right edge. Q5 handwriting begins 'in Atomic there is only one...' but the remainder is cropped. These are student annotations, not independently validated solutions.
+
+==========================================================================================
+FILE 42/42: Mids Past Paper\WhatsApp Image 2026-10-28 at 11.58.17 AM.jpeg
+TYPE: .jpeg
+SIZE: 89236 bytes
+==========================================================================================
+[VISUALLY REVIEWED TRANSCRIPTION — added 29 October 2026]
+Source: other-section paper, same course/instructor per user. Printed header: SWE 537 Mid-Term, Variant A. Repeated photos retained as separate source records. Student writing is labelled and is not an official answer key. Cropped/unclear text is explicitly noted.
+SWE 537 Mid-Term — Variant A
+Part B — Performance (Amdahl) [8 marks]
+An image-processing program is timed on one core as follows. The serial phase cannot be parallelised. The parallel phase may use N cores and scales ideally (ignore overhead). Speedup is defined as 60/T(N), where T(N) is the total time on N cores.
+Phase | Time on 1 core
+Serial | 15 s
+Parallel | 45 s
+Total | 60 s
+1. Write a formula for the total time T(N) on N cores. [1]
+2. Compute T(5). [1]
+3. Compute the speedup when N = 5. Show brief working. [2]
+4. Fill in the values, then write the smallest integer N with speedup >= 2. [2]
+N = 2: T = _____; speedup = _____
+N = 3: T = _____; speedup = _____
+Smallest N: _____
+5. Answer both parts:
+(i) Why can the speedup with N = 5 not equal 5? [1]
+(ii) If the parallel phase took time 0, what is the maximum possible speedup? [1]
+HANDWRITTEN STUDENT WORK (not an official answer key): Q1 resembles T(N) = Ts + P/N (some symbols crossed out). Q2: 15 + 45/5 = 24 s. Q3: 60/24 = 2.5. Q4: N=2: T=37.5, speedup=1.6; N=3: T=30, speedup=2; smallest N=3. Q5(i): the visible answer begins 'because of overhead, not all work is par...' and continues outside the right edge. Q5(ii): 4x. Caution: the printed problem explicitly says to ignore overhead; the student's overhead explanation should not be treated as an official model answer.
+
+==========================================================================================
 EXTRACTION COVERAGE REPORT
 EXTRACTED: Assignment 1\Abdul Samad BSSE group A - 5th semester.pdf
 EXTRACTED: Assignment 1\Assignment - Abdul Samad BSSE Group A - 5th Semester.rar
@@ -82851,3 +83060,9 @@ EXTRACTED: Lectures\Week-5-Lab-1.pdf
 EXTRACTED: Lectures\Week-5-Lab-2.pdf
 EXTRACTED: Mids Paper Format\PDC (4).pdf
 EXTRACTED: Mids Paper Format\PDC_Lab_Practice_Paper.docx
+VISUALLY_TRANSCRIBED: Mids Past Paper\WhatsApp Image 2026-10-28 at 11.32.07 AM.jpeg
+VISUALLY_TRANSCRIBED: Mids Past Paper\WhatsApp Image 2026-10-28 at 11.32.12 AM.jpeg
+VISUALLY_TRANSCRIBED: Mids Past Paper\WhatsApp Image 2026-10-28 at 11.32.13 AM.jpeg
+VISUALLY_TRANSCRIBED: Mids Past Paper\WhatsApp Image 2026-10-28 at 11.32.14 AM.jpeg
+VISUALLY_TRANSCRIBED: Mids Past Paper\WhatsApp Image 2026-10-28 at 11.58.17 AM (1).jpeg
+VISUALLY_TRANSCRIBED: Mids Past Paper\WhatsApp Image 2026-10-28 at 11.58.17 AM.jpeg

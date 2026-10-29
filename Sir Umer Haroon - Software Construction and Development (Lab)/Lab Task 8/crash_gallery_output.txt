@@ -1,0 +1,78 @@
+divide(10, 0)
+  Original: ZeroDivisionError division by zero
+  Fixed: 'Error: cannot divide by zero' [PASS]
+divide('10', 2)
+  Original: TypeError unsupported operand type(s) for /: 'str' and 'int'
+  Fixed: 'Error: both arguments must be finite numbers' [PASS]
+divide(10, None)
+  Original: TypeError unsupported operand type(s) for /: 'int' and 'NoneType'
+  Fixed: 'Error: both arguments must be finite numbers' [PASS]
+divide(10, 2)
+  Original: None 5.0
+  Fixed: 5.0 [PASS]
+get_first([])
+  Original: IndexError list index out of range
+  Fixed: 'Error: list is empty' [PASS]
+get_first(None)
+  Original: TypeError 'NoneType' object is not subscriptable
+  Fixed: 'Error: input is not a list' [PASS]
+get_first(42)
+  Original: TypeError 'int' object is not subscriptable
+  Fixed: 'Error: input is not a list' [PASS]
+get_first([7, 8])
+  Original: None 7
+  Fixed: 7 [PASS]
+get_age({})
+  Original: KeyError 'age'
+  Fixed: 'Error: missing age' [PASS]
+get_age('Ali')
+  Original: TypeError string indices must be integers, not 'str'
+  Fixed: 'Error: input is not a dictionary' [PASS]
+get_age(None)
+  Original: TypeError 'NoneType' object is not subscriptable
+  Fixed: 'Error: input is not a dictionary' [PASS]
+get_age({'age': -1})
+  Original: None -1
+  Fixed: 'Error: age must be a nonnegative integer' [PASS]
+get_age({'age': 20})
+  Original: None 20
+  Fixed: 20 [PASS]
+parse_number('abc')
+  Original: ValueError invalid literal for int() with base 10: 'abc'
+  Fixed: 'Error: not a number' [PASS]
+parse_number(None)
+  Original: TypeError int() argument must be a string, a bytes-like object or a real number, not 'NoneType'
+  Fixed: 'Error: input must be text' [PASS]
+parse_number('3.5')
+  Original: ValueError invalid literal for int() with base 10: '3.5'
+  Fixed: 'Error: not a number' [PASS]
+parse_number('')
+  Original: ValueError invalid literal for int() with base 10: ''
+  Fixed: 'Error: not a number' [PASS]
+parse_number(' -12 ')
+  Original: None -12
+  Fixed: -12 [PASS]
+read_file('missing.txt')
+  Original: FileNotFoundError [Errno 2] No such file or directory: 'missing.txt'
+  Fixed: 'Error: file not found' [PASS]
+read_file(None)
+  Original: TypeError expected str, bytes or os.PathLike object, not NoneType
+  Fixed: 'Error: filename must be nonempty text without null characters' [PASS]
+read_file('<directory>')
+  Original: PermissionError [Errno 13] Permission denied: '<directory>'
+  Fixed: 'Error: path is not a regular file' [PASS]
+read_file('sample.txt')
+  Original: None 'Hello, lab!'
+  Fixed: 'Hello, lab!' [PASS]
+average([])
+  Original: ZeroDivisionError division by zero
+  Fixed: 'Error: cannot average an empty list' [PASS]
+average(['a', 'b'])
+  Original: TypeError unsupported operand type(s) for +: 'int' and 'str'
+  Fixed: 'Error: every item must be a finite number' [PASS]
+average(None)
+  Original: TypeError 'NoneType' object is not iterable
+  Fixed: 'Error: input is not a list' [PASS]
+average([10, 20, 30])
+  Original: None 20.0
+  Fixed: 20.0 [PASS]

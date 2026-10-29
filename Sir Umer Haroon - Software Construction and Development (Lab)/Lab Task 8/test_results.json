@@ -1,0 +1,548 @@
+{
+  "python": "3.12.14",
+  "task_1": [
+    {
+      "function": "divide",
+      "call": "divide(10, 0)",
+      "bad": true,
+      "original": "division by zero",
+      "error_type": "ZeroDivisionError",
+      "expected": "'Error: cannot divide by zero'",
+      "patched": "'Error: cannot divide by zero'",
+      "passed": true
+    },
+    {
+      "function": "divide",
+      "call": "divide('10', 2)",
+      "bad": true,
+      "original": "unsupported operand type(s) for /: 'str' and 'int'",
+      "error_type": "TypeError",
+      "expected": "'Error: both arguments must be finite numbers'",
+      "patched": "'Error: both arguments must be finite numbers'",
+      "passed": true
+    },
+    {
+      "function": "divide",
+      "call": "divide(10, None)",
+      "bad": true,
+      "original": "unsupported operand type(s) for /: 'int' and 'NoneType'",
+      "error_type": "TypeError",
+      "expected": "'Error: both arguments must be finite numbers'",
+      "patched": "'Error: both arguments must be finite numbers'",
+      "passed": true
+    },
+    {
+      "function": "divide",
+      "call": "divide(10, 2)",
+      "bad": false,
+      "original": "5.0",
+      "error_type": "None",
+      "expected": "5.0",
+      "patched": "5.0",
+      "passed": true
+    },
+    {
+      "function": "get_first",
+      "call": "get_first([])",
+      "bad": true,
+      "original": "list index out of range",
+      "error_type": "IndexError",
+      "expected": "'Error: list is empty'",
+      "patched": "'Error: list is empty'",
+      "passed": true
+    },
+    {
+      "function": "get_first",
+      "call": "get_first(None)",
+      "bad": true,
+      "original": "'NoneType' object is not subscriptable",
+      "error_type": "TypeError",
+      "expected": "'Error: input is not a list'",
+      "patched": "'Error: input is not a list'",
+      "passed": true
+    },
+    {
+      "function": "get_first",
+      "call": "get_first(42)",
+      "bad": true,
+      "original": "'int' object is not subscriptable",
+      "error_type": "TypeError",
+      "expected": "'Error: input is not a list'",
+      "patched": "'Error: input is not a list'",
+      "passed": true
+    },
+    {
+      "function": "get_first",
+      "call": "get_first([7, 8])",
+      "bad": false,
+      "original": "7",
+      "error_type": "None",
+      "expected": "7",
+      "patched": "7",
+      "passed": true
+    },
+    {
+      "function": "get_age",
+      "call": "get_age({})",
+      "bad": true,
+      "original": "'age'",
+      "error_type": "KeyError",
+      "expected": "'Error: missing age'",
+      "patched": "'Error: missing age'",
+      "passed": true
+    },
+    {
+      "function": "get_age",
+      "call": "get_age('Ali')",
+      "bad": true,
+      "original": "string indices must be integers, not 'str'",
+      "error_type": "TypeError",
+      "expected": "'Error: input is not a dictionary'",
+      "patched": "'Error: input is not a dictionary'",
+      "passed": true
+    },
+    {
+      "function": "get_age",
+      "call": "get_age(None)",
+      "bad": true,
+      "original": "'NoneType' object is not subscriptable",
+      "error_type": "TypeError",
+      "expected": "'Error: input is not a dictionary'",
+      "patched": "'Error: input is not a dictionary'",
+      "passed": true
+    },
+    {
+      "function": "get_age",
+      "call": "get_age({'age': -1})",
+      "bad": true,
+      "original": "-1",
+      "error_type": "None",
+      "expected": "'Error: age must be a nonnegative integer'",
+      "patched": "'Error: age must be a nonnegative integer'",
+      "passed": true
+    },
+    {
+      "function": "get_age",
+      "call": "get_age({'age': 20})",
+      "bad": false,
+      "original": "20",
+      "error_type": "None",
+      "expected": "20",
+      "patched": "20",
+      "passed": true
+    },
+    {
+      "function": "parse_number",
+      "call": "parse_number('abc')",
+      "bad": true,
+      "original": "invalid literal for int() with base 10: 'abc'",
+      "error_type": "ValueError",
+      "expected": "'Error: not a number'",
+      "patched": "'Error: not a number'",
+      "passed": true
+    },
+    {
+      "function": "parse_number",
+      "call": "parse_number(None)",
+      "bad": true,
+      "original": "int() argument must be a string, a bytes-like object or a real number, not 'NoneType'",
+      "error_type": "TypeError",
+      "expected": "'Error: input must be text'",
+      "patched": "'Error: input must be text'",
+      "passed": true
+    },
+    {
+      "function": "parse_number",
+      "call": "parse_number('3.5')",
+      "bad": true,
+      "original": "invalid literal for int() with base 10: '3.5'",
+      "error_type": "ValueError",
+      "expected": "'Error: not a number'",
+      "patched": "'Error: not a number'",
+      "passed": true
+    },
+    {
+      "function": "parse_number",
+      "call": "parse_number('')",
+      "bad": true,
+      "original": "invalid literal for int() with base 10: ''",
+      "error_type": "ValueError",
+      "expected": "'Error: not a number'",
+      "patched": "'Error: not a number'",
+      "passed": true
+    },
+    {
+      "function": "parse_number",
+      "call": "parse_number(' -12 ')",
+      "bad": false,
+      "original": "-12",
+      "error_type": "None",
+      "expected": "-12",
+      "patched": "-12",
+      "passed": true
+    },
+    {
+      "function": "read_file",
+      "call": "read_file('missing.txt')",
+      "bad": true,
+      "original": "[Errno 2] No such file or directory: 'missing.txt'",
+      "error_type": "FileNotFoundError",
+      "expected": "'Error: file not found'",
+      "patched": "'Error: file not found'",
+      "passed": true
+    },
+    {
+      "function": "read_file",
+      "call": "read_file(None)",
+      "bad": true,
+      "original": "expected str, bytes or os.PathLike object, not NoneType",
+      "error_type": "TypeError",
+      "expected": "'Error: filename must be nonempty text without null characters'",
+      "patched": "'Error: filename must be nonempty text without null characters'",
+      "passed": true
+    },
+    {
+      "function": "read_file",
+      "call": "read_file('<directory>')",
+      "bad": true,
+      "original": "[Errno 13] Permission denied: '<directory>'",
+      "error_type": "PermissionError",
+      "expected": "'Error: path is not a regular file'",
+      "patched": "'Error: path is not a regular file'",
+      "passed": true
+    },
+    {
+      "function": "read_file",
+      "call": "read_file('sample.txt')",
+      "bad": false,
+      "original": "'Hello, lab!'",
+      "error_type": "None",
+      "expected": "'Hello, lab!'",
+      "patched": "'Hello, lab!'",
+      "passed": true
+    },
+    {
+      "function": "average",
+      "call": "average([])",
+      "bad": true,
+      "original": "division by zero",
+      "error_type": "ZeroDivisionError",
+      "expected": "'Error: cannot average an empty list'",
+      "patched": "'Error: cannot average an empty list'",
+      "passed": true
+    },
+    {
+      "function": "average",
+      "call": "average(['a', 'b'])",
+      "bad": true,
+      "original": "unsupported operand type(s) for +: 'int' and 'str'",
+      "error_type": "TypeError",
+      "expected": "'Error: every item must be a finite number'",
+      "patched": "'Error: every item must be a finite number'",
+      "passed": true
+    },
+    {
+      "function": "average",
+      "call": "average(None)",
+      "bad": true,
+      "original": "'NoneType' object is not iterable",
+      "error_type": "TypeError",
+      "expected": "'Error: input is not a list'",
+      "patched": "'Error: input is not a list'",
+      "passed": true
+    },
+    {
+      "function": "average",
+      "call": "average([10, 20, 30])",
+      "bad": false,
+      "original": "20.0",
+      "error_type": "None",
+      "expected": "20.0",
+      "patched": "20.0",
+      "passed": true
+    }
+  ],
+  "task_2": [
+    {
+      "function": "calculate_discount",
+      "call": "calculate_discount(100, 0)",
+      "expected": "100.0",
+      "original": "100.0",
+      "bug": false,
+      "patched": "100.0",
+      "passed": true
+    },
+    {
+      "function": "calculate_discount",
+      "call": "calculate_discount(100, 150)",
+      "expected": "'Error: discount must be between 0 and 100'",
+      "original": "-50.0",
+      "bug": true,
+      "patched": "'Error: discount must be between 0 and 100'",
+      "passed": true
+    },
+    {
+      "function": "calculate_discount",
+      "call": "calculate_discount(100, 100)",
+      "expected": "0.0",
+      "original": "0.0",
+      "bug": false,
+      "patched": "0.0",
+      "passed": true
+    },
+    {
+      "function": "calculate_discount",
+      "call": "calculate_discount(100, -10)",
+      "expected": "'Error: discount must be between 0 and 100'",
+      "original": "110.0",
+      "bug": true,
+      "patched": "'Error: discount must be between 0 and 100'",
+      "passed": true
+    },
+    {
+      "function": "calculate_discount",
+      "call": "calculate_discount(-100, 10)",
+      "expected": "'Error: price cannot be negative'",
+      "original": "-90.0",
+      "bug": true,
+      "patched": "'Error: price cannot be negative'",
+      "passed": true
+    },
+    {
+      "function": "calculate_discount",
+      "call": "calculate_discount(200, 25)",
+      "expected": "150.0",
+      "original": "150.0",
+      "bug": false,
+      "patched": "150.0",
+      "passed": true
+    },
+    {
+      "function": "calculate_average",
+      "call": "calculate_average([])",
+      "expected": "'Error: cannot average empty list'",
+      "original": "ZeroDivisionError: division by zero",
+      "bug": true,
+      "patched": "'Error: cannot average empty list'",
+      "passed": true
+    },
+    {
+      "function": "calculate_average",
+      "call": "calculate_average([0, 100])",
+      "expected": "50.0",
+      "original": "50.0",
+      "bug": false,
+      "patched": "50.0",
+      "passed": true
+    },
+    {
+      "function": "calculate_average",
+      "call": "calculate_average([80, 90, 100])",
+      "expected": "90.0",
+      "original": "90.0",
+      "bug": false,
+      "patched": "90.0",
+      "passed": true
+    },
+    {
+      "function": "calculate_average",
+      "call": "calculate_average([-10, 90])",
+      "expected": "'Error: marks must be numbers between 0 and 100'",
+      "original": "40.0",
+      "bug": true,
+      "patched": "'Error: marks must be numbers between 0 and 100'",
+      "passed": true
+    },
+    {
+      "function": "calculate_average",
+      "call": "calculate_average([101])",
+      "expected": "'Error: marks must be numbers between 0 and 100'",
+      "original": "101.0",
+      "bug": true,
+      "patched": "'Error: marks must be numbers between 0 and 100'",
+      "passed": true
+    },
+    {
+      "function": "find_student",
+      "call": "find_student(students, 'missing')",
+      "expected": "None",
+      "original": "{'name': 'Ali', 'age': 20}",
+      "bug": true,
+      "patched": "None",
+      "passed": true
+    },
+    {
+      "function": "find_student",
+      "call": "find_student([], 'Ali')",
+      "expected": "None",
+      "original": "IndexError: list index out of range",
+      "bug": true,
+      "patched": "None",
+      "passed": true
+    },
+    {
+      "function": "find_student",
+      "call": "find_student(students, 'Sara')",
+      "expected": "{'name': 'Sara', 'age': 19}",
+      "original": "{'name': 'Sara', 'age': 19}",
+      "bug": false,
+      "patched": "{'name': 'Sara', 'age': 19}",
+      "passed": true
+    },
+    {
+      "function": "find_student",
+      "call": "find_student([{}], 'Ali')",
+      "expected": "'Error: every student must have a nonempty text name'",
+      "original": "KeyError: 'name'",
+      "bug": true,
+      "patched": "'Error: every student must have a nonempty text name'",
+      "passed": true
+    },
+    {
+      "function": "is_adult",
+      "call": "is_adult(18)",
+      "expected": "True",
+      "original": "False",
+      "bug": true,
+      "patched": "True",
+      "passed": true
+    },
+    {
+      "function": "is_adult",
+      "call": "is_adult(17)",
+      "expected": "False",
+      "original": "False",
+      "bug": false,
+      "patched": "False",
+      "passed": true
+    },
+    {
+      "function": "is_adult",
+      "call": "is_adult(19)",
+      "expected": "True",
+      "original": "True",
+      "bug": false,
+      "patched": "True",
+      "passed": true
+    },
+    {
+      "function": "is_adult",
+      "call": "is_adult(-1)",
+      "expected": "False",
+      "original": "False",
+      "bug": false,
+      "patched": "False",
+      "passed": true
+    },
+    {
+      "function": "is_adult",
+      "call": "is_adult('18')",
+      "expected": "False",
+      "original": "TypeError: '>' not supported between instances of 'str' and 'int'",
+      "bug": true,
+      "patched": "False",
+      "passed": true
+    },
+    {
+      "function": "apply_tax",
+      "call": "apply_tax(100, -0.1)",
+      "expected": "'Error: tax rate cannot be negative'",
+      "original": "90.0",
+      "bug": true,
+      "patched": "'Error: tax rate cannot be negative'",
+      "passed": true
+    },
+    {
+      "function": "apply_tax",
+      "call": "apply_tax(100, 0)",
+      "expected": "100",
+      "original": "100",
+      "bug": false,
+      "patched": "100",
+      "passed": true
+    },
+    {
+      "function": "apply_tax",
+      "call": "apply_tax(100, 0.1)",
+      "expected": "110.0",
+      "original": "110.0",
+      "bug": false,
+      "patched": "110.0",
+      "passed": true
+    },
+    {
+      "function": "apply_tax",
+      "call": "apply_tax(-100, 0.1)",
+      "expected": "'Error: amount cannot be negative'",
+      "original": "-110.0",
+      "bug": true,
+      "patched": "'Error: amount cannot be negative'",
+      "passed": true
+    },
+    {
+      "function": "apply_tax",
+      "call": "apply_tax(0, 0.1)",
+      "expected": "0.0",
+      "original": "0.0",
+      "bug": false,
+      "patched": "0.0",
+      "passed": true
+    },
+    {
+      "function": "count_passed",
+      "call": "count_passed([50, 50, 50])",
+      "expected": "3",
+      "original": "0",
+      "bug": true,
+      "patched": "3",
+      "passed": true
+    },
+    {
+      "function": "count_passed",
+      "call": "count_passed([49, 50, 51])",
+      "expected": "2",
+      "original": "1",
+      "bug": true,
+      "patched": "2",
+      "passed": true
+    },
+    {
+      "function": "count_passed",
+      "call": "count_passed([])",
+      "expected": "0",
+      "original": "0",
+      "bug": false,
+      "patched": "0",
+      "passed": true
+    },
+    {
+      "function": "count_passed",
+      "call": "count_passed([59, 60, 61], 60)",
+      "expected": "2",
+      "original": "1",
+      "bug": true,
+      "patched": "2",
+      "passed": true
+    },
+    {
+      "function": "count_passed",
+      "call": "count_passed([-1, 50])",
+      "expected": "'Error: marks must be numbers between 0 and 100'",
+      "original": "0",
+      "bug": true,
+      "patched": "'Error: marks must be numbers between 0 and 100'",
+      "passed": true
+    },
+    {
+      "function": "count_passed",
+      "call": "count_passed([50], 101)",
+      "expected": "'Error: passing mark must be between 0 and 100'",
+      "original": "0",
+      "bug": true,
+      "patched": "'Error: passing mark must be between 0 and 100'",
+      "passed": true
+    }
+  ],
+  "total_checks": 57,
+  "all_passed": true
+}
