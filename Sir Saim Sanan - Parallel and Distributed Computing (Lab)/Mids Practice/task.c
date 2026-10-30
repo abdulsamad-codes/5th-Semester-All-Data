@@ -1,45 +1,72 @@
 #include <stdio.h>
+#include <stdlib.h>
 #include <omp.h>
 
-#define N 500
+#define ARRAY_SIZE 20
 
-int main(void)
+static void bubbleSort(int values[], int size)
 {
-    omp_set_num_threads(4);
-    static double A[N][N];
-    static double B[N][N];
-    static double C[N][N];
-    int i, j, k;
-    double start, end;
-
-    for (i = 0; i < N; i++)
+    for (int pass = 0; pass < size - 1; pass++)
     {
-        for (j = 0; j < N; j++)
-        {
-            A[i][j] = 1.0;
-            B[i][j] = 1.0;
-            C[i][j] = 0.0;
-        }
-    }
+        int swapped = 0;
 
-    start = omp_get_wtime();
-#pragma omp parallel for private(j,k)
-    for (i = 0; i < N; i++)
-    {
-        for (j = 0; j < N; j++)
+        for (int index = 0; index < size - pass - 1; index++)
         {
-            double sum = 0.0;
-// #pragma omp parallel for reduction(+ : sum)
-            for (k = 0; k < N; k++)
+            if (values[index] > values[index + 1])
             {
-                sum += A[i][k] * B[k][j];
+                int temporary = values[index];
+                values[index] = values[index + 1];
+                values[index + 1] = temporary;
+                swapped = 1;
             }
-            C[i][j] = sum;
+        }
+
+        if (!swapped)
+        {
+            break;
         }
     }
-    end = omp_get_wtime();
-    printf ( " parallel time = % f seconds \n " , end - start ) ;
-    printf("C[0][0] = %f (expected %d)\n", C[0][0], N);
-    // printf("serial time = %f seconds\n", end - start);
+}
+
+int main(int argc, char *argv[])
+{
+    if (argc != 2)
+    {
+        printf("Usage: %s <roll_number>\n", argv[0]);
+        return 1;
+    }
+
+    int rollNumber = atoi(argv[1]);
+    int values[ARRAY_SIZE];
+    srand((unsigned int)rollNumber);
+
+    for (int index = 0; index < ARRAY_SIZE; index++)
+    {
+        values[index] = rand();
+    }
+
+    double start = omp_get_wtime();
+    bubbleSort(values, ARRAY_SIZE);
+    double end = omp_get_wtime();
+
+    FILE *output = fopen("serial.txt", "w");
+    if (output == NULL)
+    {
+        printf("Could not create serial.txt\n");
+        return 1;
+    }
+
+    for (int index = 0; index < ARRAY_SIZE; index++)
+    {
+        fprintf(output, "%d\n", values[index]);
+    }
+    fclose(output);
+
+    printf("roll number = %d\n", rollNumber);
+    printf("input size = %d\n", ARRAY_SIZE);
+    printf("serial\n");
+    printf("execution time = %.12f seconds\n", end - start);
+    printf("first value = %d\n", values[0]);
+    printf("last value = %d\n", values[ARRAY_SIZE - 1]);
     return 0;
 }

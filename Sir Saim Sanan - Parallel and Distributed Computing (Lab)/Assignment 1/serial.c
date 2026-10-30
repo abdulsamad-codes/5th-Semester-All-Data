@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <omp.h>
 
-#define ARRAY_SIZE 20000
+#define ARRAY_SIZE 2000
 
 static void bubbleSort(int values[], int size)
 {
@@ -49,10 +49,10 @@ int main(int argc, char *argv[])
     bubbleSort(values, ARRAY_SIZE);
     double end = omp_get_wtime();
 
-    FILE *output = fopen("serial out.txt", "w");
+    FILE *output = fopen("serial.txt", "w");
     if (output == NULL)
     {
-        printf("Could not create serial out.txt\n");
+        printf("Could not create serial.txt\n");
         return 1;
     }
 
