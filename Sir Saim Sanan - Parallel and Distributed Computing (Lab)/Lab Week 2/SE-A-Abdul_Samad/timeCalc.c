@@ -1,11 +1,11 @@
 #include <stdio.h>
 #include <time.h>
-#define N 10000000000
+#define N 100000000
 
 int main(void)
 {
     long i;
-    long sum = 0;
+    long long int sum = 0;
     clock_t start, end;
     start = clock();
     for (i = 0; i < N; i++)

@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <omp.h>
 
-#define N 1000000000LL
+#define N 100000000LL
 
 int main(void)
 {
