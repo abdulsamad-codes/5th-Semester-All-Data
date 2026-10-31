@@ -1,6 +1,6 @@
 COMPLETE COURSE TEXT EXPORT
 COURSE FOLDER: Sir Muhammad Asim - Parallel and Distributed Computing
-SOURCE: E:\Study Material\5th Semester All Data\Sir Muhammad Asim - Parallel and Distributed Computing
+SOURCE: \\?\E:\Study Material\5th Semester All Data\Sir Muhammad Asim - Parallel and Distributed Computing
 
 SCOPE: Full readable text, not summaries. Images use OCR; diagrams/layout cannot be fully represented in plain text. Unsupported files and errors are explicitly identified. Source files are unchanged.
 Excluded directory names: .env, .git, .idea, .mypy_cache, .nox, .pytest_cache, .ruff_cache, .tox, .venv, .vscode, __pycache__, dist-packages, env, node_modules, site-packages, vendor, venv
@@ -12,17 +12,47 @@ Sir Muhammad Asim - Parallel and Distributed Computing/
     |-- Lectures/
         |-- An Introduction to Parallel Programming.pdf
         |-- Introduction to Parallel Computing, Second Edition-Ananth Grama, Anshul Gupta, George Karypis, Vipin Kumar.pdf
+        |-- Lecture 1.pdf
         |-- Lecture 2.pdf
         |-- Lecture 3.pdf
-        |-- Lecture1.pdf
+        |-- Lecture 4.pdf
+        |-- lecture 5.pdf
+    |-- Mids Past Paper/
+        |-- WhatsApp Image 2026-10-26 at 3.07.56 PM.jpeg
+        |-- WhatsApp Image 2026-10-27 at 3.31.25 PM (1).jpeg
+        |-- WhatsApp Image 2026-10-27 at 3.31.25 PM.jpeg
+        |-- WhatsApp Image 2026-10-27 at 3.31.26 PM.jpeg
+    |-- Mids Preparation/
+        |-- parallel.c
+        |-- parallel.exe
+    |-- Notes/
+        |-- Me - WhatsApp Image 2026-10-26 at 8.23.51 PM.jpeg
+        |-- Me - WhatsApp Image 2026-10-26 at 8.24.11 PM.jpeg
+        |-- Me - WhatsApp Image 2026-10-26 at 8.24.12 PM.jpeg
+        |-- Me - WhatsApp Image 2026-10-26 at 8.24.18 PM.jpeg
+        |-- Me - WhatsApp Image 2026-10-26 at 8.24.36 PM.jpeg
+        |-- Me - WhatsApp Image 2026-10-26 at 8.24.37 PM.jpeg
+        |-- Me - WhatsApp Image 2026-10-26 at 8.24.38 PM.jpeg
+        |-- Me - WhatsApp Image 2026-10-26 at 8.24.43 PM.jpeg
+        |-- Mudassir - WhatsApp Image 2026-10-26 at 8.19.43 PM.jpeg
+        |-- Mudassir - WhatsApp Image 2026-10-26 at 8.19.45 PM.jpeg
+        |-- Mudassir - WhatsApp Image 2026-10-26 at 8.20.20 PM.jpeg
+        |-- Mudassir - WhatsApp Image 2026-10-26 at 8.20.27 PM.jpeg
+        |-- Mudassir - WhatsApp Image 2026-10-26 at 8.20.32 PM.jpeg
+        |-- Mudassir - WhatsApp Image 2026-10-26 at 8.21.26 PM.jpeg
+        |-- Mudassir - WhatsApp Image 2026-10-26 at 8.21.43 PM.jpeg
+        |-- Mudassir - WhatsApp Image 2026-10-26 at 8.21.51 PM.jpeg
+        |-- Mudassir - WhatsApp Image 2026-10-26 at 8.21.56 PM.jpeg
+        |-- Mudassir - WhatsApp Image 2026-10-26 at 8.22.10 PM.jpeg
+        |-- Mudassir - WhatsApp Image 2026-10-26 at 8.22.15 PM.jpeg
 
 EXCLUDED DIRECTORIES
-None
+Mids Preparation\.vscode
 
 FILE CONTENTS
 
 ==========================================================================================
-FILE 1/6: Lect 1.txt
+FILE 1/33: Lect 1.txt
 TYPE: .txt
 SIZE: 805 bytes
 ==========================================================================================
@@ -66,17 +96,22 @@ NUMA - non uniform memory access
 
 
 ==========================================================================================
-FILE 2/6: Lectures\An Introduction to Parallel Programming.pdf
+FILE 2/33: Lectures\An Introduction to Parallel Programming.pdf
 TYPE: .pdf
 SIZE: 8875839 bytes
 ==========================================================================================
 --- PAGE 1 ---
 [OCR: may contain recognition errors]
 Peter S. Pacheco
+
 Matthew Malensek
+
 Second Edition
+
 AN INTRODUCTION TO
+
 PARALLEL PROGRAMMING
+
 HORGAN KAUFMANN
 
 --- PAGE 2 ---
@@ -24641,38 +24676,67 @@ This page intentionally left blank
 --- PAGE 497 ---
 [OCR: may contain recognition errors]
 AN INTRODUCTION TO PARALLEL PROGRAMMING, second Edition
+
 Peter S. Pacheco and Matthew Malensek
+
 Learn how to fully harness the power of parallel computing!
+
 An Introduction to Parallel Programming, Second Edition presents a tried-and-true tutorial approach that shows students how to
+
 develop effective parallel programs with MPI, Pthreads, OpenMP, and CUDA.
+
 As the first undergraduate text to directly address compiling and running parallel programs on multi-core and cluster architectures,
+
 this second edition Grries forward its clear explanations for designing, debugging, and evaluating the performance of distributed
+
 and shared-memory programs while adding coverage of accelerators via new content on GPU programming and heterogeneous
+
 programming, New and improved user-friendly exercises teach students how to compile, run, and modify example programs.
+
 Key Features
+
 Takes a tutorial approach, starting with small programming examples and building progressively to more challenging examples
+
 Explains how to develop parallel programs using MPI, Pthreads, OpenMP, and CUDA APIs
+
 A robust package of online ancillaries for instructors and students includes lecture slides, solutions manual, downloadable source
+
 code, and an image bank
+
 New chapters on GPU programming and heterogeneous programming
+
 New examples and exercises related to parallel program development
+
 Authors
+
 Peter PachecO, Ph.D, is Emeritus Professor of Computer Science at the University of San Francisco. Professor Pacheco's research is in
+
 parallel scientific computing. He hai worked on the development of parallel software for circuit simulation, speech recognition, and
+
 . the simulation of large networks of biologically accurate neurons and has been involved in the development ofthe MPI Standard for
+
 message-passing. He is also the author of Parallel Programming with MPI, published by Elsevier/Morgan Kaufmann.
+
 Matthew Malensek, Ph.D„ is an Assistant Professor in the Department of Computer Science at the University of San Francisco. His
+
 research interests are centered around big data, parallel/distributed systems, and cloud computing. This includes systems approaches
+
 for processing and managing data at scale in a variety of domains, including fog computing and Internet of Things (IoT) devices.
+
 ELSEVIER
+
 MORGAN KAUFMANN PUBLISHERS
+
 Of Elsevier
+
 elsevier.com/books-and-joumals
+
 ISBN 978-0-12-804605-0
+
 9 78 128 0 6050
 
 ==========================================================================================
-FILE 3/6: Lectures\Introduction to Parallel Computing, Second Edition-Ananth Grama, Anshul Gupta, George Karypis, Vipin Kumar.pdf
+FILE 3/33: Lectures\Introduction to Parallel Computing, Second Edition-Ananth Grama, Anshul Gupta, George Karypis, Vipin Kumar.pdf
 TYPE: .pdf
 SIZE: 7571712 bytes
 ==========================================================================================
@@ -25875,6 +25939,7 @@ scales of concurrency in the range of four- to eight-way parallelism.
 --- PAGE 27 ---
 [OCR: may contain recognition errors]
 r Team LiB I
+
 NEXT
 
 --- PAGE 28 ---
@@ -29473,50 +29538,95 @@ concurrent tasks finds a solution it can inform the others to terminate their se
 --- PAGE 112 ---
 [OCR: may contain recognition errors]
 oono
+
 anna
+
 mmmm
+
 omm•
+
 13 15 12
+
 nana
+
 o•mm
+
 13 15 12
+
 omnm
+
 mmmm
+
 oono
+
 on•m
+
 14 15 12
+
 non•
+
 ammo
+
 13 15 12
+
 13 14 15
+
 onna
+
 nono
+
 mmmm
+
 anno
+
 9 10 11
+
 mmmm
+
 nann
+
 o•no
+
 nonm
+
 nana
+
 nono
+
 amom
+
 m•mm
+
 nonn
+
 anna
+
 nonm
+
 14 15 12
+
 nano
+
 a•oo
+
 omnm
+
 mmmm
+
 aona
+
 13 IS 12
+
 nana
+
 oono
+
 mmmm
+
 noon
+
 nono
+
 ommm
 
 --- PAGE 113 ---
@@ -31659,6 +31769,7 @@ Equation 4.1
 --- PAGE 161 ---
 [OCR: may contain recognition errors]
 [ Team LiB ]
+
 PREVIOUS NEXT
 
 --- PAGE 162 ---
@@ -32607,13 +32718,21 @@ Equation 4.12
 --- PAGE 189 ---
 [OCR: may contain recognition errors]
 (a) I-shift
+
 (b) 2-shift
+
 (c) 3•shift
+
 (d) 4-shift
+
 (e) 5-shift
+
 (g) 7-shift
+
 [ Team LiB
+
 (f) 6-shift
+
 NEXT
 
 --- PAGE 190 ---
@@ -37145,6 +37264,7 @@ where these */
 --- PAGE 285 ---
 [OCR: may contain recognition errors]
 FRE'dlous
+
 NEXT
 
 --- PAGE 286 ---
@@ -43616,7 +43736,9 @@ communication step on line 16 is Q(n). Thus, the parallel run time of this algor
 --- PAGE 427 ---
 [OCR: may contain recognition errors]
 Tp +
+
 r Team LiB I
+
 NEXT
 
 --- PAGE 428 ---
@@ -44438,6 +44560,7 @@ algorithm is identical to that of Prim's minimum spanning tree algorithm.
 --- PAGE 448 ---
 [OCR: may contain recognition errors]
 [ Team LiB
+
 NEXT
 
 --- PAGE 449 ---
@@ -46089,52 +46212,99 @@ limitation.
 --- PAGE 491 ---
 [OCR: may contain recognition errors]
 nno
+
 (a)
+
 noo
+
 neo
+
 ano
+
 (b)
+
 Blank Tite
+
 The last tile moved
+
 neo
+
 46 s
+
 step
+
 OOE
+
 4 86
+
 r Team LiB I
+
 Step I
+
 nan
+
 nan
+
 426
+
 neo
+
 non
+
 Step 2 //
+
 Step I
+
 nnn
+
 a 46
+
 non
+
 Step 2
+
 aon
+
 Step 3
+
 nnn
+
 ooo
+
 (c)
+
 4 C] 66
+
 noo
+
 neo
+
 non
+
 nan
+
 noo
+
 Step I
+
 nan
+
 Step I
+
 noo
+
 nan
+
 non
+
 nan
+
 Step 4
+
 nan
+
 7
+
 NEXT
 
 --- PAGE 492 ---
@@ -49148,6 +49318,7 @@ computations do not affect the overall scalability of parallel FFT.
 --- PAGE 565 ---
 [OCR: may contain recognition errors]
 [ Team LiB
+
 NEXT
 
 --- PAGE 566 ---
@@ -49470,25 +49641,45 @@ multiple of q, and that p must be a power of 2 that is a multiple of (q - 1). In
 --- PAGE 574 ---
 [OCR: may contain recognition errors]
 45
+
 40
+
 35
+
 30
+
 25
+
 20
+
 15
+
 10
+
 5
+
 [ Team LiB
+
 Binary exchange
+
 2-D transpose
+
 3-D transpose
+
 4000
+
 6000
+
 00
+
 12000
+
 14000
+
 16000
+
 18000
+
 NEXT
 
 --- PAGE 575 ---
@@ -51559,7 +51750,438 @@ computer systems. In Supercomputing '89 Proceedings, 832–841, 1989.
 [ Team LiB ]
 
 ==========================================================================================
-FILE 4/6: Lectures\Lecture 2.pdf
+FILE 4/33: Lectures\Lecture 1.pdf
+TYPE: .pdf
+SIZE: 1352618 bytes
+==========================================================================================
+--- PAGE 1 ---
+Introduction to Parallel and Distributed
+           Computing
+
+
+
+
+   Institute of Computer Science & Information Technology,
+        Faculty of Management & Computer Sciences,
+     The University of Agriculture, Peshawar, Pakistan.
+
+--- PAGE 2 ---
+Computing
+
+Computing is the process to complete a given goal-oriented task
+ by using computer technology
+
+Computing may include the design and development of software
+ and hardware systems for a broad range of applications, often
+ consists  of  structuring, processing and managing  any  kind  of
+ information
+
+
+
+
+
+                                                                                       Dr. Muhammad Asim, ICS/IT, FMCS
+
+--- PAGE 3 ---
+Serial vs Parallel
+
+Parallel (in mathematics) means two lines that never intersect.
+
+
+
+
+
+                                                                                       Dr. Muhammad Asim, ICS/IT, FMCS
+
+--- PAGE 4 ---
+Parallel Computing Systems
+
+Parallel Computing Systems are the simultaneous execution of the
+ single task (split up and adapted) on multiple processors in order
+ to obtain results faster.
+
+The idea is based on the fact that the process of solving a problem
+ usually can be divided into smaller tasks (divide and conquer),
+ which may be carried out simultaneously with some coordination.
+
+
+
+
+
+                                                                                       Dr. Muhammad Asim, ICS/IT, FMCS
+
+--- PAGE 5 ---
+Cont.
+
+Serial Computing                   Parallel Computing
+
+
+
+
+
+                                                                                        Dr. Muhammad Asim, ICS/IT, FMCS
+
+--- PAGE 6 ---
+Cont.
+
+The terms parallel computing architecture sometime used for a computer with more
+ than one processor (few to thousands), available for processing.
+
+The multi-core processors (chips with more than one processor core) are some
+ commercial examples which bring parallel computing to the desktop.
+
+
+
+
+
+                                                                                        Dr. Muhammad Asim, ICS/IT, FMCS
+
+--- PAGE 7 ---
+Multi-Core & Multi-Processor
+
+
+
+
+
+                                                                Dr. Muhammad Asim, ICS/IT, FMCS
+
+--- PAGE 8 ---
+Why use Parallel Computing?
+
+In  the  natural  world, many complex, interrelated  events  are
+ happening at the same time, yet within a temporal sequence.
+ ◦Weather systems (such as  rainfall, temperature changes, wind
+  patterns, and  cloud  formations  occur  concurrently  and  are
+  interconnected)
+ ◦Economic   systems   (numerous   transactions,   investments,
+  productions, and consumption activities occur simultaneously)
+Compared to serial computing, parallel computing is much better
+ suited   for  modeling,  simulating  and  complex   real  world
+ phenomena.
+
+
+
+
+                                                                                       Dr. Muhammad Asim, ICS/IT, FMCS
+
+--- PAGE 9 ---
+Cont.
+
+Save Time & Money
+In theory, throwing more resources at a task will shorten its time to completion, with potential cost savings (Increase Throughput)
+Parallel computers can be built from cheap, commodity components.
+
+Solve Large / More Complex Problems
+Many problems are so large and complex that it is impractical or impossible to solve them using a serial program, especially given
+  limited computer memory.
+ E.g., Web search engines/ databases processing millions of transaction every second.
+
+Concurrency
+A single compute resource can only do one thing at a time.
+Multiple compute resources can do many things simultaneously.
+ E.g., Collaborative networks provide a global venue where people from around the world can meet and conduct work
+  “virtually”.
+
+Take advantage of non-local resources
+Using compute resources on wide area network, or even the internet when local compute resources are scarce or
+  insufficient.
+
+Better use of underlying Parallel Hardware
+Modern computers, even laptops are parallel in architecture with multiple processors/cores.
+Parallel software is specifically intended for parallel hardware with multiple cores, threads, etc.
+In most cases, serial programs run on modern computers ”waste” potential computing power.
+
+
+                                                                                        Dr. Muhammad Asim, ICS/IT, FMCS
+
+--- PAGE 10 ---
+Scope of Parallel Computing
+
+Parallelism finds applications in very diverse application domains for different
+ motivating reasons.
+ ◦These range from improved application performance to cost considerations
+Applications in Engineering and Design:
+ ◦Design of Internal Combustion Engine, Micro and Nano Scale Systems.
+Scientific Applications:
+ ◦characterization of genes and proteins
+ ◦Applications in astrophysics have explored the evolution of galaxies
+ ◦Weather modeling, mineral prospecting, flood prediction, etc.
+Commercial Applications
+ ◦Data mining and analysis for optimizing business and marketing decisions.
+ ◦Large scale servers (mail and web servers) are often implemented using parallel
+  platforms.
+
+
+
+
+                                                                                       Dr. Muhammad Asim, ICS/IT, FMCS
+
+--- PAGE 11 ---
+Limitations
+
+Memory Access Time
+ ◦Shared memory may cause bottlenecks when multiple processors attempt to access data
+   simultaneously.
+  ◦Inconsistent latency between local and remote memory in distributed systems (NUMA
+   effects).
+Communication Cost
+ ◦Processors spend time exchanging data rather than computing.
+ ◦High latency and bandwidth limitations can reduce efficiency, especially in large-scale
+  systems.
+Data and Control Dependency
+  ◦Tasks may depend on results from others, limiting parallel execution.
+ ◦Control dependencies (e.g., conditional branches) reduce opportunities for parallelization.
+
+
+
+
+
+                                                                                        Dr. Muhammad Asim, ICS/IT, FMCS
+
+--- PAGE 12 ---
+Distributed Systems
+
+Distributed system  is  defined  as one  in which hardware or  software
+ components located at networked computers communicate and coordinate
+ their actions only by passing messages.
+This simple definition covers the entire range of systems in which networked
+ computers can usefully be deployed.
+
+
+
+
+
+                                                                                        Dr. Muhammad Asim, ICS/IT, FMCS
+
+--- PAGE 13 ---
+Cont. (Shared vs Distributed Memory)
+
+
+
+
+
+                                                                                        Dr. Muhammad Asim, ICS/IT, FMCS
+
+--- PAGE 14 ---
+Why use Distributed Computing?
+
+Historical Reason: Computing resources that used to operate
+ independently now need to work together.
+  ◦E.g., consider an office that acquired personal workstations for individual use.
+  After a while, there were many workstations in the office building, and the
+  users recognized that it would be desirable to share data and resources
+  among the individual computers.
+Functional Reason: if there is special function hardware or software
+ available over the network, then that functionality does not have to be
+ duplicated on every computer system (or node) that needs to access the
+ special-purpose resource.
+Economical Reason: It may be more cost-effective to have many small
+ computer working together than one large computer of equivalent power.
+
+
+
+                                                                                        Dr. Muhammad Asim, ICS/IT, FMCS
+
+--- PAGE 15 ---
+Cont.
+
+Scalable: Having many units connected to a network is the more flexible
+ configuration; if more resources are needed, another unit can be added in place,
+ rather than bringing the whole system down and replacing it with an upgraded one.
+
+Reliable: A distributed system can be more reliable and available than a centralized
+ system.
+  ◦This is a result of the ability to replicate both data and functionality.
+  ◦E.g., when a given file is copied on two different machines, than even if one machine is
+   unavailable, the file can still be accessed on the other machine.
+
+Few problem in distributed computing
+  ◦E.g., are keeping multiple copies of data consistent, and keeping the clocks on different machines
+   in the system synchronized.
+ ◦A system that provides distributed computing support must address these new issues.
+
+
+                                                                                        Dr. Muhammad Asim, ICS/IT, FMCS
+
+--- PAGE 16 ---
+Differences (Parallel vs Distributed)
+
+Architecture:
+  ◦Parallel computing typically involves a single system with multiple processors or cores
+  working together on a shared memory space to solve a problem.
+  ◦Distributed computing involves multiple independent systems (nodes) connected via a
+  network, each with its own memory and processor, working together to solve a problem.
+Communication:
+  ◦In parallel computing, communication between processors occurs via shared memory,
+   allowing for faster communication and synchronization.
+  ◦In distributed computing, communication between nodes occurs over a network, which
+  introduces latency and requires more complex communication protocols.
+Scalability:
+  ◦Parallel computing can be limited by the number of processors or cores available on a
+   single system, making it less scalable compared to distributed computing.
+  ◦Distributed computing can scale more easily by adding more nodes to the network, allowing
+   for potentially unlimited scalability.
+
+
+
+
+                                                                                        Dr. Muhammad Asim, ICS/IT, FMCS
+
+--- PAGE 17 ---
+Cont.
+
+Fault Tolerance:
+  ◦Parallel computing systems may lack built-in fault tolerance features, as they rely on a
+  single system, making them more vulnerable to failures.
+  ◦Distributed computing systems are typically designed with built-in fault tolerance
+  mechanisms since nodes can fail independently.
+Programming Model:
+  ◦Parallel computing often utilizes shared-memory programming models like OpenMP
+  or MPI (Message Passing Interface).
+  ◦Distributed computing commonly employs message-passing models like Hadoop, Spark,
+  or MPI, where communication between nodes is explicit.
+Data Storage:
+  ◦In parallel computing, data storage is centralized and typically shared across all
+  processors or cores.
+  ◦In distributed computing, data storage is distributed across multiple nodes, often
+  employing distributed file systems like HDFS (Hadoop Distributed File System) or cloud
+  storage solutions.
+
+
+
+                                                                                        Dr. Muhammad Asim, ICS/IT, FMCS
+
+--- PAGE 18 ---
+Cont.
+
+Sr.   Parallel Computing                        Distributed Computing
+1    Many operations are performed simultaneously   System components are located at different
+                                                          locations
+2      Single computer is required                   Uses multiple computers
+3     Multiple processors perform multiple operations  Multiple computers perform multiple operations
+4       It may have shared or distributed memory            It have only distributed memory
+5     Processors communicate with each other       Computer communicate with each other
+      through bus                                   through message passing
+6     Improves the system performance              Improve system scalability, fault tolerance and
+                                                    resource sharing capabilities
+
+
+
+
+
+                                                                                        Dr. Muhammad Asim, ICS/IT, FMCS
+
+--- PAGE 19 ---
+Scalability
+
+It  is the property of a system to handle a growing amount of work by adding
+ resources to the system.
+A system is described as scalable if it will remain effective when there is a significant
+ increase in the number of resources and the number of users.
+Scalability of a system can be measured along the following different dimensions:
+
+ 1.Physical/Load Scalability: A system can be scalable with respect to its size, meaning that
+  we can easily add/remove more users and resources to the system.
+ 2.Functional: The ability to enhance the system by adding new functionality without
+   disrupting existing activities.
+ 3.Geographic: The ability to maintain effectiveness during expansion from a local area
+   to a larger area.
+ 4.Generation: The  ability of a system to scale by adopting new generations of
+   components.
+ 5.Heterogeneous: is the ability to adopt components from different vendors
+
+
+
+
+
+                                                                                        Dr. Muhammad Asim, ICS/IT, FMCS
+
+--- PAGE 20 ---
+Horizontal vs Vertical Scaling
+
+Two dimensions of Scaling are Horizontal andVertical Scaling
+
+Scaling Horizontally: (in/out) Means adding more nodes
+ to (or removing nodes from) a system, such as adding a new
+ computer to a distribute software applications.
+  ◦E.g. scaling out (to increase) from one web server to three.
+ ◦Exploiting  this  scalability  requires software  for  efficient
+  resource management and maintenance.
+
+Scaling  Vertically:  (up/down)  mean  adding  more
+ resources to (or removing resources from) a single node,
+ typically involving the addition of CPUs, memory or storage
+ to a single computer.
+
+Larger  number   of   elements   increases  management
+ complexity, more  sophisticated programming  to  allocate
+ tasks among resources and handle issues such as throughput
+ and latency across nodes.
+
+
+                                                                                               Dr. Muhammad Asim, ICS/IT, FMCS
+
+--- PAGE 21 ---
+Speedup and Amdahl’s Law
+
+Amdahl’s law  is a formula which gives the theoretical speedup in latency of the
+ execution of a task at fixed workload that can be expected of a system whose
+ resources are improved (scalability).
+
+It is named after computer scientist Gene Amdahl, and was presented at the AFIPS.
+
+Amdahl’s law  is often used  in  parallel computing to predict the theoretical
+ speedup when using multiple processors.
+
+
+
+
+
+                                                                                        Dr. Muhammad Asim, ICS/IT, FMCS
+
+--- PAGE 22 ---
+What is Amdahl’s Law?
+
+
+
+
+
+      – fraction of code that can be run in parallel
+     n – system resource improvement (number of processors)
+
+      Ideal: ௣→ଵ𝑠𝑝𝑒𝑒𝑑𝑢𝑝lim      = 𝑛
+
+
+
+                                                                                        Dr. Muhammad Asim, ICS/IT, FMCS
+
+--- PAGE 23 ---
+Code example OpenMP
+
+#include <stdio.h>                           The loop is parallelized using OpenMP
+#include <omp.h>                                          pragma #pragma omp parallel for, which
+#define ARRAY_SIZE 1000
+                                                      distributes the loop iterations acrossint main() {
+    int array[ARRAY_SIZE];                              multiple threads.
+    int sum = 0;
+     // Initialize array
+   for (int i = 0; i < ARRAY_SIZE; i++) {
+       array[i] = i + 1;                          The reduction(+:sum) clause is used to
+    }                                           ensure that each thread has its own private
+     // Parallelize the loop to calculate sum                copy of sum, and at the end of the parallel
+   #pragma omp parallel for reduction(+:sum)                                                    region, all private copies are combined into
+   for (int i = 0; i < ARRAY_SIZE; i++) {
+                                                 a single global sum.    sum += array[i];
+    }
+   printf("Sum: %d\n", sum);
+   return 0;
+ }
+
+
+                                                                                        Dr. Muhammad Asim, ICS/IT, FMCS
+
+==========================================================================================
+FILE 5/33: Lectures\Lecture 2.pdf
 TYPE: .pdf
 SIZE: 2277253 bytes
 ==========================================================================================
@@ -52522,7 +53144,7 @@ Message transmission time = l + n / b
                                                                                 Dr. Muhammad Asim, ICS/IT, FMCS
 
 ==========================================================================================
-FILE 5/6: Lectures\Lecture 3.pdf
+FILE 6/33: Lectures\Lecture 3.pdf
 TYPE: .pdf
 SIZE: 1470505 bytes
 ==========================================================================================
@@ -53063,187 +53685,453 @@ Send and Receive Protocols
                                                                                         Dr. Muhammad Asim, ICS/IT, FMCS                        31
 
 ==========================================================================================
-FILE 6/6: Lectures\Lecture1.pdf
+FILE 7/33: Lectures\Lecture 4.pdf
 TYPE: .pdf
-SIZE: 1352618 bytes
+SIZE: 1415749 bytes
 ==========================================================================================
 --- PAGE 1 ---
-Introduction to Parallel and Distributed
-           Computing
+Lecture 4
+
+
+           Software Architecture - DSM
 
 
 
-
-   Institute of Computer Science & Information Technology,
-        Faculty of Management & Computer Sciences,
-     The University of Agriculture, Peshawar, Pakistan.
+Institute of Computer Science and Information Technology,
+       The University of Agriculture, Peshawar.
 
 --- PAGE 2 ---
-Computing
+Cache
 
-Computing is the process to complete a given goal-oriented task
- by using computer technology
+   Small amount of fast memory
 
-Computing may include the design and development of software
- and hardware systems for a broad range of applications, often
- consists  of  structuring, processing and managing  any  kind  of
- information
+   Sits between normal main memory and
+   CPU
 
+  May be located on CPU chip or module
 
 
 
 
-                                                                                       Dr. Muhammad Asim, ICS/IT, FMCS
+
+                                                                                                     2
+Dr. Muhammad Asim, ICS/IT, FMCS
 
 --- PAGE 3 ---
-Serial vs Parallel
-
-Parallel (in mathematics) means two lines that never intersect.
+Cache and Main Memory
 
 
 
 
 
-                                                                                       Dr. Muhammad Asim, ICS/IT, FMCS
+                                                                                                     3
+Dr. Muhammad Asim, ICS/IT, FMCS
 
 --- PAGE 4 ---
-Parallel Computing Systems
-
-Parallel Computing Systems are the simultaneous execution of the
- single task (split up and adapted) on multiple processors in order
- to obtain results faster.
-
-The idea is based on the fact that the process of solving a problem
- usually can be divided into smaller tasks (divide and conquer),
- which may be carried out simultaneously with some coordination.
+Cache/Main Memory Structure
 
 
 
 
 
-                                                                                       Dr. Muhammad Asim, ICS/IT, FMCS
+                                                                                                     4
+Dr. Muhammad Asim, ICS/IT, FMCS
 
 --- PAGE 5 ---
-Cont.
+Cache operation – overview
 
-Serial Computing                   Parallel Computing
+CPU requests contents of memory location
+
+Check cache for this data
+ If present, get from cache (fast)
+ If not present, read required block from main
+  memory to cache
+Then deliver from cache to CPU
+Cache includes tags to identify which block of
+  main memory is in each cache slot
 
 
 
-
-
-                                                                                        Dr. Muhammad Asim, ICS/IT, FMCS
+                                                                                                     5
+Dr. Muhammad Asim, ICS/IT, FMCS
 
 --- PAGE 6 ---
-Cont.
+Cache Addressing
 
-The terms parallel computing architecture sometime used for a computer with more
- than one processor (few to thousands), available for processing.
+Where does cache sit?
+   ◦Between processor and virtual Memory Management Unit (MMU)
+   ◦Between MMU and main memory
 
-The multi-core processors (chips with more than one processor core) are some
- commercial examples which bring parallel computing to the desktop.
+ Logical cache (virtual cache) stores data using virtual
+   addresses
+   ◦Processor accesses cache directly, not through physical cache
+   ◦Cache access faster, before MMU address translation
+   ◦Virtual addresses use same address space for different applications
+     Must flush cache on each context switch
+
+ Physical cache stores data using main memory physical
+   addresses
 
 
-
-
-
-                                                                                        Dr. Muhammad Asim, ICS/IT, FMCS
+                                                                                                     6
+Dr. Muhammad Asim, ICS/IT, FMCS
 
 --- PAGE 7 ---
-Multi-Core & Multi-Processor
-
-
-
-
-
-                                                                Dr. Muhammad Asim, ICS/IT, FMCS
+7
+Dr. Muhammad Asim, ICS/IT, FMCS
 
 --- PAGE 8 ---
-Why use Parallel Computing?
-
-In  the  natural  world, many complex, interrelated  events  are
- happening at the same time, yet within a temporal sequence.
- ◦Weather systems (such as  rainfall, temperature changes, wind
-  patterns, and  cloud  formations  occur  concurrently  and  are
-  interconnected)
- ◦Economic   systems   (numerous   transactions,   investments,
-  productions, and consumption activities occur simultaneously)
-Compared to serial computing, parallel computing is much better
- suited   for  modeling,  simulating  and  complex   real  world
- phenomena.
+Virtual Memory
 
 
+Virtual memory is a facility that allows programs to address memory from a
+   logical point of view, without regard to the amount of main memory physically
+   available.
 
 
-                                                                                       Dr. Muhammad Asim, ICS/IT, FMCS
+When  virtual memory  is used, the address  fields of machine instructions
+   contain virtual addresses.
+
+
+For reads to and writes from main memory, a hardware memory management
+   unit (MMU) translates each virtual address into a physical address in main
+  memory.
+
+
+When virtual addresses are used, the system designer may choose to place the
+   cache between the processor and the MMU or between the MMU and main
+  memory.
+
+
+
+
+
+                                                                       Dr. Muhammad Asim, ICS/IT, FMCS           8
 
 --- PAGE 9 ---
-Cont.
+Distributed Shared Memory
 
-Save Time & Money
-In theory, throwing more resources at a task will shorten its time to completion, with potential cost savings (Increase Throughput)
-Parallel computers can be built from cheap, commodity components.
-
-Solve Large / More Complex Problems
-Many problems are so large and complex that it is impractical or impossible to solve them using a serial program, especially given
-  limited computer memory.
- E.g., Web search engines/ databases processing millions of transaction every second.
-
-Concurrency
-A single compute resource can only do one thing at a time.
-Multiple compute resources can do many things simultaneously.
- E.g., Collaborative networks provide a global venue where people from around the world can meet and conduct work
-  “virtually”.
-
-Take advantage of non-local resources
-Using compute resources on wide area network, or even the internet when local compute resources are scarce or
-  insufficient.
-
-Better use of underlying Parallel Hardware
-Modern computers, even laptops are parallel in architecture with multiple processors/cores.
-Parallel software is specifically intended for parallel hardware with multiple cores, threads, etc.
-In most cases, serial programs run on modern computers ”waste” potential computing power.
+ Distributed  Shared Memory  (DSM)   is  a  form  of memory
+   architecture  where   physically  separated  memories  can  be
+   addressed as one logically shared addressed pace.
 
 
-                                                                                        Dr. Muhammad Asim, ICS/IT, FMCS
+As the word “Distributed” is attached with the term “Shared” so it
+   does not mean that there is a single centralized memory, but that
+   the address space is “shared”.
+
+
+ In DSM, data is accessed from a shared address space similar to
+   the way that virtual memory is accessed.
+
+
+ Information moves between main memory and secondary memory
+   (with in a node) and between main recollections of various nodes.
+
+
+
+
+                                                                                                     9Dr. Muhammad Asim, ICS/IT, FMCS
 
 --- PAGE 10 ---
-Scope of Parallel Computing
+DSM (1)
+DSM  system  implements  the  share memory
+  model  on  a  physically  distributed  memory
+  system.
 
-Parallelism finds applications in very diverse application domains for different
- motivating reasons.
- ◦These range from improved application performance to cost considerations
-Applications in Engineering and Design:
- ◦Design of Internal Combustion Engine, Micro and Nano Scale Systems.
-Scientific Applications:
- ◦characterization of genes and proteins
- ◦Applications in astrophysics have explored the evolution of galaxies
- ◦Weather modeling, mineral prospecting, flood prediction, etc.
-Commercial Applications
- ◦Data mining and analysis for optimizing business and marketing decisions.
- ◦Large scale servers (mail and web servers) are often implemented using parallel
-  platforms.
+A shared virtual address space is maintained such
+  that the same virtual address across processors
+  refers to the same  logical  data, regardless of
+  where that data is physically stored.
 
+When implemented in the OS, such systems are
+  transparent  to  the  developer;  whereas  the
+  underlying  distributed memory  is  completely
+  hidden from the users.
 
 
 
-                                                                                       Dr. Muhammad Asim, ICS/IT, FMCS
+                                                                                                     10Dr. Muhammad Asim, ICS/IT, FMCS
 
 --- PAGE 11 ---
-Limitations
+DSM(2)
 
-Memory Access Time
- ◦Shared memory may cause bottlenecks when multiple processors attempt to access data
-   simultaneously.
-  ◦Inconsistent latency between local and remote memory in distributed systems (NUMA
-   effects).
-Communication Cost
- ◦Processors spend time exchanging data rather than computing.
- ◦High latency and bandwidth limitations can reduce efficiency, especially in large-scale
-  systems.
-Data and Control Dependency
-  ◦Tasks may depend on results from others, limiting parallel execution.
- ◦Control dependencies (e.g., conditional branches) reduce opportunities for parallelization.
+
+
+
+
+                                                                                                     11Dr. Muhammad Asim, ICS/IT, FMCS
+
+--- PAGE 12 ---
+DSM Overview
+
+• DSM Implementation
+   • Supported in both hardware and software.
+
+• Hardware-Based DSM
+   • On-Chip Memory
+   • Bus-Based Multiprocessors
+   • Ring-Based Multiprocessors
+
+• Software-Based DSM
+   • Implemented at the Operating System (OS) level
+   • Implemented using libraries
+
+
+
+                                                                       Dr. Muhammad Asim, ICS/IT, FMCS           12
+
+--- PAGE 13 ---
+On-Chip Memory
+
+•  The CPU portion of the chip stores data.
+•  The address  lines  are  directly connected  to  the CPU
+  memory, enabling easy access.
+•   It is expensive to implement.
+•   Its construction is complex.
+
+
+
+
+
+                                                                      Dr. Muhammad Asim, ICS/IT, FMCS           13
+
+--- PAGE 14 ---
+Bus-Based Multiprocessors
+In  this  system,  a  multiprocessor  with  caches   is
+  connected to the main memory via a shared bus.
+
+
+Each processor has its own cache.
+
+
+The cache helps reduce network traffic.
+
+
+Prevention  algorithms   are   required   to   avoid
+  simultaneous memory access by multiple CPUs.
+
+
+
+
+
+                                                                       Dr. Muhammad Asim, ICS/IT, FMCS           14
+
+--- PAGE 15 ---
+Ring-Based Multiprocessors
+
+ Ring-Based DSM does not have a global centralized memory.
+ All nodes are connected via a token-passing ring.
+ In Ring-Based DSM, a single address line is divided into a shared
+   area.
+ The single address space  is  split into a private and a shared
+    section.
+ The private section is further divided into regions, allowing each
+   machine to maintain its own stack for unshared data.
+ The shared section is accessible to all nodes.
+
+
+
+
+
+                                                                                                    15Dr. Muhammad Asim, ICS/IT, FMCS
+
+--- PAGE 16 ---
+OS-Implemented DSM
+
+DSM system is implemented at the operating system level.
+
+The DSM system is responsible for managing distributed memory across
+    multiple nodes in the system.
+
+To application developers,  the DSM system appears as a single, unified
+   shared memory space.
+
+ Developers can write their applications using standard shared memory
+   programming paradigms and APIs without needing to explicitly manage
+    distributed memory or communication between nodes.
+
+The DSM system handles the underlying complexities of distributed
+   memory management  transparently, abstracting them away from the
+   developers.
+
+
+
+                                                                                                     16Dr. Muhammad Asim, ICS/IT, FMCS
+
+--- PAGE 17 ---
+Library or Language-Level Software DSM
+
+DSM  system  is  implemented  as  a  library  or  language
+   extension that developers can use in their applications.
+
+ Unlike  OS-implemented  DSM,  software DSM  libraries
+   provide  a  higher-level  interface  for managing  distributed
+  memory.
+
+ Developers need to use specific APIs or language constructs
+   provided by the DSM library to explicitly manage distributed
+  memory and coordinate access between nodes.
+
+ Software DSM libraries often require developers to write
+   their applications in a specific programming paradigm.
+
+
+
+                                                                                                     17Dr. Muhammad Asim, ICS/IT, FMCS
+
+--- PAGE 18 ---
+Software based DSM
+
+
+
+
+
+                                                                                                     18Dr. Muhammad Asim, ICS/IT, FMCS
+
+--- PAGE 19 ---
+Implementing DSM in software
+There are three ways of implementing a software
+  distributed share memory:
+
+ 1.  Page based approach  using  the  system  virtual
+   memory;
+
+
+    1. The DSM system intercepts memory access requests and dynamically
+
+   manages the mapping  of  virtual memory pages to  physical memory
+
+   locations distributed across multiple nodes.
+
+    2. In this scenario, the DSM functionality is deeply integrated in to the
+
+   operating   system’s  memory  management   infrastructure,  allowing
+
+   processes to access shared memory transparently as if it were part of the
+
+   system’s virtual memory.
+
+                                                                                                     19Dr. Muhammad Asim, ICS/IT, FMCS
+
+--- PAGE 20 ---
+Implementation DSM (1)
+
+1.  Shared variable approach using some routines to access
+    shared variables;
+
+   1. DSM functionality is provided by external libraries that developers link with
+   their applications.
+
+   2. These  libraries manage  the  coordination and  synchronization  of shared
+  memory access.
+
+
+2. Object based approach ideally accessing shared data through
+object oriented discipline.
+
+   1. DSM libraries provide support for encapsulating shared data within objects.
+
+   2. DSM  functionality   is  provided  by  libraries  that  offer  object-oriented
+   abstractions for managing shared memory.
+
+
+                                                                       Dr. Muhammad Asim, ICS/IT, FMCS           20
+
+--- PAGE 21 ---
+Advantages of DSM
+
+ Scales well with a large number of nodes.
+   ◦Unlimited number  of nodes  can be  used. Unlike  multiprocessor
+      systems where main memory  is accessed  via a common bus, thus
+       limiting the size of the multiprocessor system.
+
+
+ Message passing is hidden –
+   ◦Hide data movement and provide a simpler abstraction for sharing
+       data.
+   ◦Programmers don't need to worry about memory transfers between
+     machines like when using the message passing model.
+
+
+ Allows  the  passing  of complex  structures  by  reference,  simplifying
+   algorithm development for distributed applications.
+
+
+ Takes advantage of  "locality of reference" by moving the entire page
+    containing the data referenced rather than just the piece of data.
+                                                                                                     21Dr. Muhammad Asim, ICS/IT, FMCS
+
+--- PAGE 22 ---
+Advantages of DSM (1)
+
+
+Cheaper to build than multiprocessor systems.
+
+Ideas can be implemented using normal hardware and do not require
+   anything complex to connect the shared memory to the processors.
+
+Larger memory sizes are available to programs, by combining all physical
+  memory of all nodes. This large memory will not incur disk latency due
+   to swapping like in traditional distributed systems.
+
+Unlimited number of nodes can be used. Unlike multiprocessor systems
+  where main memory is accessed via a common bus, thus limiting the size
+   of the multiprocessor system.
+
+Programs written for shared memory multiprocessors can be run on
+  DSM systems,
+
+
+
+
+
+                                                                        Dr. Muhammad Asim, ICS/IT, FMCS           22
+
+--- PAGE 23 ---
+Disadvantage of DSM
+
+Few disadvantage of DSM are given below:
+
+1.   Generally slower to access than non-distributed share memory.
+
+2.   Must provide additional protection against simultaneous accesses to
+     shared data.
+
+3.   May incur a performance penalty.
+
+4.    Little programmer control over actual messages being generated.
+
+5.   Programmers need to understand consistency model, to write correct
+    programs
+
+6.  DSM implementation uses asynchronous message passing and hence
+    cannot be more efficient than message passing implementations.
+
+
+
+
+                                                                                                    23Dr. Muhammad Asim, ICS/IT, FMCS
+
+==========================================================================================
+FILE 8/33: Lectures\lecture 5.pdf
+TYPE: .pdf
+SIZE: 1816205 bytes
+==========================================================================================
+--- PAGE 1 ---
+Lecture 5
+
+
+Distributed Memory Programming with MPI
+
+
+
+        Institute of Computer Science & Information Technology,
+             Faculty of Management & Computer Sciences,
+         The University of Agriculture, Peshawar, Pakistan.
+
+--- PAGE 2 ---
+A distributed memory system
 
 
 
@@ -53251,14 +54139,179 @@ Limitations
 
                                                                                         Dr. Muhammad Asim, ICS/IT, FMCS
 
---- PAGE 12 ---
-Distributed Systems
+--- PAGE 3 ---
+A shared memory system
 
-Distributed system  is  defined  as one  in which hardware or  software
- components located at networked computers communicate and coordinate
- their actions only by passing messages.
-This simple definition covers the entire range of systems in which networked
- computers can usefully be deployed.
+
+
+
+
+                                                                                        Dr. Muhammad Asim, ICS/IT, FMCS
+
+--- PAGE 4 ---
+Message Passing Interface
+
+Programming Using the Message Passing Paradigm
+   ◦Oldest and most widely used approach for distributed
+     programming.
+  ◦The  logical view of a machine supporting the message
+     passing paradigm consists of p processes, each with its own
+     exclusive address space.
+  ◦Most  of  the  communication   is  done  using  simple
+     send/receive message passing.
+
+ Characteristics
+   ◦Provides high scalability
+  ◦Complex to program
+  ◦High communication costs
+
+
+
+                                                                                                                       4Dr. Muhammad Asim, ICS/IT, FMCS
+
+--- PAGE 5 ---
+Principles of Message-Passing Programming
+
+Key Attributes:
+   ◦Assumes partitioned address space.
+   ◦Supports only explicit parallelization.
+ Partitioned Address Space:
+   ◦Each process has exclusive address space.
+   ◦Data must be explicitly partitioned and placed.
+   ◦Encourages locality of access.
+   ◦Requires cooperation for interactions between processes.
+ Explicit Two-Way Interactions:
+   ◦Adds complexity but makes programmers aware of costs.
+   ◦Encourages algorithms minimizing interactions.
+    ◦Efficiently implemented on various architectures.
+ Explicit Parallelization:
+   ◦Programmer responsible for identifying parallelism.
+   ◦Hard and intellectually demanding but can achieve high performance.
+
+                                                                                                                       5Dr. Muhammad Asim, ICS/IT, FMCS
+
+--- PAGE 6 ---
+Structure of Message-Passing Programs
+
+ Programming Paradigms:
+ Asynchronous:
+   ◦Tasks execute independently.
+   ◦Harder to reason about, prone to non-deterministic behavior.
+ Loosely Synchronous:
+   ◦Tasks synchronize for interactions.
+    ◦Still easy to reason about, allows asynchronous execution.
+
+
+ Single Program Multiple Data (SPMD) Approach:
+   ◦Most common in message-passing programming.
+   ◦Each process executes identical code.
+   ◦Offers flexibility while maintaining scalability.
+  ◦Can be loosely synchronous or completely asynchronous.
+
+
+
+
+                                                                                                                       6Dr. Muhammad Asim, ICS/IT, FMCS
+
+--- PAGE 7 ---
+Message Passing Interface (MPI)
+
+MPI defines a standard library for message-passing that can be used to develop portable
+   message passing programs.
+The MPI standard defines both the syntax as well as the semantics of a core set of
+   library routines.
+ It is possible to write fully-functional message-passing programs by using only the six
+   routines.
+
+
+
+
+
+                                                                                                                  Dr. Muhammad Asim, ICS/IT, FMCS
+
+--- PAGE 8 ---
+Identifying MPI processes
+
+Common practice to identify processes by nonnegative
+  integer ranks.
+
+p processes are numbered 0, 1, 2, .. p-1
+
+
+
+
+
+                                                                                        Dr. Muhammad Asim, ICS/IT, FMCS
+
+--- PAGE 9 ---
+Starting and Terminating the MPI Library
+ MPI_Init is called prior to any calls to other MPI routines. Its
+   purpose is to initialize the MPI environment.
+ MPI_Finalize is called at the end of the computation, and it
+   performs  various  clean-up  tasks  to  terminate  the MPI
+   environment.
+The prototypes of these two functions are:
+    int MPI_Init(int*argc, char ***argv)
+    int MPI_Finalize()
+ MPI_Init  also  strips  off  any MPI  related  command-line
+   arguments.
+ •All MPI routines, data-types, and constants are prefixed by
+   “MPI_”. The  return code  for  successful  completion  is
+  MPI_SUCCESS.
+
+
+
+                                                                                                                      9Dr. Muhammad Asim, ICS/IT, FMCS
+
+--- PAGE 10 ---
+Communicators
+
+A communicator defines a communication domain
+  ◦a set of processes that can communicate with each other.
+ Information  about  communication  domains   is
+  stored in variables of type MPI_Comm.
+Communicators  are  used  as  arguments  to   all
+  message transfer MPI routines.
+A process can belong to many different (possibly
+  overlapping) communication domains.
+MPI   defines   a   default  communicator   called
+  MPI_COMM_WORLD  which  includes   all  the
+  processes.
+
+
+
+
+                                                                                                                     10Dr. Muhammad Asim, ICS/IT, FMCS
+
+--- PAGE 11 ---
+Querying Information
+
+
+The MPI_Comm_sizeand MPI_Comm_rankfunctions  are
+   used to determine the number of processes and the label
+   of the calling process, respectively.
+
+The calling sequences of these routines are as follows:
+       int MPI_Comm_size(MPI_Commcomm, int*size)
+       int MPI_Comm_rank(MPI_Commcomm, int*rank)
+
+The rank of a process is an integer that ranges from zero
+  up to the size of the communicator minus one.
+
+
+
+
+
+                                                                                                                      11Dr. Muhammad Asim, ICS/IT, FMCS
+
+--- PAGE 12 ---
+Hello World!
+
+
+
+
+
+         (a classic)
 
 
 
@@ -53267,73 +54320,70 @@ Distributed Systems
                                                                                         Dr. Muhammad Asim, ICS/IT, FMCS
 
 --- PAGE 13 ---
-Cont. (Shared vs Distributed Memory)
+Our first MPI program
 
 
 
 
 
-                                                                                        Dr. Muhammad Asim, ICS/IT, FMCS
+                                                                                                                  Dr. Muhammad Asim, ICS/IT, FMCS
 
 --- PAGE 14 ---
-Why use Distributed Computing?
+Compilation
 
-Historical Reason: Computing resources that used to operate
- independently now need to work together.
-  ◦E.g., consider an office that acquired personal workstations for individual use.
-  After a while, there were many workstations in the office building, and the
-  users recognized that it would be desirable to share data and resources
-  among the individual computers.
-Functional Reason: if there is special function hardware or software
- available over the network, then that functionality does not have to be
- duplicated on every computer system (or node) that needs to access the
- special-purpose resource.
-Economical Reason: It may be more cost-effective to have many small
- computer working together than one large computer of equivalent power.
+
+      wrapper script to compile
+                                                      source file
+mpicc -g -Wall -o mpi_hello mpi_hello.c
+
+  produce
+  debugging                   create this executable file name
+  information                  (as opposed to default a.out)
+
+
+              turns on all warnings
+
+
 
 
 
                                                                                         Dr. Muhammad Asim, ICS/IT, FMCS
 
 --- PAGE 15 ---
-Cont.
-
-Scalable: Having many units connected to a network is the more flexible
- configuration; if more resources are needed, another unit can be added in place,
- rather than bringing the whole system down and replacing it with an upgraded one.
-
-Reliable: A distributed system can be more reliable and available than a centralized
- system.
-  ◦This is a result of the ability to replicate both data and functionality.
-  ◦E.g., when a given file is copied on two different machines, than even if one machine is
-   unavailable, the file can still be accessed on the other machine.
-
-Few problem in distributed computing
-  ◦E.g., are keeping multiple copies of data consistent, and keeping the clocks on different machines
-   in the system synchronized.
- ◦A system that provides distributed computing support must address these new issues.
+Execution
 
 
-                                                                                        Dr. Muhammad Asim, ICS/IT, FMCS
+mpiexec -n <number of processes>  <executable>
+
+
+          mpiexec -n 1 ./mpi_hello
+
+                                     run with 1 process
+
+  mpiexec -n 4 ./mpi_hello
+
+                          run with 4 processes
+
+
+
+
+
+                                                                                         Dr. Muhammad Asim, ICS/IT, FMCS
 
 --- PAGE 16 ---
-Differences (Parallel vs Distributed)
+Execution
 
-Architecture:
-  ◦Parallel computing typically involves a single system with multiple processors or cores
-  working together on a shared memory space to solve a problem.
-  ◦Distributed computing involves multiple independent systems (nodes) connected via a
-  network, each with its own memory and processor, working together to solve a problem.
-Communication:
-  ◦In parallel computing, communication between processors occurs via shared memory,
-   allowing for faster communication and synchronization.
-  ◦In distributed computing, communication between nodes occurs over a network, which
-  introduces latency and requires more complex communication protocols.
-Scalability:
-  ◦Parallel computing can be limited by the number of processors or cores available on a
-   single system, making it less scalable compared to distributed computing.
-  ◦Distributed computing can scale more easily by adding more nodes to the network, allowing
-   for potentially unlimited scalability.
+     mpiexec -n 1 ./mpi_hello
+
+         Greetings from process 0 of 1 !
+
+
+     mpiexec -n 4 ./mpi_hello
+
+         Greetings from process 0 of 4 !
+         Greetings from process 1 of 4 !
+         Greetings from process 2 of 4 !
+         Greetings from process 3 of 4 !
 
 
 
@@ -53341,42 +54391,34 @@ Differences (Parallel vs Distributed)
                                                                                         Dr. Muhammad Asim, ICS/IT, FMCS
 
 --- PAGE 17 ---
-Cont.
+MPI Programs
 
-Fault Tolerance:
-  ◦Parallel computing systems may lack built-in fault tolerance features, as they rely on a
-  single system, making them more vulnerable to failures.
-  ◦Distributed computing systems are typically designed with built-in fault tolerance
-  mechanisms since nodes can fail independently.
-Programming Model:
-  ◦Parallel computing often utilizes shared-memory programming models like OpenMP
-  or MPI (Message Passing Interface).
-  ◦Distributed computing commonly employs message-passing models like Hadoop, Spark,
-  or MPI, where communication between nodes is explicit.
-Data Storage:
-  ◦In parallel computing, data storage is centralized and typically shared across all
-  processors or cores.
-  ◦In distributed computing, data storage is distributed across multiple nodes, often
-  employing distributed file systems like HDFS (Hadoop Distributed File System) or cloud
-  storage solutions.
+Written in C.
+  ◦Has main.
+  ◦Uses stdio.h, string.h, etc.
+Need to add mpi.h header file.
+ Identifiers defined by MPI start with “MPI_”.
+First letter following underscore is uppercase.
+  ◦For function names and MPI-defined types.
+  ◦Helps to avoid confusion.
+
+
 
 
 
                                                                                         Dr. Muhammad Asim, ICS/IT, FMCS
 
 --- PAGE 18 ---
-Cont.
+MPI Components
 
-Sr.   Parallel Computing                        Distributed Computing
-1    Many operations are performed simultaneously   System components are located at different
-                                                          locations
-2      Single computer is required                   Uses multiple computers
-3     Multiple processors perform multiple operations  Multiple computers perform multiple operations
-4       It may have shared or distributed memory            It have only distributed memory
-5     Processors communicate with each other       Computer communicate with each other
-      through bus                                   through message passing
-6     Improves the system performance              Improve system scalability, fault tolerance and
-                                                    resource sharing capabilities
+MPI_Init
+   ◦Tells MPI to do all the necessary setup.
+
+
+
+MPI_Finalize
+   ◦Tells MPI we’re done, so clean up anything allocated for this
+    program.
 
 
 
@@ -53385,23 +54427,7 @@ Sr.   Parallel Computing                        Distributed Computing
                                                                                         Dr. Muhammad Asim, ICS/IT, FMCS
 
 --- PAGE 19 ---
-Scalability
-
-It  is the property of a system to handle a growing amount of work by adding
- resources to the system.
-A system is described as scalable if it will remain effective when there is a significant
- increase in the number of resources and the number of users.
-Scalability of a system can be measured along the following different dimensions:
-
- 1.Physical/Load Scalability: A system can be scalable with respect to its size, meaning that
-  we can easily add/remove more users and resources to the system.
- 2.Functional: The ability to enhance the system by adding new functionality without
-   disrupting existing activities.
- 3.Geographic: The ability to maintain effectiveness during expansion from a local area
-   to a larger area.
- 4.Generation: The  ability of a system to scale by adopting new generations of
-   components.
- 5.Heterogeneous: is the ability to adopt components from different vendors
+Basic Outline
 
 
 
@@ -53410,41 +54436,35 @@ Scalability
                                                                                         Dr. Muhammad Asim, ICS/IT, FMCS
 
 --- PAGE 20 ---
-Horizontal vs Vertical Scaling
+Communicators
 
-Two dimensions of Scaling are Horizontal andVertical Scaling
+A collection of processes that can send messages to
+  each other.
+MPI_Init defines a communicator that consists of all
+  the processes created when the program is started.
 
-Scaling Horizontally: (in/out) Means adding more nodes
- to (or removing nodes from) a system, such as adding a new
- computer to a distribute software applications.
-  ◦E.g. scaling out (to increase) from one web server to three.
- ◦Exploiting  this  scalability  requires software  for  efficient
-  resource management and maintenance.
-
-Scaling  Vertically:  (up/down)  mean  adding  more
- resources to (or removing resources from) a single node,
- typically involving the addition of CPUs, memory or storage
- to a single computer.
-
-Larger  number   of   elements   increases  management
- complexity, more  sophisticated programming  to  allocate
- tasks among resources and handle issues such as throughput
- and latency across nodes.
+Called MPI_COMM_WORLD.
 
 
-                                                                                               Dr. Muhammad Asim, ICS/IT, FMCS
+
+
+
+                                                                                        Dr. Muhammad Asim, ICS/IT, FMCS
 
 --- PAGE 21 ---
-Speedup and Amdahl’s Law
+Communicators
 
-Amdahl’s law  is a formula which gives the theoretical speedup in latency of the
- execution of a task at fixed workload that can be expected of a system whose
- resources are improved (scalability).
 
-It is named after computer scientist Gene Amdahl, and was presented at the AFIPS.
 
-Amdahl’s law  is often used  in  parallel computing to predict the theoretical
- speedup when using multiple processors.
+
+      number  of processes in the communicator
+
+
+
+
+
+            my rank
+                  (the process making this call)
 
 
 
@@ -53453,51 +54473,624 @@ Speedup and Amdahl’s Law
                                                                                         Dr. Muhammad Asim, ICS/IT, FMCS
 
 --- PAGE 22 ---
-What is Amdahl’s Law?
+Hello World Program
 
-
-
-
-
-      – fraction of code that can be run in parallel
-     n – system resource improvement (number of processors)
-
-      Ideal: ௣→ଵ𝑠𝑝𝑒𝑒𝑑𝑢𝑝lim      = 𝑛
-
+1. #include <mpi.h>
+2. main(int argc, char *argv[])
+3. {
+4.     int np, myrank;
+5.     MPI_Init(&argc, &argv);
+6.     MPI_Comm_size(MPI_COMM_WORLD, &np);
+7.     MPI_Comm_rank(MPI_COMM_WORLD, &myrank);
+8.     printf("From process %d out of %d,
+   HelloWorld!\n",myrank, np);
+9.     MPI_Finalize();
+10. }
 
 
                                                                                         Dr. Muhammad Asim, ICS/IT, FMCS
 
 --- PAGE 23 ---
-Code example OpenMP
+Communication
 
-#include <stdio.h>                           The loop is parallelized using OpenMP
-#include <omp.h>                                          pragma #pragma omp parallel for, which
-#define ARRAY_SIZE 1000
-                                                      distributes the loop iterations acrossint main() {
-    int array[ARRAY_SIZE];                              multiple threads.
-    int sum = 0;
-     // Initialize array
-   for (int i = 0; i < ARRAY_SIZE; i++) {
-       array[i] = i + 1;                          The reduction(+:sum) clause is used to
-    }                                           ensure that each thread has its own private
-     // Parallelize the loop to calculate sum                copy of sum, and at the end of the parallel
-   #pragma omp parallel for reduction(+:sum)                                                    region, all private copies are combined into
-   for (int i = 0; i < ARRAY_SIZE; i++) {
-                                                 a single global sum.    sum += array[i];
-    }
-   printf("Sum: %d\n", sum);
-   return 0;
- }
+
+
 
 
                                                                                         Dr. Muhammad Asim, ICS/IT, FMCS
+
+--- PAGE 24 ---
+Data types
+
+
+
+
+
+                                                                                                        Dr. Muhammad Asim, ICS/IT, FMCS
+
+--- PAGE 25 ---
+Communication
+
+
+
+
+
+                                                                                        Dr. Muhammad Asim, ICS/IT, FMCS
+
+--- PAGE 26 ---
+Message matching
+
+
+
+                                                         r
+                   MPI_Send
+                          src = q
+
+
+                                            MPI_Recv
+                                                     dest = r
+
+
+
+
+                                        q
+
+
+
+
+                                                                                        Dr. Muhammad Asim, ICS/IT, FMCS
+
+--- PAGE 27 ---
+Receiving messages
+
+A receiver can get a message without knowing:
+  ◦the amount of data in the message (pre-size buffer),
+  ◦the sender of the message (MPI_ANY_SOURCE),
+  ◦or the tag of the message (MPI_ANY_TAG).
+
+
+
+
+
+                                                                                        Dr. Muhammad Asim, ICS/IT, FMCS
+
+--- PAGE 28 ---
+status
+
+On the receiving end, the status variable can
+ be used to get information about the MPI_Recv
+  operation.
+The corresponding data structure contains:
+      typedef struct MPI_Status {
+      int MPI_SOURCE;
+      int MPI_TAG;
+      int MPI_ERROR; };
+
+
+
+
+
+                                                                                        Dr. Muhammad Asim, ICS/IT, FMCS
+
+--- PAGE 29 ---
+status_p argument
+
+
+
+
+
+                        MPI_Status*
+
+
+
+                                        MPI_SOURCEMPI_Status* status;
+                                          MPI_TAG
+                                         MPI_ERROR
+status.MPI_SOURCE
+status.MPI_TAG
+
+
+
+
+
+                                                                                     Dr. Muhammad Asim, ICS/IT, FMCS
+
+--- PAGE 30 ---
+How much data am I receiving?
+
+
+
+
+
+                                                                                        Dr. Muhammad Asim, ICS/IT, FMCS
+
+--- PAGE 31 ---
+Round Robin Problem
+
+
+
+
+
+Dr. Muhammad Asim, ICS/IT, FMCS                                                                                          31
+
+--- PAGE 32 ---
+[Visually transcribed embedded code image: round-robin-basic.c]
+int
+main (int argc, char **argv)
+{
+  int num_procs;
+  int rank;
+
+  MPI_Init(&argc, &argv);
+  MPI_Comm_size(MPI_COMM_WORLD, &num_procs);
+  MPI_Comm_rank(MPI_COMM_WORLD, &rank);
+
+  printf("%d: hello (p=%d)\n", rank, num_procs);
+  round_robin(rank, num_procs);
+  printf("%d: goodbye\n", rank);
+
+  MPI_Finalize();
+}
+
+--- PAGE 33 ---
+33Dr. Muhammad Asim, ICS/IT, FMCS
+
+--- PAGE 34 ---
+34Dr. Muhammad Asim, ICS/IT, FMCS
+
+--- PAGE 35 ---
+35Dr. Muhammad Asim, ICS/IT, FMCS
+
+--- PAGE 36 ---
+36Dr. Muhammad Asim, ICS/IT, FMCS
+
+--- PAGE 37 ---
+Issues with send and receive
+
+Exact behavior is determined by the MPI implementation.
+MPI_Send may behave differently with regard to buffer
+   size, cutoffs and blocking.
+MPI_Recv always blocks until a matching message is
+  received.
+Know your implementation;
+  don’t make assumptions!
+
+
+
+
+
+                                                                                        Dr. Muhammad Asim, ICS/IT, FMCS
+
+--- PAGE 38 ---
+Deadlocks (Circular)
+
+Consider the following piece of code, in which process I sends a
+  message to process i + 1 (modulo the number of processes) and
+  receives a message from process i – 1 (modulo the number of
+  processes).
+
+
+
+
+
+• The code is safe if buffering is used but will lead to unsafe state if
+ MPI_SEND is blocking
+
+                                                                                              Dr. Muhammad Asim, ICS/IT, FMCS
+
+--- PAGE 39 ---
+Deadlocks→Solution
+
+We can break the circular wait to avoid deadlocks as follows:
+
+
+
+
+
+                                                                                               Dr. Muhammad Asim, ICS/IT, FMCS
+
+--- PAGE 40 ---
+Explanation
+
+ This new implementation partitions the processes into two groups.
+   ◦odd-numbered processes and
+   ◦the even-numbered processes.
+
+
+The odd-numbered processes perform a send followed by a receive,
+ and the even-numbered processes perform a receive followed by a send.
+
+
+ Thus, when an odd-numbered process calls MPI_Send, the target process (which has an
+   even number) will call MPI_Recv to receive that message, before attempting to send its own
+   message.
+
+
+
+
+
+                                                                                        Dr. Muhammad Asim, ICS/IT, FMCS
+
+--- PAGE 41 ---
+Avoiding deadlocks using Simultaneous
+  sendReceive operation
+
+To avoid earlier deadlocks, MPI provides MPI_Sendrecv function
+  ◦It can both send and receive message
+  ◦Does not suffers from the circular deadlock problems
+  ◦One can think MPI_Sendrecv as allowing data to travel for both send and
+    receive simultaneously.
+
+
+
+
+
+                                                                                               Dr. Muhammad Asim, ICS/IT, FMCS
+
+--- PAGE 42 ---
+MPI_Sendrecv_replace function
+  ◦If we wish to use the same buffer for both send and receive
+  ◦First sends value[s] of current buffer and then overwrites them with
+    received ones
+Syntax
+
+
+
+
+
+                                                                                             Dr. Muhammad Asim, ICS/IT, FMCS
+
+==========================================================================================
+FILE 9/33: Mids Past Paper\WhatsApp Image 2026-10-26 at 3.07.56 PM.jpeg
+TYPE: .jpeg
+SIZE: 67366 bytes
+==========================================================================================
+[VISUALLY REVIEWED TEXT — 30 October 2026]
+BS (DS), 6th Semester. Mid-Term Exam (Spring-2026): Parallel & Distributed Computing. Institute of Management Sciences, Peshawar, Pakistan. Time: 90 minutes. Total marks: 30. Stamp appears 13 APR 2026.
+Q1. Explain the principle of locality and discuss its significance in cache memory. [2]
+Q2. Differentiate between parallel and distributed computing. [3]
+Q3. Using Amdahl's law, determine the maximum speed up for a database query where 40 percent of the execution time is spent on data retrieval and 60 percent on aggregation operations parallelizable with 10 processors. [3]
+Q4. Differentiate between NUMA and UMA. [3]
+[Answer spaces blank. Student identity masked in source.]
+[Handwriting normalized for readability. Unclear/cropped items are flagged. Student notes and printed exam wording are preserved as source material, not an independently validated answer key. Mixed-subject content is labelled; refer to original images for exact diagrams and symbols.]
+
+==========================================================================================
+FILE 10/33: Mids Past Paper\WhatsApp Image 2026-10-27 at 3.31.25 PM (1).jpeg
+TYPE: .jpeg
+SIZE: 152129 bytes
+==========================================================================================
+[VISUALLY REVIEWED TEXT — 30 October 2026]
+Page 2 of 3.
+Q5. What are the common challenges in shared memory, and how are they addressed? List them only. [3]
+Q6. What is blocking in message-passing operations? Briefly explain buffered and non-buffered send/receive operations, and discuss which one is more suitable and why. [5]
+Q7. Why are threads considered lightweight and resource-efficient? Additionally, list the standards used for thread models. [3]
+[Answer spaces blank.]
+[Handwriting normalized for readability. Unclear/cropped items are flagged. Student notes and printed exam wording are preserved as source material, not an independently validated answer key. Mixed-subject content is labelled; refer to original images for exact diagrams and symbols.]
+
+==========================================================================================
+FILE 11/33: Mids Past Paper\WhatsApp Image 2026-10-27 at 3.31.25 PM.jpeg
+TYPE: .jpeg
+SIZE: 116813 bytes
+==========================================================================================
+[VISUALLY REVIEWED TEXT — 30 October 2026]
+Duplicate view of page 1 of the Spring-2026 Mid-Term paper. BS(DS), 6th semester. Parallel & Distributed Computing. Time90min,30marks.
+Q1 locality/cache [2]; Q2 parallel vs distributed [3]; Q3 Amdahl query40% data retrieval,60% parallel aggregation,10processors [3]; Q4 NUMA vs UMA [3]. Full wording is transcribed under the 26 October 3.07.56 PM photo.
+[Handwriting normalized for readability. Unclear/cropped items are flagged. Student notes and printed exam wording are preserved as source material, not an independently validated answer key. Mixed-subject content is labelled; refer to original images for exact diagrams and symbols.]
+
+==========================================================================================
+FILE 12/33: Mids Past Paper\WhatsApp Image 2026-10-27 at 3.31.26 PM.jpeg
+TYPE: .jpeg
+SIZE: 128705 bytes
+==========================================================================================
+[VISUALLY REVIEWED TEXT — 30 October 2026]
+Page 3 of 3.
+Q8. Briefly explain any four of the following. [8]
+(a) What factors affect the speed and performance of a computer? List them.
+(b) Virtual Memory.
+(c) Identify the type of Flynn's Classification for the given Figure1 and briefly explain where it is useful.
+Figure1: instruction pool at top with separate arrows to two processing units labelled PU; a data pool at left feeds the first PU; an arrow links first PU to second PU. [Text description of diagram; refer to original for precise arrow routing.]
+(d) Differentiate between Logical Cache and Physical Cache.
+(f) Why are inter-core synchronization and communication essential in SIMD and MISD architectures, but not typically required in SISD and MIMD systems?
+[Source labels last item (f); no item(e) visible. Question wording retained as printed, not corrected.]
+[Handwriting normalized for readability. Unclear/cropped items are flagged. Student notes and printed exam wording are preserved as source material, not an independently validated answer key. Mixed-subject content is labelled; refer to original images for exact diagrams and symbols.]
+
+==========================================================================================
+FILE 13/33: Mids Preparation\parallel.c
+TYPE: .c
+SIZE: 612 bytes
+==========================================================================================
+#include <stdio.h>
+#include <omp.h>
+
+#define ARRAY_SIZE 10000000
+
+int main()
+{
+    static int array[ARRAY_SIZE];   // static allocation to avoid stack overflow
+    long long sum = 0;              // long long to prevent overflow
+
+    // Initialize array
+    for (int i = 0; i < ARRAY_SIZE; i++)
+    {
+        array[i] = i + 1;
+    }
+
+    // Parallel for WITH reduction -> correct and deterministic
+    #pragma omp parallel for //reduction(+:sum)
+    for (int i = 0; i < ARRAY_SIZE; i++)
+    {
+        sum += array[i];
+    }
+
+    printf("Sum with reduction: %lld\n", sum);
+    return 0;
+}
+
+==========================================================================================
+FILE 14/33: Mids Preparation\parallel.exe
+TYPE: .exe
+SIZE: 136757 bytes
+==========================================================================================
+[CONTENT NOT EXTRACTED: binary .exe file; requires its native application or archive reader. No binary data was presented as readable course text.]
+
+==========================================================================================
+FILE 15/33: Notes\Me - WhatsApp Image 2026-10-26 at 8.23.51 PM.jpeg
+TYPE: .jpeg
+SIZE: 144495 bytes
+==========================================================================================
+[VISUALLY REVIEWED TEXT — 30 October 2026]
+18/9/26. Parallel & Distributed Computing. Distributed systems.
+Node: device that can send and receive data in a network. [Diagram: node encloses network/computer.]
+Make a difference between parallel and distributed computing.
+Why use distributed computing? Horizontal and vertical scaling; speedup and Amdahl's law; inherently sequential program; scalability.
+Speedup = [T(1-p)+Tp]/[T(1-p)+Tp/n]. p=fraction of code that can run in parallel; n=number of processors.
+CPU architectures. Low level, high level. Assembly; registers AX,BX,CX,DX; instruction set; mov,add.
+Input -> processor -> output; processor linked to RAM. Von Neumann architecture. IAS architecture, stored-program concept. GHz->2.4; clock cycle. Instruction cycle: fetch,decode,execute. Pipelined architecture. Computers: RISC,CISC.
+[Handwriting normalized for readability. Unclear/cropped items are flagged. Student notes and printed exam wording are preserved as source material, not an independently validated answer key. Mixed-subject content is labelled; refer to original images for exact diagrams and symbols.]
+
+==========================================================================================
+FILE 16/33: Notes\Me - WhatsApp Image 2026-10-26 at 8.24.11 PM.jpeg
+TYPE: .jpeg
+SIZE: 141657 bytes
+==========================================================================================
+[VISUALLY REVIEWED TEXT — 30 October 2026]
+MIXED-SUBJECT SPREAD.
+Left: Accounting Question5c. Assets=Equity+Liabilities. 90000-50000=Liabilities=40000. 117000-72000=Equity=45000. W=ending equity-I+E-R-beginning equity. W=-45000+8000+385000+400000+50000; W=+28000 [some digits/crossings unclear; retained as visible, not validated]. Wednesday30/9/2026 Technical and Business Writing: email writing.
+Right top: SRE Lab,30/9/2026: system archaeology/inspection; study old already-built system; raw requirements from old system -> candidate requirements -> [unclear] -> new requirements.
+PDC Theory,Friday2/10/2026: instruction-level parallelism(ILP). Instruction cycle fetch->decode->execute. RAM/system bus->CU->ALU. Functional units arranged in stages. Multiple issue: superscalar; scalar architecture: instruction/cycle. Pipelining more hardware efficient than scalar architecture. Superscalar can execute more than one instruction with multiple functional units (CU,RAM,ALUs etc.).
+[Handwriting normalized for readability. Unclear/cropped items are flagged. Student notes and printed exam wording are preserved as source material, not an independently validated answer key. Mixed-subject content is labelled; refer to original images for exact diagrams and symbols.]
+
+==========================================================================================
+FILE 17/33: Notes\Me - WhatsApp Image 2026-10-26 at 8.24.12 PM.jpeg
+TYPE: .jpeg
+SIZE: 154326 bytes
+==========================================================================================
+[VISUALLY REVIEWED TEXT — 30 October 2026]
+Dynamic multiple issue -> runtime. Superscalar architecture: pipelining and simultaneous execution at the same time.
+CISC: complex instruction set computer. RISC: reduced [instruction set computer]; ARM: advanced RISC machines; low power e.g.mobile phones. VLIW: very long instruction word.
+Flynn's Taxonomy: classify digital computer architecture by instruction stream and data stream. Four categories SISD,SIMD,MISD,MIMD. SISD: control signals; ADD AX,#05: opcode and operands; processing unit->ALU.
+Right: functional units can execute separately. SIMD: vector multiplication; synchronization between processor cores to ensure same instruction used by all processors. MISD: not generally useful; hypothetical. MIMD: multicore architecture.
+Shared memory system: core i3/i5 onwards; interconnection->buses; CPU connected by system bus to RAM. Address bus.
+UMA: uniform memory access; CPUs share memory uniformly; access time same.
+NUMA: [note associates with distributed systems]. Interconnect->Internet/LAN. [Student notes; conceptual claims not independently corrected.]
+[Handwriting normalized for readability. Unclear/cropped items are flagged. Student notes and printed exam wording are preserved as source material, not an independently validated answer key. Mixed-subject content is labelled; refer to original images for exact diagrams and symbols.]
+
+==========================================================================================
+FILE 18/33: Notes\Me - WhatsApp Image 2026-10-26 at 8.24.18 PM.jpeg
+TYPE: .jpeg
+SIZE: 158326 bytes
+==========================================================================================
+[VISUALLY REVIEWED TEXT — 30 October 2026]
+PDC: In distributed systems two nodes communicate via messages only. Advantages/disadvantages of shared-memory systems. Contention,congestion,locking mechanism. Cache coherence; no control on caches. Snooping cache coherence: cores share a bus. Directory-based cache coherence->cache lines.
+Interconnection network: shared-memory interconnect. Devices on buses proportional to1/performance [as written]. Latency. Bandwidth: bits per second; Hz [as written]. Message transmission time=L+n/b.
+OTHER SUBJECT: Software Requirements Engineering Theory. Reliability: ATM runs all the time without error; wrong balance; unsuccessful operations/total operations x100 [handwriting formula]. Integrity: banking app blocks access to viewing other accounts. Maintainability: bug traced/fixed in function, no side effect elsewhere. Testability: modular code with clear input/output lets you write unit tests easily. Handout4. User requirements->natural language. System/contract requirements. User requirements functional/nonfunctional. System contract requirements: system services and constraints in detail.
+[Handwriting normalized for readability. Unclear/cropped items are flagged. Student notes and printed exam wording are preserved as source material, not an independently validated answer key. Mixed-subject content is labelled; refer to original images for exact diagrams and symbols.]
+
+==========================================================================================
+FILE 19/33: Notes\Me - WhatsApp Image 2026-10-26 at 8.24.36 PM.jpeg
+TYPE: .jpeg
+SIZE: 143412 bytes
+==========================================================================================
+[VISUALLY REVIEWED TEXT — 30 October 2026]
+MIXED-SUBJECT SPREAD.
+Left accounting: journal/accounts; cash record table date,particulars,reference,Dr,Cr,balance. Dates Apr1,Apr4,Apr11,Apr13; amounts visible3500,27000,1500; balances35000,8000,6500 [some entries unclear]. Salaries T-account:Apr11 debit1500; credit1500 circled. Service Revenue:creditApr20 6800; Apr30 8900; balance15700.
+Right: Technical and Business Writing heading/date partly cropped.
+Friday9Oct2026 PDC Lab: sorting algorithm; understand,run,analyze. Parallel attempt; parallel algorithm; speedup; race(error). parallel for,single,sections,critical,lock.
+Friday9Oct2026 PDC Theory: [heading only].
+OTHER SUBJECT Software Architecture Lecture3: education architecture metaphor; attributes in hardware; ERD->components,interfaces,relationship; DFD; program=main-memory resident,passive; process=when fetched to control unit,active thing.
+[Handwriting normalized for readability. Unclear/cropped items are flagged. Student notes and printed exam wording are preserved as source material, not an independently validated answer key. Mixed-subject content is labelled; refer to original images for exact diagrams and symbols.]
+
+==========================================================================================
+FILE 20/33: Notes\Me - WhatsApp Image 2026-10-26 at 8.24.37 PM.jpeg
+TYPE: .jpeg
+SIZE: 175269 bytes
+==========================================================================================
+[VISUALLY REVIEWED TEXT — 30 October 2026]
+Thread: segment of process. Shared-memory programs: CPU/CPU -> interconnect -> RAM; processes access memory through physical address. Distributed: each CPU+memory node; message passing via LAN/network. Process creation allocates memory. Thread diagram T1,T2,T3 mapped toP1/P2.
+Parallel programming models: Single Program Multiple Data(SPMD). Flynn taxonomy is hardware perspective and vice versa: SIMD->SPMD->vector processors; MIMD->MPMD. SoftwareSPMD and hardwareMIMD; multiple instructions can be singled [wording unclear].
+Load balancing; multiple resources/cores must be used efficiently. Communication < single task done [as written].
+Process and Thread: process=program in execution; thread=segment of process. Stack/context switching: next instruction; registersAX,BX,CX,etc. Multithreading->thread-level parallelism.
+Shared memory: dynamic threads,master/slave; static threads,pool created at first; performance and idling.
+Process/message passing. Linux/Unix:multiple tasks by multiple users. Windows:single-user operating system [as written]. Oldest/most widely used approaches.
+[Handwriting normalized for readability. Unclear/cropped items are flagged. Student notes and printed exam wording are preserved as source material, not an independently validated answer key. Mixed-subject content is labelled; refer to original images for exact diagrams and symbols.]
+
+==========================================================================================
+FILE 21/33: Notes\Me - WhatsApp Image 2026-10-26 at 8.24.38 PM.jpeg
+TYPE: .jpeg
+SIZE: 154946 bytes
+==========================================================================================
+[VISUALLY REVIEWED TEXT — 30 October 2026]
+Partitioned address space; explicit communication (sender and receiver known). Diagram N1 CPU+memory -> message passing/LAN -> N2 CPU+memory. P1 send; P2 receive. Each process has own address space. Variables declared in main memory; names used to fetch values rather than addresses.
+Nondeterministic behavior: two processes have competition. Syntax vs semantic. int if; [invalid identifier example]. if(true) stat1; else stat2; semantic->flow; float stat2 [fragment unclear].
+Structure of message-passing programs: asynchronous=no coordination; loosely synchronous=synchronized to a point first then independent task execution.
+Message passing types:
+1.Blocking vs nonblocking: blocking waits for acknowledgment then resumes execution; nonblocking does not care about acknowledgment and proceeds [as student wording].
+2.Buffering vs nonbuffering: message kept in buffer then receiver calls it; nonbuffered directly sends message.
+Blocking buffered message passing: send()->buffer->receive(). Blocking nonbuffered; nonblocking buffered; nonblocking nonbuffered [listed]. Crossed-out line at bottom not recovered.
+[Handwriting normalized for readability. Unclear/cropped items are flagged. Student notes and printed exam wording are preserved as source material, not an independently validated answer key. Mixed-subject content is labelled; refer to original images for exact diagrams and symbols.]
+
+==========================================================================================
+FILE 22/33: Notes\Me - WhatsApp Image 2026-10-26 at 8.24.43 PM.jpeg
+TYPE: .jpeg
+SIZE: 145891 bytes
+==========================================================================================
+[VISUALLY REVIEWED TEXT — 30 October 2026]
+MIXED-SUBJECT SPREAD.
+Left PDC Lab: client-server; single server ->C1,C2,C3; commonly used industry. IP address; port number. Peer-to-peer architecture diagram connecting nodes.
+Computer Networks Lab16Oct2026: straight-through when devices different; crossover when same; point-to-point topology; bus topology inCisco; switches aligned.
+Right PDC Lab16Oct2026: socket=IP+port number. Interprocess communication(IPC). Pipe:parent fd[1] write ->child fd[0] read; index1 write,index0 read. 
+PDC Theory16Oct2026: nondeterministic; blocking nonbuffered message passing; blocking buffered message passing, sender/receiver both have buffer [as written]; nonblocking message-passing operations.
+[Handwriting normalized for readability. Unclear/cropped items are flagged. Student notes and printed exam wording are preserved as source material, not an independently validated answer key. Mixed-subject content is labelled; refer to original images for exact diagrams and symbols.]
+
+==========================================================================================
+FILE 23/33: Notes\Mudassir - WhatsApp Image 2026-10-26 at 8.19.43 PM.jpeg
+TYPE: .jpeg
+SIZE: 127680 bytes
+==========================================================================================
+[VISUALLY REVIEWED TEXT — 30 October 2026]
+MIXED SUBJECTS. Left TBW: introduction/body/medium; process of communication:sender,channel/medium,receiver,feedback. Contexts:physical,social,chronological,cultural. Principles:communication unavoidable,operates on two levels,irreversible; fourth blank. Networks:formal/informal. Technical writer(translator):explain complicated concepts in clear,easy-to-understand prose; accessibility.
+Right top SRE:MoSCoW must/should/could have; functional,nonfunctional,domain. Requirement=something user/customer needs from software; finding->understanding.
+PDC:Program=set/steps of instructions. Process=program after execution. Concurrency=multiple processes at a time due to context switching. Note says 'parallel computing:in single core multiple process run' [student wording; do not treat as corrected definition]. Flynn taxonomy:data/instruction relationship; SISD,MISD,SIMD,MIMD. Course objective:program executed on multiple hardware [last wording unclear].
+[Handwriting normalized for readability. Unclear/cropped items are flagged. Student notes and printed exam wording are preserved as source material, not an independently validated answer key. Mixed-subject content is labelled; refer to original images for exact diagrams and symbols.]
+
+==========================================================================================
+FILE 24/33: Notes\Mudassir - WhatsApp Image 2026-10-26 at 8.19.45 PM.jpeg
+TYPE: .jpeg
+SIZE: 127815 bytes
+==========================================================================================
+[VISUALLY REVIEWED TEXT — 30 October 2026]
+MIXED SUBJECTS. Left Computer Network heading. PDC:work,settings,job,input. Computer electronic device takes input->process(CPU)->output. Computing=process to complete given goal-oriented task using computer technology. CPU-memory diagram:control,data,address buses;32/8bit labels;memory32,64bit. Frequency study. Temporal sequence:processes interconnected. Serial program and concurrency headings.
+Right unrelated library UML:LibraryItem(itemID:int,title:string,isBorrowed:bool,dayBorrowed:int); methods getID,getTitle,borrowItem,returnItem,isOverdue,getType,display. Book getType:string; Magazine getType:string; DVD rentalFee:double,getRentalFee,setRentalFee,getType,display. Library contains item list and addItem,findItem,borrowItem,returnItem,viewItems,checkOverdueItems,saveData,loadData. Diagram shows inheritance into LibraryItem and Library aggregation; retain original for exact UML symbols.
+[Handwriting normalized for readability. Unclear/cropped items are flagged. Student notes and printed exam wording are preserved as source material, not an independently validated answer key. Mixed-subject content is labelled; refer to original images for exact diagrams and symbols.]
+
+==========================================================================================
+FILE 25/33: Notes\Mudassir - WhatsApp Image 2026-10-26 at 8.20.20 PM.jpeg
+TYPE: .jpeg
+SIZE: 119842 bytes
+==========================================================================================
+[VISUALLY REVIEWED TEXT — 30 October 2026]
+MIXED SUBJECTS. Left communication:consideration=stepping into shoes of others,emphasize you-approach. Coherent communication:old-first cohesion,new-last cohesion. Python dictionary key-value pair; list ordered/changeable/duplicates; tuple ordered/notchangeable/duplicates; set unordered/changeable/no duplicates.
+Right PDC Amdahl law:code sequential1s and parallel9s(total10s);8cores=N. Speedup=1/[(1-P)+P/N];P=%parallel time/total;9/10=90%. Example=1/[(1-.9)+.9/8]=4.70x. Additional timing arithmetic visible10/4.70≈2.12s,minus1s≈1.12s; bottom12.42s,1.11,12.42/1.11≈11.2x [rough handwritten values, not independently validated].
+[Handwriting normalized for readability. Unclear/cropped items are flagged. Student notes and printed exam wording are preserved as source material, not an independently validated answer key. Mixed-subject content is labelled; refer to original images for exact diagrams and symbols.]
+
+==========================================================================================
+FILE 26/33: Notes\Mudassir - WhatsApp Image 2026-10-26 at 8.20.27 PM.jpeg
+TYPE: .jpeg
+SIZE: 141943 bytes
+==========================================================================================
+[VISUALLY REVIEWED TEXT — 30 October 2026]
+Distributed system:hardware/software components located at networked computers communicate and coordinate actions only by passing messages. Distributed memory different; parallel memory shared/same [as written]. Why distributed computing? Parallel vs distributed:multiple independent networked systems,each own memory/processor; parallel single computing system.
+Scalability=system property to handle growing work by adding resources. Types physical,load,functional,geographic,generation,heterogeneous. Horizontal scaling=increase number of machines; vertical scaling=[word unclear]. Speedup=[T(1-P)+TP]/[T(1-P)+TP/n];T(1-P)sequential.
+Lecture2 CPU architecture:scalar,vector,pipelined,superscalar,VLIW. Low/high-level languages. Assembly directly communicates with hardware.
+[Handwriting normalized for readability. Unclear/cropped items are flagged. Student notes and printed exam wording are preserved as source material, not an independently validated answer key. Mixed-subject content is labelled; refer to original images for exact diagrams and symbols.]
+
+==========================================================================================
+FILE 27/33: Notes\Mudassir - WhatsApp Image 2026-10-26 at 8.20.32 PM.jpeg
+TYPE: .jpeg
+SIZE: 142733 bytes
+==========================================================================================
+[VISUALLY REVIEWED TEXT — 30 October 2026]
+Left PDC:Von Neumann proposed IAS architecture;stored-program concept. Input->processing->output;RAM attached. Scalar architecture:one instruction/clock cycle on single element. Vector:multiple data elements/single instruction. ILP:pipelining,multiple issue. Instruction cycle:fetch(RAM/system bus),decode(CU),execute(ALU). Pipelining benefit:many instruction cycles executed [wording rough].
+Right mixedSRE:CISC,RISC heading;nonfunctional requirements whole-system architecture. Product requirements:usability easy to understand,learn,operate;subjective->objective. Efficiency:performance andspace. Notes relate performance to data/instructions transferred. Reliability:input/output used for business decisions.
+[Handwriting normalized for readability. Unclear/cropped items are flagged. Student notes and printed exam wording are preserved as source material, not an independently validated answer key. Mixed-subject content is labelled; refer to original images for exact diagrams and symbols.]
+
+==========================================================================================
+FILE 28/33: Notes\Mudassir - WhatsApp Image 2026-10-26 at 8.21.26 PM.jpeg
+TYPE: .jpeg
+SIZE: 92493 bytes
+==========================================================================================
+[VISUALLY REVIEWED TEXT — 30 October 2026]
+MIXED SUBJECTS. Left TBW subject lines:Extension on,Proposal submission,Request for. Business memo:document typically used within company. Body,conclusion,closing. Memorandum:heading,purpose,body,conclusion,closing.
+Right SRE:archaeological approach studies system history,derive new requirements/improve existing. Candidate requirements:target/improve existing requirements. Perspective:system use with actual user [unclear sentence];reuse:improve features.
+Bottom PDC:ILP;instruction cycle fetch->decode->execute;RAM->CU->ALU.
+[Handwriting normalized for readability. Unclear/cropped items are flagged. Student notes and printed exam wording are preserved as source material, not an independently validated answer key. Mixed-subject content is labelled; refer to original images for exact diagrams and symbols.]
+
+==========================================================================================
+FILE 29/33: Notes\Mudassir - WhatsApp Image 2026-10-26 at 8.21.43 PM.jpeg
+TYPE: .jpeg
+SIZE: 104062 bytes
+==========================================================================================
+[VISUALLY REVIEWED TEXT — 30 October 2026]
+PDC superscalar:multiple independent instructions per cycle;two-way/four-way;CISC/RISC. A preceding line says single instruction executed at one time [student note, inconsistent with next line]. Static multiple issue;dynamic multiple issue;speculation:future instruction [sentence unclear]. VLIW=multiple operations in one long instruction word. Flynn taxonomy:computer architecture;two information flows into processor:instruction stream,data stream. Four classes SISD,MISD,SIMD,MIMD. SISD less power required. SIMD single instruction multiple data,multiprocessor,different data streams. Shared memory:multiple processes share same RAM. UMA uniform memory access,all processes access RAM same time [as written]. Nonuniform access heading. Distributed memory:physical memory not accessed [incomplete student sentence].
+[Handwriting normalized for readability. Unclear/cropped items are flagged. Student notes and printed exam wording are preserved as source material, not an independently validated answer key. Mixed-subject content is labelled; refer to original images for exact diagrams and symbols.]
+
+==========================================================================================
+FILE 30/33: Notes\Mudassir - WhatsApp Image 2026-10-26 at 8.21.51 PM.jpeg
+TYPE: .jpeg
+SIZE: 102875 bytes
+==========================================================================================
+[VISUALLY REVIEWED TEXT — 30 October 2026]
+MIXED SUBJECTS. Left TBW:formal/informal/action/narrative minutes. Letters:written communication,formal/informal,permanent record,structured,one-way. Functions:information,requests,orders,complaints/claims,business relationships,legal documentation,persuasion,confirmation. Software Architecture ERD/DFD;metaphor analogous software system;fundamental system structure.
+Right PDC:thread=process segment;program passive,process active. Shared memory CPU+CPU->interconnect->memory;physical address. Start single process,fork threads;threads carry out tasks. Distributed memory:multiple processes,each carries tasks;nodeCPU+memory ->message network->nodeCPU+memory.
+Parallel programming models:Flynn=computer architecture. Notes say 'SISD:single executable program runs on multiple processors' [transcribed claim, not corrected]. MPMD:different processes execute multiple different programs. Divide work among processes/threads,each returns results. Load balancing;communication minimized. Multithreading=thread-level parallelism. Stack/context switching/function calls notes.
+[Handwriting normalized for readability. Unclear/cropped items are flagged. Student notes and printed exam wording are preserved as source material, not an independently validated answer key. Mixed-subject content is labelled; refer to original images for exact diagrams and symbols.]
+
+==========================================================================================
+FILE 31/33: Notes\Mudassir - WhatsApp Image 2026-10-26 at 8.21.56 PM.jpeg
+TYPE: .jpeg
+SIZE: 136372 bytes
+==========================================================================================
+[VISUALLY REVIEWED TEXT — 30 October 2026]
+PDC:shared memory dynamic threads(master/slave),static threads(pool concept). Process/message passing:numerous languages;obvious explicit requirements;partitioned address space;multiple processes have own physical address. Nondeterminism:different processes may access same variable,compiler cannot predict [rough student wording]. Structure:asynchronous concurrent execution;loosely synchronous,synchronize to a point. Types:blocking/nonblocking,buffered/nonbuffered.
+Sidebar:Unix/Linux multiple users/processes;Windows single-user [student claim]. Variables declared in main memory;values accessed via address. Program example main(){int two;};syntax/semantic headings.
+Right continues:blocking buffered,blocking nonbuffered,nonblocking buffered,nonblocking nonbuffered message passing.
+OTHER SUBJECT business letters:inquiry,resignation,cover,thank-you,complaint,confirmation/followup,notification,request,sales/marketing. Parts:sender address(company,street/city,district/country),date,inside(receiver)address,salutation,body,closing,enclosures. Formats:block,modified block,semiblock.
+[Handwriting normalized for readability. Unclear/cropped items are flagged. Student notes and printed exam wording are preserved as source material, not an independently validated answer key. Mixed-subject content is labelled; refer to original images for exact diagrams and symbols.]
+
+==========================================================================================
+FILE 32/33: Notes\Mudassir - WhatsApp Image 2026-10-26 at 8.22.10 PM.jpeg
+TYPE: .jpeg
+SIZE: 113010 bytes
+==========================================================================================
+[VISUALLY REVIEWED TEXT — 30 October 2026]
+PDC:parallel=one process,many threads,shared memory,maximum hardware utilization,multithreading [student notes]. Distributed=separate process/machine,message passing.
+Client-server architecture:server linked to several clients;message passing using IP+port. Browser user->Chrome(client)->server;Opera likewise. Peer-to-peer:every node individual work,direct node communication. Hybrid=client-server+P2P;example WhatsApp message(client),video call(P2P).
+Right top pipe server/client:parent FD(1)write ->child FD(0)read;blocking message-passing heading.
+OTHER SUBJECT SRE:actor=people involved in process execution;identify actor by role,not individual. Primary people/end-user whose problem solved;design people solve it. Role-action diagram. Software prototyping:architectural problem->solution architecture->select prototyping->execute prototype. Further diagram requirement-engineering->requirement architecture->software-engineering process->system-engineering [small labels unclear].
+[Handwriting normalized for readability. Unclear/cropped items are flagged. Student notes and printed exam wording are preserved as source material, not an independently validated answer key. Mixed-subject content is labelled; refer to original images for exact diagrams and symbols.]
+
+==========================================================================================
+FILE 33/33: Notes\Mudassir - WhatsApp Image 2026-10-26 at 8.22.15 PM.jpeg
+TYPE: .jpeg
+SIZE: 130948 bytes
+==========================================================================================
+[VISUALLY REVIEWED TEXT — 30 October 2026]
+MIXED SUBJECTS. Left XML=Extensible Markup Language,describes data. YAML human-readable,indentation matters,used in GitHub [as written]. JSON machine-to-machine exchange. Protocol Buffers(Protobuf):binary format,.proto schema defines message structure. Apache Avro:binary format includes schema alongside data,self-describing;schema evolution;Apache Hadoop mentioned. MessagePack,Cap'n Proto listed.
+Right SRE:requirements;DFG [letters unclear],SPS,state-transition,activity diagrams. Control-flow diagram uses conditional/loops. Cyclomatic complexity:edges,nodes. Types:class,dataflow,state-transition,ER diagram. Software Requirements Engineering process affected by social/cultural issues:system for people,used by people,built by people.
+[Handwriting normalized for readability. Unclear/cropped items are flagged. Student notes and printed exam wording are preserved as source material, not an independently validated answer key. Mixed-subject content is labelled; refer to original images for exact diagrams and symbols.]
 
 ==========================================================================================
 EXTRACTION COVERAGE REPORT
 EXTRACTED: Lect 1.txt
 EXTRACTED: Lectures\An Introduction to Parallel Programming.pdf
 EXTRACTED: Lectures\Introduction to Parallel Computing, Second Edition-Ananth Grama, Anshul Gupta, George Karypis, Vipin Kumar.pdf
+EXTRACTED: Lectures\Lecture 1.pdf
 EXTRACTED: Lectures\Lecture 2.pdf
 EXTRACTED: Lectures\Lecture 3.pdf
-EXTRACTED: Lectures\Lecture1.pdf
+EXTRACTED: Lectures\Lecture 4.pdf
+EXTRACTED_WITH_VISUAL_TRANSCRIPTION: Lectures\lecture 5.pdf
+VISUALLY_TRANSCRIBED: Mids Past Paper\WhatsApp Image 2026-10-26 at 3.07.56 PM.jpeg
+VISUALLY_TRANSCRIBED: Mids Past Paper\WhatsApp Image 2026-10-27 at 3.31.25 PM (1).jpeg
+VISUALLY_TRANSCRIBED: Mids Past Paper\WhatsApp Image 2026-10-27 at 3.31.25 PM.jpeg
+VISUALLY_TRANSCRIBED: Mids Past Paper\WhatsApp Image 2026-10-27 at 3.31.26 PM.jpeg
+EXTRACTED: Mids Preparation\parallel.c
+UNSUPPORTED: Mids Preparation\parallel.exe
+VISUALLY_TRANSCRIBED: Notes\Me - WhatsApp Image 2026-10-26 at 8.23.51 PM.jpeg
+VISUALLY_TRANSCRIBED: Notes\Me - WhatsApp Image 2026-10-26 at 8.24.11 PM.jpeg
+VISUALLY_TRANSCRIBED: Notes\Me - WhatsApp Image 2026-10-26 at 8.24.12 PM.jpeg
+VISUALLY_TRANSCRIBED: Notes\Me - WhatsApp Image 2026-10-26 at 8.24.18 PM.jpeg
+VISUALLY_TRANSCRIBED: Notes\Me - WhatsApp Image 2026-10-26 at 8.24.36 PM.jpeg
+VISUALLY_TRANSCRIBED: Notes\Me - WhatsApp Image 2026-10-26 at 8.24.37 PM.jpeg
+VISUALLY_TRANSCRIBED: Notes\Me - WhatsApp Image 2026-10-26 at 8.24.38 PM.jpeg
+VISUALLY_TRANSCRIBED: Notes\Me - WhatsApp Image 2026-10-26 at 8.24.43 PM.jpeg
+VISUALLY_TRANSCRIBED: Notes\Mudassir - WhatsApp Image 2026-10-26 at 8.19.43 PM.jpeg
+VISUALLY_TRANSCRIBED: Notes\Mudassir - WhatsApp Image 2026-10-26 at 8.19.45 PM.jpeg
+VISUALLY_TRANSCRIBED: Notes\Mudassir - WhatsApp Image 2026-10-26 at 8.20.20 PM.jpeg
+VISUALLY_TRANSCRIBED: Notes\Mudassir - WhatsApp Image 2026-10-26 at 8.20.27 PM.jpeg
+VISUALLY_TRANSCRIBED: Notes\Mudassir - WhatsApp Image 2026-10-26 at 8.20.32 PM.jpeg
+VISUALLY_TRANSCRIBED: Notes\Mudassir - WhatsApp Image 2026-10-26 at 8.21.26 PM.jpeg
+VISUALLY_TRANSCRIBED: Notes\Mudassir - WhatsApp Image 2026-10-26 at 8.21.43 PM.jpeg
+VISUALLY_TRANSCRIBED: Notes\Mudassir - WhatsApp Image 2026-10-26 at 8.21.51 PM.jpeg
+VISUALLY_TRANSCRIBED: Notes\Mudassir - WhatsApp Image 2026-10-26 at 8.21.56 PM.jpeg
+VISUALLY_TRANSCRIBED: Notes\Mudassir - WhatsApp Image 2026-10-26 at 8.22.10 PM.jpeg
+VISUALLY_TRANSCRIBED: Notes\Mudassir - WhatsApp Image 2026-10-26 at 8.22.15 PM.jpeg
