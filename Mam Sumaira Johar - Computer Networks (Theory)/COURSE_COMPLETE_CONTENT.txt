@@ -6,6 +6,8 @@ SCOPE: Full readable text, not summaries. Images use OCR; diagrams/layout cannot
 Excluded directory names: .env, .git, .idea, .mypy_cache, .nox, .pytest_cache, .ruff_cache, .tox, .venv, .vscode, __pycache__, dist-packages, env, node_modules, site-packages, vendor, venv
 This generated export excludes itself.
 
+LAST CONTENT REFRESH: 31 October 2026
+
 FOLDER AND FILE STRUCTURE
 Mam Sumaira Johar - Computer Networks (Theory)/
     |-- Lectures/
@@ -20,6 +22,28 @@ Mam Sumaira Johar - Computer Networks (Theory)/
         |-- CN-Lec-09 & 10 (Multiplexing).pdf
         |-- CN_Sumaira_Johar_Classroom_Text.txt
         |-- computer-networking-a-top-down-approach-8th-edition.pdf
+    |-- Mids/
+        |-- NW BSDS (A) Mid Best (1).pdf
+    |-- Notes/
+        |-- Me - WhatsApp Image 2026-10-26 at 8.23.46 PM.jpeg
+        |-- Me - WhatsApp Image 2026-10-26 at 8.23.56 PM.jpeg
+        |-- Me - WhatsApp Image 2026-10-26 at 8.24.06 PM.jpeg
+        |-- Me - WhatsApp Image 2026-10-26 at 8.24.20 PM (1).jpeg
+        |-- Me - WhatsApp Image 2026-10-26 at 8.24.24 PM.jpeg
+        |-- Me - WhatsApp Image 2026-10-26 at 8.24.41 PM (1).jpeg
+        |-- Me - WhatsApp Image 2026-10-26 at 8.24.41 PM.jpeg
+        |-- Me - WhatsApp Image 2026-10-26 at 8.24.45 PM.jpeg
+        |-- Mudassir - WhatsApp Image 2026-10-26 at 8.20.06 PM.jpeg
+        |-- Mudassir - WhatsApp Image 2026-10-26 at 8.20.12 PM.jpeg
+        |-- Mudassir - WhatsApp Image 2026-10-26 at 8.20.37 PM.jpeg
+        |-- Mudassir - WhatsApp Image 2026-10-26 at 8.20.38 PM (1).jpeg
+        |-- Mudassir - WhatsApp Image 2026-10-26 at 8.20.42 PM.jpeg
+        |-- Mudassir - WhatsApp Image 2026-10-26 at 8.21.12 PM.jpeg
+        |-- Mudassir - WhatsApp Image 2026-10-26 at 8.21.19 PM.jpeg
+        |-- Mudassir - WhatsApp Image 2026-10-26 at 8.21.48 PM.jpeg
+        |-- Mudassir - WhatsApp Image 2026-10-26 at 8.22.00 PM.jpeg
+        |-- Mudassir - WhatsApp Image 2026-10-26 at 8.22.14 PM (1).jpeg
+        |-- Mudassir - WhatsApp Image 2026-10-26 at 8.22.14 PM.jpeg
 
 EXCLUDED DIRECTORIES
 None
@@ -27,7 +51,7 @@ None
 FILE CONTENTS
 
 ==========================================================================================
-FILE 1/11: Lectures\CN-Lec-01 (Intro to data com).pdf
+FILE 1/31: Lectures\CN-Lec-01 (Intro to data com).pdf
 TYPE: .pdf
 SIZE: 637639 bytes
 ==========================================================================================
@@ -531,7 +555,7 @@ Suggested Reading
            Stallings
 
 ==========================================================================================
-FILE 2/11: Lectures\CN-Lec-02 (Networks).pdf
+FILE 2/31: Lectures\CN-Lec-02 (Networks).pdf
 TYPE: .pdf
 SIZE: 677054 bytes
 ==========================================================================================
@@ -935,7 +959,7 @@ Suggested Reading
           Stallings
 
 ==========================================================================================
-FILE 3/11: Lectures\CN-Lec-03  (topologies).pdf
+FILE 3/31: Lectures\CN-Lec-03  (topologies).pdf
 TYPE: .pdf
 SIZE: 881682 bytes
 ==========================================================================================
@@ -1453,7 +1477,7 @@ Suggested Reading
        Behrouz A. Forouzan
 
 ==========================================================================================
-FILE 4/11: Lectures\CN-Lec-04 (Categories of network).pdf
+FILE 4/31: Lectures\CN-Lec-04 (Categories of network).pdf
 TYPE: .pdf
 SIZE: 948392 bytes
 ==========================================================================================
@@ -1867,7 +1891,7 @@ Suggested Reading
          Stallings
 
 ==========================================================================================
-FILE 5/11: Lectures\CN-Lec-05 (OSI Model).pdf
+FILE 5/31: Lectures\CN-Lec-05 (OSI Model).pdf
 TYPE: .pdf
 SIZE: 2012835 bytes
 ==========================================================================================
@@ -2403,7 +2427,7 @@ Suggested Reading
        Edition by Behrouz A. Forouzan
 
 ==========================================================================================
-FILE 6/11: Lectures\CN-Lec-06 (TCP-IP Model).pdf
+FILE 6/31: Lectures\CN-Lec-06 (TCP-IP Model).pdf
 TYPE: .pdf
 SIZE: 594009 bytes
 ==========================================================================================
@@ -2790,7 +2814,7 @@ Suggested Reading
        Edition by Behrouz A. Forouzan
 
 ==========================================================================================
-FILE 7/11: Lectures\CN-Lec-07 (guided media) (1).pdf
+FILE 7/31: Lectures\CN-Lec-07 (guided media) (1).pdf
 TYPE: .pdf
 SIZE: 2400516 bytes
 ==========================================================================================
@@ -3511,7 +3535,7 @@ Suggested Reading
         by Behrouz A. Forouzan
 
 ==========================================================================================
-FILE 8/11: Lectures\CN-Lec-08 (unguided media).pdf
+FILE 8/31: Lectures\CN-Lec-08 (unguided media).pdf
 TYPE: .pdf
 SIZE: 724038 bytes
 ==========================================================================================
@@ -3896,7 +3920,7 @@ Suggested Reading
        Behrouz A. Forouzan
 
 ==========================================================================================
-FILE 9/11: Lectures\CN-Lec-09 & 10 (Multiplexing).pdf
+FILE 9/31: Lectures\CN-Lec-09 & 10 (Multiplexing).pdf
 TYPE: .pdf
 SIZE: 1853094 bytes
 ==========================================================================================
@@ -4573,7 +4597,7 @@ Suggested Reading
        Edition by Behrouz A. Forouzan
 
 ==========================================================================================
-FILE 10/11: Lectures\CN_Sumaira_Johar_Classroom_Text.txt
+FILE 10/31: Lectures\CN_Sumaira_Johar_Classroom_Text.txt
 TYPE: .txt
 SIZE: 1381 bytes
 ==========================================================================================
@@ -4623,7 +4647,7 @@ None. This classroom has no assignments, so you have nothing uploaded here.
 
 
 ==========================================================================================
-FILE 11/11: Lectures\computer-networking-a-top-down-approach-8th-edition.pdf
+FILE 11/31: Lectures\computer-networking-a-top-down-approach-8th-edition.pdf
 TYPE: .pdf
 SIZE: 20508868 bytes
 ==========================================================================================
@@ -41772,6 +41796,274 @@ Web servers, 62, 96, 276                     transmission rates and range, 534
                        536–539                        Zimmerman, Phil, 643
 
 ==========================================================================================
+FILE 12/31: Mids\NW BSDS (A) Mid Best (1).pdf
+TYPE: .pdf
+SIZE: 2089176 bytes
+==========================================================================================
+[VISUALLY REVIEWED SCANNED PDF — 31 October 2026]
+[Printed questions and student answers distinguished below. This is source transcription, not an official answer key. Spelling/spacing normalized;diagrams described;unreadable portions flagged.]
+--- PDF PAGE 1 ---
+IMSciences Peshawar. Exam:Mid-Term. Program:BCS Session2022–26. Department:ComputerScience. Paper:ComputerNetworks. Stamp04NOV2024. Timeallowed20minutes. TotalMarks30. SectionA15marks. SectionA compulsory,complete within first15min and hand over;no cutting/overwriting/no leadpencil. Student marked14/15.
+Q1.Attempt followingMCQs:
+1.Which of following is an example of Bluetooth? (a)wide area network (b)virtual private network (c)local area network (d)personal area network.
+2.What are nodes in a computer network? (a)computer that routes data (b)computer that terminates data (c)computer that originates data (d)all mentioned.
+3.Which one is not a function of network layer? (a)congestion control (b)error control (c)routing (d)inter-networking.
+4.How is a single channel shared by multiple signals in a computer network? (a)multiplexing (b)phase modulation (c)analog modulation (d)digital modulation.
+5.The port numbers,along with source/destination addresses for data,determine: (a)port (b)machine (c)socket (d)pipe.
+7.Which layer does the data link layer take packets from and encapsulate them into frames for transmission? (a)transport (b)application (c)network (d)physical.
+8.Which type of network shares communication channel among all machines? (a)anycast (b)multicast (c)unicast (d)broadcast.
+9.Which topology requires a multipoint connection? (a)Ring (b)Bus (c)Star (d)Mesh.
+10.What was the name of the first network? (a)ASAPNET (b)ARPANET (c)CNNET (d)NSFNET.
+[Source numbering jumps5->7;noQ6 visible. Student selected1d,2d,3a(markedwrong),4a,5c,7c,8d,9b,10b. These marks are not an independently validated answer key.]
+
+--- PDF PAGE 2 ---
+11.Name following connectors. Diagram:three coaxial fittings. Student handwritten labels leftBNC,centerTconnector,rightTerminator. Examiner2marks.
+12.Which type of unguided media requires transmitter/receiver aligned due to unidirectional nature? (a)Radiowaves (b)Infrared (c)Microwave (d)OpticalFiber. Student(c).
+13.Which propagation method allows radio waves long distances reflecting off ionosphere? (a)Ground (b)LineofSight (c)Space (d)SkyPropagation. Student(d).
+14.What advantage does UTP offer over STP? (a)Higherbandwidth (b)ImmunitytoEMinterference (c)Lowercost (d)Greaterdurability. Student(c).
+15.Which fiberoptic type reduces signal distortion using varying densities within core? (a)MultimodeStepIndex (b)MultimodeGradedIndex (c)SingleMode (d)Coaxial. Student(b).
+
+--- PDF PAGE 3 ---
+Answer-booklet cover,printedpage1/16. InstituteofManagementSciencesPeshawar;BSDS;semesterV;courseCN. Marks total/obtained:I15/14,II3/3,III5/5,IV7/7;total30/29.
+Instructions:entry only first20minutes,no extra time for latecomers;no leaving during first/last20minutes;clearance slip/ID required;bring calculator(whereallowed),ruler,pen,borrowing prohibited;write only examdetails onquestionpaper;no electronic gadgets;no talking;readquestions/follow instructions. [Personal name/serial not needed for course study.]
+
+--- PDF PAGE 4 ---
+Printedpage2/16. STUDENT ANSWER:QuestionFirst,RingvsMeshTopology.
+MeshTopology:Topology—the physical and logical arrangement of network is called topology. We have different kinds of topology;here highlight Ring andMesh.
+
+--- PDF PAGE 5 ---
+Printedpage3/16. STUDENT ANSWER:Definition with explanation:In mesh topology every device has a dedicated link with every other device. Mesh complicated because many wires. If device wants send data to intended device,it can send through own dedicated link or extra link.
+Types:TrueMesh—no extra link and all devices fully connected. [Wording retained as student wrote.]
+
+--- PDF PAGE 6 ---
+Printedpage4/16. STUDENT ANSWER:HybridMesh—has extra link but not fully connected.
+Advantages:mesh reliable;robust,one failed link does not take down entire network;every device point-to-point,easier sending/receiving.
+
+--- PDF PAGE 7 ---
+Printedpage5/16. STUDENT ANSWER:Disadvantages:more ports andI/O;difficult installation;many wires to connect devices. Diagram shows five devices around a pentagon,with dedicated links among pairs,captionMeshTopology.
+
+--- PDF PAGE 8 ---
+Printedpage6/16. STUDENT ANSWER:RingTopology:every device dedicated link on either side;connected to form ring. Data circulates in ring,intended device receives based on address,others discard;receiver sends acknowledgment. FDDI best example of ringtopology.
+
+--- PDF PAGE 9 ---
+Printedpage7/16. STUDENT ANSWER:Ringadvantages:good transmission because adjacent connections;add devices easily;broadcastdata. Disadvantages:difficult troubleshooting;if one device fails entire network goes down. [Source statements not independently corrected.]
+
+--- PDF PAGE 10 ---
+Printedpage8/16. STUDENT ANSWER:Diagram four devices joined in ring with directional arrows. Text:it will circulate clockwise.
+
+--- PDF PAGE 11 ---
+Printedpage9/16. STUDENT ANSWER:QuestionSecond:StatisticalTDMvsSynchronousTDM. TDM=TimeDivisionMultiplexing. Corrected handwriting says in synchronousTDM every signal(channel)has fixed timeslot to senddata. MUXdiagram inputsA,A;B,B;C,C;D,D ->output DCBADCBA. CaptionSynchronousTDM. Examiner5marks.
+
+--- PDF PAGE 12 ---
+Printedpage10/16. STUDENT ANSWER:Corrected headingSynchronousTDM. Has fixedtimeslot,everyone sends in thattimeslot. Issues:EmptySlot—if channel has no data but own slot,it wastes slot. Datarate:multilevelmultiplexing,multipleallocation,pulsestuffing.
+
+--- PDF PAGE 13 ---
+Printedpage11/16. STUDENT ANSWER:Let's understand these datarates with diagrams.
+Multilevel:two20inputs combine40,then feed mainMUX alongside40/40 inputs.
+Multipleallocation:50input split into two25 streams,alongside25 and25 intoMUX.
+Pulsestuffing:30,30,and25(which is raised to30) intoMUX.
+[Diagramlabels preserved;units not specified.]
+
+--- PDF PAGE 14 ---
+Printedpage12/16. [LOW-LEGIBILITY SCAN:This entire handwritten answer is blurred/washedout. Heading appears StatisticalTDM,followed by discussion of dynamic slotallocation and idlechannels,but exact sentences cannot be recovered confidently. No transcription fabricated;refer to original PDFpage14.]
+
+--- PDF PAGE 15 ---
+Printedpage13/16. STUDENT ANSWER:QuestionThird. Seven channels each200kHz. For7channels there are6guardbands of20kHz. Find minimum bandwidth. Diagram7channelblocks separated by6guardbands. Solution7x200+6x20=1520kHz(boxed). Examiner3marks.
+[PDF ends here. It contains15scannedpages in total;answerbooklet's printed numbering reaches13/16. Printedpages14–16 are not present in this file. Do not infer their contents.]
+
+==========================================================================================
+FILE 13/31: Notes\Me - WhatsApp Image 2026-10-26 at 8.23.46 PM.jpeg
+TYPE: .jpeg
+SIZE: 114752 bytes
+==========================================================================================
+[VISUALLY REVIEWED PHOTO TRANSCRIPTION — 31 October 2026]
+[Mixed-subject notebook contents labelled. Student notes retained as written,not independently verified definitions. Unclear entries explicitly flagged;diagrams represented in text.]
+MIXED-SUBJECT SPREAD,14/9/26. Accounting:Notes payable->loan,not receivable;formal contract/stamp paper,interest. Salaries;liabilities:accounts payable,notes payable,salaries payable,rent payable,taxes payable,interest payable. Equity=how much owners put in;owner investment increases equity;profit increases equity and vice versa.
+Computer Networks Monday14/9/2026:Chapter2 Networks;switch,hub,intelligent hub. How scanner shared across network? Scanners shared across local network by one of two primary methods,acting as standalone [sentence unfinished].
+OTHER SUBJECT Tuesday15/9/2026 TBW:communication models linear,interactive,transactional;linear=Shannon-Weaver. SCD:clean code,naming;why it exists,what it does,how used.
+
+==========================================================================================
+FILE 14/31: Notes\Me - WhatsApp Image 2026-10-26 at 8.23.56 PM.jpeg
+TYPE: .jpeg
+SIZE: 156933 bytes
+==========================================================================================
+[VISUALLY REVIEWED PHOTO TRANSCRIPTION — 31 October 2026]
+[Mixed-subject notebook contents labelled. Student notes retained as written,not independently verified definitions. Unclear entries explicitly flagged;diagrams represented in text.]
+MIXED-SUBJECT SPREAD. Left accounting table:Assets(cash,equipment,supplies,accounts receivable)=Liabilities(accounts payable)+Equity(owner capital,owner drawings,revenue,expenses). Formula cash+equipment+supplies+accounts receivable=accounts payable+notes payable+OC-OD+R-E. Visible entries include equipment15000,liability15000,cash3000/10000/25000/7000/5000/15000/800,AR-12000,liability-15000/+800,revenue2500,expenses-3000/-7000/-800;many blank/crossed cells;do not infer missing entries.
+Computer Networks:star topology;Fast Ethernet;10G Ethernet. OSI=Open Systems Interconnection [abbreviation expanded for readability]. Layers:Application,Presentation,Session,Transport,Network,DataLink,Physical.
+OTHER SUBJECT Tuesday22/9/2026 TBW writing process:prewriting,outlining/structuring ideas,rough draft,revising,editing.
+
+==========================================================================================
+FILE 15/31: Notes\Me - WhatsApp Image 2026-10-26 at 8.24.06 PM.jpeg
+TYPE: .jpeg
+SIZE: 143563 bytes
+==========================================================================================
+[VISUALLY REVIEWED PHOTO TRANSCRIPTION — 31 October 2026]
+[Mixed-subject notebook contents labelled. Student notes retained as written,not independently verified definitions. Unclear entries explicitly flagged;diagrams represented in text.]
+MIXED-SUBJECT SPREAD. Accounting:cash most liquid;financing activities owner investment10000,withdrawal(200),net9800;change in cash10800;beginning cashApr1,2017=0;endingApr30=10800. American Travel Agency balance sheetApr30,2017:cash10800,AR2500,supplies600,equipment2500,totalassets16400;AP0,notes payable0,totalliabilities0;owner capital16400,total16400. Interdependence of four financial statements is articulation.
+Computer Networks Theory:segments,packet/data stream,frames. Application:peer;Telnet [short standalone notes].
+
+==========================================================================================
+FILE 16/31: Notes\Me - WhatsApp Image 2026-10-26 at 8.24.20 PM (1).jpeg
+TYPE: .jpeg
+SIZE: 157735 bytes
+==========================================================================================
+[VISUALLY REVIEWED PHOTO TRANSCRIPTION — 31 October 2026]
+[Mixed-subject notebook contents labelled. Student notes retained as written,not independently verified definitions. Unclear entries explicitly flagged;diagrams represented in text.]
+MIXED-SUBJECT SPREAD. Accounting general journal:Oct3 office equipmentDr9000,cashCr5000,APCr4000(compound entry). Apr1cashDr10000/owners equityCr10000 investment;Apr2rent expenseDr400/cashCr400;equipmentDr2500/cashCr2500;Apr6advertisingDr300/APCr300;Apr7suppliesDr600/cashCr600;services cash5500 andAR3000/revenue8500;Apr15drawingsDr200/cashCr200;Apr18APDr300/cashCr300;salary expenseDr2200/cashCr2200;Apr29cashDr4000/ARCr4000.
+Computer Networks TheoryMondayOct5,2026:OSI model;physical layer;transmission medium. Semaphore:OS/kernel or NIC flags showing direction [student wording]. Data consists0,1. Guided media.
+
+==========================================================================================
+FILE 17/31: Notes\Me - WhatsApp Image 2026-10-26 at 8.24.24 PM.jpeg
+TYPE: .jpeg
+SIZE: 151347 bytes
+==========================================================================================
+[VISUALLY REVIEWED PHOTO TRANSCRIPTION — 31 October 2026]
+[Mixed-subject notebook contents labelled. Student notes retained as written,not independently verified definitions. Unclear entries explicitly flagged;diagrams represented in text.]
+Computer Networks:twisted-pair cable,UTP;coaxial cable;optical fiber.
+OTHER SUBJECTS:TuesdayOct6,2026 SCD:tech stack=collection of technologies,selected by software architect;COTS=commercial off the shelf. SRELab:PBL/OBL;scenario;requirements-elicitation techniques;prototypes,UML diagrams for elicitation,asking user system functions,use-case modelling. UML raw requirements->without logic/with logic(design). Usecase high-level system representation;system boundary;external system;actor/user goal,entities/relationships. Actor can be human/nonhuman;user is human. Primary actor left(initiates),secondary right(supports indirectly). Oval=activity;overall system functionalities within boundary,actors outside.
+
+==========================================================================================
+FILE 18/31: Notes\Me - WhatsApp Image 2026-10-26 at 8.24.41 PM (1).jpeg
+TYPE: .jpeg
+SIZE: 180428 bytes
+==========================================================================================
+[VISUALLY REVIEWED PHOTO TRANSCRIPTION — 31 October 2026]
+[Mixed-subject notebook contents labelled. Student notes retained as written,not independently verified definitions. Unclear entries explicitly flagged;diagrams represented in text.]
+Computer Networks fragment:3kHz–1GHz radio waves;1–300GHz microwaves;omnidirectional(all directions).
+OTHER SUBJECT ThursdayOct15,2026 SRETheory:RE process inputs:existing systems(replaced and retained),interoperability requirements,stakeholder needs,organizational/industry standards. Customer/organizational standards. Regulations:nonfunctional requirements,legal/government,ethical;HEC regulator. Domain information. Agreed needs;system/contract/user requirements;system models less error-prone and specific;input vs output external behavior;elicitation/identification. RE tasks:elicitation(requirements acquisition;identifying/creating/inventing);sources stakeholders,existing system info,domain knowledge,market study. Analysis/negotiation:classification,categorization,relationships.
+
+==========================================================================================
+FILE 19/31: Notes\Me - WhatsApp Image 2026-10-26 at 8.24.41 PM.jpeg
+TYPE: .jpeg
+SIZE: 159185 bytes
+==========================================================================================
+[VISUALLY REVIEWED PHOTO TRANSCRIPTION — 31 October 2026]
+[Mixed-subject notebook contents labelled. Student notes retained as written,not independently verified definitions. Unclear entries explicitly flagged;diagrams represented in text.]
+Computer Networks TheoryWednesdayOct14,2026:optical fiber multimode(multiple light beams),singlemode(single beam). Unguided/wireless:ground propagation,sky propagation,line-of-sight. FM radio very high frequency.
+OTHER SUBJECT SRELab24Oct2026:diary technique;elicitation pain points;4methods. Usecase modelling:technical team(engineer/developer),nontechnical(regulatory bodies,customer). CRC=Class Responsibility Collaboration. State diagram,activity diagram. UML vs DFD vs XML;technical/nontechnical;standards worldwide vs local;dataflow;not directly design/code. Architecture-to-database and database-to-class relationships [handwriting fragment].
+
+==========================================================================================
+FILE 20/31: Notes\Me - WhatsApp Image 2026-10-26 at 8.24.45 PM.jpeg
+TYPE: .jpeg
+SIZE: 145482 bytes
+==========================================================================================
+[VISUALLY REVIEWED PHOTO TRANSCRIPTION — 31 October 2026]
+[Mixed-subject notebook contents labelled. Student notes retained as written,not independently verified definitions. Unclear entries explicitly flagged;diagrams represented in text.]
+MIXED-SUBJECT SPREAD. Accounting Nolasco Corporation trialbalanceOct31,2017:cashDr11800,suppliesDr400,equipmentDr2000,ARDr1420,APCr500,notes payableCr3000,service revenueCr2670,owner capitalCr10500,drawingsDr300,salary/wage expenseDr500,rentDr250;totals16670each.
+Computer Networks:multiplexing [heading only].
+OTHER SUBJECT SCDTuesday19Oct2026:data interchange format,serialization converts in-memory structure to format stored/transmitted;deserialization reverse. JSON,YAML(configurationfiles),XML extensible markup language. MessagePack,Cap'nProto,ApacheAvro. UML pastSREdiagram remark. 'No comment;No choice;MCQs no probability' [source exam note,course attribution uncertain]. Schema separated from data smaller payloads thanJSON/XML;real-time data;Protobuf.
+
+==========================================================================================
+FILE 21/31: Notes\Mudassir - WhatsApp Image 2026-10-26 at 8.20.06 PM.jpeg
+TYPE: .jpeg
+SIZE: 139784 bytes
+==========================================================================================
+[VISUALLY REVIEWED PHOTO TRANSCRIPTION — 31 October 2026]
+[Mixed-subject notebook contents labelled. Student notes retained as written,not independently verified definitions. Unclear entries explicitly flagged;diagrams represented in text.]
+MIXED-SUBJECT SPREAD. Accounting process4steps:analyze,record,summarize,communicate. Assets for revenue generation;cash,building,electronics,buses,furniture,solar,longterm investment,supplies;liabilities/payables notes/accounts/salary/utility/rent/tax/interest;equity ownership/share;owner/partnership/corporate equity changes with investment,reinvestment,loss. Transactions affect assets/liabilities/equity.
+Networking:dataflow simplex(one-way),halfduplex,fullduplex(two-way). Network=group of computers/devices connected. Why networks? Distributed processing. Criteria:performance(transit time=message travel time),reliability,security(protect data from damage).
+
+==========================================================================================
+FILE 22/31: Notes\Mudassir - WhatsApp Image 2026-10-26 at 8.20.12 PM.jpeg
+TYPE: .jpeg
+SIZE: 100897 bytes
+==========================================================================================
+[VISUALLY REVIEWED PHOTO TRANSCRIPTION — 31 October 2026]
+[Mixed-subject notebook contents labelled. Student notes retained as written,not independently verified definitions. Unclear entries explicitly flagged;diagrams represented in text.]
+Networking physical structure:point-to-point,multipoint(spatial/time sharing);physical topology. Bus diagram:backbone cable terminated at both ends;devices attached by taps/drop lines/connectors. Advantage note 'each dedicated connection carries own load,eliminating traffic' [written under bus;source wording retained]. Disadvantage amount of cabling and[unfinished]. Star uses hub/switch;hub broadcasts;switch sends to particular device;point-to-point links. Ring point-to-point;token used for access/send;tree topology named.
+OTHER SUBJECT communication models:linear five components source,transmitter,channel,receiver,destination.
+
+==========================================================================================
+FILE 23/31: Notes\Mudassir - WhatsApp Image 2026-10-26 at 8.20.37 PM.jpeg
+TYPE: .jpeg
+SIZE: 84642 bytes
+==========================================================================================
+[VISUALLY REVIEWED PHOTO TRANSCRIPTION — 31 October 2026]
+[Mixed-subject notebook contents labelled. Student notes retained as written,not independently verified definitions. Unclear entries explicitly flagged;diagrams represented in text.]
+Blurred duplicate of next image. Right legible:line-of-code metric,function-point formula/software usecase,size,ease of use. Accounting:table extends Assets=Liabilities+Equity;cash+AR+supplies+equipment=(AP+NP)+(OC-OD+R-E). Meigs&Meigs chapter1last2questions. Networking:mesh topology fault identification/fault isolation. Purpose categories:SAN(Storage Area Network),EPN(Enterprise Private Network),VPN(Virtual Private Network). Left page too blurred to transcribe reliably;clearer duplicate follows.
+
+==========================================================================================
+FILE 24/31: Notes\Mudassir - WhatsApp Image 2026-10-26 at 8.20.38 PM (1).jpeg
+TYPE: .jpeg
+SIZE: 131459 bytes
+==========================================================================================
+[VISUALLY REVIEWED PHOTO TRANSCRIPTION — 31 October 2026]
+[Mixed-subject notebook contents labelled. Student notes retained as written,not independently verified definitions. Unclear entries explicitly flagged;diagrams represented in text.]
+MIXED-SUBJECT SPREAD. Left SRE:qualitatively understand/quantify;McCall's Quality Factor Model;requirements tradeoff e.g.sales/security departments;architecture integration connects different systems. NFRs as goals should be quantitative metrics objectively tested. Measure=presence/absence,identify desired aspects;metrics=combination of measures. Right:lines-of-code metric;functionpoint;software usecase;size/ease of use. Accounting equation/table as prior image;Meigs&Meigs chapter1last2questions. Networking mesh fault identification/isolation. Purpose categories SAN,EPN,VPN.
+
+==========================================================================================
+FILE 25/31: Notes\Mudassir - WhatsApp Image 2026-10-26 at 8.20.42 PM.jpeg
+TYPE: .jpeg
+SIZE: 134064 bytes
+==========================================================================================
+[VISUALLY REVIEWED PHOTO TRANSCRIPTION — 31 October 2026]
+[Mixed-subject notebook contents labelled. Student notes retained as written,not independently verified definitions. Unclear entries explicitly flagged;diagrams represented in text.]
+Networking:LAN,MAN,WAN;switchedWAN,point-to-pointWAN. OSI theoretical communication model,7layers;peer-to-peer processes;layered tasks:Application,Presentation,Session,Transport [list unfinished]. Header+data+trailer;trailer redundant bits/error information.
+OTHER SUBJECT writing process:prewriting,outlining,roughdraft,revising,editing. Effective writing=good ideas expressed well/proper order,experience/observations. Prewriting askingquestions,brainstorming,mapping,searchingmaterial;abstractthought->concreteidea;choosetopic;experience/observation,reading,ideamapping general->specific.
+
+==========================================================================================
+FILE 26/31: Notes\Mudassir - WhatsApp Image 2026-10-26 at 8.21.12 PM.jpeg
+TYPE: .jpeg
+SIZE: 124968 bytes
+==========================================================================================
+[VISUALLY REVIEWED PHOTO TRANSCRIPTION — 31 October 2026]
+[Mixed-subject notebook contents labelled. Student notes retained as written,not independently verified definitions. Unclear entries explicitly flagged;diagrams represented in text.]
+MIXED-SUBJECT SPREAD. Accounting cashflow cashin/out;cash=hand+bank. AmericanTravelAgency Apr2017:customercollections7000,expenses2900,operating4100;equipment2500,supplies600,investing(3100);ownerinvestment10000,withdrawal200,financing9800;endingcash10800,beg0. Balancesheet cash10800,AR2500,supplies600,equipment2500,total16400;AP0,liabilities0,ownerequity16400,total16400. Articulation statements communicate with each other.
+Networking:OSI application layer enables user(human/software) to access network.
+
+==========================================================================================
+FILE 27/31: Notes\Mudassir - WhatsApp Image 2026-10-26 at 8.21.19 PM.jpeg
+TYPE: .jpeg
+SIZE: 116686 bytes
+==========================================================================================
+[VISUALLY REVIEWED PHOTO TRANSCRIPTION — 31 October 2026]
+[Mixed-subject notebook contents labelled. Student notes retained as written,not independently verified definitions. Unclear entries explicitly flagged;diagrams represented in text.]
+Networking:network virtual terminal Telnet. Presentation:translation [written transition],encryption(privacy),compression. Session layer permits two parties to hold ongoing communication. Transport/network headings with no detailed notes.
+OTHER SUBJECT professional email/digital communication:12tips;purpose/readers/content;positivelanguage;linkingwords;simplefamiliarwords;passivevoice for specific reasons;bullets/numberedlists;tables/charts;avoid outdated expressions [word unclear]. Business writing:subjectline,CCbutton,out-of-office assistant.
+
+==========================================================================================
+FILE 28/31: Notes\Mudassir - WhatsApp Image 2026-10-26 at 8.21.48 PM.jpeg
+TYPE: .jpeg
+SIZE: 114724 bytes
+==========================================================================================
+[VISUALLY REVIEWED PHOTO TRANSCRIPTION — 31 October 2026]
+[Mixed-subject notebook contents labelled. Student notes retained as written,not independently verified definitions. Unclear entries explicitly flagged;diagrams represented in text.]
+NetworkingLecture7:transmission medium carries source->destination information;electromagneticenergy;vacuum. Guidedmedia:twistedpair,parallelflatwire;UTP,STP(metalshield);coaxialBNCconnector. Opticalfiber uses reflection to guide light through channel. Refraction/incidentangle where refracted angle90degrees [source mixes terminology]. Applications opticalfiber:higherbandwidth. NIC->semaphore [margin].
+OTHER SUBJECT technical writing:'notice is a brief...'unfinished. SCDtechstack=technologies to build/run application;infrastructure cloudprovider/physicalserver;supporttoolsGit/build/testing/monitoring;team chooses combination.
+
+==========================================================================================
+FILE 29/31: Notes\Mudassir - WhatsApp Image 2026-10-26 at 8.22.00 PM.jpeg
+TYPE: .jpeg
+SIZE: 116868 bytes
+==========================================================================================
+[VISUALLY REVIEWED PHOTO TRANSCRIPTION — 31 October 2026]
+[Mixed-subject notebook contents labelled. Student notes retained as written,not independently verified definitions. Unclear entries explicitly flagged;diagrams represented in text.]
+Networking:guidedmedia twistedpairUTP/STP,coaxial,opticalfiber. Unguided electromagnetic waves;ground(<2MHz),sky(2–30MHz),line-of-sight(>30MHz). Radio omnidirectional;microwave unidirectional,dish/hornantennas,terrestrialmicrowave,multipleantenna/dish. Infrared300–400[unitnotvisible],doesnotpenetratewalls;InfraredDataAssociation(IrDA);compression,attenuation(signal loss),EMinterference,security.
+OTHER SUBJECT REprocess inputs:existing system info,portability/interoperability,replaced/used systems,stakeholdersneeds,organizationalstandards,externalregulations,domain/generalinfo. Outputs agreedrequirements(stakeholders understand/agree),systemspecification(detailed).
+
+==========================================================================================
+FILE 30/31: Notes\Mudassir - WhatsApp Image 2026-10-26 at 8.22.14 PM (1).jpeg
+TYPE: .jpeg
+SIZE: 136700 bytes
+==========================================================================================
+[VISUALLY REVIEWED PHOTO TRANSCRIPTION — 31 October 2026]
+[Mixed-subject notebook contents labelled. Student notes retained as written,not independently verified definitions. Unclear entries explicitly flagged;diagrams represented in text.]
+Networking:applications FDM;wave-division multiplexing[aswritten];TDM synchronous/statistical.
+OTHER SUBJECT coverletters:backgroundinfo,interest/familiarity,goodmatch,contact;format spacing/margins;structure outline/audience/tone;heading;intro/salutation/position;describe skills previously used/contribution.
+SCD:data-interchange formats rules for representing structureddata as bytes,store/transmit/reconstruct;sharedlanguageJSON;design choices affectperformance/readability/maintainability. Serialization in-memorystructure->stored/transmitted. Deserialization reverse. JSON lightweight text,key-valuepairs,orderedlists.
+
+==========================================================================================
+FILE 31/31: Notes\Mudassir - WhatsApp Image 2026-10-26 at 8.22.14 PM.jpeg
+TYPE: .jpeg
+SIZE: 110430 bytes
+==========================================================================================
+[VISUALLY REVIEWED PHOTO TRANSCRIPTION — 31 October 2026]
+[Mixed-subject notebook contents labelled. Student notes retained as written,not independently verified definitions. Unclear entries explicitly flagged;diagrams represented in text.]
+MIXED-SUBJECT SPREAD. Accountingcycle journal Jan1advertisingDr1000/cashCr1000;Jan2suppliesDr4200/APCr4200;Jan3miscExpenseDr2000/cashCr2000;Jan4cashDr1400/ARCr1400;Jan5ARDr15000/cashCr15000 [aswritten]. JoanRepairServices trialbalanceJan31,2017:cashDr3500,ARDr10000,suppliesDr17200,prepaidrentDr3000,equipmentDr20000,APCr8200,ownercapitalCr40000,drawingsDr3000,servicerevenueCr15000,advertisingDr1000,miscDr2000,wagesDr3500;total63200 [some values uncertain].
+Networking:multiplexing;one medium under simplest condition carries one signal;share link capacity;highbandwidth opticalfiber/terrestrial/satellitemicrowave;categoriesFDM analog technique,notes says minbandwidth[unclear].
+
+==========================================================================================
 EXTRACTION COVERAGE REPORT
 EXTRACTED: Lectures\CN-Lec-01 (Intro to data com).pdf
 EXTRACTED: Lectures\CN-Lec-02 (Networks).pdf
@@ -41784,3 +42076,23 @@ EXTRACTED: Lectures\CN-Lec-08 (unguided media).pdf
 EXTRACTED: Lectures\CN-Lec-09 & 10 (Multiplexing).pdf
 EXTRACTED: Lectures\CN_Sumaira_Johar_Classroom_Text.txt
 EXTRACTED: Lectures\computer-networking-a-top-down-approach-8th-edition.pdf
+VISUALLY_TRANSCRIBED_PARTIAL_ONE_BLURRED_PAGE: Mids\NW BSDS (A) Mid Best (1).pdf
+VISUALLY_TRANSCRIBED: Notes\Me - WhatsApp Image 2026-10-26 at 8.23.46 PM.jpeg
+VISUALLY_TRANSCRIBED: Notes\Me - WhatsApp Image 2026-10-26 at 8.23.56 PM.jpeg
+VISUALLY_TRANSCRIBED: Notes\Me - WhatsApp Image 2026-10-26 at 8.24.06 PM.jpeg
+VISUALLY_TRANSCRIBED: Notes\Me - WhatsApp Image 2026-10-26 at 8.24.20 PM (1).jpeg
+VISUALLY_TRANSCRIBED: Notes\Me - WhatsApp Image 2026-10-26 at 8.24.24 PM.jpeg
+VISUALLY_TRANSCRIBED: Notes\Me - WhatsApp Image 2026-10-26 at 8.24.41 PM (1).jpeg
+VISUALLY_TRANSCRIBED: Notes\Me - WhatsApp Image 2026-10-26 at 8.24.41 PM.jpeg
+VISUALLY_TRANSCRIBED: Notes\Me - WhatsApp Image 2026-10-26 at 8.24.45 PM.jpeg
+VISUALLY_TRANSCRIBED: Notes\Mudassir - WhatsApp Image 2026-10-26 at 8.20.06 PM.jpeg
+VISUALLY_TRANSCRIBED: Notes\Mudassir - WhatsApp Image 2026-10-26 at 8.20.12 PM.jpeg
+VISUALLY_TRANSCRIBED: Notes\Mudassir - WhatsApp Image 2026-10-26 at 8.20.37 PM.jpeg
+VISUALLY_TRANSCRIBED: Notes\Mudassir - WhatsApp Image 2026-10-26 at 8.20.38 PM (1).jpeg
+VISUALLY_TRANSCRIBED: Notes\Mudassir - WhatsApp Image 2026-10-26 at 8.20.42 PM.jpeg
+VISUALLY_TRANSCRIBED: Notes\Mudassir - WhatsApp Image 2026-10-26 at 8.21.12 PM.jpeg
+VISUALLY_TRANSCRIBED: Notes\Mudassir - WhatsApp Image 2026-10-26 at 8.21.19 PM.jpeg
+VISUALLY_TRANSCRIBED: Notes\Mudassir - WhatsApp Image 2026-10-26 at 8.21.48 PM.jpeg
+VISUALLY_TRANSCRIBED: Notes\Mudassir - WhatsApp Image 2026-10-26 at 8.22.00 PM.jpeg
+VISUALLY_TRANSCRIBED: Notes\Mudassir - WhatsApp Image 2026-10-26 at 8.22.14 PM (1).jpeg
+VISUALLY_TRANSCRIBED: Notes\Mudassir - WhatsApp Image 2026-10-26 at 8.22.14 PM.jpeg
