@@ -6,6 +6,8 @@ SCOPE: Full readable text, not summaries. Images use OCR; diagrams/layout cannot
 Excluded directory names: .env, .git, .idea, .mypy_cache, .nox, .pytest_cache, .ruff_cache, .tox, .venv, .vscode, __pycache__, dist-packages, env, node_modules, site-packages, vendor, venv
 This generated export excludes itself.
 
+REFRESHED: 2026-11-01. 45 source files: 8 existing PDFs and 37 note photos. Existing PDF extraction retained. New photos are visually reviewed; mixed-subject notes are retained. Unclear/blurred/cropped writing is explicitly marked.
+
 FOLDER AND FILE STRUCTURE
 Sir Hamood Ur Rehman -  Software Requirements Engineering (Theory)/
     |-- Lectures/
@@ -17,6 +19,44 @@ Sir Hamood Ur Rehman -  Software Requirements Engineering (Theory)/
         |-- RE&S 4.pdf
         |-- RE&S 5 updated.pdf
         |-- Software.Requirements.Developer.Best.Practices.1154.pdf
+    |-- Notes/
+        |-- Me - WhatsApp Image 2026-10-26 at 8.23.52 PM.jpeg
+        |-- Me - WhatsApp Image 2026-10-26 at 8.23.53 PM.jpeg
+        |-- Me - WhatsApp Image 2026-10-26 at 8.24.00 PM.jpeg
+        |-- Me - WhatsApp Image 2026-10-26 at 8.24.03 PM.jpeg
+        |-- Me - WhatsApp Image 2026-10-26 at 8.24.18 PM.jpeg
+        |-- Me - WhatsApp Image 2026-10-26 at 8.24.19 PM.jpeg
+        |-- Me - WhatsApp Image 2026-10-26 at 8.24.20 PM.jpeg
+        |-- Me - WhatsApp Image 2026-10-26 at 8.24.41 PM (1).jpeg
+        |-- Me - WhatsApp Image 2026-10-26 at 8.24.42 PM.jpeg
+        |-- Me - WhatsApp Image 2026-10-26 at 8.24.44 PM (1).jpeg
+        |-- Me - WhatsApp Image 2026-10-26 at 8.24.44 PM.jpeg
+        |-- Me - WhatsApp Image 2026-10-26 at 8.24.46 PM.jpeg
+        |-- Mudassir - WhatsApp Image 2026-10-26 at 8.19.40 PM (1).jpeg
+        |-- Mudassir - WhatsApp Image 2026-10-26 at 8.19.43 PM.jpeg
+        |-- Mudassir - WhatsApp Image 2026-10-26 at 8.19.47 PM.jpeg
+        |-- Mudassir - WhatsApp Image 2026-10-26 at 8.19.57 PM.jpeg
+        |-- Mudassir - WhatsApp Image 2026-10-26 at 8.20.32 PM.jpeg
+        |-- Mudassir - WhatsApp Image 2026-10-26 at 8.20.37 PM.jpeg
+        |-- Mudassir - WhatsApp Image 2026-10-26 at 8.20.38 PM (1).jpeg
+        |-- Mudassir - WhatsApp Image 2026-10-26 at 8.20.38 PM.jpeg
+        |-- Mudassir - WhatsApp Image 2026-10-26 at 8.20.57 PM.jpeg
+        |-- Mudassir - WhatsApp Image 2026-10-26 at 8.21.02 PM.jpeg
+        |-- Mudassir - WhatsApp Image 2026-10-26 at 8.21.07 PM.jpeg
+        |-- Mudassir - WhatsApp Image 2026-10-26 at 8.21.10 PM.jpeg
+        |-- Mudassir - WhatsApp Image 2026-10-26 at 8.21.44 PM.jpeg
+        |-- Mudassir - WhatsApp Image 2026-10-26 at 8.21.45 PM.jpeg
+        |-- Mudassir - WhatsApp Image 2026-10-26 at 8.22.00 PM.jpeg
+        |-- Mudassir - WhatsApp Image 2026-10-26 at 8.22.01 PM.jpeg
+        |-- Mudassir - WhatsApp Image 2026-10-26 at 8.22.05 PM.jpeg
+        |-- Mudassir - WhatsApp Image 2026-10-26 at 8.22.10 PM.jpeg
+        |-- Mudassir - WhatsApp Image 2026-10-26 at 8.22.12 PM.jpeg
+        |-- Mudassir - WhatsApp Image 2026-10-26 at 8.22.15 PM.jpeg
+        |-- Mudassir - WhatsApp Image 2026-10-26 at 8.22.47 PM.jpeg
+        |-- Mudassir - WhatsApp Image 2026-10-26 at 8.22.48 PM.jpeg
+        |-- Mudassir - WhatsApp Image 2026-10-26 at 8.22.51 PM.jpeg
+        |-- Mudassir - WhatsApp Image 2026-10-26 at 8.22.52 PM.jpeg
+        |-- Mudassir - WhatsApp Image 2026-10-26 at 8.22.56 PM.jpeg
 
 EXCLUDED DIRECTORIES
 None
@@ -24,7 +64,7 @@ None
 FILE CONTENTS
 
 ==========================================================================================
-FILE 1/8: Lectures\applying-uml-and-patterns-3rd.pdf
+FILE 1/45: Lectures\applying-uml-and-patterns-3rd.pdf
 TYPE: .pdf
 SIZE: 15981901 bytes
 ==========================================================================================
@@ -33917,7 +33957,7 @@ XP 2nd 3rd
 xUnit
 
 ==========================================================================================
-FILE 2/8: Lectures\OBE-Software Requirements Engineering_with_CLO_Mapping.pdf
+FILE 2/45: Lectures\OBE-Software Requirements Engineering_with_CLO_Mapping.pdf
 TYPE: .pdf
 SIZE: 330272 bytes
 ==========================================================================================
@@ -34198,7 +34238,7 @@ INSTITUTE OF MANAGEMENT SCIENCES PESHAWAR
                                                   Page 5 of 5
 
 ==========================================================================================
-FILE 3/8: Lectures\RE&S 1 updated.pdf
+FILE 3/45: Lectures\RE&S 1 updated.pdf
 TYPE: .pdf
 SIZE: 258330 bytes
 ==========================================================================================
@@ -34692,7 +34732,7 @@ References
                                                                                    33
 
 ==========================================================================================
-FILE 4/8: Lectures\RE&S 2.pdf
+FILE 4/45: Lectures\RE&S 2.pdf
 TYPE: .pdf
 SIZE: 267664 bytes
 ==========================================================================================
@@ -35108,7 +35148,7 @@ Assignment 1
                                                                                    26
 
 ==========================================================================================
-FILE 5/8: Lectures\RE&S 3.pdf
+FILE 5/45: Lectures\RE&S 3.pdf
 TYPE: .pdf
 SIZE: 236122 bytes
 ==========================================================================================
@@ -35582,7 +35622,7 @@ References
                                                                                    32
 
 ==========================================================================================
-FILE 6/8: Lectures\RE&S 4.pdf
+FILE 6/45: Lectures\RE&S 4.pdf
 TYPE: .pdf
 SIZE: 370439 bytes
 ==========================================================================================
@@ -36005,7 +36045,7 @@ References
                                                                                    29
 
 ==========================================================================================
-FILE 7/8: Lectures\RE&S 5 updated.pdf
+FILE 7/45: Lectures\RE&S 5 updated.pdf
 TYPE: .pdf
 SIZE: 229202 bytes
 ==========================================================================================
@@ -36422,7 +36462,7 @@ References
                                                                                    24
 
 ==========================================================================================
-FILE 8/8: Lectures\Software.Requirements.Developer.Best.Practices.1154.pdf
+FILE 8/45: Lectures\Software.Requirements.Developer.Best.Practices.1154.pdf
 TYPE: .pdf
 SIZE: 19329521 bytes
 ==========================================================================================
@@ -65973,6 +66013,396 @@ Your feedback goes directly to the staff at Microsoft Press,
 and we read every one of your responses. Thanks in advance!
 
 ==========================================================================================
+FILE 9/45: Notes\Me - WhatsApp Image 2026-10-26 at 8.23.52 PM.jpeg
+TYPE: .jpeg
+SIZE: 148753 bytes
+==========================================================================================
+[VISUALLY REVIEWED NOTES: readable content transcribed/normalized; diagram descriptions and unclear handwriting are marked. Student notes have not been independently validated.]
+SRE Theory,21/9/2026. Functionality -> input and output. It should bring ease. Non-functional requirements:organizational,product,external. Software engineering:requirements,design,coding,testing. How system should perform.
+Usability defined by3things:easy to understand,easy to learn,easy to operate. Efficiency requirements:performance andspace;load into memory:data andinstruction. Reliability:outputs/results can reliably fulfill business objectives/decisions. [Faint bottom note about performance/time not fully legible.]
+Portability:different software/hardware;keep efficiency in mind. Organizational requirements:standards(CMM,CMMI,depends ondomain);implementation requirements. Development=making;implementing=putting in real environment. Three ways:parallel implementation(existing/new run inparallel,outputs compared);phasecutover(system developed inphases,cut over one part of old system at time);directreplacement. Delivery requirements:online orphysicalinstallation. Embedded:installed on some hardware. Margin:'Nobody is wrong in this world?'
+
+==========================================================================================
+FILE 10/45: Notes\Me - WhatsApp Image 2026-10-26 at 8.23.53 PM.jpeg
+TYPE: .jpeg
+SIZE: 144706 bytes
+==========================================================================================
+[VISUALLY REVIEWED NOTES: readable content transcribed/normalized; diagram descriptions and unclear handwriting are marked. Student notes have not been independently validated.]
+External requirement:interoperability—one system used with other systems. Ethicalrequirements:ethics=collection of morals. 'Why should I waste my time on something that I can't influence?' Legislative requirements:safety,privacy;customer privacy should not be violated;different requirements depend onlaws/domains.
+McCall's Quality Factors Model:learn/understand;qualitatively findNFRs;quantitatively [unfinished].
+Recoverfromfailure;rapidresponse. Measures/metrics:combination of measures. Presence/absence of different measures identifies certain aspects we want to determine. Quantitative useofmetrics. Goal:numbers [standaloneword]. SizeNFR:linesofcode,kbytes,functionpoints,slide6. Easeofuse:trainingtime,numberofhelpframes;understand,learn,use,time[unfinished].
+
+==========================================================================================
+FILE 11/45: Notes\Me - WhatsApp Image 2026-10-26 at 8.24.00 PM.jpeg
+TYPE: .jpeg
+SIZE: 144648 bytes
+==========================================================================================
+[VISUALLY REVIEWED NOTES: readable content transcribed/normalized; diagram descriptions and unclear handwriting are marked. Student notes have not been independently validated.]
+MIXED SUBJECTS. Accounting:time-periodprinciple;calendarJan–Dec;fiscalJuly–June. Performance between2points;financialhealth atonepoint;balancesheet atpoint,othersbetweentimes.
+PDC LabFriday25/9/2026:OpenMP library assigns task tothreads. Thread=worker,core=chair;#pragma omp parallel for;hint,can't guarantee;preprocessorinstruction;pragma omp parallel.
+SRETheory28/9/2026:watchGodfatherParts1&2,ForrestGump. NFRs;metric=combinationofmeasures. Testability:quantitativeunderstanding ofMcCallqualitymodel. Portability:effort totransferprogram hardwaretohardware. Event:what,eventhandling. Robustness:probabilityofdata corruption onfailure;time torecoverfromfailure.
+
+==========================================================================================
+FILE 12/45: Notes\Me - WhatsApp Image 2026-10-26 at 8.24.03 PM.jpeg
+TYPE: .jpeg
+SIZE: 180896 bytes
+==========================================================================================
+[VISUALLY REVIEWED NOTES: readable content transcribed/normalized; diagram descriptions and unclear handwriting are marked. Student notes have not been independently validated.]
+Domainrequirements:from applicationdomain,reflect fundamental domaincharacteristics;implicitrequirements;design/implementationrequirements;reusabilityexample.
+Another view:user/customerrequirements;systemrequirements->softwareengineering,hardware+software requirements. Userrequirements forreader(nontechnical user/customer). Contractrequirements fordevelopers;requirements='what' not'how'. Behavioralrequirements;businessrationale. Usecasemodelling;EricCarlson[spellinguncertain];fullydressedusecase;usecaseboundary.
+Traceability3directions:source traceability(requirement source,stakeholder/businessprocess);requirement-to-requirement(dependencies);requirement-to-design(linktorequirements/softwaredesignparts). Businesslogic->rationale;requirementsdefine organization/businessprocessobjectives.
+Systemcontractrequirements:subjectiveX,objectivecheck. NFRs mayconflict. Refine/complete requirements:allthingscovered,inputs/outputs there. Consistentrequirements:noconflict;exampleefficiency/security.
+
+==========================================================================================
+FILE 13/45: Notes\Me - WhatsApp Image 2026-10-26 at 8.24.18 PM.jpeg
+TYPE: .jpeg
+SIZE: 158326 bytes
+==========================================================================================
+[Verified byte-identical photo: reused its previously reviewed transcription.]
+[VISUALLY REVIEWED TEXT — 30 October 2026]
+PDC: In distributed systems two nodes communicate via messages only. Advantages/disadvantages of shared-memory systems. Contention,congestion,locking mechanism. Cache coherence; no control on caches. Snooping cache coherence: cores share a bus. Directory-based cache coherence->cache lines.
+Interconnection network: shared-memory interconnect. Devices on buses proportional to1/performance [as written]. Latency. Bandwidth: bits per second; Hz [as written]. Message transmission time=L+n/b.
+OTHER SUBJECT: Software Requirements Engineering Theory. Reliability: ATM runs all the time without error; wrong balance; unsuccessful operations/total operations x100 [handwriting formula]. Integrity: banking app blocks access to viewing other accounts. Maintainability: bug traced/fixed in function, no side effect elsewhere. Testability: modular code with clear input/output lets you write unit tests easily. Handout4. User requirements->natural language. System/contract requirements. User requirements functional/nonfunctional. System contract requirements: system services and constraints in detail.
+[Handwriting normalized for readability. Unclear/cropped items are flagged. Student notes and printed exam wording are preserved as source material, not an independently validated answer key. Mixed-subject content is labelled; refer to original images for exact diagrams and symbols.]
+
+==========================================================================================
+FILE 14/45: Notes\Me - WhatsApp Image 2026-10-26 at 8.24.19 PM.jpeg
+TYPE: .jpeg
+SIZE: 164383 bytes
+==========================================================================================
+[VISUALLY REVIEWED NOTES: readable content transcribed/normalized; diagram descriptions and unclear handwriting are marked. Student notes have not been independently validated.]
+Systemengineering vs softwareengineering:process+hardware+softwareengineering;process->businessprocessengineering. Services=functional;constraints=nonfunctional/domain. System=businessprocess+hardware+software. Complete/consistentrequirements;consistent=no conflict;moreconflicts inNFRs. Requirements only'what' ifwehaveall3systemparts;domain-awarepeople needed.
+Systemleveldesign:client-server. Diagram:frontend->middleware->backend. Admissions->Academicregister;admissions->Financefee/reports->Examinationgrade;degree connected tofinance/exam.
+SE studies systemdesign;designbusinessprocessrequirements;systemcontractrequirements show'what' ratherthan'how';cannotfullyavoid'how'.
+Classification groups requirements as real-world businessdomain;IMSciencesFinance functionality fee,fines,hostel/transport,salaries,pension,providentfund. Admissions form,entrytest,interview,meritlist.
+Specificdesign;externalNFRs;domainmodel;specificationmodel;function/data models. Singleinterpretation=unambiguous;UML crucial. Larman3rdeditionfirst6chapters. Defacto=convention adoptedbyall.
+Requirementsproblems:do not reflect realcustomerneeds;inconsistent/incomplete.
+
+==========================================================================================
+FILE 15/45: Notes\Me - WhatsApp Image 2026-10-26 at 8.24.20 PM.jpeg
+TYPE: .jpeg
+SIZE: 147945 bytes
+==========================================================================================
+[VISUALLY REVIEWED NOTES: readable content transcribed/normalized; diagram descriptions and unclear handwriting are marked. Student notes have not been independently validated.]
+Three/Fourworlds diagram:userworld,realworld,systemworld,developingworld. Userworld needsrealworld;desiresystemworld;user/developercontact;developingworldconstructssystemworld.
+Problems:misunderstanding,lackofclarity,requirementsconfusion,requirementsamalgamation;modularization indevelopment. Developer/coder may notknow user;clearfunctionality necessary. Diagram threebranchesP1,P2,P3 frominput throughsystem then2/3checking [labeluncertain].
+OTHER SUBJECT accountingOct5,2026:analyzing->recording(journalizing->posting->trialbalance->adjustment->adjustedtrialbalance->closing->postclosing);summarizing/communicatingfinancialstatements. Debit=left,credit=right. Assetsincrease debit/decreasecredit;liabilitiesincreasecredit/decreasedebit. Revenuecredit,expensedebit,drawingsdebit. A=L+E. Generaljournal cashDr8000/ownersequityCr8000;doubleentrytotalsdebits=credits.
+
+==========================================================================================
+FILE 16/45: Notes\Me - WhatsApp Image 2026-10-26 at 8.24.41 PM (1).jpeg
+TYPE: .jpeg
+SIZE: 180428 bytes
+==========================================================================================
+[Verified byte-identical photo: reused its previously reviewed transcription.]
+[VISUALLY REVIEWED PHOTO TRANSCRIPTION — 31 October 2026]
+[Mixed-subject notebook contents labelled. Student notes retained as written,not independently verified definitions. Unclear entries explicitly flagged;diagrams represented in text.]
+Computer Networks fragment:3kHz–1GHz radio waves;1–300GHz microwaves;omnidirectional(all directions).
+OTHER SUBJECT ThursdayOct15,2026 SRETheory:RE process inputs:existing systems(replaced and retained),interoperability requirements,stakeholder needs,organizational/industry standards. Customer/organizational standards. Regulations:nonfunctional requirements,legal/government,ethical;HEC regulator. Domain information. Agreed needs;system/contract/user requirements;system models less error-prone and specific;input vs output external behavior;elicitation/identification. RE tasks:elicitation(requirements acquisition;identifying/creating/inventing);sources stakeholders,existing system info,domain knowledge,market study. Analysis/negotiation:classification,categorization,relationships.
+
+==========================================================================================
+FILE 17/45: Notes\Me - WhatsApp Image 2026-10-26 at 8.24.42 PM.jpeg
+TYPE: .jpeg
+SIZE: 189078 bytes
+==========================================================================================
+[VISUALLY REVIEWED NOTES: readable content transcribed/normalized; diagram descriptions and unclear handwriting are marked. Student notes have not been independently validated.]
+Classification,conflictresolution,prioritization. Classification3perspectives(slide7):
+1.Businessflow:flowofthings;whatdonefirst/followed;receiveproduct,selectproduct,checkout/pay;combinationofprocesses.
+2.Dataflow:existingbusiness,dataflowing throughprocesses,one step toanother;dataneedfromonebusinessprocesstoanother.
+3.Role-action:who doeswhat [RomanUrdu'kon kon kya kya kar raha hai'].
+Categorization/conflictresolution;negotiations basedonbusinessobjectives;e.g.sales/security. Prioritization=moreimportant. Incomplete/missinginput-output;inconsistent/conflict;informationtracked. RequirementSpecificationSRS;R-to-Rtraceability,R-to-source,R-to-design.
+OTHER SUBJECT PDCLabFriday16Oct2026:paralleloneprocess/manythreads/sharedmemory/fullcapabilities;distributedseparateprocesses/machinescommunicatebymessagepassing.
+
+==========================================================================================
+FILE 18/45: Notes\Me - WhatsApp Image 2026-10-26 at 8.24.44 PM (1).jpeg
+TYPE: .jpeg
+SIZE: 157860 bytes
+==========================================================================================
+[VISUALLY REVIEWED NOTES: readable content transcribed/normalized; diagram descriptions and unclear handwriting are marked. Student notes have not been independently validated.]
+Role-actiondiagram(left):Customer/receptionist->callingtoplaceorder;receptionist/order-taker->placingorder;chef/helper->cookingpizza;waiter/deliveryboy->packing/delivery;customer/deliveryboy->receivingorder. Arrowssequence actions. Margin:reduction/compression;Paretoworkprinciple;NoMCQsNFRs[shortnote].
+SRE social/culturalissues:3groupsclientorganization,requirementsteam,developmentteam. Why'social'?Technicalpossibilities as solutions for3groups [wordingrough].
+OTHER SUBJECT accountingMonday19Oct2026:trialbalanceVi[n]RepairServices. Debitscash3500,supplies17200,equipment20000,AR10000,drawings3000,advertising1000,salaries/wages3500,prepaidrent3000;creditsAP8200,ownercapital40000,notes/amountsseveralcrossed,total63200 [someentriesunclear]. Trialbalancewhenamountdiffersprepareatend.
+
+==========================================================================================
+FILE 19/45: Notes\Me - WhatsApp Image 2026-10-26 at 8.24.44 PM.jpeg
+TYPE: .jpeg
+SIZE: 181848 bytes
+==========================================================================================
+[VISUALLY REVIEWED NOTES: readable content transcribed/normalized; diagram descriptions and unclear handwriting are marked. Student notes have not been independently validated.]
+SRE19Oct2026.Role-actionperspective.Inputs:existingsysteminfo,stakeholders;outputs:agreedrequirements.Analysis3techniques:businessflow,requirement-source,role-action. Actors:interestedinsolution/systemcontract;usecases/actors/activities/requirements. Model=representationofsomething. Evolutionarymodel->softwareprototype;throwawayprototype,showcustomer,getfeedback,throwaway. Horizontalprototypealllayers;verticalonlyfrontend/onelayer [student wording].
+Analysiscomparisonofoptions,pros/cons,evaluationdecision.Pizzadeliveryscenario,pplcallpizzashop,order. Externalregulations imposedrules. Requirementselicitation:not infrontofmanager.
+Midterm:3questions10markseach;roughmarks4/10+4/10+4/10=12;otherexamplestotals18/28 [crossings]. About1/3memorybased:elaborateREprocessphases. Analytical:knowconcepts,applyonscenario. Requirementamalgamation createsproblems;modularization helpsanalysis. Identifyproblem/givesolution. Requirementqualities7;assessproposedrequirements;scenario fromsemesterproject.
+
+==========================================================================================
+FILE 20/45: Notes\Me - WhatsApp Image 2026-10-26 at 8.24.46 PM.jpeg
+TYPE: .jpeg
+SIZE: 112092 bytes
+==========================================================================================
+[VISUALLY REVIEWED NOTES: readable content transcribed/normalized; diagram descriptions and unclear handwriting are marked. Student notes have not been independently validated.]
+MIXED SUBJECTS.Accounting21Oct2026:15marks,15questions;30MCQsmaximum;exercisepractice.
+SRETheoryMonday26Oct2026:Culturalissues;noonewrong,don'ttakeassumptions;clarifyassumptions;religious/racialdifferences;professionalism,commitment,responsibility,integrity [lastwords'oneway'unclear]. Rightpageblank.
+
+==========================================================================================
+FILE 21/45: Notes\Mudassir - WhatsApp Image 2026-10-26 at 8.19.40 PM (1).jpeg
+TYPE: .jpeg
+SIZE: 115156 bytes
+==========================================================================================
+[VISUALLY REVIEWED NOTES: readable content transcribed/normalized; diagram descriptions and unclear handwriting are marked. Student notes have not been independently validated.]
+MIXED SUBJECTS.SCD:design->executablecode;integrateindividualcomponents intofunctionalwhole;highqualitymaintainablesoftware meetsrequirements/designspecification;carefulconstruction createssecure,reliablesoftware. Fundamentals:minimizecomplexity,anticipatechange,constructionforverification,reuse,standards.
+SRELab:objective multiplepurpose,goal singleachievement;inception->feasibility->planning.
+SRETheory:organized,systematic,measurable requirements;stakeholderidentification;elicitation,analysis,specification,validation. '60%andaboveimportanceinproject' [student claim]. Diagram tradeoffsperformance,functionality,money,duration;0–255/0–120 margin.
+Accountingframework:ethicsfirstbuildingblock affects stakeholders;principles governing/regulatorybodies.
+
+==========================================================================================
+FILE 22/45: Notes\Mudassir - WhatsApp Image 2026-10-26 at 8.19.43 PM.jpeg
+TYPE: .jpeg
+SIZE: 127680 bytes
+==========================================================================================
+[Verified byte-identical photo: reused its previously reviewed transcription.]
+[VISUALLY REVIEWED TEXT — 30 October 2026]
+MIXED SUBJECTS. Left TBW: introduction/body/medium; process of communication:sender,channel/medium,receiver,feedback. Contexts:physical,social,chronological,cultural. Principles:communication unavoidable,operates on two levels,irreversible; fourth blank. Networks:formal/informal. Technical writer(translator):explain complicated concepts in clear,easy-to-understand prose; accessibility.
+Right top SRE:MoSCoW must/should/could have; functional,nonfunctional,domain. Requirement=something user/customer needs from software; finding->understanding.
+PDC:Program=set/steps of instructions. Process=program after execution. Concurrency=multiple processes at a time due to context switching. Note says 'parallel computing:in single core multiple process run' [student wording; do not treat as corrected definition]. Flynn taxonomy:data/instruction relationship; SISD,MISD,SIMD,MIMD. Course objective:program executed on multiple hardware [last wording unclear].
+[Handwriting normalized for readability. Unclear/cropped items are flagged. Student notes and printed exam wording are preserved as source material, not an independently validated answer key. Mixed-subject content is labelled; refer to original images for exact diagrams and symbols.]
+
+==========================================================================================
+FILE 23/45: Notes\Mudassir - WhatsApp Image 2026-10-26 at 8.19.47 PM.jpeg
+TYPE: .jpeg
+SIZE: 123072 bytes
+==========================================================================================
+[VISUALLY REVIEWED NOTES: readable content transcribed/normalized; diagram descriptions and unclear handwriting are marked. Student notes have not been independently validated.]
+System=process,hardware,software.
+LibraryUML:LibraryItem id:int,title:string,borrowed:bool,days:int;getId,getTitle,getBorrowed,getDays,setBorrowed,setDays,getType,display,borrowItem,returnItem. Book/Magazine getType:string;DVD rentalfee:double,get/setRentalFee,getType,display. Libraryitems:LibraryItem*[100],count:int;findItem,addItem,borrowItem,returnItem,viewItems,latefee,save,load,run. InheritancearrowsBook/Magazine/DVD->LibraryItem;Libraryaggregation.
+SoftwareRequirements3:partofbidofcontract;contractitself. MathematicalrequirementlanguagesZ-specification,VDM[handwritingunclear]. IEEEdefinition:requirement=conditionorcapabilitythatmust[unfinished]. Twotypes:reqsoftware/technical [margin]. Stakeholder:anyoneaffectingsystem,user/client. Documents->entiresystem/domain. Levelssoftware requirementheading.
+
+==========================================================================================
+FILE 24/45: Notes\Mudassir - WhatsApp Image 2026-10-26 at 8.19.57 PM.jpeg
+TYPE: .jpeg
+SIZE: 133641 bytes
+==========================================================================================
+[VISUALLY REVIEWED NOTES: readable content transcribed/normalized; diagram descriptions and unclear handwriting are marked. Student notes have not been independently validated.]
+ReadNoSilverBullet—EssenceandAccidentsofSoftwareEngineering,F.P.Brooks[assignmentnote].
+Importanceofsoftwarerequirements:hardestsinglepart isdecidingwhattobuild;nootherworkcripples resulting systemso muchifwrong.
+Kinds:functional/nonfunctional.Functional=whatsystemdoes,functionality,reactiontoinput,behaviorinsituations,sequencing/parallelism,independentrequirements,abnormalbehavior[unfinished].
+Functionalrequirements complete/consistent;line'systemshouldprovide ambiguousrequirement'[student wording]. Complete includesinput/output. NFRsrelatedtosystemaswhole;oftenmorecriticalthanindividualfunctionalrequirements;builtintoframework/product;arise throughinteroperability acrosssoftware/hardware.
+OTHER SUBJECT accounting:A=L+E,Assets=Liability+Equity.
+
+==========================================================================================
+FILE 25/45: Notes\Mudassir - WhatsApp Image 2026-10-26 at 8.20.32 PM.jpeg
+TYPE: .jpeg
+SIZE: 142733 bytes
+==========================================================================================
+[Verified byte-identical photo: reused its previously reviewed transcription.]
+[VISUALLY REVIEWED TEXT — 30 October 2026]
+Left PDC:Von Neumann proposed IAS architecture;stored-program concept. Input->processing->output;RAM attached. Scalar architecture:one instruction/clock cycle on single element. Vector:multiple data elements/single instruction. ILP:pipelining,multiple issue. Instruction cycle:fetch(RAM/system bus),decode(CU),execute(ALU). Pipelining benefit:many instruction cycles executed [wording rough].
+Right mixedSRE:CISC,RISC heading;nonfunctional requirements whole-system architecture. Product requirements:usability easy to understand,learn,operate;subjective->objective. Efficiency:performance andspace. Notes relate performance to data/instructions transferred. Reliability:input/output used for business decisions.
+[Handwriting normalized for readability. Unclear/cropped items are flagged. Student notes and printed exam wording are preserved as source material, not an independently validated answer key. Mixed-subject content is labelled; refer to original images for exact diagrams and symbols.]
+
+==========================================================================================
+FILE 26/45: Notes\Mudassir - WhatsApp Image 2026-10-26 at 8.20.37 PM.jpeg
+TYPE: .jpeg
+SIZE: 84642 bytes
+==========================================================================================
+[Verified byte-identical photo: reused its previously reviewed transcription.]
+[VISUALLY REVIEWED PHOTO TRANSCRIPTION — 31 October 2026]
+[Mixed-subject notebook contents labelled. Student notes retained as written,not independently verified definitions. Unclear entries explicitly flagged;diagrams represented in text.]
+Blurred duplicate of next image. Right legible:line-of-code metric,function-point formula/software usecase,size,ease of use. Accounting:table extends Assets=Liabilities+Equity;cash+AR+supplies+equipment=(AP+NP)+(OC-OD+R-E). Meigs&Meigs chapter1last2questions. Networking:mesh topology fault identification/fault isolation. Purpose categories:SAN(Storage Area Network),EPN(Enterprise Private Network),VPN(Virtual Private Network). Left page too blurred to transcribe reliably;clearer duplicate follows.
+
+==========================================================================================
+FILE 27/45: Notes\Mudassir - WhatsApp Image 2026-10-26 at 8.20.38 PM (1).jpeg
+TYPE: .jpeg
+SIZE: 131459 bytes
+==========================================================================================
+[Verified byte-identical photo: reused its previously reviewed transcription.]
+[VISUALLY REVIEWED PHOTO TRANSCRIPTION — 31 October 2026]
+[Mixed-subject notebook contents labelled. Student notes retained as written,not independently verified definitions. Unclear entries explicitly flagged;diagrams represented in text.]
+MIXED-SUBJECT SPREAD. Left SRE:qualitatively understand/quantify;McCall's Quality Factor Model;requirements tradeoff e.g.sales/security departments;architecture integration connects different systems. NFRs as goals should be quantitative metrics objectively tested. Measure=presence/absence,identify desired aspects;metrics=combination of measures. Right:lines-of-code metric;functionpoint;software usecase;size/ease of use. Accounting equation/table as prior image;Meigs&Meigs chapter1last2questions. Networking mesh fault identification/isolation. Purpose categories SAN,EPN,VPN.
+
+==========================================================================================
+FILE 28/45: Notes\Mudassir - WhatsApp Image 2026-10-26 at 8.20.38 PM.jpeg
+TYPE: .jpeg
+SIZE: 120153 bytes
+==========================================================================================
+[VISUALLY REVIEWED NOTES: readable content transcribed/normalized; diagram descriptions and unclear handwriting are marked. Student notes have not been independently validated.]
+Availability,performance,uptime. Portability:software runsdifferentplatform/software;compromisewithefficiency. Organizationalrequirements:standardsfororganization/customer/development(CMM);implementation=puttingintoactualuse. Parallelold/newsystemrun,compareoutputs;phasecutoverdevelop/implementinphases,cutonepartatatime;directreplacement. Deliveryonlineordownload. External:interoperabilitysystem-to-system,other software;ethical;legislativerules/regulationsdependondomain;privacy/privateinfo;safety. Margin:nobodywronginworld.
+
+==========================================================================================
+FILE 29/45: Notes\Mudassir - WhatsApp Image 2026-10-26 at 8.20.57 PM.jpeg
+TYPE: .jpeg
+SIZE: 121340 bytes
+==========================================================================================
+[VISUALLY REVIEWED NOTES: readable content transcribed/normalized; diagram descriptions and unclear handwriting are marked. Student notes have not been independently validated.]
+MIXED SUBJECTS.Clean-code:block/indentation;functionnamesmatter;avoidcrypticnames;use descriptive namesratherthancomments.
+PDC:OpenMPautomaticthreads bygcc-fopenmp;pthreadmanualthreads;threadworker/corechair;#pragma omp parallel instructions topreprocessor;blockparallel. Sharedmemory raceconditions;reductionprivatecopies,everyprocess/coreworks then sumsafterloop;critical. Threadworkers1,2,3,4 diagramA/B/C/D.
+SRETheory:NFRs,McCallmodel study;P/Py[unexplained];flexibilityheading;robustness:timetorestartafterfailure.
+
+==========================================================================================
+FILE 30/45: Notes\Mudassir - WhatsApp Image 2026-10-26 at 8.21.02 PM.jpeg
+TYPE: .jpeg
+SIZE: 121360 bytes
+==========================================================================================
+[VISUALLY REVIEWED NOTES: readable content transcribed/normalized; diagram descriptions and unclear handwriting are marked. Student notes have not been independently validated.]
+Event=somethingoccurringinsystemthatcauseschange,e.g.userinitiating. Percentageofevents causingfailure;probabilitydatacorruptiononfailure. Robustness inverselyproportionaltoprobability[roughformula]. Margin:eventdifferentstages pre/postevent/flow,eventhandling. Portabilitytargetdependency[unclear]. DiscussionmetricsNFRs.
+Domainrequirements fromapplicationdomain,fundamentalcharacteristics;functionalandnonfunctional. Implicitrequirements notexplicitlymentioned;domainexperts hardtoconveydomainrequirements;absencecausesdissatisfaction;domainexpertstrictlyfollowsconstraintsolution.
+Inverserequirements:whatsystemshallnotdo;peoplefindconvenienttodescribeneedsthisway;indicatethe indecisive nature ofcustomeraboutcost[studentwording]. Design/implementationrequirements;constraintrequirementsheadings.
+
+==========================================================================================
+FILE 31/45: Notes\Mudassir - WhatsApp Image 2026-10-26 at 8.21.07 PM.jpeg
+TYPE: .jpeg
+SIZE: 120385 bytes
+==========================================================================================
+[VISUALLY REVIEWED NOTES: readable content transcribed/normalized; diagram descriptions and unclear handwriting are marked. Student notes have not been independently validated.]
+Developmentguidelineswithinwhichdesignermustwork.
+Lecture4 anotherview/problemidentification:user/customerrequirements;systemcontractrequirements(morecomprehensive,descriptive,technical). Userrequirementsnatural language,expectedservicesunderconstraints;avoidsystemdesigncharacteristicsasmuchaspossible;avoidtoomuchinfo. Rationaleimportant;usecasemodel/diagram.
+Traceablein3directions:source(stakeholder/businessprocess),requirement-to-requirement(dependencies),requirement-to-design(linkbetweenreq/systemdesign).
+
+==========================================================================================
+FILE 32/45: Notes\Mudassir - WhatsApp Image 2026-10-26 at 8.21.10 PM.jpeg
+TYPE: .jpeg
+SIZE: 107125 bytes
+==========================================================================================
+[VISUALLY REVIEWED NOTES: readable content transcribed/normalized; diagram descriptions and unclear handwriting are marked. Student notes have not been independently validated.]
+Systemcontractrequirements completeandconsistent.Completeinput/output;consistentconflictsresolved.
+OTHER SUBJECT AmericanTravelAgency incomestatementApr30,2017:revenue9500,rent400,advertising300,salary2200,totalexpenses2900,netincome6600. Changesinequity:beginningApr1=0;investment10000,netprofit6600,total16600;drawings200;endingApr30=16400 [some handwrittenzeros ambiguous].
+
+==========================================================================================
+FILE 33/45: Notes\Mudassir - WhatsApp Image 2026-10-26 at 8.21.44 PM.jpeg
+TYPE: .jpeg
+SIZE: 118424 bytes
+==========================================================================================
+[VISUALLY REVIEWED NOTES: readable content transcribed/normalized; diagram descriptions and unclear handwriting are marked. Student notes have not been independently validated.]
+Systemcontractrequirements:setoutsystemservices,detailedservices(FR/NFR)andconstraintsNFR;basisofimplementationcontract;systemleveldesignstartingpointforarchitecture/design;understoodbytechnicalcustomerstaff/developmentteam. System/processengineering/businessprocess.
+State'what' ratherthan'how'. Requirementclassification=groupingasperreal-worldbusinessdomain,e.g.financefinancialstatements,admissionsmeritcard. Mostsystemsinteroperate. Naturallanguage;usecasedescription/specificationlanguage;UMLmodellingrequirements;defactostandard. Singleinterpretation=unambiguous[marginpartlycropped].
+
+==========================================================================================
+FILE 34/45: Notes\Mudassir - WhatsApp Image 2026-10-26 at 8.21.45 PM.jpeg
+TYPE: .jpeg
+SIZE: 119545 bytes
+==========================================================================================
+[VISUALLY REVIEWED NOTES: readable content transcribed/normalized; diagram descriptions and unclear handwriting are marked. Student notes have not been independently validated.]
+Requirementsproblems:notrealcustomerneeds;expensivetochange.4worlds:user,real,software,developing. Userneedsrealworld;user/developingcontract;developingconstructssoftware;softwareaboutrealworld. ColetteRolland[heading]. Requirementsfromdifferententities causemisunderstanding;claritylack,confusion,amalgamation(severaldifferentrequirementstogether). Amalgamationcausesmodularityproblem:designer/coder unsurewhichclass functionalitybelongsin. Naturallanguagespecificationoverflexible:samethingexpressedindifferentways. DiagramSender->P1/P2/P3->Receiver.
+OTHER SUBJECT accounting:analyze->record(journal/post/trialbalance/adjustments/adjustedtrialbalance/closing/postclosing);summarize/communicatefinancialstatements.
+
+==========================================================================================
+FILE 35/45: Notes\Mudassir - WhatsApp Image 2026-10-26 at 8.22.00 PM.jpeg
+TYPE: .jpeg
+SIZE: 116868 bytes
+==========================================================================================
+[Verified byte-identical photo: reused its previously reviewed transcription.]
+[VISUALLY REVIEWED PHOTO TRANSCRIPTION — 31 October 2026]
+[Mixed-subject notebook contents labelled. Student notes retained as written,not independently verified definitions. Unclear entries explicitly flagged;diagrams represented in text.]
+Networking:guidedmedia twistedpairUTP/STP,coaxial,opticalfiber. Unguided electromagnetic waves;ground(<2MHz),sky(2–30MHz),line-of-sight(>30MHz). Radio omnidirectional;microwave unidirectional,dish/hornantennas,terrestrialmicrowave,multipleantenna/dish. Infrared300–400[unitnotvisible],doesnotpenetratewalls;InfraredDataAssociation(IrDA);compression,attenuation(signal loss),EMinterference,security.
+OTHER SUBJECT REprocess inputs:existing system info,portability/interoperability,replaced/used systems,stakeholdersneeds,organizationalstandards,externalregulations,domain/generalinfo. Outputs agreedrequirements(stakeholders understand/agree),systemspecification(detailed).
+
+==========================================================================================
+FILE 36/45: Notes\Mudassir - WhatsApp Image 2026-10-26 at 8.22.01 PM.jpeg
+TYPE: .jpeg
+SIZE: 102043 bytes
+==========================================================================================
+[VISUALLY REVIEWED NOTES: readable content transcribed/normalized; diagram descriptions and unclear handwriting are marked. Student notes have not been independently validated.]
+External behaviour: input versus output. System models.
+Requirements engineering activities: elicitation is a continuous, critical process. Two main parts: problem analysis and product description. Elicitation means identification/acquisition/discovery of requirements; stakeholders are identified from system documents. Requirements analysis and negotiation: analysis includes classification/categorization and relationships; conflict resolution and prioritization.
+Three perspectives: business-flow perspective (combination of processes); data-flow perspective (what data is needed); role-action perspective (who uses the system, which role they play and what they do across business processes).
+Conflict resolution: negotiation between acquirer/customer side and developers in light of business objectives. Prioritization decides which requirements have higher priority; conflict resolution and prioritization occur during negotiation.
+Requirements specification: detailed document. Requirements validation: requirements are traceable in three ways—requirement to requirement, requirement to source, requirement to design.
+[These two photos show the same notebook spread; the later image is clearer. Some overwritten words are unclear.]
+
+==========================================================================================
+FILE 37/45: Notes\Mudassir - WhatsApp Image 2026-10-26 at 8.22.05 PM.jpeg
+TYPE: .jpeg
+SIZE: 124855 bytes
+==========================================================================================
+[VISUALLY REVIEWED NOTES: readable content transcribed/normalized; diagram descriptions and unclear handwriting are marked. Student notes have not been independently validated.]
+External behaviour: input versus output. System models.
+Requirements engineering activities: elicitation is a continuous, critical process. Two main parts: problem analysis and product description. Elicitation means identification/acquisition/discovery of requirements; stakeholders are identified from system documents. Requirements analysis and negotiation: analysis includes classification/categorization and relationships; conflict resolution and prioritization.
+Three perspectives: business-flow perspective (combination of processes); data-flow perspective (what data is needed); role-action perspective (who uses the system, which role they play and what they do across business processes).
+Conflict resolution: negotiation between acquirer/customer side and developers in light of business objectives. Prioritization decides which requirements have higher priority; conflict resolution and prioritization occur during negotiation.
+Requirements specification: detailed document. Requirements validation: requirements are traceable in three ways—requirement to requirement, requirement to source, requirement to design.
+[These two photos show the same notebook spread; the later image is clearer. Some overwritten words are unclear.]
+
+==========================================================================================
+FILE 38/45: Notes\Mudassir - WhatsApp Image 2026-10-26 at 8.22.10 PM.jpeg
+TYPE: .jpeg
+SIZE: 113010 bytes
+==========================================================================================
+[Verified byte-identical photo: reused its previously reviewed transcription.]
+[VISUALLY REVIEWED TEXT — 30 October 2026]
+PDC:parallel=one process,many threads,shared memory,maximum hardware utilization,multithreading [student notes]. Distributed=separate process/machine,message passing.
+Client-server architecture:server linked to several clients;message passing using IP+port. Browser user->Chrome(client)->server;Opera likewise. Peer-to-peer:every node individual work,direct node communication. Hybrid=client-server+P2P;example WhatsApp message(client),video call(P2P).
+Right top pipe server/client:parent FD(1)write ->child FD(0)read;blocking message-passing heading.
+OTHER SUBJECT SRE:actor=people involved in process execution;identify actor by role,not individual. Primary people/end-user whose problem solved;design people solve it. Role-action diagram. Software prototyping:architectural problem->solution architecture->select prototyping->execute prototype. Further diagram requirement-engineering->requirement architecture->software-engineering process->system-engineering [small labels unclear].
+[Handwriting normalized for readability. Unclear/cropped items are flagged. Student notes and printed exam wording are preserved as source material, not an independently validated answer key. Mixed-subject content is labelled; refer to original images for exact diagrams and symbols.]
+
+==========================================================================================
+FILE 39/45: Notes\Mudassir - WhatsApp Image 2026-10-26 at 8.22.12 PM.jpeg
+TYPE: .jpeg
+SIZE: 89365 bytes
+==========================================================================================
+[VISUALLY REVIEWED NOTES: readable content transcribed/normalized; diagram descriptions and unclear handwriting are marked. Student notes have not been independently validated.]
+Role-action diagram: pizza delivery system. Roles include customer, staff, pizza maker, delivery staff and software engineer/admin. Actions shown include take order, payment, deliver; prepare meal, perform manual work, register details; develop code, develop system and develop delivery [last wording unclear]. Horizontal prototype: single layer; vertical prototype.
+Role descriptions: domain expert, requirements engineer (RE), system developer, software engineer, project manager. Human/social factor: processes are dominated by human, social and organizational factors. Stakeholder types: software engineering; system end-user; manager of system end-user; external regulators; domain expert.
+Factors influencing requirements: social issues; interaction among client, engineers and other systems. Three stakeholder groups in RE: client organization, requirements team, development team. Social activity is required for RE; know technical possibilities for these different groups.
+
+==========================================================================================
+FILE 40/45: Notes\Mudassir - WhatsApp Image 2026-10-26 at 8.22.15 PM.jpeg
+TYPE: .jpeg
+SIZE: 130948 bytes
+==========================================================================================
+[Verified byte-identical photo: reused its previously reviewed transcription.]
+[VISUALLY REVIEWED TEXT — 30 October 2026]
+MIXED SUBJECTS. Left XML=Extensible Markup Language,describes data. YAML human-readable,indentation matters,used in GitHub [as written]. JSON machine-to-machine exchange. Protocol Buffers(Protobuf):binary format,.proto schema defines message structure. Apache Avro:binary format includes schema alongside data,self-describing;schema evolution;Apache Hadoop mentioned. MessagePack,Cap'n Proto listed.
+Right SRE:requirements;DFG [letters unclear],SPS,state-transition,activity diagrams. Control-flow diagram uses conditional/loops. Cyclomatic complexity:edges,nodes. Types:class,dataflow,state-transition,ER diagram. Software Requirements Engineering process affected by social/cultural issues:system for people,used by people,built by people.
+[Handwriting normalized for readability. Unclear/cropped items are flagged. Student notes and printed exam wording are preserved as source material, not an independently validated answer key. Mixed-subject content is labelled; refer to original images for exact diagrams and symbols.]
+
+==========================================================================================
+FILE 41/45: Notes\Mudassir - WhatsApp Image 2026-10-26 at 8.22.47 PM.jpeg
+TYPE: .jpeg
+SIZE: 130997 bytes
+==========================================================================================
+[VISUALLY REVIEWED NOTES: readable content transcribed/normalized; diagram descriptions and unclear handwriting are marked. Student notes have not been independently validated.]
+Social values affect interaction. End user decides the success rate. RE is a social process involving interaction among client, engineers and other systems. Three major participating groups: client organization, requirements team, development team. Social issues occur at societal/global and country levels.
+Client organization issues: in large organizations clients are not obvious; intended system users may differ from those who interact with the requirements team; end users decide success. The requirements process reveals problems within the client organization; facilitate communication among stakeholders (example: sales versus security). Implementation of an automated system may have a profound impact on business processes and conflict with existing ways of working. How is information classified within the organization? Project success requires every group to understand different aspects of the new system.
+Requirements-team issues: how the work is organized and how this affects requirements. Issues between client organization and requirements team: financial arrangements; ethical obligations. [Some words are overwritten or cropped.]
+
+==========================================================================================
+FILE 42/45: Notes\Mudassir - WhatsApp Image 2026-10-26 at 8.22.48 PM.jpeg
+TYPE: .jpeg
+SIZE: 115633 bytes
+==========================================================================================
+[VISUALLY REVIEWED NOTES: readable content transcribed/normalized; diagram descriptions and unclear handwriting are marked. Student notes have not been independently validated.]
+Issues between client organization and requirements team: legal information, denial of information, management of changes. Development and requirements teams must work closely to resolve inconsistencies and get details.
+Cultural issues in RE: advances in Internet and communication technologies allow customers and developers to collaborate across geographically and temporally dispersed environments. Differences in time zones; language and terminology. It is not a training issue [handwriting uncertain]; it can cause misunderstanding. Religious and racial differences: insensitive comments about the religious and racial backgrounds of people involved in software engineering are a major hindrance to success. Margin reminder: do not think on assumptions; clarify assumptions; respect and do not violate others' norms.
+Ethical issues: access to confidential client information. Political differences: some people do not want to work on military software. Differences in business environments [heading only].
+
+==========================================================================================
+FILE 43/45: Notes\Mudassir - WhatsApp Image 2026-10-26 at 8.22.51 PM.jpeg
+TYPE: .jpeg
+SIZE: 112984 bytes
+==========================================================================================
+[VISUALLY REVIEWED NOTES: readable content transcribed/normalized; diagram descriptions and unclear handwriting are marked. Student notes have not been independently validated.]
+Design for modularity.
+Requirements paper has three question types: (1) memory-based; (2) analytical—understand the concept, then identify/analyze the problem; example: what kind of problem does a designer face? (3) evaluating—given a problem, give a solution; example: given the problem, which type of system is required?
+Network Lab: MCQs, questions and scenario-based questions.
+Separate workshop notes headed Trainer Farah Gul: numbered prompts/topics include primary purpose, best prompt, example of providing [context cropped], why include, step by step, advantage of [unclear], best prompt, should not be shared, iterative prompting, example of asking, factor that most [unclear], hallucination, why verify, prompt with useful constraints, all of the above, best prompt for [unfinished], prompt chaining, improve prompt, limitation of AI tools, best overall prompts. '60 [unit unclear]' and local-number scribbles. Remaining crossed-out practice sentences are not reliably legible; visible phrases include 'stop talking' and 'why are you so much talking'.
+
+==========================================================================================
+FILE 44/45: Notes\Mudassir - WhatsApp Image 2026-10-26 at 8.22.52 PM.jpeg
+TYPE: .jpeg
+SIZE: 65342 bytes
+==========================================================================================
+[VISUALLY REVIEWED NOTES: readable content transcribed/normalized; diagram descriptions and unclear handwriting are marked. Student notes have not been independently validated.]
+Group task: each group needs to do mind mapping and complete requirements against the selected topic/scenario by next week [one word before requirements unclear]. Prototyping list: (1) 'through' prototyping [possibly throwaway; wording uncertain], (2) horizontal prototyping, (3) vertical prototyping, (4) blank. Lower left page contains crossed-out practice writing, informal Urdu/Punjabi verse and isolated letters B, B, A, B, B, A / B, B, B, B, B, B, C, and 'solve the problem / which is'; no clear additional course requirement is legible.
+
+==========================================================================================
+FILE 45/45: Notes\Mudassir - WhatsApp Image 2026-10-26 at 8.22.56 PM.jpeg
+TYPE: .jpeg
+SIZE: 103064 bytes
+==========================================================================================
+[VISUALLY REVIEWED NOTES: readable content transcribed/normalized; diagram descriptions and unclear handwriting are marked. Student notes have not been independently validated.]
+Separate workshop sheet: Day 2, Prompt Engineering, dated 10 Sep 26. Margin: CNIC or domicile photocopy.
+It's not the tool, it's the task. Vague prompts force guessing; a clear prompt removes that guesswork entirely. Prompt: input given to an AI model to start or guide a response. Prompts may be data, tasks or instructions.
+Core prompt formula: goal, context, constraints, outputs, quality check. Weak prompts and strong prompts. Techniques: be clear and specific; define the output; add constraints; give examples; break complex tasks into steps; ask AI to clarify before acting.
+
+==========================================================================================
 EXTRACTION COVERAGE REPORT
 EXTRACTED: Lectures\applying-uml-and-patterns-3rd.pdf
 EXTRACTED: Lectures\OBE-Software Requirements Engineering_with_CLO_Mapping.pdf
@@ -65982,3 +66412,40 @@ EXTRACTED: Lectures\RE&S 3.pdf
 EXTRACTED: Lectures\RE&S 4.pdf
 EXTRACTED: Lectures\RE&S 5 updated.pdf
 EXTRACTED: Lectures\Software.Requirements.Developer.Best.Practices.1154.pdf
+VISUALLY_REVIEWED: Notes\Me - WhatsApp Image 2026-10-26 at 8.23.52 PM.jpeg
+VISUALLY_REVIEWED: Notes\Me - WhatsApp Image 2026-10-26 at 8.23.53 PM.jpeg
+VISUALLY_REVIEWED: Notes\Me - WhatsApp Image 2026-10-26 at 8.24.00 PM.jpeg
+VISUALLY_REVIEWED: Notes\Me - WhatsApp Image 2026-10-26 at 8.24.03 PM.jpeg
+VISUALLY_REVIEWED: Notes\Me - WhatsApp Image 2026-10-26 at 8.24.18 PM.jpeg
+VISUALLY_REVIEWED: Notes\Me - WhatsApp Image 2026-10-26 at 8.24.19 PM.jpeg
+VISUALLY_REVIEWED: Notes\Me - WhatsApp Image 2026-10-26 at 8.24.20 PM.jpeg
+VISUALLY_REVIEWED: Notes\Me - WhatsApp Image 2026-10-26 at 8.24.41 PM (1).jpeg
+VISUALLY_REVIEWED: Notes\Me - WhatsApp Image 2026-10-26 at 8.24.42 PM.jpeg
+VISUALLY_REVIEWED: Notes\Me - WhatsApp Image 2026-10-26 at 8.24.44 PM (1).jpeg
+VISUALLY_REVIEWED: Notes\Me - WhatsApp Image 2026-10-26 at 8.24.44 PM.jpeg
+VISUALLY_REVIEWED: Notes\Me - WhatsApp Image 2026-10-26 at 8.24.46 PM.jpeg
+VISUALLY_REVIEWED: Notes\Mudassir - WhatsApp Image 2026-10-26 at 8.19.40 PM (1).jpeg
+VISUALLY_REVIEWED: Notes\Mudassir - WhatsApp Image 2026-10-26 at 8.19.43 PM.jpeg
+VISUALLY_REVIEWED: Notes\Mudassir - WhatsApp Image 2026-10-26 at 8.19.47 PM.jpeg
+VISUALLY_REVIEWED: Notes\Mudassir - WhatsApp Image 2026-10-26 at 8.19.57 PM.jpeg
+VISUALLY_REVIEWED: Notes\Mudassir - WhatsApp Image 2026-10-26 at 8.20.32 PM.jpeg
+VISUALLY_REVIEWED: Notes\Mudassir - WhatsApp Image 2026-10-26 at 8.20.37 PM.jpeg
+VISUALLY_REVIEWED: Notes\Mudassir - WhatsApp Image 2026-10-26 at 8.20.38 PM (1).jpeg
+VISUALLY_REVIEWED: Notes\Mudassir - WhatsApp Image 2026-10-26 at 8.20.38 PM.jpeg
+VISUALLY_REVIEWED: Notes\Mudassir - WhatsApp Image 2026-10-26 at 8.20.57 PM.jpeg
+VISUALLY_REVIEWED: Notes\Mudassir - WhatsApp Image 2026-10-26 at 8.21.02 PM.jpeg
+VISUALLY_REVIEWED: Notes\Mudassir - WhatsApp Image 2026-10-26 at 8.21.07 PM.jpeg
+VISUALLY_REVIEWED: Notes\Mudassir - WhatsApp Image 2026-10-26 at 8.21.10 PM.jpeg
+VISUALLY_REVIEWED: Notes\Mudassir - WhatsApp Image 2026-10-26 at 8.21.44 PM.jpeg
+VISUALLY_REVIEWED: Notes\Mudassir - WhatsApp Image 2026-10-26 at 8.21.45 PM.jpeg
+VISUALLY_REVIEWED: Notes\Mudassir - WhatsApp Image 2026-10-26 at 8.22.00 PM.jpeg
+VISUALLY_REVIEWED: Notes\Mudassir - WhatsApp Image 2026-10-26 at 8.22.01 PM.jpeg
+VISUALLY_REVIEWED: Notes\Mudassir - WhatsApp Image 2026-10-26 at 8.22.05 PM.jpeg
+VISUALLY_REVIEWED: Notes\Mudassir - WhatsApp Image 2026-10-26 at 8.22.10 PM.jpeg
+VISUALLY_REVIEWED: Notes\Mudassir - WhatsApp Image 2026-10-26 at 8.22.12 PM.jpeg
+VISUALLY_REVIEWED: Notes\Mudassir - WhatsApp Image 2026-10-26 at 8.22.15 PM.jpeg
+VISUALLY_REVIEWED: Notes\Mudassir - WhatsApp Image 2026-10-26 at 8.22.47 PM.jpeg
+VISUALLY_REVIEWED: Notes\Mudassir - WhatsApp Image 2026-10-26 at 8.22.48 PM.jpeg
+VISUALLY_REVIEWED: Notes\Mudassir - WhatsApp Image 2026-10-26 at 8.22.51 PM.jpeg
+VISUALLY_REVIEWED: Notes\Mudassir - WhatsApp Image 2026-10-26 at 8.22.52 PM.jpeg
+VISUALLY_REVIEWED: Notes\Mudassir - WhatsApp Image 2026-10-26 at 8.22.56 PM.jpeg
