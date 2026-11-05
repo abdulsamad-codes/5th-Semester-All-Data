@@ -1,0 +1,4682 @@
+COMPLETE COURSE TEXT EXPORT
+COURSE FOLDER: Sir Umer Haroon - Software Construction and Development
+SOURCE: \\?\E:\Study Material\5th Semester All Data\Sir Umer Haroon - Software Construction and Development
+
+SCOPE: Full readable course text, except the three large reference books whose contents are omitted at user request. Python source files remain complete. Images use OCR; diagrams/layout cannot be fully represented in plain text. Unsupported files and errors are explicitly identified. Source files are unchanged.
+Excluded directory names: .env, .git, .idea, .mypy_cache, .nox, .pytest_cache, .ruff_cache, .tox, .venv, .vscode, __pycache__, dist-packages, env, node_modules, site-packages, vendor, venv
+This generated export excludes itself.
+
+REFRESHED: 2026-11-04. Temporary project-review files and environment/cache folders are excluded. Three large reference books remain intentionally listed without full text, following the earlier request.
+
+REFRESHED: 2026-11-04. Temporary project-review files and environment/cache folders are excluded. Three large reference books remain intentionally listed without full text, following the earlier request.
+
+FOLDER AND FILE STRUCTURE
+Sir Umer Haroon - Software Construction and Development/
+    |-- 2nd Class/
+        |-- simple_python_learning_class 2.py
+    |-- 3rd Class/
+        |-- prac1.py
+    |-- Final Projoect/
+        |-- docs/
+            |-- references/
+                |-- Assignment_1_SCD_IMSCIENCES.pdf
+                |-- CodeInspector_Project_Proposal.pdf
+            |-- backlog.md
+            |-- requirements.md
+            |-- requirements.pdf
+        |-- .gitignore
+        |-- CHANGELOG.md
+        |-- README.md
+    |-- Lectures/
+        |-- Others/
+            |-- Assignment_1_SCD_IMSCIENCES.pdf
+            |-- Clean.Code.A.Handbook.of.Agile.Software.Craftsmanship.pdf
+            |-- Code Complete 2nd.pdf
+            |-- Python for Programmers with Big Data and Artificial Intelligence Case Studies by Paul J. Deitel, Harvey Deitel (z-lib.org).pdf
+            |-- Software Construction and Development Outline for Students.pdf
+        |-- 1_SOFTWARE CONSTRUCTION AND DEVELOPMENT.pdf
+        |-- 2_SOFTWARE CONSTRUCTION AND DEVELOPMENT.pdf
+        |-- 2b_SOFTWARE CONSTRUCTION AND DEVELOPMENT_MuhammadUmerHaroon.pdf
+        |-- 3_SOFTWARE CONSTRUCTION AND DEVELOPMENT_MuhammadUmerHaroon.pdf
+        |-- 4_SOFTWARE CONSTRUCTION AND DEVELOPMENT_MuhammadUmerHaroon.pdf
+        |-- 5_SOFTWARE CONSTRUCTION AND DEVELOPMENT_MuhammadUmerHaroon.pdf
+        |-- 6_SOFTWARE CONSTRUCTION AND DEVELOPMENT_MuhammadUmerHaroon.pdf
+    |-- Mids/
+        |-- Notes/
+            |-- Me - WhatsApp Image 2026-10-26 at 8.23.46 PM.jpeg
+            |-- Me - WhatsApp Image 2026-10-26 at 8.23.48 PM.jpeg
+            |-- Me - WhatsApp Image 2026-10-26 at 8.23.57 PM.jpeg
+            |-- Me - WhatsApp Image 2026-10-26 at 8.24.07 PM.jpeg
+            |-- Me - WhatsApp Image 2026-10-26 at 8.24.24 PM.jpeg
+            |-- Me - WhatsApp Image 2026-10-26 at 8.24.36 PM.jpeg
+            |-- Me - WhatsApp Image 2026-10-26 at 8.24.39 PM.jpeg
+            |-- Me - WhatsApp Image 2026-10-26 at 8.24.45 PM.jpeg
+            |-- Mudassir - WhatsApp Image 2026-10-26 at 8.19.40 PM (1).jpeg
+            |-- Mudassir - WhatsApp Image 2026-10-26 at 8.19.40 PM.jpeg
+            |-- Mudassir - WhatsApp Image 2026-10-26 at 8.20.14 PM.jpeg
+            |-- Mudassir - WhatsApp Image 2026-10-26 at 8.20.17 PM.jpeg
+            |-- Mudassir - WhatsApp Image 2026-10-26 at 8.20.20 PM.jpeg
+            |-- Mudassir - WhatsApp Image 2026-10-26 at 8.20.45 PM.jpeg
+            |-- Mudassir - WhatsApp Image 2026-10-26 at 8.20.56 PM.jpeg
+            |-- Mudassir - WhatsApp Image 2026-10-26 at 8.20.57 PM.jpeg
+            |-- Mudassir - WhatsApp Image 2026-10-26 at 8.21.20 PM.jpeg
+            |-- Mudassir - WhatsApp Image 2026-10-26 at 8.21.23 PM.jpeg
+            |-- Mudassir - WhatsApp Image 2026-10-26 at 8.21.48 PM.jpeg
+            |-- Mudassir - WhatsApp Image 2026-10-26 at 8.21.49 PM.jpeg
+            |-- Mudassir - WhatsApp Image 2026-10-26 at 8.21.51 PM.jpeg
+            |-- Mudassir - WhatsApp Image 2026-10-26 at 8.21.57 PM.jpeg
+            |-- Mudassir - WhatsApp Image 2026-10-26 at 8.22.14 PM (1).jpeg
+            |-- Mudassir - WhatsApp Image 2026-10-26 at 8.22.15 PM.jpeg
+        |-- SCD_Theory_Umer_Haroon_Classroom_Text.txt
+
+EXCLUDED DIRECTORIES
+Final Projoect\tmp
+
+FILE CONTENTS
+
+==========================================================================================
+FILE 1/47: 2nd Class\simple_python_learning_class 2.py
+TYPE: .py
+SIZE: 238 bytes
+==========================================================================================
+colors = ['blue', 'yellow', 'green']
+colors.append('red')
+print(len(colors))
+colors.insert(2, 'purple')
+colors.append("red")
+colors.pop(0)
+print(colors)
+print(colors[::-1])
+print(colors[::2])
+
+
+colors.clear()
+print(colors)
+
+==========================================================================================
+FILE 2/47: 3rd Class\prac1.py
+TYPE: .py
+SIZE: 164 bytes
+==========================================================================================
+# bools = {True, 1, 0, 1, 0, False, True, True}
+# print(bools)
+# print()
+# print(bools)
+# print()
+# print(bools)
+
+arr = [5, 4, 2, 6, 1, 0, 9]
+
+x = min(arr)
+
+==========================================================================================
+FILE 3/47: Final Projoect\.gitignore
+TYPE: no extension
+SIZE: 170 bytes
+==========================================================================================
+# Python generated files and local environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Temporary files and generated analysis reports
+tmp/
+reports/
+
+# Local secrets
+.env
+
+==========================================================================================
+FILE 4/47: Final Projoect\CHANGELOG.md
+TYPE: .md
+SIZE: 1204 bytes
+==========================================================================================
+# Changelog
+
+## Unreleased
+
+- Clarified the workflow for focused commits on main and the exact Assignment 1 submission files.
+- Split the next development tasks into smaller pieces, with tests included in each task.
+
+## 0.1.2 - 19 October 2026
+
+Moved the original assignment and proposal into docs/references/ and updated the README links and folder overview. Requirements and application scope are unchanged.
+
+## 0.1.1 - 19 October 2026
+
+Shortened the README, requirements, and backlog while keeping the assignment details and project scope. Updated the matching PDF. No application features changed.
+
+## 0.1.0 - 19 October 2026
+
+Initial project planning and requirements baseline. No analyzer code is implemented yet.
+
+- Recorded project objectives, requirements, assumptions, and limitations.
+- Added selected PEP 8 checks following the instructor's recommendation.
+- Included the course's naming and function-design guidance.
+- Confirmed Abdul Samad as the sole member with instructor permission.
+- Recorded priorities, responsibilities, naming conventions, and version policy.
+- Kept AI-use detection as later research after the core checks.
+- Prepared a requirements PDF for review and submission.
+
+==========================================================================================
+FILE 5/47: Final Projoect\docs\backlog.md
+TYPE: .md
+SIZE: 1222 bytes
+==========================================================================================
+# Task Backlog
+
+All tasks belong to Abdul Samad. Individual work has instructor permission.
+
+| Task | Priority | Status |
+| --- | --- | --- |
+| Requirements, PDF, README, and repository conventions | First | Prepared; personal review pending |
+| Public repository and initial version tag | First | Verified |
+| Submit repository link and requirements PDF | First | Pending |
+| Discover Python files and skip excluded folders | High - next | To do |
+| Parse source safely and handle file/syntax errors | High | To do |
+| Add PEP 8 naming checks | High | To do |
+| Add PEP 8 formatting checks | High | To do |
+| Add course function rules | High | To do |
+| Check README/test files and empty functions | High | To do |
+| Add settings and readable reports | High | To do |
+| Add unused imports and duplicate checks | Later | To do |
+| Add report export and explained scoring | Later | To do |
+| Research AI-use detection and false positives | Optional | Later research |
+
+Add relevant tests with each implemented check, including valid examples, violations, and error cases. A task is done when those checks pass and the documentation matches its behavior. Update this backlog and commit each completed task directly to main.
+
+==========================================================================================
+FILE 6/47: Final Projoect\docs\references\Assignment_1_SCD_IMSCIENCES.pdf
+TYPE: .pdf
+SIZE: 632684 bytes
+==========================================================================================
+--- PAGE 1 ---
+Engr. Muhammad Umer Haroon
+
+
+
+
+
+Assignment 1
+
+
+
+
+
+SOFTWARE CONSTRUCTION AND
+DEVELOPMENT
+“Project Initiation, Git Collaboration, and
+Requirements Documentation”
+
+--- PAGE 2 ---
+Objective: To initiate your semester project using collaborative software development practices,
+establish a shared Git repository, and document the initial requirements of your project using an
+agile approach.
+
+Tasks
+
+1. Create a Shared Git Repository
+
+       Create a public repository on GitHub for your semester project.
+      Each group must consist of multiple members. Exceptionally one, who has taken
+       permission.
+      Add all group members as collaborators and ensure that everyone contributes to the same
+        repository.
+      Each member must use their own GitHub account and make meaningful contributions
+       through commits.
+      Maintain a complete and traceable record of project development using Git commits.
+      Use meaningful commit messages that clearly describe the changes made.
+
+2. Document Project Requirements
+
+Prepare a lightweight requirements document for your project. A formal Software Requirements
+Specification (SRS) is not required.
+
+The document should include:
+
+       Project title and group member details.
+      A brief description of the problem being addressed.
+       Project objectives and intended users.
+       Initial functional requirements, describing what the application should do.
+       Relevant non-functional requirements, where applicable.
+      A prioritized list of features or a simple product backlog.
+       Initial assumptions, constraints, and known limitations.
+
+Follow an agile approach: document the requirements clearly enough to guide development, while
+recognizing that they may evolve as the project progresses.
+
+
+
+
+
+Designed by : Engr. Muhammad Umer Haroon
+
+--- PAGE 3 ---
+3. Organize and Maintain the Repository
+
+       Include the requirements document in the repository.
+      Use a clear and consistent folder structure.
+       Include a README.md file containing the project overview, group members, and current
+        project status.
+       Establish and follow a consistent naming convention for files, folders, and project versions.
+      Use Git commits and tags to maintain a history of changes and significant project versions.
+
+For project versions, you may use a convention such as v0.1.0 for an initial development version
+and v1.0.0 for the first complete release. Do not create separate copies of files merely to represent
+different versions; use Git history and tags instead.
+
+4. Work as an Agile Team
+
+      Divide initial responsibilities among group members.
+      Maintain a simple task list or product backlog.
+      Ensure that all group members participate in project development and repository activities.
+      Update the requirements and task list as the project evolves.
+
+Submission Requirements
+
+Submit the following:
+
+    1.  Public GitHub repository link — the repository must be accessible without requesting
+       permission.
+    2.  Requirements document — submitted as a PDF or other instructor-approved format.
+    3.  Repository copy of the requirements document — the same document must also be
+      committed to the repository.
+
+Only one submission per group is required. One designated group member may submit the
+repository link and requirements document on behalf of the entire group.
+
+However, all group members are individually responsible for contributing to and understanding
+the work in the shared repository.
+
+Important: This assignment establishes the foundation for subsequent project milestones. Your
+repository, requirements, and development history should be maintained throughout the semester
+rather than created only for submission. Copied  / plagiarized, massively AI generated work,
+(identical working or identical mistakes) will receive zero for everyone involved. Random students
+may be asked to explain their solutions in a short viva.
+
+
+
+
+
+Designed by : Engr. Muhammad Umer Haroon
+
+==========================================================================================
+FILE 7/47: Final Projoect\docs\references\CodeInspector_Project_Proposal.pdf
+TYPE: .pdf
+SIZE: 4088 bytes
+==========================================================================================
+--- PAGE 1 ---
+CodeInspector
+                     A Clean Code Evaluator for Student Python Projects
+                  Software Construction and Development | Semester Project | Abdul Samad
+What it is
+CodeInspector is a Python tool that reads a student's Python project folder and checks how clean and
+complete it is. It checks the code against the rules taught in our Software Construction and Development
+course, then gives a simple report with a score and tips to improve.
+What it will cover
+•  Function rules from the course: small functions, indent level of one or two, ideal 0 to 2 arguments (flag 3
+   or more), one entry and one exit, and avoiding recursion (including whether a recursive call is a tail call).
+•  Naming: flags very short or meaningless names (like d or x) and checks whether function names start with
+  a verb.
+•  Duplicate code: finds functions with very similar bodies.
+•  Completeness: missing README or tests, empty functions, and unused imports.
+•  AI-use estimate: a rough guess based on style signals, such as very uniform comments or generic
+  names.
+How it works
+•  The user gives the tool the path of a project folder.
+•  The tool reads each Python file and breaks it into its structure using Python's built-in ast module. The
+  code is only read, never run.
+•  Each rule is a separate check. Every check looks at the structure and records any problem it finds.
+• A settings file holds the limits (for example, maximum function length or maximum arguments), so rules
+  can be changed or turned off.
+•  The results are combined into one report: a score for each area, an overall score, and a list of problems
+   with file and line.
+Boundaries (what it will not do)
+•   It works on Python projects only.
+•   It does not run the student's code, so it cannot say whether the program works or gives correct output.
+•   It checks style and structure, not whether the idea or logic of the project is good.
+•  The AI-use number is only a rough estimate. No tool can prove who wrote a piece of code.
+• Name checks can only flag names that are too short or too generic. It cannot fully judge whether a name
+   "reveals intent".
+•   It will not check reuse across projects or teams.
+•  The "industry-ready" score is only a combination of the other scores, not a real industry judgement.
+Plan to keep the scope small
+Phase 1: naming checks and completeness checks, plus the report. Phase 2: function rules (size,
+indentation, arguments, returns, recursion). Phase 3, if time allows: duplicate code, the AI-use estimate,
+and the overall score.
+
+==========================================================================================
+FILE 8/47: Final Projoect\docs\requirements.md
+TYPE: .md
+SIZE: 5800 bytes
+==========================================================================================
+# CodeInspector - Project Requirements
+
+19 October 2026 | Document revision 0.1.1
+
+Software Construction and Development, IMSciences
+
+Instructor: Engr. Muhammad Umer Haroon
+
+## Project and Member
+
+CodeInspector will review Python student projects for clean code and completeness.
+
+Abdul Samad | BSSE, Group A | Semester 5 | Roll number 2
+
+GitHub: abdulsamad-codes
+
+Repository: https://github.com/abdulsamad-codes/CodeInspector
+
+This is an individual project with instructor permission. I will handle requirements, coding, testing, documentation, and Git updates.
+
+## Problem and Purpose
+
+A program may work but still have confusing names, large functions, inconsistent formatting, or missing documentation. CodeInspector will help students notice these issues and give instructors a starting point for review.
+
+Sir Umer suggested researching PEP 8 when reviewing the idea. The project will use selected PEP 8 style guidance alongside the clean code rules from the course slides.
+
+## What the Tool Should Do
+
+1. Accept a local project folder and find Python files, skipping Git data, virtual environments, and generated files. Avoid following links outside that folder.
+2. Read and parse files without running or importing them. Explain invalid paths, syntax errors, and unreadable files; continue with other files where possible.
+3. Check selected PEP 8 naming rules: snake_case functions/variables, CapWords classes, lowercase modules/packages, and uppercase constants where identifiable. Respect special names and conventional self/cls arguments.
+4. Check selected formatting rules: four-space block indentation, line lengths, blank lines, whitespace, and simple import layout. Start with 79-character code lines and 72-character comment/docstring lines, allowing configuration and valid continuation-line exceptions.
+5. Apply course rules about short functions, shallow nesting, argument counts, multiple returns, loop control, and direct recursion. Review tail-call patterns where feasible. These are separate from PEP 8.
+6. Identify missing README/test files and empty functions. Recognize common README formats and test_*.py or *_test.py files.
+7. Produce a readable report with the rule, file, line where relevant, and a suggestion. Separate PEP 8, course, and completeness findings. Clearly report files that could not be checked.
+8. Allow supported checks to be disabled and thresholds changed through a settings file. Reject invalid settings clearly.
+9. Later, add unused-import and duplicate-function checks, report export, and scores with an explained calculation. Disabled checks must not reduce scores.
+10. After the core works, research AI-use detection. Evaluate false positives before including it; any result must be labelled experimental rather than proof of authorship.
+
+The first interface will be a local command-line tool. AST will handle structure; source text and tokens will support formatting checks.
+
+For course checks, initial configurable limits are 20 physical lines per function, nesting depth 2 including the function body, and 2 explicit parameters excluding self/cls. The 20-line limit is my project choice, not a number specified in the slides. Nested functions will be checked separately.
+
+## Quality Requirements
+
+- Keep analysis local and leave the input files unchanged.
+- Use separate, focused functions for reading files, checking rules, and reporting.
+- Give understandable errors and consistent results for the same input/settings.
+- Target Python 3.11 or newer initially and avoid machine-specific paths.
+- Test valid examples, violations, boundary cases, exceptions, and the guarantee that target code is never executed.
+- Document supported checks and actual usage as development progresses.
+
+## Priorities and Responsibilities
+
+First complete planning, then file reading/parsing, naming and formatting checks, course rules, completeness checks, settings, and reports. Unused imports, duplicate checks, exports, and scoring follow. AI-use detection comes last as research.
+
+I own all tasks. The current task list is in docs/backlog.md. A task is done when its checks pass, its documentation is updated, and a meaningful commit records the work.
+
+## Assumptions and Limits
+
+The tool is intended for small, readable Python student projects. Syntax support depends on the Python interpreter used. A web interface, database, and cross-team plagiarism detection are outside the initial scope.
+
+Static checks cannot prove correct logic, meaningful names, or good design. Test files do not prove coverage. Dynamic Python behavior may cause missed findings or false positives. A score only summarizes the checks performed; incomplete scans must be marked clearly.
+
+PEP 8 does not ban every short name or set limits on function size and argument counts. Those extra checks come from the course/project. Python does not optimize tail recursion. AI-associated style signals cannot reliably establish authorship.
+
+## Repository and Submission
+
+Use the naming and version conventions in README.md. Keep actual work in meaningful commits and tag significant milestones instead of saving duplicate versions. v0.1.0 marks the planning baseline; the application is not implemented yet.
+
+Update this file and docs/requirements.pdf together as requirements change. Review the work before submitting the public repository URL and the exact committed PDF. Keep the backlog and development history current throughout the semester.
+
+## References
+
+- Assignment_1_SCD_IMSCIENCES.pdf, pages 2-3, and CodeInspector_Project_Proposal.pdf.
+- Official PEP 8: https://peps.python.org/pep-0008/
+- Course slides: Lecture 1 (naming), Lecture 2 (reuse and small functions), Lecture 2b (arguments, returns, and recursion), Lecture 3 (releases and versions), and Lecture 4 (text patterns).
+
+==========================================================================================
+FILE 9/47: Final Projoect\docs\requirements.pdf
+TYPE: .pdf
+SIZE: 5447 bytes
+==========================================================================================
+--- PAGE 1 ---
+CodeInspector - Project Requirements
+
+ 19 October 2026 | Document revision 0.1.1
+ Software Construction and Development, IMSciences
+ Instructor: Engr. Muhammad Umer Haroon
+ Project and Member
+ CodeInspector will review Python student projects for clean code and completeness.
+ Abdul Samad | BSSE, Group A | Semester 5 | Roll number 2
+ GitHub: abdulsamad-codes
+ Repository: https://github.com/abdulsamad-codes/CodeInspector
+ This is an individual project with instructor permission. I will handle requirements, coding, testing,
+ documentation, and Git updates.
+ Problem and Purpose
+ A program may work but still have confusing names, large functions, inconsistent formatting, or missing
+ documentation. CodeInspector will help students notice these issues and give instructors a starting point for
+ review.
+ Sir Umer suggested researching PEP 8 when reviewing the idea. The project will use selected PEP 8 style
+ guidance alongside the clean code rules from the course slides.
+ What the Tool Should Do
+ 1. Accept a local project folder and find Python files, skipping Git data, virtual environments, and generated files.
+ Avoid following links outside that folder.
+ 2. Read and parse files without running or importing them. Explain invalid paths, syntax errors, and unreadable
+  files; continue with other files where possible.
+ 3. Check selected PEP 8 naming rules: snake_case functions/variables, CapWords classes, lowercase
+ modules/packages, and uppercase constants where identifiable. Respect special names and conventional
+  self/cls arguments.
+ 4. Check selected formatting rules: four-space block indentation, line lengths, blank lines, whitespace, and
+ simple import layout. Start with 79-character code lines and 72-character comment/docstring lines, allowing
+ configuration and valid continuation-line exceptions.
+ 5. Apply course rules about short functions, shallow nesting, argument counts, multiple returns, loop control, and
+ direct recursion. Review tail-call patterns where feasible. These are separate from PEP 8.
+ 6. Identify missing README/test files and empty functions. Recognize common README formats and test_*.py
+ or *_test.py files.
+ 7. Produce a readable report with the rule, file, line where relevant, and a suggestion. Separate PEP 8, course,
+ and completeness findings. Clearly report files that could not be checked.
+ 8. Allow supported checks to be disabled and thresholds changed through a settings file. Reject invalid settings
+  clearly.
+ 9. Later, add unused-import and duplicate-function checks, report export, and scores with an explained
+ calculation. Disabled checks must not reduce scores.
+ 10. After the core works, research AI-use detection. Evaluate false positives before including it; any result must
+ be labelled experimental rather than proof of authorship.
+ The first interface will be a local command-line tool. AST will handle structure; source text and tokens will
+ support formatting checks.
+
+
+
+
+CodeInspector | Requirements 0.1.1                                                                                    1
+
+--- PAGE 2 ---
+For course checks, initial configurable limits are 20 physical lines per function, nesting depth 2 including the
+ function body, and 2 explicit parameters excluding self/cls. The 20-line limit is my project choice, not a number
+ specified in the slides. Nested functions will be checked separately.
+ Quality Requirements
+  - Keep analysis local and leave the input files unchanged.
+  - Use separate, focused functions for reading files, checking rules, and reporting.
+  - Give understandable errors and consistent results for the same input/settings.
+  - Target Python 3.11 or newer initially and avoid machine-specific paths.
+  - Test valid examples, violations, boundary cases, exceptions, and the guarantee that target code is never
+ executed.
+  - Document supported checks and actual usage as development progresses.
+ Priorities and Responsibilities
+  First complete planning, then file reading/parsing, naming and formatting checks, course rules, completeness
+ checks, settings, and reports. Unused imports, duplicate checks, exports, and scoring follow. AI-use detection
+ comes last as research.
+  I own all tasks. The current task list is in docs/backlog.md. A task is done when its checks pass, its
+ documentation is updated, and a meaningful commit records the work.
+ Assumptions and Limits
+ The tool is intended for small, readable Python student projects. Syntax support depends on the Python
+ interpreter used. A web interface, database, and cross-team plagiarism detection are outside the initial scope.
+ Static checks cannot prove correct logic, meaningful names, or good design. Test files do not prove coverage.
+ Dynamic Python behavior may cause missed findings or false positives. A score only summarizes the checks
+ performed; incomplete scans must be marked clearly.
+ PEP 8 does not ban every short name or set limits on function size and argument counts. Those extra checks
+ come from the course/project. Python does not optimize tail recursion. AI-associated style signals cannot
+  reliably establish authorship.
+ Repository and Submission
+ Use the naming and version conventions in README.md. Keep actual work in meaningful commits and tag
+ significant milestones instead of saving duplicate versions. v0.1.0 marks the planning baseline; the application is
+ not implemented yet.
+ Update this file and docs/requirements.pdf together as requirements change. Review the work before submitting
+ the public repository URL and the exact committed PDF. Keep the backlog and development history current
+ throughout the semester.
+ References
+  - Assignment_1_SCD_IMSCIENCES.pdf, pages 2-3, and CodeInspector_Project_Proposal.pdf.
+  - Official PEP 8: https://peps.python.org/pep-0008/
+  - Course slides: Lecture 1 (naming), Lecture 2 (reuse and small functions), Lecture 2b (arguments, returns, and
+ recursion), Lecture 3 (releases and versions), and Lecture 4 (text patterns).
+
+
+
+
+
+CodeInspector | Requirements 0.1.1                                                                                    2
+
+==========================================================================================
+FILE 10/47: Final Projoect\README.md
+TYPE: .md
+SIZE: 3501 bytes
+==========================================================================================
+# CodeInspector
+
+A clean code evaluator for student Python projects.
+
+This is my semester project for Software Construction and Development at IMSciences, taught by Engr. Muhammad Umer Haroon. It will read a Python project and suggest improvements to its naming, formatting, functions, and missing documentation.
+
+**Current status:** Assignment 1 documents are prepared. The analyzer is planned; implementation has not started.
+
+## About Me
+
+Abdul Samad | BSSE, Group A | Semester 5 | Roll number 2
+
+GitHub: [abdulsamad-codes](https://github.com/abdulsamad-codes)
+
+I am working individually with the instructor's permission and will handle development, testing, documentation, and Git updates.
+
+## What It Will Check
+
+- Selected PEP 8 naming and formatting rules, as suggested by Sir Umer.
+- Course rules about small functions, nesting, arguments, returns, and recursion.
+- Missing README/test files and empty functions.
+- Unused imports, similar functions, and scores in a later stage.
+
+AI-use detection is also a research goal for later. It cannot prove who wrote a piece of code.
+
+The tool will run locally from the command line. It will use Python's `ast` module for code structure and text/token checks for formatting, without executing the project's code. Reports will show issues, file locations, and suggestions. Supported rules and limits will be configurable.
+
+## Project Files
+
+- [Requirements](docs/requirements.md) and [submission PDF](docs/requirements.pdf)
+- [Task backlog](docs/backlog.md)
+- [Version history](CHANGELOG.md)
+- Original [assignment](docs/references/Assignment_1_SCD_IMSCIENCES.pdf) and [proposal](docs/references/CodeInspector_Project_Proposal.pdf) in `docs/references/`
+
+```text
+CodeInspector/
+|-- .gitignore
+|-- README.md
+|-- CHANGELOG.md
+`-- docs/
+    |-- requirements.md
+    |-- requirements.pdf
+    |-- backlog.md
+    `-- references/
+        |-- Assignment_1_SCD_IMSCIENCES.pdf
+        `-- CodeInspector_Project_Proposal.pdf
+```
+
+Application code and tests will be added when development begins.
+
+## Naming and Versions
+
+Use descriptive `snake_case` names for functions, variables, and modules, `CapWords` for classes, and `UPPER_SNAKE_CASE` for constants. Folders and ordinary documents use lowercase names; standard files such as README.md keep their usual names.
+
+Work will be recorded directly on `main` in focused commits after checking each change. Commit messages will describe the actual change, for example `docs: clarify requirements` or `feat: check function names`.
+
+Significant milestones use annotated `vMAJOR.MINOR.PATCH` tags: major for incompatible changes after the stable release, minor for features, and patch for fixes. During early 0.x development, interfaces may change. Git history replaces numbered copies of files. Routine wording edits do not need a new tag.
+
+`v0.1.0` marks the initial planning work. `v1.0.0` will mark the first complete version. The requirements and backlog will be updated during the semester.
+
+These checks provide feedback, not proof of program correctness or complete PEP 8 compliance.
+
+## Assignment 1 Submission
+
+Review the requirements, then submit this public repository link and [docs/requirements.pdf](docs/requirements.pdf). The PDF is the same document kept in the repository. Requirements, responsibilities, and progress will continue to be updated during the semester.
+
+Repository: [CodeInspector](https://github.com/abdulsamad-codes/CodeInspector)
+
+Reference: [PEP 8](https://peps.python.org/pep-0008/)
+
+==========================================================================================
+FILE 11/47: Lectures\1_SOFTWARE CONSTRUCTION AND DEVELOPMENT.pdf
+TYPE: .pdf
+SIZE: 841533 bytes
+==========================================================================================
+--- PAGE 1 ---
+[OCR: may contain recognition errors]
+clas
+
+o ule
+
+class ModuleA { }
+
+export function build()
+
+{ components: [J )
+
+SOFTWARE
+
+rin (IHe
+
+CONSTRUCTION
+
+AND DEVELOPMENT
+
+Engr. Muhammad Umer Haroon Port f
+
+unction build
+
+{c
+
+m ponents•
+
+--- PAGE 2 ---
+SOFTWARE CONSTRUCTION
+  AND DEVELOPMENT
+
+              Muhammad Umer Haroon
+
+--- PAGE 3 ---
+Introduction
+
+
+
+
+
+                                                                     Engr. Muhammad Umer Haroon
+
+--- PAGE 4 ---
+Course/Class Expectations
+
+• Phones silent and away · No gum chewing
+• Arrive on time · Respect everyone
+• Minimum 75% attendance
+• Submit assessments on time
+• No cheating or plagiarism
+
+
+
+
+
+                                                                     Engr. Muhammad Umer Haroon
+
+--- PAGE 5 ---
+• What is Software ?
+• What is Programming ?
+• What is code ?
+
+
+
+
+
+                                                                     Engr. Muhammad Umer Haroon
+
+--- PAGE 6 ---
+• Software Engineering emphasizes not to code .
+
+• Sounds contradictory ?
+
+• But to engineer software .
+
+
+
+
+
+                                                                     Engr. Muhammad Umer Haroon
+
+--- PAGE 7 ---
+• Is it a theoretical subject ?
+
+
+
+
+
+                                                                     Engr. Muhammad Umer Haroon
+
+--- PAGE 8 ---
+Is construction and development same ?
+
+
+
+
+
+                                                                     Engr. Muhammad Umer Haroon
+
+--- PAGE 9 ---
+• Software construction refers to the detailed creation of software
+ through    coding,   debugging,   and    testing.     It    involves
+ transforming software design into executable code and integrating
+  individual software components into a functioning whole.
+• Software construction is a core activity in most software development
+  life cycles, following design and requirements analysis. It focuses on
+  practical considerations and constraints in building working software
+ from blueprints.
+
+
+
+
+
+                                                                     Engr. Muhammad Umer Haroon
+
+--- PAGE 10 ---
+• Key activities in software construction include coding, following best
+  practices  and  standards,  managing  dependencies,  integrating
+ components, verifying code quality, and debugging.
+• Construction may involve creating new code, reusing existing code, or
+ both.
+• The goal is to produce high-quality, maintainable software that meets
+ requirements and design specifications. Careful construction is crucial
+  for creating secure, reliable software.
+
+
+
+
+
+                                                                     Engr. Muhammad Umer Haroon
+
+--- PAGE 11 ---
+SOFTWARE CONSTRUCTION FUNDAMENTALS
+
+• minimizing complexity
+• anticipating change
+• constructing for verification
+• Reuse
+• standards in construction.
+
+
+The first four concepts apply to design as well as to construction.
+
+
+
+
+
+                                                                     Engr. Muhammad Umer Haroon
+
+--- PAGE 12 ---
+• Software construction - > code - > clean code
+
+
+
+
+
+                                                                     Engr. Muhammad Umer Haroon
+
+--- PAGE 13 ---
+[OCR: may contain recognition errors]
+Michael Feathers, author of Working
+
+Effectively with Legacy Code
+
+I could list all of the qualities that I notice in
+
+clean code, but there is one overarching quality
+
+that leads to all of them. Clean code always
+
+looks like it was written by someone who cares.
+
+There is nothing obvious that you can do to
+
+make it better. All of those things were thought
+
+about by the code's author, and if you try to
+
+imagine improvements, you're led back to
+
+where you are, sitting in appreciation of the
+
+code someone left for you—code left by some-
+
+one who cares deeply about the craft.
+
+Engr. Muhammad Umer Haroon
+
+--- PAGE 14 ---
+Naming
+
+• Naming of what ? Choosing good names takes time but saves more
+ than it takes.
+• So take care with your names and change them when you find better
+ ones. Everyone who reads your code (including you) will be happier if
+ you do
+
+
+
+
+
+                                                                     Engr. Muhammad Umer Haroon
+
+--- PAGE 15 ---
+• The name of a variable, function, or class, should answer all the big
+  questions. It should tell you why it exists, what it does, and how it is
+ used.
+• If a name requires a comment, then the name does not reveal its
+  intent. E.g ?????
+
+
+
+• int d; // elapsed time in days
+
+
+
+
+
+                                                                     Engr. Muhammad Umer Haroon
+
+--- PAGE 16 ---
+int d;
+
+• The name d reveals nothing.  It does not evoke a sense of elapsed
+  time, nor of days.
+• We should choose a name that specifies what is being measured and
+ the unit of that measurement.
+int elapsedTimeInDays;
+ int daysSinceCreation;
+ int daysSinceModification;
+ int fileAgeInDays;
+
+
+
+
+
+                                                                     Engr. Muhammad Umer Haroon
+
+--- PAGE 17 ---
+LIST , TUPLE , DICTIONARY
+
+• List and tuple operations
+• How to add , append, remove ,delete ,sort ,reverse, replace ,typecast
+ ,concatenate
+
+
+
+
+
+                                                                     Engr. Muhammad Umer Haroon
+
+--- PAGE 18 ---
+[OCR: may contain recognition errors]
+Engr. Muhammad Umer Haroon
+
+--- PAGE 19 ---
+For queries
+
+
+Office : B05, RSB
+Counselling Hours :
+
+                    Monday                   11:00 am -12:00 pm
+
+                       Tuesday                   12:00 pm -1:00 pm
+
+                        Thursday                  10:15 am -11:15 am
+
+
+mumer.haroon@imsciences.edu.pk
+Muhammad Umer Haroon | LinkedIn
+
+
+
+
+
+                                                                     Engr. Muhammad Umer Haroon
+
+==========================================================================================
+FILE 12/47: Lectures\2_SOFTWARE CONSTRUCTION AND DEVELOPMENT.pdf
+TYPE: .pdf
+SIZE: 1135069 bytes
+==========================================================================================
+--- PAGE 1 ---
+[OCR: may contain recognition errors]
+clas
+
+o ule
+
+class ModuleA { }
+
+export function build()
+
+{ components: [J )
+
+SOFTWARE
+
+rin (IHe
+
+CONSTRUCTION
+
+AND DEVELOPMENT
+
+Engr. Muhammad Umer Haroon Port f
+
+unction build
+
+{c
+
+m ponents•
+
+--- PAGE 2 ---
+SOFTWARE CONSTRUCTION
+  AND DEVELOPMENT
+
+                     WEEK 3
+
+--- PAGE 3 ---
+RECALL LAST 2 WEEKS
+
+
+
+
+
+                                                                     Engr. Muhammad Umer Haroon                                                     3
+
+--- PAGE 4 ---
+• SCD , Naming
+• Variable declaration
+• Decision statements
+• print
+• Formatted string , lists ,list operations , tuples
+
+
+
+
+
+                                                                     Engr. Muhammad Umer Haroon                                                     4
+
+--- PAGE 5 ---
+SET
+
+• Set items are unchangeable, but you can remove items and add new
+  items. No duplicate items. curly braces.
+
+
+
+
+
+                                                                     Engr. Muhammad Umer Haroon                                                     5
+
+--- PAGE 6 ---
+print("Learning Sets in Python")
+example_set = {"cd70",125,'GS150','hayabusa'}
+# every time it will display in random order
+print(example_set)
+#lets try duplicates
+example_set = {"cd70",125,'GS150','hayabusa',125,125,'hayabusa'}
+print(example_set)
+
+
+
+
+
+                                                                     Engr. Muhammad Umer Haroon                                                     6
+
+--- PAGE 7 ---
+Write its output
+
+
+example_set2={True,1,1,0,0,True,False}
+ print(example_set2)
+
+
+Output : {0, True}
+
+
+Explore and understand in lab
+
+
+
+
+
+                                                                     Engr. Muhammad Umer Haroon                                                     7
+
+--- PAGE 8 ---
+Functions & Reusability
+Functions & Reusability
+
+
+
+
+
+                                                                     Engr. Muhammad Umer Haroon                                                     8
+
+--- PAGE 9 ---
+Reusability
+
+• Reusability means designing the system so that you can reuse pieces
+  of it in other systems.
+• Reusability The extent to which and the ease with which you can use
+  parts of a system in other systems.
+
+
+
+
+
+                                                                     Engr. Muhammad Umer Haroon                                                     9
+
+--- PAGE 10 ---
+Duplicated code is a liability. Every copy is a place bugs can hide and a
+place you must update.
+
+
+
+
+
+                                                                     Engr. Muhammad Umer Haroon                                                    10
+
+--- PAGE 11 ---
+No function code
+# Version 1 No functions
+students = ["Ali", "Sara", "Bilal"]
+for name in students:
+  print("=" * 30)
+  print("Student:", name)
+  print("=" * 30)
+
+teachers = ["Dr. Khan", "Ms. Ayesha"]
+for name in teachers:
+  print("=" * 30)
+  print("Teacher:", name)
+  print("=" * 30)
+
+
+                                                                     Engr. Muhammad Umer Haroon                                                    11
+
+--- PAGE 12 ---
+Same code with function
+
+
+def print_banner(label, name):
+  print("=" * 30)
+  print(f"{label}: {name}")
+  print("=" * 30)
+
+for name in ["Ali", "Sara", "Bilal"]:
+  print_banner("Student", name)
+
+for name in ["Dr. Khan", "Ms. Ayesha"]:
+  print_banner("Teacher", name)
+
+
+
+
+                                                                     Engr. Muhammad Umer Haroon                                                    12
+
+--- PAGE 13 ---
+Three Levels of Reuse
+
+Level                   Description           Example
+
+                          Calling a function
+Within a file            multiple times in one   print_banner() above
+                           script
+
+                       Importing a function   from utils import
+Across files / modules
+                         into other programs    print_banner
+
+Across projects /        Publishing a library or   requests, numpy, pand
+teams                package               as
+
+
+                                                                       Engr. Muhammad Umer Haroon                                                    13
+
+--- PAGE 14 ---
+Function vs routine vs method vs procedure
+
+
+The terms function, routine, method, and procedure are often used
+interchangeably in programming, but they each have distinct meanings
+depending on the context and programming paradigm.
+
+
+
+
+
+                                                                     Engr. Muhammad Umer Haroon                                                    14
+
+--- PAGE 15 ---
+Function (generally)
+
+• A function is a block of organized, reusable code that is used to
+ perform a single, related action. Functions provide better modularity
+  for your application and a high degree of code reusing.
+
+
+
+
+
+                                                                     Engr. Muhammad Umer Haroon                                                    15
+
+--- PAGE 16 ---
+FUNCTION
+
+• A function is a routine that returns a value; a procedure is a routine
+  that does not.
+
+
+
+
+
+                                                                     Engr. Muhammad Umer Haroon                                                    16
+
+--- PAGE 17 ---
+Routine
+
+• The term routine is a more general term that can refer to any named
+ block of code that can be called to perform a task. It encompasses
+ both functions and procedures. In many contexts, "routine" is used
+ synonymously with "subroutine," which  is a broader term that
+  includes any callable code segment, whether it returns a value or not
+
+
+
+                                 Those words  routine and sub routines have mostly
+                                    disappeared in modern languages. They were used in
+                                       older programming languages. E.g Basic
+
+
+
+
+
+                                                                     Engr. Muhammad Umer Haroon                                                    17
+
+--- PAGE 18 ---
+Procedure
+
+• In short, use a function if the primary purpose of the routine is to
+  return the value indicated by the function name. Otherwise, use a
+ procedure.
+
+
+
+
+
+                                                                     Engr. Muhammad Umer Haroon                                                    18
+
+--- PAGE 19 ---
+Method
+
+• A method is similar to a function but is specifically associated with an
+  object in object-oriented programming (OOP).
+•  It is defined within a class and usually operates on data contained
+  within that class (the instance or class itself).
+• The first parameter of a method in many languages (like Python) is
+  typically self, which refers to the instance of the class.
+
+
+
+
+
+                                                                     Engr. Muhammad Umer Haroon                                                    19
+
+--- PAGE 20 ---
+When to Use a Function and When to Use a
+Procedure.
+
+• Purists argue that a function should return only one value, just as a
+ mathematical function does. This means that a function would take
+ only input parameters and return its only value through the function
+  itself.
+• The function would always be named for the value it returned, as
+  sin(), CustomerID(), and ScreenHeight() are.
+
+
+
+
+
+                                                                     Engr. Muhammad Umer Haroon                                                    20
+
+--- PAGE 21 ---
+Function example
+
+
+def square(number):
+  return number * number
+
+
+# Using the function
+result = square(5)
+print("The square of 5 is:", result) # Output: The square of 5 is: 25
+
+
+
+
+
+                                                                     Engr. Muhammad Umer Haroon                                                    21
+
+--- PAGE 22 ---
+Procedure example
+
+
+def add_to_list(item, my_list):
+  my_list.append(item)
+
+
+# Using the procedure
+my_numbers = [1, 2, 3]
+add_to_list(4, my_numbers)
+print("Updated list:", my_numbers) # Output: Updated list: [1, 2, 3, 4]
+
+
+
+
+
+                                                                     Engr. Muhammad Umer Haroon                                                    22
+
+--- PAGE 23 ---
+Function       Procedure
+
+                                  No , performs an
+                       Yes ,always returns
+Returns a value?                                  action, returns nothing
+                     something
+                                                   (or void)
+
+                                           Perform an action /
+Purpose             Compute a result
+                                                 side effect
+
+Caller uses it by        Using its return value    Just calling it
+
+
+
+                                                                        Engr. Muhammad Umer Haroon                                                    23
+
+--- PAGE 24 ---
+This distinction is strict in some
+languages and blurred in others
+
+• Pascal, Ada, Visual Basic — make a strict, formal distinction: function
+  returns a value, procedure does not.
+
+• C, C++, Java — everything is technically a "function," but one
+  returning void behaves like a procedure.
+
+• Python — every def is called a "function," even if it returns None (i.e.,
+ behaves like a procedure).
+
+
+
+
+
+                                                                     Engr. Muhammad Umer Haroon                                                    24
+
+--- PAGE 25 ---
+•So in Python, the words collapse into one but the
+ design distinction still matters.
+• You still decide: "Should this return a value, or should
+  it just do something?"
+
+
+
+
+
+                                                                     Engr. Muhammad Umer Haroon                                                    25
+
+--- PAGE 26 ---
+Why to create them (function, procedure,
+method) ?
+
+As an undergraduate computer-science student, I thought that the
+main reason to create a routine was to avoid duplicate code.
+The introductory textbook I used said that routines were good because
+the avoidance of duplication made a program easier to develop, debug,
+document, and maintain.
+Aside from syntactic details about how to use parameters and local
+variables, that was the extent of the textbook’s coverage. It was not a
+good or complete explanation of the theory and practice of routines.
+
+
+
+
+
+                                                                     Engr. Muhammad Umer Haroon                                                    26
+
+--- PAGE 27 ---
+Valid Reasons to Create a Routine
+
+
+
+
+
+                                                                     Engr. Muhammad Umer Haroon                                                    27
+
+--- PAGE 28 ---
+1.Reduce complexity
+
+•The main reason to create a routine is to simplify a
+ program by hiding complexity. Once a routine is
+ written, you can use it without needing to remember
+  its internal details. This abstraction helps reduce code
+ size, enhances maintainability, and improves
+ correctness. Without routines, managing complex
+ programs would be very challenging.
+
+
+
+
+
+                                                   Engr.Muhammad Umer Haroon                                                    28
+
+--- PAGE 29 ---
+Code example
+
+
+if value > 0:
+  result = value * 2
+else:
+  result = 0
+
+
+#instead do this
+result = double_if_positive(value)
+
+
+
+
+
+                                                   Engr.Muhammad Umer Haroon                                                    29
+
+--- PAGE 30 ---
+Avoid duplicate code
+
+• The primary reason for creating routines is to avoid code
+ duplication. When similar code appears in multiple routines,
+  it indicates a flaw in code organization. To resolve this, you
+ can extract the common code into a base class or a separate
+ routine, allowing specialized routines to call this shared
+ code. This approach reduces code size, simplifies
+ modifications (since changes only need to be made in one
+ place), and enhances reliability by minimizing the risk of
+ inconsistent updates.
+
+
+
+
+                                                   Engr.Muhammad Umer Haroon                                                    30
+
+--- PAGE 31 ---
+Code example
+   def print_rectangle_area(length, width):
+   area = length * width
+   print(f"The area of the rectangle is: {area}")
+
+
+   def print_square_area(side_length):
+   area = side_length * side_length
+      print(f"The area of the square is: {area}")
+
+
+   print_rectangle_area(5, 3)
+   print_square_area(4)
+
+                                                   Engr.Muhammad Umer Haroon                                                    31
+
+--- PAGE 32 ---
+def calculate_area(length, width):
+return length * width
+
+
+def print_rectangle_area(length, width):
+area = calculate_area(length, width) # Reusing the common
+function
+  print(f"The area of the rectangle is: {area}")
+
+
+def print_square_area(side_length):
+area = calculate_area(side_length, side_length) # Reusing the
+common function
+  print(f"The area of the square is: {area}")
+print_rectangle_area(5, 3)
+print_square_area(4)
+
+
+
+                                             Engr.Muhammad Umer Haroon                                                    32
+
+--- PAGE 33 ---
+Hide pointer operations
+
+• Pointer operations tend to be hard to read and error prone.
+ By isolating them in routines, you can concentrate on the
+ intent of the operation rather than on the mechanics of
+ pointer manipulation.
+• Also, if the operations are done in only one place, you can be
+ more certain that the code is correct. If you find a better
+ data type than pointers, you can change the program
+ without traumatizing the code that would have used the
+ pointers.
+
+
+
+
+                                                   Engr.Muhammad Umer Haroon                                                    33
+
+--- PAGE 34 ---
+Code example
+
+
+#include <iostream>
+int main() {
+   int number = 0; std::cout << "Initial value: " << number << std::endl;
+int* ptr = &number
+  *ptr = 42;
+std::cout << "Updated value: " << number << std::endl  return 0;
+}
+
+
+
+
+
+                                                   Engr.Muhammad Umer Haroon                                                    34
+
+--- PAGE 35 ---
+#include <iostream>
+void setValue(int* ptr, int value) {
+  *ptr = value;  }
+int main() {
+   int number = 0;
+std::cout << "Initial value: " << number << std::endl;
+
+
+setValue(&number, 42);
+  std::cout << "Updated value: " << number << std::endl;
+return 0;
+}
+
+
+
+
+
+                                             Engr.Muhammad Umer Haroon                                                    35
+
+--- PAGE 36 ---
+Improve portability
+
+• Nonportable capabilities include nonstandard language features, hardware
+  dependencies, operating-system dependencies, and so on.
+• To improve the portability of your code, you should isolate any nonportable
+  capabilities into separate functions or modules. This includes:
+• Nonstandard language features: Features that may not be available in all
+ Python versions or implementations.
+• Hardware dependencies: Code that relies on specific hardware
+  characteristics or configurations.
+• Operating system dependencies: Code that depends on specific operating
+  systems or platforms.
+• By isolating these nonportable capabilities, you can easily identify and
+ manage future portability work.
+
+
+
+
+                                                   Engr.Muhammad Umer Haroon                                                    36
+
+--- PAGE 37 ---
+Improve performance
+    • Centralizing code into routines not only simplifies the
+     process of optimizing and profiling but also enhances
+     maintainability and scalability.
+    • By focusing on a single point of improvement, developers
+    can achieve better performance and easier code
+    management.
+    • This practice is a fundamental principle in software
+     engineering and contributes to cleaner, more efficient
+    codebases.
+
+
+
+
+
+                                                   Engr.Muhammad Umer Haroon                                                    37
+
+--- PAGE 38 ---
+HOW THE FUNCTIONS SHOULD
+BE ?
+
+
+
+
+
+                                                   Engr.Muhammad Umer Haroon                                                    38
+
+--- PAGE 39 ---
+• The first rule of functions is that they should be small.
+• Functions should do one thing. they should do it well they should do
+  it only.
+• Classes That Should Just Be Functions or Modules
+• Operations That Seem Too Simple to Put Into Routines
+• Meaningful name (better to use verbs)
+
+
+
+
+
+                                                   Engr.Muhammad Umer Haroon                                                    39
+
+--- PAGE 40 ---
+Function should be small
+
+
+Screen size criteria ?
+1980 …
+
+
+
+
+
+                                                   Engr.Muhammad Umer Haroon                                                    40
+
+--- PAGE 41 ---
+Blocks and Indenting
+
+• This implies that functions should not be large enough to hold nested
+  structures (e.g. if, else ,loops).
+• Therefore, the indent level of a function should not be greater than
+ one or two. This, of course, makes the functions easier to read and
+ understand.
+
+
+
+
+
+                                                   Engr.Muhammad Umer Haroon                                                    41
+
+--- PAGE 42 ---
+Function Name Matters
+
+• Ward’s principle: “You know you are working on clean code when
+ each routine turns out to be pretty much what you expected.” Half
+ the battle to achieving that principle is choosing good names for small
+  functions that do one thing.
+• The smaller and more focused a function is, the easier it is to choose
+ a descriptive name.
+
+
+
+
+                GIVE ME EXAMPLES ?
+
+
+
+                                                   Engr.Muhammad Umer Haroon                                                    42
+
+--- PAGE 43 ---
+• A long descriptive name is better than a short enigmatic name.
+• A long descriptive name is better than a long descriptive comment.
+ Use a naming convention that allows multiple words to be easily read
+  in the function names, and then make use of those multiple words to
+  give the function a name that says what it does.
+
+
+
+
+
+                                                   Engr.Muhammad Umer Haroon                                                    43
+
+--- PAGE 44 ---
+• Continued…
+
+
+
+
+
+                                                   Engr.Muhammad Umer Haroon                                                    44
+
+--- PAGE 45 ---
+For queries
+
+
+Office : B05, RSB
+Counselling Hours :
+
+                    Monday                   11:00 am -12:00 pm
+
+                       Tuesday                   12:00 pm -1:00 pm
+
+                        Thursday                  10:15 am -11:15 am
+
+
+mumer.haroon@imsciences.edu.pk
+Muhammad Umer Haroon | LinkedIn
+
+
+
+
+
+                                                                     Engr. Muhammad Umer Haroon                                                    45
+
+==========================================================================================
+FILE 13/47: Lectures\2b_SOFTWARE CONSTRUCTION AND DEVELOPMENT_MuhammadUmerHaroon.pdf
+TYPE: .pdf
+SIZE: 985578 bytes
+==========================================================================================
+--- PAGE 1 ---
+[OCR: may contain recognition errors]
+clas
+
+o ule
+
+class ModuleA { }
+
+export function build()
+
+{ components: [J )
+
+SOFTWARE
+
+rin (IHe
+
+CONSTRUCTION
+
+AND DEVELOPMENT
+
+Engr. Muhammad Umer Haroon Port f
+
+unction build
+
+{c
+
+m ponents•
+
+--- PAGE 2 ---
+SOFTWARE CONSTRUCTION
+  AND DEVELOPMENT
+
+                     WEEK
+
+--- PAGE 3 ---
+RECALL LAST WEEKS
+
+
+
+
+
+                                                                     Engr. Muhammad Umer Haroon                                                     3
+
+--- PAGE 4 ---
+Function Name Matters
+
+• Ward’s principle: “You know you are working on clean code when
+ each routine turns out to be pretty much what you expected.” Half
+ the battle to achieving that principle is choosing good names for small
+  functions that do one thing.
+• The smaller and more focused a function is, the easier it is to choose
+ a descriptive name.
+
+
+
+
+                GIVE ME EXAMPLES ?
+
+
+
+                                                   Engr.Muhammad Umer Haroon                                                     4
+
+--- PAGE 5 ---
+•A long descriptive name is better than a short
+ enigmatic name.
+• A  long  descriptive name  is  better  than  a  long
+ descriptive comment. Use a naming convention that
+ allows multiple words to be easily read in the function
+ names, and then make use of those multiple words to
+ give the function a name that says what it does.
+
+
+
+
+
+                                                   Engr.Muhammad Umer Haroon                                                     5
+
+--- PAGE 6 ---
+Argument vs parameter ?
+
+
+
+
+
+                                                                     Engr. Muhammad Umer Haroon                                                     6
+
+--- PAGE 7 ---
+Function Arguments
+
+• The ideal number of arguments for a function is zero (niladic).
+• Next comes one (monadic), followed closely by two (dyadic).
+• Three arguments (triadic) should be avoided where possible. More
+ than three (polyadic) requires very special justification and then
+  shouldn’t be used anyway.
+
+
+
+
+
+                                                   Engr.Muhammad Umer Haroon                                                     7
+
+--- PAGE 8 ---
+• Arguments are even harder from a testing point of view.
+ Imagine the difficulty of writing all the test cases to ensure
+ that all the various combinations of arguments work
+ properly.
+• With two arguments the problem gets a bit more
+ challenging. With more than two arguments, testing every
+ combination of appropriate values can be daunting
+
+
+
+
+
+                                                   Engr.Muhammad Umer Haroon                                                     8
+
+--- PAGE 9 ---
+def calculate_area(shape, length, width=None, radius=None):
+
+
+   if shape == 'rectangle':
+       if width is None:
+       raise ValueError("Width is required for rectangles.")
+    return length * width
+   elif shape == 'circle':
+       if radius is None:
+       raise ValueError("Radius is required for circles.")
+    return 3.14159 * radius ** 2
+  else:
+     raise ValueError("Invalid shape. Choose 'rectangle' or 'circle'.")
+
+
+print(calculate_area('rectangle',1 , 0, 5))
+
+
+
+
+                                             Engr.Muhammad Umer Haroon                                                     9
+
+--- PAGE 10 ---
+Argument objects
+
+
+When a function seems to need more than two or three arguments, it
+is likely that some of those arguments ought to be wrapped into a class
+of their own. Consider, for example, the difference between the two
+following declarations:
+Circle makeCircle(double x, double y, double radius);
+Circle makeCircle(Point center, double radius);
+
+Reducing the number of arguments by creating objects out of them
+may seem like cheating, but it’s not. When groups of variables are
+passed together, the way x and y are in the example above, they are
+likely part of a concept that deserves a name of its own.
+
+
+
+
+                                                   Engr.Muhammad Umer Haroon                                                    10
+
+--- PAGE 11 ---
+One Entry and One Exit
+
+• Some programmers  follow  Edsger  Dijkstra’s  rules  of  structured
+ programming. Dijkstra said that every function, and every block
+  within a function, should have one entry and one exit.
+• Following these rules means that there should only be one return
+ statement in a function, no break or continue statements in a loop,
+ and never, ever, any goto statements
+
+
+
+
+
+                                                   Engr.Muhammad Umer Haroon                                                    11
+
+--- PAGE 12 ---
+Nested Functions
+
+    • Many programming languages support nested functions,
+    which are functions defined within other functions.
+    • ALGOL ,Pascal ,Modula 2 ,Oberon ,Ada, Python, Swift,
+     D,JavaScript, PHP
+    • C, C++ ,C# do not directly support nested functions
+
+
+
+
+
+                                                   Engr.Muhammad Umer Haroon                                                    12
+
+--- PAGE 13 ---
+Nested Functions in Python
+
+• Inner functions, also known as nested functions, are functions that
+ you define inside other functions.
+
+
+
+
+
+                                                   Engr.Muhammad Umer Haroon                                                    13
+
+--- PAGE 14 ---
+def outer_func():
+  def inner_func():
+     print("Hello, World!")
+  inner_func()
+
+
+
+outer_func()
+
+
+
+
+
+                                                   Engr.Muhammad Umer Haroon                                                    14
+
+--- PAGE 15 ---
+def outer_func(who):
+  def inner_func():
+     print(f"Hello, {who}")
+  inner_func()
+
+
+
+outer_func("World!")
+
+
+
+
+
+                                                   Engr.Muhammad Umer Haroon                                                    15
+
+--- PAGE 16 ---
+Regarding code from last slide
+
+• We pass a string as an argument to outer_func(), and inner_func() will
+ access that argument through the name who. This name, however, is
+ defined in the local scope of outer_func().
+• The names that you define in the local scope of an outer function are
+ known as nonlocal names. They are nonlocal from the inner_func()
+  point of view.
+
+
+
+
+
+                                                   Engr.Muhammad Umer Haroon                                                    16
+
+--- PAGE 17 ---
+Avoid Recursive Functions
+
+    • Aim to minimize the number of recursive calls within a
+     function. Too many recursive calls can make the code harder
+     to understand and debug.
+    • If possible, try to solve the problem iteratively instead of
+     recursively. Iteration is often more efficient and easier to
+    reason about.
+    • Limit the depth of recursive calls to avoid excessive nesting.
+    Deep recursion can make the code harder to read and
+     understand.     Debatable :
+       https://www.reddit.com/r/learnprogramming/comments/12e6sk/best_practices_recursion_why_is_it_generally/
+     5 Brief Explanation About The Difference Between Recursion Vs Iteration – Slash
+       functional programming - When will iteration be more readable than recursion? - Stack Overflow
+
+
+
+                                                   Engr.Muhammad Umer Haroon                                                    17
+
+--- PAGE 18 ---
+Tail Recursion
+
+• Tail recursion is a specific form of recursion where the
+ recursive call is the last operation performed in the function.
+ In other words, if a function calls itself as its last action, it is
+ considered a tail recursive function.
+
+
+
+
+
+                                                   Engr.Muhammad Umer Haroon                                                    18
+
+--- PAGE 19 ---
+• Tail recursion is important because many programming languages can
+ optimize  tail recursive  calls to avoid growing the  call stack. This
+  optimization is known as Tail Call Optimization (TCO). When TCO is
+  applied, the current function's stack frame can be reused for the next
+  function  call,  preventing  stack  overflow  errors  and  improving
+ performance.
+
+
+
+
+
+                                                   Engr.Muhammad Umer Haroon                                                    19
+
+--- PAGE 20 ---
+Non-Tail Recursive Function
+
+
+                                                 Let us trace factorial(4). When you call factorial(4), it cannot
+def factorial(n):                                                return yet because it needs the result of factorial(3) first, and
+                                           then it must multiply that result by 4. So it stays on the stack.
+   if n == 0:                                        Then factorial(3) stays because it needs factorial(2), and so
+    return 1                             on. The stack looks like this while waiting.
+  else:
+    return n * factorial(n - 1)
+
+
+print(factorial(4))
+
+
+
+
+
+                                                   Engr.Muhammad Umer Haroon                                                    20
+
+--- PAGE 21 ---
+Tail Recursive Function
+                                                                The call itself is the return value. The
+                                                                                multiplication happens before the
+                                                                                                    call, inside the arguments. Oncedef tail_recursive_factorial(n, accumulator=1):
+                                                                                       factorial_tail(n - 1, acc * n) is called,
+                                                                       the current frame has nothing left to   if n == 0:
+                                                                          do. It could theoretically be thrown
+    return accumulator                                     away.
+  else:
+    return tail_recursive_factorial(n - 1, n * accumulator)
+print(tail_recursive_factorial(4))
+
+
+
+
+
+                                                   Engr.Muhammad Umer Haroon                                                    21
+
+--- PAGE 22 ---
+Does python supports TCO ?
+READ YOUR SELF
+
+• https://stackoverflow.com/questions/310974/what-is-tail-call-
+  optimization
+• https://stackoverflow.com/questions/13591970/does-python-
+  optimize-tail-recursion
+• https://stackoverflow.com/questions/890461/whats-the-big-deal-
+  with-tail-call-optimization-and-why-does-python-need-it
+
+
+
+
+
+                                                   Engr.Muhammad Umer Haroon                                                    22
+
+--- PAGE 23 ---
+interesting insights
+
+• Tail Recursion: Python does not optimize tail recursion, meaning that
+ even if a recursive function is designed to be tail-recursive, it will still
+  hit the recursion limit if the depth is too great.
+• That is 1000 ….
+
+• In fact, TCO essentially turns tail recursion into iteration behind the
+  scenes.
+• You can change the recursion limit with sys.setrecursionlimit, but this
+  is dangerous because it can cause a real stack overflow and crash the
+  interpreter. It is not a substitute for TCO.
+
+
+
+
+                                                   Engr.Muhammad Umer Haroon                                                    23
+
+--- PAGE 24 ---
+•Reusability is not an accident , it's a design
+ decision made at the moment you write
+ each function.
+
+
+
+
+
+                                                                     Engr. Muhammad Umer Haroon                                                    24
+
+--- PAGE 25 ---
+Call Stack
+
+• When a function calls another function, Python needs to remember
+ where to come back to once the inner function finishes.
+• It stores this information in a structure called the call stack. Each time
+ a function is called, a new frame is pushed onto the stack.
+• When the function returns, its frame is popped off. If a function calls
+  itself many times without returning, the stack keeps growing, and
+  eventually Python raises a RecursionError.
+
+
+
+
+
+                                                                     Engr. Muhammad Umer Haroon                                                    25
+
+--- PAGE 26 ---
+Normal Recursion
+
+• In normal recursion, the recursive call is not the last thing the
+  function does. After the recursive call returns, there is still work left to
+  do, such as multiplying, adding, or combining results.
+• Because of this leftover work, the current frame cannot be thrown
+ away. It has to stay on the stack until the inner call finishes, so that it
+ can complete its own work afterward.
+
+
+
+
+
+                                                                     Engr. Muhammad Umer Haroon                                                    26
+
+--- PAGE 27 ---
+For queries
+……….
+
+
+
+
+
+                                                                     Engr. Muhammad Umer Haroon                                                    27
+
+==========================================================================================
+FILE 14/47: Lectures\3_SOFTWARE CONSTRUCTION AND DEVELOPMENT_MuhammadUmerHaroon.pdf
+TYPE: .pdf
+SIZE: 1082135 bytes
+==========================================================================================
+--- PAGE 1 ---
+[OCR: may contain recognition errors]
+clas
+
+o ule
+
+class ModuleA { }
+
+export function build()
+
+{ components: [J )
+
+SOFTWARE
+
+rin (IHe
+
+CONSTRUCTION
+
+AND DEVELOPMENT
+
+Engr. Muhammad Umer Haroon Port f
+
+unction build
+
+{c
+
+m ponents•
+
+--- PAGE 2 ---
+SOFTWARE CONSTRUCTION
+  AND DEVELOPMENT
+
+                     WEEK 5
+
+--- PAGE 3 ---
+RECALL LAST WEEKS
+
+
+
+
+
+                                                                     Engr. Muhammad Umer Haroon                                                     3
+
+--- PAGE 4 ---
+What Is a Tech Stack
+• A tech stack is the collection of technologies used to build and run a
+  software application. It usually has several layers.
+• The front end is what the user sees, such as a web page or a mobile screen,
+ and it is often built with technologies like React, Vue, or plain HTML and
+  CSS.
+• The back end is the logic and processing that happens on the server, and it
+  is often built with languages like Python, Java, Node.js, or Go. The database
+  is where data is stored, and common choices include PostgreSQL, MySQL,
+ MongoDB, or SQLite.
+• The infrastructure is where the application runs, such as a cloud provider, a
+  physical server, or a container platform like Docker and Kubernetes.
+• There are also supporting tools such as version control with Git, build
+  tools, testing frameworks, and monitoring systems.
+
+
+
+                                                   Engr.Muhammad Umer Haroon                                                     4
+
+--- PAGE 5 ---
+Tech Stack ...
+• When people say "our tech stack," they usually mean the specific
+ combination of these layers that a team has chosen.
+• For example, a common stack for a small web project might be React
+ on the front end, Node.js on the back end, PostgreSQL for the
+ database, and  deployment on  a  cloud  platform  like AWS  or
+  DigitalOcean.
+
+
+
+
+
+                                                   Engr.Muhammad Umer Haroon                                                     5
+
+--- PAGE 6 ---
+Selection in Tech Stack ?
+
+• Requirements ?
+• Quality ?
+• Architecture ?
+• Bias ?
+
+
+
+
+
+                                                                     Engr. Muhammad Umer Haroon                                                     6
+
+--- PAGE 7 ---
+Why Tech Stack Selection Matters
+• Choosing a tech stack  is one of the earliest and most important
+  decisions in a project. A good choice makes development faster, hiring
+  easier, and maintenance cheaper.
+• A bad choice can lock a team into a technology that is hard to hire for,
+ expensive to run, or difficult to change later. This is sometimes called
+  technical debt, meaning the future cost of a decision made today.
+• The decision  is hard because  it  is rarely purely technical.  It also
+  involves the skills of the team, the budget, the timeline, the expected
+  scale, the long term maintenance plan, and even the preferences of
+ the people who will maintain the system after the original developers
+  leave.
+
+
+
+
+                                                   Engr.Muhammad Umer Haroon                                                     7
+
+--- PAGE 8 ---
+Criteria for Choosing a Tech Stack
+When evaluating a technology, a team should ask several questions.
+
+• How mature is the technology, and has it been around long enough to
+ be stable.
+• How large and active is the community, because a large community
+ means more tutorials, more libraries, and faster answers when
+ problems arise.
+• How easy is it to hire developers who already know this technology.
+ How well does it fit the problem, since a technology that is perfect for
+ one kind of application may be a poor fit for another.
+
+
+
+
+
+                                                   Engr.Muhammad Umer Haroon                                                     8
+
+--- PAGE 9 ---
+• How well does it perform under the expected load. How secure is it,
+ and how quickly are security issues fixed.
+• How expensive is it to run, both in terms of licensing and in terms of
+ cloud or server costs.
+• How easy is it to integrate with the other parts of the stack.
+• And finally, how likely is it to still be supported five years from now,
+ because choosing a technology that is abandoned later is a painful
+  experience.
+
+
+
+
+
+                                                                     Engr. Muhammad Umer Haroon                                                     9
+
+--- PAGE 10 ---
+Popular/common Stacks
+• The MERN stack, which stands for MongoDB, Express, React, and
+  Node.js, is popular for JavaScript heavy web applications where the
+ same language is used on both the front end and the back end.
+• The LAMP stack, which stands for Linux, Apache, MySQL, and PHP, is a
+  classic choice for content driven websites and has been used for
+ decades.
+• The Django stack, using Python with Django and PostgreSQL, is
+ common for data heavy applications, internal tools, and projects
+ where rapid development matters.
+• The Spring stack, using Java with Spring Boot, is common in large
+  enterprises where stability and long term support are critical.
+• The .NET stack, using C# with ASP.NET, is common in organizations
+  already invested in Microsoft technologies.
+
+                                                   Engr.Muhammad Umer Haroon                                                    10
+
+--- PAGE 11 ---
+•There is no single best stack. There is only the
+ best stack for a given team, project, and context.
+
+
+
+
+
+                                                                     Engr. Muhammad Umer Haroon                                                    11
+
+--- PAGE 12 ---
+Common Mistakes in Tech Stack Selection
+• One common mistake is choosing a technology only because it is
+  trendy.
+• Another is choosing a technology because one developer on the team
+  loves it, without considering whether the rest of the team can
+ maintain it.
+• Another is ignoring the cost of hiring, so the team picks a niche
+ language and then cannot find developers.
+• Another is overengineering, where a small project uses a complex
+  stack meant for massive scale.
+• And another is underestimating the cost of migration, meaning the
+ team picks something now and later realizes it is very hard to move
+ away from it.
+
+
+
+                                                   Engr.Muhammad Umer Haroon                                                    12
+
+--- PAGE 13 ---
+Explore it yourself
+
+
+                                               Bespoke
+                                 Build your self
+                                                          In house
+
+          SOFTWARE
+                                             COTS
+
+
+                           Get from others    Open Source
+
+
+                                                    Saas
+
+
+
+                                                                     Engr. Muhammad Umer Haroon                                                    13
+
+--- PAGE 14 ---
+Build vs Buy Decision
+• A useful rule of thumb  is to build the things that make your
+  organization unique and give it a competitive advantage, and buy the
+  things that are common across  all organizations, such as email,
+  payroll, or accounting.
+• Another rule  is to consider total cost of ownership, not just the
+ purchase price.
+• A  cheap  COTS  product  that  requires  heavy  integration  and
+ customization may end up costing more than a custom solution.
+
+
+
+
+
+                                                   Engr.Muhammad Umer Haroon                                                    14
+
+--- PAGE 15 ---
+Evaluating COTS Products
+• When evaluating a COTS product, ask several questions. Does it meet
+ the core functional requirements. How well does it integrate with
+  existing systems.
+• What is the total cost of ownership over five years, including licenses,
+  support, training, and integration.
+• How strong is the vendor, and how likely are they to still be around in
+  five years.
+• What is the exit strategy if you decide to leave, and how hard would it
+ be to migrate your data out.
+• How responsive is the vendor to security issues. And what do existing
+ customers say about the product in reviews and forums.
+
+
+                                                   Engr.Muhammad Umer Haroon                                                    15
+
+--- PAGE 16 ---
+CONTINUOUS IMPROVEMENT
+
+
+In software construction and development, the act of writing code is
+only one part of the story.
+Once a system is in the hands of users, it must be maintained, fixed,
+extended, and secured over time.
+This ongoing process is called continuous improvement.
+
+
+
+
+
+                                                                     Engr. Muhammad Umer Haroon                                                    16
+
+--- PAGE 17 ---
+Read it
+
+• Software is never truly finished. The moment a product is
+ released, new information starts arriving. Users report bugs.
+ Requirements shift as the business changes. New security
+ threats emerge. Operating systems and libraries get updated.
+ Competitors release features that raise user expectations.
+ Hardware evolves. What worked perfectly six months ago
+ may feel outdated today. A team that stops improving its
+ software will watch it slowly decay in quality, security, and
+ usefulness.
+
+
+
+
+                                                                     Engr. Muhammad Umer Haroon                                                    17
+
+--- PAGE 18 ---
+Release
+
+• A release is a specific, packaged version of a software product that is
+ made available to users.  It  is a snapshot of the codebase at a
+  particular point in time, along with everything needed to install, run,
+ and use it.
+• A release  is not just source code.  It typically includes compiled
+  binaries,  configuration  files,  documentation,  installation  scripts,
+ migration scripts for databases, and release notes that describe what
+ has changed.
+
+
+
+
+
+                                                                     Engr. Muhammad Umer Haroon                                                    18
+
+--- PAGE 19 ---
+Types of Releases
+
+• A major release introduces significant new functionality or makes
+ changes that may break compatibility with previous versions. Users
+ often need to plan for major releases because they may require
+  configuration changes, retraining, or code updates.
+• A minor  release adds  smaller  features or improvements while
+ remaining compatible with the previous version. Users can usually
+ upgrade to a minor release with little risk.
+• A patch release contains only bug fixes and security fixes, with no
+ new features. Patch releases are meant to be safe and quick to apply.
+
+
+
+
+
+                                                                     Engr. Muhammad Umer Haroon                                                    19
+
+--- PAGE 20 ---
+• Some teams also distinguish between alpha releases, which are early
+ and unstable; beta releases, which are more stable but still under
+  testing; release candidates, which are believed to be ready but are
+ given a final round of testing; and general availability releases, which
+ are the official versions delivered to all users.
+
+
+
+
+
+                                                                     Engr. Muhammad Umer Haroon                                                    20
+
+--- PAGE 21 ---
+Release Cadences
+
+
+A release cadence  is the rhythm at which a team ships releases.
+Different teams choose different cadences depending on their product,
+their users, and their ability to test and deploy safely.
+
+
+The right cadence depends on the product. Too frequent, and users feel
+overwhelmed and cannot keep up. Too infrequent, and users wait too
+long for fixes and features. A good team finds a rhythm that matches
+how its users actually work.
+
+
+
+
+
+                                                                     Engr. Muhammad Umer Haroon                                                    21
+
+--- PAGE 22 ---
+• Continuous deployment means changes are released automatically
+ as soon as they pass tests, sometimes dozens of times per day. This
+  is common in web based products where the team controls the
+  entire environment.
+• A fixed schedule means releases happen on a predictable
+ timetable, such as every two weeks or every month. This is
+ common in products where users need time to prepare for
+ changes.
+• A feature based cadence means releases happen when a set of
+ features is ready, without a fixed date. This is common in smaller
+ teams or in products with long development cycles.
+• An on demand cadence means releases happen only when there is
+ a compelling reason, such as a critical bug or a major new
+ requirement. This is common in enterprise software and in
+ products with infrequent updates.                                                                                                                                       22
+                                                                               Engr. Muhammad Umer Haroon
+
+--- PAGE 23 ---
+Release Notes and Changelogs
+• A release note is a document that accompanies a release and explains
+ what is inside it. Good release notes are written for the user, not for
+ the developer. They describe new features in plain language, list bug
+  fixes, mention any breaking changes, and explain what users need to
+ do to upgrade.
+• A changelog is a running record of all releases, usually kept in the
+  repository, that allows anyone to see the history of the product.
+• Together, release notes and changelogs make it possible for users,
+ support teams, and future developers to understand what happened
+ and when.
+
+
+
+
+
+                                                                     Engr. Muhammad Umer Haroon                                                    23
+
+--- PAGE 24 ---
+Rollback and Canary Releases
+
+• Even  with  careful  testing, some  releases  cause  problems  in
+ production. A rollback is the act of reverting to a previous version
+ when a release causes issues. Good teams plan for rollbacks in
+ advance, so that reverting is a quick and well rehearsed operation
+  rather than a panicked scramble.
+• A canary release is a technique where a new version is deployed to a
+  small subset of users first, so that problems are caught before the
+  release reaches everyone.
+• If the canary group reports issues, the release can be stopped before
+  it affects the full user base.
+
+
+
+                                                                     Engr. Muhammad Umer Haroon                                                    24
+
+--- PAGE 25 ---
+Versioning
+
+
+
+
+
+                                                                     Engr. Muhammad Umer Haroon                                                    25
+
+--- PAGE 26 ---
+Versioning
+
+• Versioning  is the practice of assigning a unique identifier to each
+  release so that it can be referred to precisely. Without versioning, it
+ would be impossible to know which copy of the software a user is
+  running, which bugs have been fixed, or which features are available.
+  Versioning is a communication tool.
+
+
+
+
+
+                                                                     Engr. Muhammad Umer Haroon                                                    26
+
+--- PAGE 27 ---
+Semantic Versioning
+
+
+The most widely used versioning scheme is semantic versioning, often
+abbreviated as SemVer. In semantic versioning, a version number has
+three parts, written as MAJOR.MINOR.PATCH. For example, version
+3.7.2 means major version 3, minor version 7, and patch version 2.
+
+
+This scheme has a clear benefit. A user can look at a version number
+and immediately understand the risk of upgrading. Going from 3.7.2 to
+3.7.5 is a patch update and is very low risk. Going from 3.7.2 to 3.8.0
+adds features but should not break anything. Going from 3.7.2 to 4.0.0
+signals that something may break and requires careful planning.
+
+
+
+                                                                     Engr. Muhammad Umer Haroon                                                    27
+
+--- PAGE 28 ---
+Alternative Versioning Schemes
+
+• Not every project uses semantic versioning. Some projects use date
+ based versioning, where the version is derived from the release date,
+ such as 2024.09 or 20240915. This is common in projects with a
+  regular release schedule, such as Ubuntu, which uses a year and
+ month format. Some projects use calendar versioning combined with
+ semantic hints.
+• The important thing is not which scheme you choose, but that you
+ choose one, apply it consistently, and document what it means. A
+  version number that no one understands is worse than no version
+ number at all.
+
+
+
+
+                                                                     Engr. Muhammad Umer Haroon                                                    28
+
+--- PAGE 29 ---
+Patch
+
+• A patch is a small, targeted update that
+  fixes a specific problem in a released
+  version. Patches are most often used for
+  security vulnerabilities and critical bugs,
+ but they can also be used for smaller
+  corrections. Unlike major or minor
+  releases, patches are meant to be
+ minimal. They change as little as possible
+ so that the risk of introducing new
+ problems is low.
+
+
+
+
+
+                                                                     Engr. Muhammad Umer Haroon                                                    29
+
+--- PAGE 30 ---
+Why patching ?
+
+• Bugs exist in every system, and some of those bugs can be exploited
+ by attackers. When a security vulnerability becomes public, attackers
+ often move quickly to exploit  it.  If users do not apply the patch
+ promptly, they remain exposed. This is why security patches are often
+ released on an urgent schedule, sometimes within hours or days of a
+  vulnerability being discovered.
+
+
+
+
+
+                                                                     Engr. Muhammad Umer Haroon                                                    30
+
+--- PAGE 31 ---
+The Tension Between Speed and Safety
+related to patching
+
+• Patching involves a genuine tension. Security teams want patches
+ applied as quickly as possible, because every hour of delay is an hour
+  of exposure. Operations teams want patches tested thoroughly,
+ because a bad patch can break production systems and cause outages
+  that are worse than the original vulnerability.
+• A good organization manages this tension through clear policies,
+ automated testing, staged rollouts, and the ability to roll back quickly
+  if something goes wrong. The goal is to manage intelligently.
+
+
+
+
+
+                                                                     Engr. Muhammad Umer Haroon                                                    31
+
+--- PAGE 32 ---
+The Cost of Not Patching
+
+•  Systems remain vulnerable to  attacks, and a  single unpatched
+  vulnerability can lead to a data breach, financial loss, and reputational
+ damage. Bugs accumulate, and users lose trust.
+• The codebase drifts away from current best practices, making future
+ changes harder. Eventually, the system becomes so outdated that it
+ must be  rewritten, which  is  far more  expensive  than  steady
+ maintenance would have been.
+• This situation is sometimes called technical bankruptcy, and it is a real
+  risk for any project that stops investing in its own health.
+
+
+
+
+
+                                                                     Engr. Muhammad Umer Haroon                                                    32
+
+--- PAGE 33 ---
+Engr. Muhammad Umer Haroon                                                    33
+
+--- PAGE 34 ---
+For queries
+
+
+Office : B05, RSB
+Counselling Hours :
+
+                    Monday                   11:00 am -12:00 pm
+
+                       Tuesday                   12:00 pm -1:00 pm
+
+                        Thursday                  10:15 am -11:15 am
+
+
+mumer.haroon@imsciences.edu.pk
+Muhammad Umer Haroon | LinkedIn
+
+
+
+
+
+                                                                     Engr. Muhammad Umer Haroon                                                    34
+
+==========================================================================================
+FILE 15/47: Lectures\4_SOFTWARE CONSTRUCTION AND DEVELOPMENT_MuhammadUmerHaroon.pdf
+TYPE: .pdf
+SIZE: 1255082 bytes
+==========================================================================================
+--- PAGE 1 ---
+[OCR: may contain recognition errors]
+clas
+
+o ule
+
+class ModuleA { }
+
+export function build()
+
+{ components: [J )
+
+SOFTWARE
+
+rin (IHe
+
+CONSTRUCTION
+
+AND DEVELOPMENT
+
+Engr. Muhammad Umer Haroon Port f
+
+unction build
+
+{c
+
+m ponents•
+
+--- PAGE 2 ---
+SOFTWARE CONSTRUCTION
+  AND DEVELOPMENT
+
+                     WEEK 6
+
+--- PAGE 3 ---
+RECALL LAST WEEKS
+
+
+
+
+
+                                                                     Engr. Muhammad Umer Haroon                                                     3
+
+--- PAGE 4 ---
+Regular Expressions
+
+• Regular  expressions  are one  of  the most  powerful and most
+ misunderstood tools in a software developer's toolkit. They appear
+ everywhere in software construction, from validating user input to
+  parsing log files to searching and replacing text in source code.
+
+
+
+
+
+                                                                     Engr. Muhammad Umer Haroon                                                     4
+
+--- PAGE 5 ---
+REGEX
+
+• A regular expression, often shortened to regex,  is a pattern that
+  describes a set of strings. It is a mini language for matching text.
+• Instead of writing long chains of if statements and string methods to
+ check whether a piece of text looks like an email address or a phone
+ number, you describe the shape of the text using a pattern, and a
+ regex engine checks whether a given string matches that shape.
+
+
+
+
+
+                                                                     Engr. Muhammad Umer Haroon                                                     5
+
+--- PAGE 6 ---
+Regex can be used in most places
+
+• Regular expressions are not unique to Python. They exist in almost
+ every programming language, in command line tools and in text
+  editors such as VS Code. The syntax  is mostly shared, with small
+  differences between languages
+
+
+
+
+
+                                                                     Engr. Muhammad Umer Haroon                                                     6
+
+--- PAGE 7 ---
+Regular Expressions Matter in Software
+Construction
+
+• In software  construction and development,  text  is everywhere.
+  Configuration files are text. Log  files are text. User input  is text.
+ Source code is text. Data formats such as JSON, CSV, and XML are
+  text. Being able to describe, search, and manipulate text patterns
+  efficiently is a core skill.
+
+
+
+
+
+                                                                     Engr. Muhammad Umer Haroon                                                     7
+
+--- PAGE 8 ---
+Some common uses in real projects
+
+
+include validating user input such as email addresses, phone numbers,
+and passwords; extracting fields from log files such as timestamps, IP
+addresses, and error codes; searching and replacing patterns across a
+codebase;  parsing  simple  configuration  files  and  data  formats;
+sanitizing input before storing it in a database; and generating tokens,
+slugs, and identifiers from human readable strings.
+
+
+
+
+
+                                                                     Engr. Muhammad Umer Haroon                                                     8
+
+--- PAGE 9 ---
+Pattern Matching:
+
+• Regular expressions provide a powerful way to search for specific
+  patterns within strings.
+• This is essential in many software applications where data needs to
+ be validated or extracted from user input or files.
+• For example, regex can be used to validate email formats, phone
+ numbers, or other structured data inputs
+
+
+
+
+
+                                                   Engr.Muhammad Umer Haroon
+
+--- PAGE 10 ---
+Text Processing
+
+• Regex is widely used in text processing tasks such as searching,
+  replacing, and splitting strings.
+• This functionality is crucial for applications that manipulate text data,
+ such as text editors, command-line tools
+
+
+
+
+
+                                                   Engr.Muhammad Umer Haroon
+
+--- PAGE 11 ---
+Input Validation
+
+• In software development, ensuring that user input meets certain
+  criteria is vital for maintaining data integrity and security.
+• Regular expressions can enforce rules on what constitutes valid input,
+ such as ensuring passwords meet complexity requirements or that
+ usernames do not contain special characters
+
+
+
+
+
+                                                   Engr.Muhammad Umer Haroon
+
+--- PAGE 12 ---
+Lexical Analysis
+
+• Regular expressions are fundamental in the field of compilers and
+  interpreters for programming languages.
+• They are used  in  lexical analysis to tokenize input  strings into
+ meaningful components (tokens), which are then parsed according to
+ the grammar of the language
+
+
+
+
+
+                                                   Engr.Muhammad Umer Haroon
+
+--- PAGE 13 ---
+The Python re Module
+
+• Python provides regular expression support through the standard
+  library module called re.
+
+
+
+
+
+                                                                     Engr. Muhammad Umer Haroon                                                    13
+
+--- PAGE 14 ---
+Functions in re module
+
+•re.search() Searches for a pattern in a string and
+ returns a match object.
+• re.findall() Returns all occurrences of a pattern in a
+ string as a list.
+• re.sub() Replaces occurrences of a pattern with a
+ specified string.
+• re.split() Splits a string by the occurrences of a
+ pattern.
+
+
+                                                                     Engr. Muhammad Umer Haroon                                                    14
+
+--- PAGE 15 ---
+Meta characters
+
+. ^ $ * + ? { } [ ] \ | ( )
+
+
+
+
+
+                                                                     Engr. Muhammad Umer Haroon                                                    15
+
+--- PAGE 16 ---
+Meta Characters
+
+  Matches any character except newline..
+
+  Matches the start of a string.^
+
+  Matches the end of a string.$
+
+  Matches 0 or more repetitions of the preceding element.*
+
+  Matches 1 or more repetitions.+
+
+  Matches 0 or 1 repetition.?
+
+         Matches between m and n repetitions.{m,n}
+
+--- PAGE 17 ---
+Character classes are things like [0-9], [a-z], [A-Z], which
+explicitly list ranges or sets of characters.
+Metacharacters are shorthand symbols that represent
+common character classes without writing them out.
+
+
+
+
+
+                                                                     Engr. Muhammad Umer Haroon                                                    17
+
+--- PAGE 18 ---
+Character Classes
+
+
+
+\d: Matches any digit (equivalent to [0-9]).
+\D: Matches any non-digit character.
+\w: Matches any alphanumeric character (equivalent to [a-zA-Z0-9_]).
+\W: Matches any non-alphanumeric character.
+\s: Matches any whitespace character (spaces, tabs).
+\S: Matches any non-whitespace character.
+
+--- PAGE 19 ---
+• Metacharacters (except \) are not active inside classes.
+• [ ] represent character class
+
+--- PAGE 20 ---
+Groups and Ranges
+
+• Use parentheses () to create groups and square brackets [] for ranges
+
+--- PAGE 21 ---
+CODE
+
+
+
+
+
+                                                   Engr.Muhammad Umer Haroon
+
+--- PAGE 22 ---
+[OCR: may contain recognition errors]
+# Example 1: Find all Lowercase letters (a-z) in the input string
+
+re.findall(" [a-z]",
+
+input _ string)
+
+output
+
+of [a-z]:
+
+output)]
+
+Engr.Muhammad Umer Haroon
+
+--- PAGE 23 ---
+[OCR: may contain recognition errors]
+# Example 2: Find all uppercase letters (A-Z) in the input string
+
+output = re.findall(" [A-ZI"
+
+input _ string)
+
+print("Output of [A-Z] :
+
+output)
+
+Engr.Muhammad Umer Haroon
+
+--- PAGE 24 ---
+[OCR: may contain recognition errors]
+# Example 3: Find all occurrences of an uppercase letter followed by a lowercase letter
+
+output : re.findall(" ,
+
+input_string)
+
+print("0utput of [A-ZI [a-z]:",
+
+output )
+
+Engr.Muhammad Umer Haroon
+
+--- PAGE 25 ---
+[OCR: may contain recognition errors]
+# Example 4: Find all occurrences of an uppercase Letter followed by one or more Lowercase
+
+Letters
+
+- re.finda11("[A-Z][a-z]+", input _ string)
+
+output
+
+of [A-Z][a-z]+:",
+
+output)]
+
+Engr.Muhammad Umer Haroon
+
+--- PAGE 26 ---
+[OCR: may contain recognition errors]
+# Example 5: Find all occurrences of an uppercase Letter followed by zero or more Lowercase
+
+Letters
+
+output = re.findall("
+
+input_string) # The
+
+means zero or more occurrences of
+
+the Lowercase Letters
+
+print("Output of [A-ZI
+
+, output)
+
+Engr.Muhammad Umer Haroon
+
+--- PAGE 27 ---
+[OCR: may contain recognition errors]
+# Example 6: Find all characters that are NOT uppercase Letters (negation)
+
+input _ string) # The
+
+inside brackets negates the character
+
+output
+
+class
+
+print("Output of [AA-Z] : ", output)
+
+Engr.Muhammad Umer Haroon
+
+--- PAGE 28 ---
+[OCR: may contain recognition errors]
+# Example 7: Find sequences of characters that do not contain uppercase Letters (one or more)
+
+output = input _ string) # Matches one or more characters that are not
+
+uppercase Letters
+
+print("Output of [AA-Z]+:",
+
+output)
+
+Engr.Muhammad Umer Haroon
+
+--- PAGE 29 ---
+[OCR: may contain recognition errors]
+# Search for the first occurrence of 'dog' in the text
+
+- re.search(pattern, text)
+
+match
+
+if
+
+match:
+
+print( " Found:" ,
+
+match. group()) # Print the matched string if found
+
+Engr.Muhammad Umer Haroon
+
+--- PAGE 30 ---
+[OCR: may contain recognition errors]
+# Find all occurrences of 'dog' in the text
+
+re.findall(pattern, text)
+
+matches
+
+print("A11 matches: ",
+
+matches) # Print all matches found
+
+Engr.Muhammad Umer Haroon
+
+--- PAGE 31 ---
+[OCR: may contain recognition errors]
+# Substitute all occurrences of 'dog' with 'Puppy'
+
+re. sub (r"dog" ,
+
+"Puppy", text)
+
+new text
+
+print("Modified text: " ,
+
+new_text) # Print the modified text
+
+Engr.Muhammad Umer Haroon
+
+--- PAGE 32 ---
+[OCR: may contain recognition errors]
+F Split the text into parts based on wnttespace characters
+
+text)
+
+parts
+
+print("Sp1it parts:
+
+parts) # Print the List of split parts
+
+Engr.Muhammad Umer Haroon
+
+--- PAGE 33 ---
+[OCR: may contain recognition errors]
+# UNDERSTANDING USE OF ?
+
+# Sample input string
+
+input_string2
+
+"The cat sat on the mat.
+
+# use regex to find occurrences of 'cat '
+
+The cats are cute. "
+
+optionally followed by
+
+'s'
+
+- r"cats?" # Matches 'cat' or 'cats'
+
+pattern
+
+# Find all matches in the input string
+
+re. findall(pattern, input_string2)
+
+matches
+
+# Print the matches found
+
+print("Matches found: " ,
+
+matches)
+
+Engr.Muhammad Umer Haroon
+
+--- PAGE 34 ---
+[OCR: may contain recognition errors]
+# UNDERSTANDING OF { }
+
+# Sample input string
+
+input _ string
+
+"aaa aa aaaaaa aa aaaaa aaa"
+
+# Use regex to find sequences of 'a' that occur between 2 and 4 times
+
+- # Matches 'a' appearing 2 to 4 times
+
+pattern
+
+# Find all matches in the input string
+
+re.findall(pattern, input _ string)
+
+matches
+
+# Print the matches found
+
+print("Matches found:
+
+matches)
+
+Engr.Muhammad Umer Haroon
+
+--- PAGE 35 ---
+[OCR: may contain recognition errors]
+*UNDERSTANDING OF $
+
+#input_string = "The quick brown fox jumps over the Lazy dog. What about mad dog ? "
+
+input _ string
+
+— "The quick brown fox jumps over the lazy dog. "
+
+# Use regex to find if the string ends with 'dog. '
+
+- r"dog\.$"
+
+# Matches if the string ends with 'dog. '
+
+pattern
+
+# The \ is used to escape the period, as it has a special meaning in regex.
+
+# Check if the input string matches the pattern
+
+re. search(pattern, input _ string) :
+
+if
+
+print("The string ends with 'dog.
+
+else:
+
+print("The string does not end with 'dog.
+
+Engr.Muhammad Umer Haroon
+
+--- PAGE 36 ---
+[OCR: may contain recognition errors]
+#UNDERSTANDING OF
+
+input_string
+
+"Hello, how are feeling now
+
+# Use regex to check if the string starts with 'Hello '
+
+# Matches if the string starts with
+
+- "AHe110"
+
+pattern
+
+# Check if the input string matches the pattern
+
+re.match(pattern, input _ string):
+
+print("The string starts with 'Hello .
+
+else:
+
+print("The string does not start with 'Hello' . ")
+
+Engr.Muhammad Umer Haroon
+
+'Hello '
+
+--- PAGE 37 ---
+RAW STRING
+
+• Raw strings aren’t a different kind of string data type; they’re just a convenient
+ way to type string literals that contain several backslash characters.
+• We often use raw strings to type the strings for regular expressions or
+• Windows file paths, which often have several backslash characters in them that
+ would be a pain to escape individually with \\.
+
+
+
+
+
+                                                   Engr.Muhammad Umer Haroon
+
+--- PAGE 38 ---
+• In Python, a raw string is a string literal that is prefixed with the letter `r` or `R`.
+  This prefix tells Python to treat backslashes (`\`) as literal characters and not as
+  escape characters. This can be particularly useful when dealing with strings that
+  contain many backslashes, such as regular expressions or file paths.
+
+
+
+
+
+                                                   Engr.Muhammad Umer Haroon
+
+--- PAGE 39 ---
+No Escape Sequences
+
+   • In a raw string, escape sequences (like `\n`, `\t`, or `\\`) are
+    treated as normal characters. For example:
+   •   - Regular string: `"Hello\nWorld"` will output:
+   •   Hello
+   •   World
+        - Raw string: `r"Hello\nWorld"` will output:
+   • Hello\nWorld
+
+
+
+
+
+                                                   Engr.Muhammad Umer Haroon
+
+--- PAGE 40 ---
+• Raw strings are particularly handy for Windows file paths, where
+ backslashes are common. For instance:
+•   - Regular string: `"C:\\Users\\John\\Documents"`
+•   - Raw string: `r"C:\Users\John\Documents"`
+
+
+
+
+
+                                                   Engr.Muhammad Umer Haroon
+
+--- PAGE 41 ---
+• The raw string feature simplifies working with complex strings and
+ enhances code readability
+
+
+
+
+
+                                                   Engr.Muhammad Umer Haroon
+
+--- PAGE 42 ---
+Lookahead and Lookbehind Assertions
+
+• These assertions allow you to match patterns based on what follows
+ or precedes them without including those characters in the match.
+• Lookahead: (?=...)
+• Lookbehind: (?<=...)
+
+
+Example
+pattern = r"(?<=@)\w+" # Matches domain names after '@'
+
+--- PAGE 43 ---
+Flags
+
+
+Regex flags can modify how patterns are matched:
+• re.IGNORECASE: Makes matching case insensitive.
+• re.MULTILINE: Allows ^ and $ to match the start and end of each line.
+
+--- PAGE 44 ---
+Engr. Muhammad Umer Haroon                                                    44
+
+==========================================================================================
+FILE 16/47: Lectures\5_SOFTWARE CONSTRUCTION AND DEVELOPMENT_MuhammadUmerHaroon.pdf
+TYPE: .pdf
+SIZE: 1221685 bytes
+==========================================================================================
+--- PAGE 1 ---
+[OCR: may contain recognition errors]
+clas
+
+o ule
+
+class ModuleA { }
+
+export function build()
+
+{ components: [J )
+
+SOFTWARE
+
+rin (IHe
+
+CONSTRUCTION
+
+AND DEVELOPMENT
+
+Engr. Muhammad Umer Haroon Port f
+
+unction build
+
+{c
+
+m ponents•
+
+--- PAGE 2 ---
+SOFTWARE CONSTRUCTION
+  AND DEVELOPMENT
+
+                     WEEK 7
+
+--- PAGE 3 ---
+RECALL LAST WEEKS
+
+
+
+
+
+                                                                     Engr. Muhammad Umer Haroon                                                     3
+
+--- PAGE 4 ---
+Software systems rarely operate in isolation. They talk to databases,
+web browsers, mobile apps, third-party services, and each other. For
+that communication to work, both sides must agree on how data is
+structured, encoded, and decoded. This agreement is what we call a
+data interchange format.
+
+
+
+
+
+                                                                     Engr. Muhammad Umer Haroon                                                     4
+
+--- PAGE 5 ---
+What Is a Data Interchange Format
+
+   • A data interchange format is a set of rules for representing structured
+   data as a sequence of bytes so that it can be stored, transmitted, and
+    reconstructed by another system. The format defines how objects,
+    arrays, strings, numbers, and other data types are written, and how a
+    parser should read them back.
+   • Think of it as a shared language. If your Python backend speaks JSON
+   and your JavaScript frontend speaks JSON, they can exchange data
+   without confusion. If one speaks JSON and the other speaks XML, you
+   need a translator. Choosing the right format is therefore a design
+    decision that affects performance, readability, and maintainability.
+                                                          What Is XML? 🧾Explained in 60
+What Is JSON? 🧾Explained in 60                                                                    Seconds#QuikZen #XML #Programming
+Seconds#QuikZen #JSON #API
+                                                                          Engr. Muhammad Umer Haroon                                                     5
+
+--- PAGE 6 ---
+Serialization
+
+
+Serialization is the process of converting an in-memory data structure
+into a format that can be stored or transmitted. Your Python dictionary,
+your Java object, your C# class, these live in memory as complex
+structures with pointers and references. They cannot be written to a
+file or sent over a network in that form. Serialization flattens them into
+a sequence of bytes or characters that can be saved or sent.
+
+
+
+
+
+                                                                     Engr. Muhammad Umer Haroon                                                     6
+
+--- PAGE 7 ---
+Think of it like packing furniture for shipping. Your furniture (the data
+structure)  is  bulky and awkward.  Serialization  is the  process  of
+disassembling  it, wrapping  it, and putting  it in a box so  it can be
+transported. The box  is the serialized form.  It can be stored in a
+warehouse or shipped on a truck.
+
+
+
+
+
+                                                                     Engr. Muhammad Umer Haroon                                                     7
+
+--- PAGE 8 ---
+Deserialization
+
+
+Deserialization is the reverse. It takes a serialized format, a string or a
+sequence of bytes, and reconstructs the in-memory data structure
+from it. The receiver of the data reads the bytes, parses them according
+to the format rules, and builds the original object back.
+
+
+
+
+
+                                                                     Engr. Muhammad Umer Haroon                                                     8
+
+--- PAGE 9 ---
+Continuing the furniture analogy, deserialization is unpacking the box
+and reassembling the furniture. The box arrives at its destination, and
+you open it, take out the pieces, and put them back together into a
+usable form.
+
+
+
+
+
+                                                                     Engr. Muhammad Umer Haroon                                                     9
+
+--- PAGE 10 ---
+Serialization and deserialization are always a pair.
+Whatever you serialize must be deserializable by
+the other side. This is why the format must be
+agreed upon in advance. If you serialize with JSON
+and the receiver expects XML, deserialization will
+fail.
+
+
+
+
+
+                                                                     Engr. Muhammad Umer Haroon                                                    10
+
+--- PAGE 11 ---
+JSON: JavaScript Object Notation
+
+• JSON is a lightweight, text-based format that represents data as key-
+ value pairs and ordered lists. It was derived from JavaScript syntax but
+  is now language-independent and supported by  virtually every
+ programming language.
+•  It  is the  default format  for most  APIs, web  applications, and
+  configuration files in modern software.
+
+
+
+
+
+                                                                     Engr. Muhammad Umer Haroon                                                    11
+
+--- PAGE 12 ---
+JSON Syntax Rules
+
+RULE                     EXAMPLE
+Objects use curly braces with
+                              {"name": "Ali", "age": 25}
+key-value pairs
+Keys must be double-quoted
+                           "name" is valid, name is not
+strings
+
+Arrays use square brackets        ["apple", "banana"]
+
+Strings use double quotes        "hello"
+
+Numbers have no quotes         42, 3.14
+
+Booleans are lowercase           true, false
+
+Null is lowercase                   null
+
+No comments allowed            // comment is invalid
+
+                                                                     Engr. Muhammad Umer Haroon                                                    12
+
+--- PAGE 13 ---
+example
+
+
+{
+ "student": {
+  "name": “Sara Khan",
+  "age": 22,
+  "courses": ["SCD", "Data Structures", "Databases"],
+  "active": true,
+  "gpa": 3.75
+ }
+}
+
+
+
+                                                                     Engr. Muhammad Umer Haroon                                                    13
+
+--- PAGE 14 ---
+To be practiced in lab
+
+
+
+import json
+
+# Python dictionary
+
+student = {
+
+  "name": "Ali Khan",
+
+  "age": 22,
+
+  "courses": ["SCD", "Data Structures", "Databases"],
+
+  "active": True,
+
+  "gpa": 3.75
+
+}
+
+# Serialize: Python object to JSON string
+
+json_string = json.dumps(student, indent=2)
+
+print(json_string)
+
+# Deserialize: JSON string to Python object
+
+parsed = json.loads(json_string)
+
+print(parsed["name"])   # Ali Khan
+
+print(parsed["courses"][0]) # SCD
+
+
+
+                                                                     Engr. Muhammad Umer Haroon                                                    14
+
+--- PAGE 15 ---
+Common JSON Operations
+
+
+
+
+OPERATION                               PYTHON CODE
+
+
+Write to file                                         json.dump(data, open("file.json", "w"))
+
+
+Read from file                                       data = json.load(open("file.json"))
+
+
+Pretty print                                          json.dumps(data, indent=2)
+
+
+Sort keys                                            json.dumps(data, sort_keys=True)
+
+
+Handle non-ASCII                                    json.dumps(data, ensure_ascii=False)
+
+
+                                                                     Engr. Muhammad Umer Haroon                                                    15
+
+--- PAGE 16 ---
+JSON offers the best compromise between interoperability and
+ease of use for most web and API scenarios.  It  is not the
+smallest or fastest format, but it is almost always good enough
+
+
+
+ STRENGTHS                                WEAKNESSES
+
+
+ Simple syntax, easy to learn                    No support for comments
+
+
+ Native support in JavaScript                    No schema validation built in
+
+
+ Compact compared to XML                      Numbers are limited to floating point
+
+
+ Fast parsing in most languages                  No support for dates or binary data
+
+
+ Universal language support                          Keys must be strings
+
+
+
+                                                                     Engr. Muhammad Umer Haroon                                                    16
+
+--- PAGE 17 ---
+XML: eXtensible Markup Language
+
+
+XML  is a markup language that uses tags to describe data.  It was
+designed to be both human-readable and machine-readable, and  it
+supports complex structures such as nested elements,  attributes,
+namespaces, and schema validation. XML was the dominant format for
+web services in the early 2000s and remains widely used in enterprise
+systems, configuration files, and document formats such as Microsoft
+Office files.
+
+
+
+
+
+                                                                     Engr. Muhammad Umer Haroon                                                    17
+
+--- PAGE 18 ---
+XML Syntax Rules
+
+RULE                           EXAMPLE
+
+Elements have opening and closing tags  <name>Ali</name>
+
+Elements can have attributes            <student id="1">
+
+Elements can be nested                <student><name>Ali</name></student>
+
+
+Every document has one root element    <students>...</students>
+
+Tags are case-sensitive              <Name> and <name> are different
+
+Comments use <!-- -->                       <!-- this is a comment -->
+
+Namespaces use xmlns                  xmlns:ns="http://example.com"
+
+                                                                     Engr. Muhammad Umer Haroon                                                    18
+
+--- PAGE 19 ---
+<?xml version="1.0" encoding="UTF-8"?>
+<students>
+  <student id="1">
+    <name>Sara Khan</name>
+    <age>22</age>
+    <courses>
+      <course>SCD</course>
+      <course>Data Structures</course>
+    </courses>
+    <active>true</active>
+    <gpa>3.75</gpa>
+  </student>
+</students>
+
+
+
+
+                                                                     Engr. Muhammad Umer Haroon                                                    19
+
+--- PAGE 20 ---
+Python provides xml.etree.ElementTree in the
+standard library for parsing and creating XML
+
+
+import xml.etree.ElementTree as ET
+
+# Parse XML from a string
+
+xml_string = """
+
+<students>
+
+  <student id="1">
+
+    <name>Ali Khan</name>
+
+    <age>22</age>
+
+    <gpa>3.75</gpa>
+
+  </student>
+
+</students>
+
+"""
+
+root = ET.fromstring(xml_string)
+
+# Access elements
+
+for student in root.findall("student"):
+
+  name = student.find("name").text
+
+  age = student.find("age").text
+
+  gpa = student.find("gpa").text
+
+  student_id = student.get("id")
+
+  print(f"ID: {student_id}, Name: {name}, Age: {age}, GPA: {gpa}")
+
+
+
+                                                                     Engr. Muhammad Umer Haroon                                                    20
+
+--- PAGE 21 ---
+Creating xml in python
+
+
+
+import xml.etree.ElementTree as ET
+
+
+root = ET.Element("students")
+
+student = ET.SubElement(root, "student", id="1")
+
+
+name = ET.SubElement(student, "name")
+
+name.text = "Ali Khan"
+
+
+age = ET.SubElement(student, "age")
+
+age.text = "22"
+
+
+tree = ET.ElementTree(root)
+
+ET.indent(tree, space=" ")
+
+tree.write("students.xml", encoding="utf-8", xml_declaration=True)
+
+
+
+
+
+                                                                     Engr. Muhammad Umer Haroon                                                    21
+
+--- PAGE 22 ---
+Strengths                     Weaknesses
+
+Supports schema validation (XSD)  Verbose and bulky
+
+Supports namespaces             Slower to parse than JSON
+
+Supports comments              Complex syntax
+
+Good for document-centric data      Overkill for simple data exchange
+
+                                Not natively supported in
+Mature tooling and standards
+                                   JavaScript
+
+
+
+
+
+                                                                   Engr. Muhammad Umer Haroon                                                    22
+
+--- PAGE 23 ---
+JSON is generally preferred for browser-side and API communication
+because its files are smaller and parse faster. XML is preferred in server-
+side enterprise systems where validation, namespaces, and document
+structure matter more than size.
+
+Feature                                    JSON                                    XML
+
+
+Data model                                              Key-value pairs and arrays                            Tags and attributes
+
+
+Readability                                         Easy                                                Moderate to difficult
+
+
+File size                                                  Smaller                                                   Larger due to tags
+
+
+Parsing speed                                            Fast                                                   Slower
+
+
+Schema support                               JSON Schema (optional)                        XSD (standardized)
+
+
+Comments                                            Not supported                                          Supported
+
+
+Namespaces                                          Not supported                                          Supported
+
+
+Native JavaScript support                             Yes                                         No
+
+
+
+Best for                                   Web APIs, config files                                        Enterprise systems, documents
+
+
+
+                                                                      Engr. Muhammad Umer Haroon                                                    23
+
+--- PAGE 24 ---
+Modern Alternatives
+
+
+While JSON and XML dominate, several other formats have emerged
+for specific needs. The choice depends on whether you prioritize size,
+speed, readability, or schema enforcement.
+
+
+
+
+
+                                                                     Engr. Muhammad Umer Haroon                                                    24
+
+--- PAGE 25 ---
+YAML
+
+• YAML is a human-readable format often used for configuration files. It
+ uses indentation instead of braces and brackets, which makes it more
+ readable than JSON for complex configurations. YAML is popular in
+ DevOps  tools such as Docker Compose, Kubernetes, and CI/CD
+  pipelines.
+
+
+
+
+
+                                                                     Engr. Muhammad Umer Haroon                                                    25
+
+--- PAGE 26 ---
+Yaml syntax example
+
+
+student:
+ name: Sara Khan
+ age: 22
+ courses:
+   - SCD
+   - Data Structures
+ active: true
+ gpa: 3.75
+
+
+
+
+                                                                     Engr. Muhammad Umer Haroon                                                    26
+
+--- PAGE 27 ---
+• YAML is more functional and readable than JSON, but JSON is much
+  faster for serialization and deserialization. Use YAML for human-
+  written configuration, and JSON for machine-to-machine exchange.
+
+
+
+
+
+                                                                     Engr. Muhammad Umer Haroon                                                    27
+
+--- PAGE 28 ---
+Protocol Buffers (Protobuf)
+
+
+Protocol Buffers  is a binary format developed by Google.  It uses a
+schema file (.proto) to define the structure of messages, and a compiler
+generates  code  in  the  target  language  for  serialization  and
+deserialization. Because  the schema  is  separate from  the  data,
+payloads are much smaller than JSON or XML.
+
+
+Research shows that Protocol Buffers excels in compactness and speed
+within Java and Python environments. It is ideal for high-performance
+microservices, gRPC APIs, and situations where bandwidth and latency
+matter.
+
+
+
+                                                                     Engr. Muhammad Umer Haroon                                                    28
+
+--- PAGE 29 ---
+protobuf
+
+
+// student.proto
+message Student {
+  string name = 1;
+  int32 age = 2;
+  repeated string courses = 3;
+  bool active = 4;
+  float gpa = 5;
+}
+
+
+
+
+                                                                     Engr. Muhammad Umer Haroon                                                    29
+
+--- PAGE 30 ---
+Apache Avro
+
+
+Avro is a binary format that stores the schema alongside the data,
+which makes it self-describing. It supports schema evolution, meaning
+you can add or remove fields without breaking compatibility. Avro is
+widely used in big data systems such as Apache Hadoop and Apache
+Kafka.
+
+
+
+
+
+                                                                     Engr. Muhammad Umer Haroon                                                    30
+
+--- PAGE 31 ---
+MessagePack
+
+
+MessagePack is a binary format that aims to be as simple as JSON but
+more compact. It is useful when you want JSON-like simplicity with
+better performance. However,  industry demand  for MessagePack
+remains lower than for Protobuf and Avro.
+
+
+
+
+
+                                                                     Engr. Muhammad Umer Haroon                                                    31
+
+--- PAGE 32 ---
+Cap'n Proto
+
+
+Cap'n Proto  is a binary format designed  for extreme speed.  Its
+documentation claims it is "infinity times faster" than Protocol Buffers
+in some benchmarks because  it supports zero-copy deserialization,
+meaning data can be read directly from the wire without parsing. It is
+used in performance-critical systems.
+
+
+
+
+
+                                                                     Engr. Muhammad Umer Haroon                                                    32
+
+--- PAGE 33 ---
+ULMEN
+
+
+ULMEN is a newer serialization format built in Rust, designed for AI
+agent communication and LLM context. It claims to be 8x faster than
+JSON while producing payloads 55-97% smaller. This is an emerging
+format, and its long-term adoption is not yet established
+
+
+
+
+
+                                                                     Engr. Muhammad Umer Haroon                                                    33
+
+--- PAGE 34 ---
+EXPLORE IF IT INTERESTS YOU
+
+SCENARIO                RECOMMENDED FORMAT     WHY
+
+Public REST API               JSON                             Universal support, easy to debug
+
+
+Internal microservices            Protobuf or gRPC                Small payloads, fast serialization
+
+                                                            Human-readable, supports
+Configuration files            YAML
+                                                     comments
+
+Enterprise integration         XML                       Schema validation, namespaces
+
+                                                     Schema evolution, columnar
+Big data pipelines               Avro or Parquet
+                                                                  storage
+
+Real-time systems               Cap'n Proto or Protobuf         Extreme speed, low latency
+
+Browser-to-server             JSON                            Native JavaScript support
+
+Legacy system integration      XML                                Existing tooling and standards
+
+
+
+                                                                      Engr. Muhammad Umer Haroon                                                    34
+
+--- PAGE 35 ---
+Some Keypoints
+
+• Data interchange formats are a foundational concern in software
+  construction.
+• The format you choose affects how fast your system runs, how easy it
+  is to debug, and how well it integrates with other systems.
+• JSON and XML remain the workhorses, but binary formats such as
+ Protobuf and Avro are increasingly important in performance-critical
+ and data-intensive applications.
+• Understanding the tradeoffs allows you to make informed decisions
+  rather than defaulting to whatever is familiar.
+
+
+
+
+
+                                                                     Engr. Muhammad Umer Haroon                                                    35
+
+--- PAGE 36 ---
+LAB
+
+
+Write a Python script that reads a JSON file containing a list of students,
+filters those with a GPA above 3.5, and writes the result to a new JSON
+file. Write a second script that performs the same task using XML
+instead of JSON. Compare the amount of code required in each case.
+Then write a third script that serializes the same data using Protocol
+Buffers and compare the file size of the three outputs. This exercise will
+give you hands-on intuition for the tradeoffs discussed in this lecture.
+
+
+
+
+
+                                                                     Engr. Muhammad Umer Haroon                                                    36
+
+--- PAGE 37 ---
+For queries
+
+
+Office : B05, RSB
+Counselling Hours :
+
+                    Monday                   11:00 am -12:00 pm
+
+                       Tuesday                   12:00 pm -1:00 pm
+
+                        Thursday                  10:15 am -11:15 am
+
+
+mumer.haroon@imsciences.edu.pk
+Muhammad Umer Haroon | LinkedIn
+
+
+
+
+
+                                                                     Engr. Muhammad Umer Haroon                                                    37
+
+==========================================================================================
+FILE 17/47: Lectures\6_SOFTWARE CONSTRUCTION AND DEVELOPMENT_MuhammadUmerHaroon.pdf
+TYPE: .pdf
+SIZE: 1041427 bytes
+==========================================================================================
+[CONTENT NOT EXTRACTED: this lecture PDF was added after the previous export. The available extractor cannot read PDFs in the current environment. The original PDF remains unchanged.]
+
+==========================================================================================
+FILE 18/47: Lectures\Others\Assignment_1_SCD_IMSCIENCES.pdf
+TYPE: .pdf
+SIZE: 632684 bytes
+==========================================================================================
+--- PAGE 1 ---
+Engr. Muhammad Umer Haroon
+
+
+
+
+
+Assignment 1
+
+
+
+
+
+SOFTWARE CONSTRUCTION AND
+DEVELOPMENT
+“Project Initiation, Git Collaboration, and
+Requirements Documentation”
+
+--- PAGE 2 ---
+Objective: To initiate your semester project using collaborative software development practices,
+establish a shared Git repository, and document the initial requirements of your project using an
+agile approach.
+
+Tasks
+
+1. Create a Shared Git Repository
+
+       Create a public repository on GitHub for your semester project.
+      Each group must consist of multiple members. Exceptionally one, who has taken
+       permission.
+      Add all group members as collaborators and ensure that everyone contributes to the same
+        repository.
+      Each member must use their own GitHub account and make meaningful contributions
+       through commits.
+      Maintain a complete and traceable record of project development using Git commits.
+      Use meaningful commit messages that clearly describe the changes made.
+
+2. Document Project Requirements
+
+Prepare a lightweight requirements document for your project. A formal Software Requirements
+Specification (SRS) is not required.
+
+The document should include:
+
+       Project title and group member details.
+      A brief description of the problem being addressed.
+       Project objectives and intended users.
+       Initial functional requirements, describing what the application should do.
+       Relevant non-functional requirements, where applicable.
+      A prioritized list of features or a simple product backlog.
+       Initial assumptions, constraints, and known limitations.
+
+Follow an agile approach: document the requirements clearly enough to guide development, while
+recognizing that they may evolve as the project progresses.
+
+
+
+
+
+Designed by : Engr. Muhammad Umer Haroon
+
+--- PAGE 3 ---
+3. Organize and Maintain the Repository
+
+       Include the requirements document in the repository.
+      Use a clear and consistent folder structure.
+       Include a README.md file containing the project overview, group members, and current
+        project status.
+       Establish and follow a consistent naming convention for files, folders, and project versions.
+      Use Git commits and tags to maintain a history of changes and significant project versions.
+
+For project versions, you may use a convention such as v0.1.0 for an initial development version
+and v1.0.0 for the first complete release. Do not create separate copies of files merely to represent
+different versions; use Git history and tags instead.
+
+4. Work as an Agile Team
+
+      Divide initial responsibilities among group members.
+      Maintain a simple task list or product backlog.
+      Ensure that all group members participate in project development and repository activities.
+      Update the requirements and task list as the project evolves.
+
+Submission Requirements
+
+Submit the following:
+
+    1.  Public GitHub repository link — the repository must be accessible without requesting
+       permission.
+    2.  Requirements document — submitted as a PDF or other instructor-approved format.
+    3.  Repository copy of the requirements document — the same document must also be
+      committed to the repository.
+
+Only one submission per group is required. One designated group member may submit the
+repository link and requirements document on behalf of the entire group.
+
+However, all group members are individually responsible for contributing to and understanding
+the work in the shared repository.
+
+Important: This assignment establishes the foundation for subsequent project milestones. Your
+repository, requirements, and development history should be maintained throughout the semester
+rather than created only for submission. Copied  / plagiarized, massively AI generated work,
+(identical working or identical mistakes) will receive zero for everyone involved. Random students
+may be asked to explain their solutions in a short viva.
+
+
+
+
+
+Designed by : Engr. Muhammad Umer Haroon
+
+==========================================================================================
+FILE 19/47: Lectures\Others\Clean.Code.A.Handbook.of.Agile.Software.Craftsmanship.pdf
+TYPE: .pdf
+SIZE: 3782924 bytes
+==========================================================================================
+[BOOK CONTENT OMITTED AT USER REQUEST: listed in the folder structure only. Original PDF remains unchanged.]
+
+==========================================================================================
+FILE 20/47: Lectures\Others\Code Complete 2nd.pdf
+TYPE: .pdf
+SIZE: 8880461 bytes
+==========================================================================================
+[BOOK CONTENT OMITTED AT USER REQUEST: listed in the folder structure only. Original PDF remains unchanged.]
+
+==========================================================================================
+FILE 21/47: Lectures\Others\Python for Programmers with Big Data and Artificial Intelligence Case Studies by Paul J. Deitel, Harvey Deitel (z-lib.org).pdf
+TYPE: .pdf
+SIZE: 15349175 bytes
+==========================================================================================
+[BOOK CONTENT OMITTED AT USER REQUEST: listed in the folder structure only. Original PDF remains unchanged.]
+
+==========================================================================================
+FILE 22/47: Lectures\Others\Software Construction and Development Outline for Students.pdf
+TYPE: .pdf
+SIZE: 15445 bytes
+==========================================================================================
+--- PAGE 1 ---
+Software Construction and Development
+
+
+Course Instructor: Engr. Muhammad Umer Haroon
+
+
+Tentative Course Content
+
+ Week  Content
+ 1      Software Construction, Clean Code, Meaningful Names
+ 2      Programming Language Constructs & Clean Code Recommendations
+ 3       Reusability: Functions/Lambdas, Coupling & Cohesion
+ 4      Tech Stack Selection, COTS, Continuous Improvement (Releases/Versioning/Patching)
+ 5      Regular Expressions: Good or Bad
+ 6       File Handling & Data Interchange Formats
+ 7      Exception Handling & Defensive Programming
+ 8      Concurrency Programming
+ 9      Data Acquisition for Software Construction (Web Scraping)
+ 10     Design Patterns I: Creational & Structural
+ 11     Design Patterns II: Behavioral
+ 12      Anti-Patterns & Code Smells (Refactoring toward Clean Code)
+ 13     APIs: Bridging Software Systems & Productivity Automation
+ 14     Secure Coding
+ 15     AI-Augmented Software Construction
+ 16      Presentations / Project Evaluation
+
+==========================================================================================
+FILE 23/47: Mids\Notes\Me - WhatsApp Image 2026-10-26 at 8.23.46 PM.jpeg
+TYPE: .jpeg
+SIZE: 114752 bytes
+==========================================================================================
+[Verified byte-identical photo: reused its previously reviewed transcription.]
+[EXTRACTION FAILED: RuntimeError: System.AggregateException: One or more errors occurred. ---> System.UnauthorizedAccessException: Access is denied.
+   --- End of inner exception stack trace ---
+---> (Inner Exception #0) System.UnauthorizedAccessException: Access is denied.
+<---
+At E:\Study Material\5th Semester All Data\tmp\course_export\ocr.ps1:8 char:120
++ ... ; try {$task.Wait()} catch { throw $task.Exception.ToString() }; retu ...
++                                  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : OperationStopped: (System.Aggregat...denied.
+<---
+:String) [], RuntimeException
+    + FullyQualifiedErrorId : System.AggregateException: One or more errors occurred. ---> System.UnauthorizedAccessEx 
+   ception: Access is denied.
+   --- End of inner exception stack trace ---
+---> (Inner Exception #0) System.UnauthorizedAccessException: Access is denied.
+<---
+ 
+]
+
+==========================================================================================
+FILE 24/47: Mids\Notes\Me - WhatsApp Image 2026-10-26 at 8.23.48 PM.jpeg
+TYPE: .jpeg
+SIZE: 151906 bytes
+==========================================================================================
+[Verified byte-identical photo: reused its previously reviewed transcription.]
+[EXTRACTION FAILED: RuntimeError: System.AggregateException: One or more errors occurred. ---> System.UnauthorizedAccessException: Access is denied.
+   --- End of inner exception stack trace ---
+---> (Inner Exception #0) System.UnauthorizedAccessException: Access is denied.
+<---
+At E:\Study Material\5th Semester All Data\tmp\course_export\ocr.ps1:8 char:120
++ ... ; try {$task.Wait()} catch { throw $task.Exception.ToString() }; retu ...
++                                  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : OperationStopped: (System.Aggregat...denied.
+<---
+:String) [], RuntimeException
+    + FullyQualifiedErrorId : System.AggregateException: One or more errors occurred. ---> System.UnauthorizedAccessEx 
+   ception: Access is denied.
+   --- End of inner exception stack trace ---
+---> (Inner Exception #0) System.UnauthorizedAccessException: Access is denied.
+<---
+ 
+]
+
+==========================================================================================
+FILE 25/47: Mids\Notes\Me - WhatsApp Image 2026-10-26 at 8.23.57 PM.jpeg
+TYPE: .jpeg
+SIZE: 136837 bytes
+==========================================================================================
+[VISUALLY REVIEWED NOTES: spelling/spacing normalized; unclear handwriting is marked.]
+SCD: naming; variable declaration; declaration statements; print; if/else; set. Functions and reusability: reusability means designing a system so pieces can be reused in other systems. Three levels: within a file, across files, across projects. A function/routine returns a value; a procedure does not. A routine is a callable block of code that performs a task. Code example notes use `def`, `self`, and a `print_area` function. Mixed networking notes show IP address/subnet examples, including 192.168.10.x and 255.255.255.0.
+
+==========================================================================================
+FILE 26/47: Mids\Notes\Me - WhatsApp Image 2026-10-26 at 8.24.07 PM.jpeg
+TYPE: .jpeg
+SIZE: 140848 bytes
+==========================================================================================
+[Verified byte-identical photo: reused its previously reviewed transcription.]
+[EXTRACTION FAILED: RuntimeError: System.AggregateException: One or more errors occurred. ---> System.UnauthorizedAccessException: Access is denied.
+   --- End of inner exception stack trace ---
+---> (Inner Exception #0) System.UnauthorizedAccessException: Access is denied.
+<---
+At E:\Study Material\5th Semester All Data\tmp\course_export\ocr.ps1:8 char:120
++ ... ; try {$task.Wait()} catch { throw $task.Exception.ToString() }; retu ...
++                                  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : OperationStopped: (System.Aggregat...denied.
+<---
+:String) [], RuntimeException
+    + FullyQualifiedErrorId : System.AggregateException: One or more errors occurred. ---> System.UnauthorizedAccessEx 
+   ception: Access is denied.
+   --- End of inner exception stack trace ---
+---> (Inner Exception #0) System.UnauthorizedAccessException: Access is denied.
+<---
+ 
+]
+
+==========================================================================================
+FILE 27/47: Mids\Notes\Me - WhatsApp Image 2026-10-26 at 8.24.24 PM.jpeg
+TYPE: .jpeg
+SIZE: 151347 bytes
+==========================================================================================
+[Verified byte-identical photo: reused its previously reviewed transcription.]
+[VISUALLY REVIEWED PHOTO TRANSCRIPTION — 31 October 2026]
+[Mixed-subject notebook contents labelled. Student notes retained as written,not independently verified definitions. Unclear entries explicitly flagged;diagrams represented in text.]
+Computer Networks:twisted-pair cable,UTP;coaxial cable;optical fiber.
+OTHER SUBJECTS:TuesdayOct6,2026 SCD:tech stack=collection of technologies,selected by software architect;COTS=commercial off the shelf. SRELab:PBL/OBL;scenario;requirements-elicitation techniques;prototypes,UML diagrams for elicitation,asking user system functions,use-case modelling. UML raw requirements->without logic/with logic(design). Usecase high-level system representation;system boundary;external system;actor/user goal,entities/relationships. Actor can be human/nonhuman;user is human. Primary actor left(initiates),secondary right(supports indirectly). Oval=activity;overall system functionalities within boundary,actors outside.
+
+==========================================================================================
+FILE 28/47: Mids\Notes\Me - WhatsApp Image 2026-10-26 at 8.24.36 PM.jpeg
+TYPE: .jpeg
+SIZE: 143412 bytes
+==========================================================================================
+[Verified byte-identical photo: reused its previously reviewed transcription.]
+[EXTRACTION FAILED: RuntimeError: System.AggregateException: One or more errors occurred. ---> System.UnauthorizedAccessException: Access is denied.
+   --- End of inner exception stack trace ---
+---> (Inner Exception #0) System.UnauthorizedAccessException: Access is denied.
+<---
+At E:\Study Material\5th Semester All Data\tmp\course_export\ocr.ps1:8 char:120
++ ... ; try {$task.Wait()} catch { throw $task.Exception.ToString() }; retu ...
++                                  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : OperationStopped: (System.Aggregat...denied.
+<---
+:String) [], RuntimeException
+    + FullyQualifiedErrorId : System.AggregateException: One or more errors occurred. ---> System.UnauthorizedAccessEx 
+   ception: Access is denied.
+   --- End of inner exception stack trace ---
+---> (Inner Exception #0) System.UnauthorizedAccessException: Access is denied.
+<---
+ 
+]
+
+==========================================================================================
+FILE 29/47: Mids\Notes\Me - WhatsApp Image 2026-10-26 at 8.24.39 PM.jpeg
+TYPE: .jpeg
+SIZE: 158256 bytes
+==========================================================================================
+[Verified byte-identical photo: reused its previously reviewed transcription.]
+[EXTRACTION FAILED: RuntimeError: System.AggregateException: One or more errors occurred. ---> System.UnauthorizedAccessException: Access is denied.
+   --- End of inner exception stack trace ---
+---> (Inner Exception #0) System.UnauthorizedAccessException: Access is denied.
+<---
+At E:\Study Material\5th Semester All Data\tmp\course_export\ocr.ps1:8 char:120
++ ... ; try {$task.Wait()} catch { throw $task.Exception.ToString() }; retu ...
++                                  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : OperationStopped: (System.Aggregat...denied.
+<---
+:String) [], RuntimeException
+    + FullyQualifiedErrorId : System.AggregateException: One or more errors occurred. ---> System.UnauthorizedAccessEx 
+   ception: Access is denied.
+   --- End of inner exception stack trace ---
+---> (Inner Exception #0) System.UnauthorizedAccessException: Access is denied.
+<---
+ 
+]
+
+==========================================================================================
+FILE 30/47: Mids\Notes\Me - WhatsApp Image 2026-10-26 at 8.24.45 PM.jpeg
+TYPE: .jpeg
+SIZE: 145482 bytes
+==========================================================================================
+[Verified byte-identical photo: reused its previously reviewed transcription.]
+[EXTRACTION FAILED: RuntimeError: System.AggregateException: One or more errors occurred. ---> System.UnauthorizedAccessException: Access is denied.
+   --- End of inner exception stack trace ---
+---> (Inner Exception #0) System.UnauthorizedAccessException: Access is denied.
+<---
+At E:\Study Material\5th Semester All Data\tmp\course_export\ocr.ps1:8 char:120
++ ... ; try {$task.Wait()} catch { throw $task.Exception.ToString() }; retu ...
++                                  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : OperationStopped: (System.Aggregat...denied.
+<---
+:String) [], RuntimeException
+    + FullyQualifiedErrorId : System.AggregateException: One or more errors occurred. ---> System.UnauthorizedAccessEx 
+   ception: Access is denied.
+   --- End of inner exception stack trace ---
+---> (Inner Exception #0) System.UnauthorizedAccessException: Access is denied.
+<---
+ 
+]
+
+==========================================================================================
+FILE 31/47: Mids\Notes\Mudassir - WhatsApp Image 2026-10-26 at 8.19.40 PM (1).jpeg
+TYPE: .jpeg
+SIZE: 115156 bytes
+==========================================================================================
+[Verified byte-identical photo: reused its previously reviewed transcription.]
+[EXTRACTION FAILED: RuntimeError: System.AggregateException: One or more errors occurred. ---> System.UnauthorizedAccessException: Access is denied.
+   --- End of inner exception stack trace ---
+---> (Inner Exception #0) System.UnauthorizedAccessException: Access is denied.
+<---
+At E:\Study Material\5th Semester All Data\tmp\course_export\ocr.ps1:8 char:120
++ ... ; try {$task.Wait()} catch { throw $task.Exception.ToString() }; retu ...
++                                  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : OperationStopped: (System.Aggregat...denied.
+<---
+:String) [], RuntimeException
+    + FullyQualifiedErrorId : System.AggregateException: One or more errors occurred. ---> System.UnauthorizedAccessEx 
+   ception: Access is denied.
+   --- End of inner exception stack trace ---
+---> (Inner Exception #0) System.UnauthorizedAccessException: Access is denied.
+<---
+ 
+]
+
+==========================================================================================
+FILE 32/47: Mids\Notes\Mudassir - WhatsApp Image 2026-10-26 at 8.19.40 PM.jpeg
+TYPE: .jpeg
+SIZE: 106205 bytes
+==========================================================================================
+[VISUALLY REVIEWED NOTES: spelling/spacing normalized.]
+Software Construction and Development: the overall SDLC is development. The course theme is to write code and make it better. Development is the umbrella term under which phases occur. Software engineering is not only coding; it emphasizes better, clean code. Clean code should be maintainable, scalable and secure, and not unnecessarily complex. Software construction is detailed creation of software through coding, debugging and testing.
+
+==========================================================================================
+FILE 33/47: Mids\Notes\Mudassir - WhatsApp Image 2026-10-26 at 8.20.14 PM.jpeg
+TYPE: .jpeg
+SIZE: 136009 bytes
+==========================================================================================
+[VISUALLY REVIEWED NOTES: mixed-course notebook page.]
+Interactive models: reveal content and support reciprocal communication. Three layers: syntactic, pragmatic and semantic. Communication notes: clarity—be clear about the goal/message and writing content; consider audience, subject, writer and purpose. Suggestions: consider the audience, say exactly what you mean, avoid jargon, keep it short and simple, ask for feedback/playback, avoid over-communication, choose the right medium.
+SCD naming: use clear variable/function/loop/data-structure names. Ask: why does it exist, what does it do, and how is it used? Better naming reduces the need for comments. Respect domain conventions; languages differ, so use the language appropriately for the task.
+
+==========================================================================================
+FILE 34/47: Mids\Notes\Mudassir - WhatsApp Image 2026-10-26 at 8.20.17 PM.jpeg
+TYPE: .jpeg
+SIZE: 122670 bytes
+==========================================================================================
+[VISUALLY REVIEWED NOTES: mixed-course notebook page.]
+Python basics: comments start with `#`; comment purpose is to convey logic/reasons. Variable names start with a letter or underscore; variables are case-sensitive. Print strings in double quotes. Example list: ["Blue", "Green", "Red"].
+Requirements/system modeling notes: boundary includes the system boundary and context boundary. UML diagrams include structural and behavioural diagrams; non-UML examples include ER and data-flow diagrams. A system model’s context boundary contains three components; stereotypes/roles are indicated. Some diagrams show inside the system while context diagrams omit internal detail.
+
+==========================================================================================
+FILE 35/47: Mids\Notes\Mudassir - WhatsApp Image 2026-10-26 at 8.20.20 PM.jpeg
+TYPE: .jpeg
+SIZE: 119842 bytes
+==========================================================================================
+[VISUALLY REVIEWED NOTES: mixed-course notebook page.]
+Consideration in communication: step into others' shoes and emphasize your approach. Coherent communication: old-first and new-last cohesion. Python collections: dictionary uses key–value pairs; list is ordered, changeable and allows duplicates; tuple is ordered, not changeable and allows duplicates; set is unordered, changeable and has no duplicates.
+Parallel-computing notes: Amdahl's law; speedup = 1 / ((1 - P) + P / N), where P is the parallel fraction and N is the number of cores. The worked example uses P = 0.9 and N = 8, giving approximately 4.70× speedup. Some timing arithmetic is unclear.
+
+==========================================================================================
+FILE 36/47: Mids\Notes\Mudassir - WhatsApp Image 2026-10-26 at 8.20.45 PM.jpeg
+TYPE: .jpeg
+SIZE: 143436 bytes
+==========================================================================================
+[VISUALLY REVIEWED NOTES: spelling/spacing normalized.]
+Set: unchangeable/no duplicate items; braces; can add/remove items; heterogeneous data. Functions and reusability: design a system so pieces can be reused; duplicated code is a liability. Three levels of reuse: within a file, across files, across projects. A function returns a value; a procedure does not; a routine is any callable block of code.
+A method is like a function but is associated with an object in OOP; the distinction is strict in some languages and blurred in others. Create routines to reduce complexity and avoid duplicate code. Example `print_area` computes square and rectangle areas. Notes also mention encapsulation/modularity, hidden pointer operations and design based on object paradigm.
+
+==========================================================================================
+FILE 37/47: Mids\Notes\Mudassir - WhatsApp Image 2026-10-26 at 8.20.56 PM.jpeg
+TYPE: .jpeg
+SIZE: 118653 bytes
+==========================================================================================
+[VISUALLY REVIEWED NOTES: mixed-course notebook page; some words unclear.]
+Writing notes: list people involved; define milestones; approval cycle; consider everyone who provides input; use precise words and avoid unnecessary words, long sentences and adjectivization. Use metaphors/similar methods where appropriate; figures of speech listed include tangent, literary allusion and synonyms.
+Software construction: hide pointer operations; improve portability and performance. Function guidance: keep functions small, make each do one thing, use meaningful names, and avoid overly complex operations; classes should be functions or modules where appropriate. Function size should be small and do one thing.
+
+==========================================================================================
+FILE 38/47: Mids\Notes\Mudassir - WhatsApp Image 2026-10-26 at 8.20.57 PM.jpeg
+TYPE: .jpeg
+SIZE: 121340 bytes
+==========================================================================================
+[Verified byte-identical photo: reused its previously reviewed transcription.]
+[VISUALLY REVIEWED NOTES: readable content transcribed/normalized; diagram descriptions and unclear handwriting are marked. Student notes have not been independently validated.]
+MIXED SUBJECTS.Clean-code:block/indentation;functionnamesmatter;avoidcrypticnames;use descriptive namesratherthancomments.
+PDC:OpenMPautomaticthreads bygcc-fopenmp;pthreadmanualthreads;threadworker/corechair;#pragma omp parallel instructions topreprocessor;blockparallel. Sharedmemory raceconditions;reductionprivatecopies,everyprocess/coreworks then sumsafterloop;critical. Threadworkers1,2,3,4 diagramA/B/C/D.
+SRETheory:NFRs,McCallmodel study;P/Py[unexplained];flexibilityheading;robustness:timetorestartafterfailure.
+
+==========================================================================================
+FILE 39/47: Mids\Notes\Mudassir - WhatsApp Image 2026-10-26 at 8.21.20 PM.jpeg
+TYPE: .jpeg
+SIZE: 106040 bytes
+==========================================================================================
+[VISUALLY REVIEWED NOTES: duplicate notebook spread; normalized transcription.]
+Use attachments for long documents; keep messages concise; use courteous language; provide an action statement when necessary. Function names matter. Arguments versus parameters: many argument combinations make testing harder; reduce arguments so functions are clearer and multiple functions can be used.
+Nested function: inner function; avoid unnecessary inner functions. Tail recursion and non-tail recursion are listed. Mixed networking notes: subnetting divides a network into subnetworks; variable subnets; a table for networks A–D is incomplete/unclear.
+
+==========================================================================================
+FILE 40/47: Mids\Notes\Mudassir - WhatsApp Image 2026-10-26 at 8.21.23 PM.jpeg
+TYPE: .jpeg
+SIZE: 115446 bytes
+==========================================================================================
+[VISUALLY REVIEWED NOTES: same notebook spread as the 8.21.20 PM photo; clearer duplicate.]
+Use attachments for long documents; keep messages concise; use courteous language; provide an action statement when necessary. Function names matter. Arguments versus parameters: many argument combinations make testing harder; reduce arguments so functions are clearer and multiple functions can be used.
+Nested function: inner function; avoid unnecessary inner functions. Tail recursion and non-tail recursion are listed. Mixed networking notes: subnetting divides a network into subnetworks; variable subnets; a table for networks A–D is incomplete/unclear.
+
+==========================================================================================
+FILE 41/47: Mids\Notes\Mudassir - WhatsApp Image 2026-10-26 at 8.21.48 PM.jpeg
+TYPE: .jpeg
+SIZE: 114724 bytes
+==========================================================================================
+[Verified byte-identical photo: reused its previously reviewed transcription.]
+[VISUALLY REVIEWED PHOTO TRANSCRIPTION — 31 October 2026]
+[Mixed-subject notebook contents labelled. Student notes retained as written,not independently verified definitions. Unclear entries explicitly flagged;diagrams represented in text.]
+NetworkingLecture7:transmission medium carries source->destination information;electromagneticenergy;vacuum. Guidedmedia:twistedpair,parallelflatwire;UTP,STP(metalshield);coaxialBNCconnector. Opticalfiber uses reflection to guide light through channel. Refraction/incidentangle where refracted angle90degrees [source mixes terminology]. Applications opticalfiber:higherbandwidth. NIC->semaphore [margin].
+OTHER SUBJECT technical writing:'notice is a brief...'unfinished. SCDtechstack=technologies to build/run application;infrastructure cloudprovider/physicalserver;supporttoolsGit/build/testing/monitoring;team chooses combination.
+
+==========================================================================================
+FILE 42/47: Mids\Notes\Mudassir - WhatsApp Image 2026-10-26 at 8.21.49 PM.jpeg
+TYPE: .jpeg
+SIZE: 118282 bytes
+==========================================================================================
+[VISUALLY REVIEWED NOTES: spelling/spacing normalized.]
+Tech-stack selection: consider requirements and quality; the decision influences software architecture. Bad choices can create technical debt. Criteria: mature, active community; ease of hiring developers familiar with the technology; expected load/performance, security and security-fix speed; licensing and cloud/server running costs.
+Avoid choosing trendy technology, developer conflicts, ignoring niche-language hiring costs, overengineering and underestimating migration cost. Build vs buy: consider whether a solution gives the organization a competitive advantage. Evaluate COTS products and continuous improvement. Major releases add functionality or breaking changes; minor releases are also listed.
+
+==========================================================================================
+FILE 43/47: Mids\Notes\Mudassir - WhatsApp Image 2026-10-26 at 8.21.51 PM.jpeg
+TYPE: .jpeg
+SIZE: 102875 bytes
+==========================================================================================
+[VISUALLY REVIEWED NOTES: mixed-course notebook page.]
+Minutes: formal, informal, action and narrative. Nature of letters: written communication; form and informal nature. Purpose/structure notes include providing information, making requests, receiving/acknowledging business relationships, legal documentation and confirmation. Software architecture: metaphor/analogy of a software system; fundamental structure of the software system.
+Parallel-computing notes: thread = process segment. Shared-memory programs; parallel processes access common physical address space. Start a single process and fork threads; threads carry out tasks. Distributed-memory programs: start multiple processes; processes carry out tasks. Parallel programming models: Flynn's; SISD is a single executable program on multiple programs [wording unclear]; MIMD uses different processes executing multiple independent programs. Process/thread grouping and load balancing reduce communication; multithreading and thread-level parallelism.
+
+==========================================================================================
+FILE 44/47: Mids\Notes\Mudassir - WhatsApp Image 2026-10-26 at 8.21.57 PM.jpeg
+TYPE: .jpeg
+SIZE: 106968 bytes
+==========================================================================================
+[VISUALLY REVIEWED NOTES: spelling/spacing normalized.]
+Release notes and change logs document releases in plain language. Rollback returns production to a previous version if a release causes problems. Canary release is deployed to a small subset of users first. Versioning assigns a unique identifier to each release; semantic versioning has three parts: major, minor and patch. Alternative versioning schemes are noted. Patches are targeted updates fixing specific problems in a released version.
+Why patching: security patches are often urgent; tension exists between speed and security. The cost of not patching is loss of user trust; major-release maintenance can be expensive; maintain technical backups. Regex: set of characters/combinations. Text processing: input validation; lexical analysis; regular expressions; meta-characters; character classes.
+
+==========================================================================================
+FILE 45/47: Mids\Notes\Mudassir - WhatsApp Image 2026-10-26 at 8.22.14 PM (1).jpeg
+TYPE: .jpeg
+SIZE: 136700 bytes
+==========================================================================================
+[Verified byte-identical photo: reused its previously reviewed transcription.]
+[VISUALLY REVIEWED PHOTO TRANSCRIPTION — 31 October 2026]
+[Mixed-subject notebook contents labelled. Student notes retained as written,not independently verified definitions. Unclear entries explicitly flagged;diagrams represented in text.]
+Networking:applications FDM;wave-division multiplexing[aswritten];TDM synchronous/statistical.
+OTHER SUBJECT coverletters:backgroundinfo,interest/familiarity,goodmatch,contact;format spacing/margins;structure outline/audience/tone;heading;intro/salutation/position;describe skills previously used/contribution.
+SCD:data-interchange formats rules for representing structureddata as bytes,store/transmit/reconstruct;sharedlanguageJSON;design choices affectperformance/readability/maintainability. Serialization in-memorystructure->stored/transmitted. Deserialization reverse. JSON lightweight text,key-valuepairs,orderedlists.
+
+==========================================================================================
+FILE 46/47: Mids\Notes\Mudassir - WhatsApp Image 2026-10-26 at 8.22.15 PM.jpeg
+TYPE: .jpeg
+SIZE: 130948 bytes
+==========================================================================================
+[Verified byte-identical photo: reused its previously reviewed transcription.]
+[Verified byte-identical photo: reused its previously reviewed transcription.]
+[VISUALLY REVIEWED TEXT — 30 October 2026]
+MIXED SUBJECTS. Left XML=Extensible Markup Language,describes data. YAML human-readable,indentation matters,used in GitHub [as written]. JSON machine-to-machine exchange. Protocol Buffers(Protobuf):binary format,.proto schema defines message structure. Apache Avro:binary format includes schema alongside data,self-describing;schema evolution;Apache Hadoop mentioned. MessagePack,Cap'n Proto listed.
+Right SRE:requirements;DFG [letters unclear],SPS,state-transition,activity diagrams. Control-flow diagram uses conditional/loops. Cyclomatic complexity:edges,nodes. Types:class,dataflow,state-transition,ER diagram. Software Requirements Engineering process affected by social/cultural issues:system for people,used by people,built by people.
+[Handwriting normalized for readability. Unclear/cropped items are flagged. Student notes and printed exam wording are preserved as source material, not an independently validated answer key. Mixed-subject content is labelled; refer to original images for exact diagrams and symbols.]
+
+==========================================================================================
+FILE 47/47: Mids\SCD_Theory_Umer_Haroon_Classroom_Text.txt
+TYPE: .txt
+SIZE: 2582 bytes
+==========================================================================================
+SCD THEORY SEC A (Software Construction and Development) - Google Classroom text content
+Teacher: Sir Muhammad Umer Haroon
+Updated: 4 November 2026
+
+============================================================
+ANNOUNCEMENTS (oldest first)
+============================================================
+
+[2026-09-25] https://classroom.google.com/c/ODc4MTc1Mjc1NjYz/p/ODg3MzQ2MjQ2OTY2
+SCD project groups, fill it by tomorrow evening.
+  Link: SCD PROJECT GROUPS SECTION A - https://forms.gle/rkYgqLgKv6za2JzB7
+
+[2026-10-01] https://classroom.google.com/c/ODc4MTc1Mjc1NjYz/p/ODg4NDMzOTAyMjgx
+If you have joined class with not your own name you will be removed, get it sorted ASAP
+
+============================================================
+MATERIAL POSTS (oldest first)
+============================================================
+
+[2026-09-17] COURSE OUTLINE
+PFA
+  Attachment: Software Construction and Development Outline for Students.pdf
+
+[2026-09-17] BOOKS
+PFA
+  Attachments: Clean.Code.A.Handbook.of.Agile.Software.Craftsmanship.pdf, Code Complete 2nd.pdf, Python for Programmers with Big Data and Artificial Intelligence Case Studies by Paul J. Deitel, Harvey Deitel (z-lib.org).pdf
+
+[2026-09-24] LECTURES WEEK 1,WEEK 2 ,WEEK 3
+PFA
+  Attachments: 2_SOFTWARE CONSTRUCTION AND DEVELOPMENT.pdf, 1_SOFTWARE CONSTRUCTION AND DEVELOPMENT.pdf
+
+[2026-10-01] WEEK 4 LECTURES
+PFA
+  Attachment: 2b_SOFTWARE CONSTRUCTION AND DEVELOPMENT_MuhammadUmerHaroon.pdf
+
+[2026-10-10] WEEK 5
+PFA
+  Attachment: 3_SOFTWARE CONSTRUCTION AND DEVELOPMENT_MuhammadUmerHaroon.pdf
+
+[2026-10-15] WEEK 6
+(no description)
+  Attachment: 4_SOFTWARE CONSTRUCTION AND DEVELOPMENT_MuhammadUmerHaroon.pdf
+
+[2026-10-22] WEEK 7
+PFA
+  Attachment: 5_SOFTWARE CONSTRUCTION AND DEVELOPMENT_MuhammadUmerHaroon.pdf
+
+[2026-10-22] Related to XML 
+It is not our course content but shared for interest and exploration
+  Attachment: scd_xml.pdf
+
+[2026-10-29] WEEK 8   (NEW since last time)
+PFA
+  Attachment: 6_SOFTWARE CONSTRUCTION AND DEVELOPMENT_MuhammadUmerHaroon.pdf
+
+============================================================
+ASSIGNMENTS (oldest first)
+============================================================
+
+[2026-10-16] Assignment 1 (100 points, due 20 Oct 2026)
+PFA, submission will close after due time.
+  Attachment: Assignment_1_SCD_IMSCIENCES.pdf
+
+============================================================
+MY SUBMISSIONS
+============================================================
+
+Assignment 1: turned in, not graded yet
+  Link: https://github.com/abdulsamad-codes/CodeInspector
+  Uploaded: requirements.pdf
+
+==========================================================================================
+EXTRACTION COVERAGE REPORT
+EXTRACTED: 2nd Class\simple_python_learning_class 2.py
+EXTRACTED: 3rd Class\prac1.py
+EXTRACTED: Final Projoect\.gitignore
+EXTRACTED: Final Projoect\CHANGELOG.md
+EXTRACTED: Final Projoect\docs\backlog.md
+EXTRACTED: Final Projoect\docs\references\Assignment_1_SCD_IMSCIENCES.pdf
+EXTRACTED: Final Projoect\docs\references\CodeInspector_Project_Proposal.pdf
+EXTRACTED: Final Projoect\docs\requirements.md
+EXTRACTED: Final Projoect\docs\requirements.pdf
+EXTRACTED: Final Projoect\README.md
+EXTRACTED: Lectures\1_SOFTWARE CONSTRUCTION AND DEVELOPMENT.pdf
+EXTRACTED: Lectures\2_SOFTWARE CONSTRUCTION AND DEVELOPMENT.pdf
+EXTRACTED: Lectures\2b_SOFTWARE CONSTRUCTION AND DEVELOPMENT_MuhammadUmerHaroon.pdf
+EXTRACTED: Lectures\3_SOFTWARE CONSTRUCTION AND DEVELOPMENT_MuhammadUmerHaroon.pdf
+EXTRACTED: Lectures\4_SOFTWARE CONSTRUCTION AND DEVELOPMENT_MuhammadUmerHaroon.pdf
+EXTRACTED: Lectures\5_SOFTWARE CONSTRUCTION AND DEVELOPMENT_MuhammadUmerHaroon.pdf
+EXTRACTED: Lectures\6_SOFTWARE CONSTRUCTION AND DEVELOPMENT_MuhammadUmerHaroon.pdf
+EXTRACTED: Lectures\Others\Assignment_1_SCD_IMSCIENCES.pdf
+OMITTED: Lectures\Others\Clean.Code.A.Handbook.of.Agile.Software.Craftsmanship.pdf
+OMITTED: Lectures\Others\Code Complete 2nd.pdf
+OMITTED: Lectures\Others\Python for Programmers with Big Data and Artificial Intelligence Case Studies by Paul J. Deitel, Harvey Deitel (z-lib.org).pdf
+EXTRACTED: Lectures\Others\Software Construction and Development Outline for Students.pdf
+VISUALLY_REVIEWED: Mids\Notes\Me - WhatsApp Image 2026-10-26 at 8.23.46 PM.jpeg
+VISUALLY_REVIEWED: Mids\Notes\Me - WhatsApp Image 2026-10-26 at 8.23.48 PM.jpeg
+VISUALLY_REVIEWED: Mids\Notes\Me - WhatsApp Image 2026-10-26 at 8.23.57 PM.jpeg
+VISUALLY_REVIEWED: Mids\Notes\Me - WhatsApp Image 2026-10-26 at 8.24.07 PM.jpeg
+VISUALLY_REVIEWED: Mids\Notes\Me - WhatsApp Image 2026-10-26 at 8.24.24 PM.jpeg
+VISUALLY_REVIEWED: Mids\Notes\Me - WhatsApp Image 2026-10-26 at 8.24.36 PM.jpeg
+VISUALLY_REVIEWED: Mids\Notes\Me - WhatsApp Image 2026-10-26 at 8.24.39 PM.jpeg
+VISUALLY_REVIEWED: Mids\Notes\Me - WhatsApp Image 2026-10-26 at 8.24.45 PM.jpeg
+VISUALLY_REVIEWED: Mids\Notes\Mudassir - WhatsApp Image 2026-10-26 at 8.19.40 PM (1).jpeg
+VISUALLY_REVIEWED: Mids\Notes\Mudassir - WhatsApp Image 2026-10-26 at 8.19.40 PM.jpeg
+VISUALLY_REVIEWED: Mids\Notes\Mudassir - WhatsApp Image 2026-10-26 at 8.20.14 PM.jpeg
+VISUALLY_REVIEWED: Mids\Notes\Mudassir - WhatsApp Image 2026-10-26 at 8.20.17 PM.jpeg
+VISUALLY_REVIEWED: Mids\Notes\Mudassir - WhatsApp Image 2026-10-26 at 8.20.20 PM.jpeg
+VISUALLY_REVIEWED: Mids\Notes\Mudassir - WhatsApp Image 2026-10-26 at 8.20.45 PM.jpeg
+VISUALLY_REVIEWED: Mids\Notes\Mudassir - WhatsApp Image 2026-10-26 at 8.20.56 PM.jpeg
+VISUALLY_REVIEWED: Mids\Notes\Mudassir - WhatsApp Image 2026-10-26 at 8.20.57 PM.jpeg
+VISUALLY_REVIEWED: Mids\Notes\Mudassir - WhatsApp Image 2026-10-26 at 8.21.20 PM.jpeg
+VISUALLY_REVIEWED: Mids\Notes\Mudassir - WhatsApp Image 2026-10-26 at 8.21.23 PM.jpeg
+VISUALLY_REVIEWED: Mids\Notes\Mudassir - WhatsApp Image 2026-10-26 at 8.21.48 PM.jpeg
+VISUALLY_REVIEWED: Mids\Notes\Mudassir - WhatsApp Image 2026-10-26 at 8.21.49 PM.jpeg
+VISUALLY_REVIEWED: Mids\Notes\Mudassir - WhatsApp Image 2026-10-26 at 8.21.51 PM.jpeg
+VISUALLY_REVIEWED: Mids\Notes\Mudassir - WhatsApp Image 2026-10-26 at 8.21.57 PM.jpeg
+VISUALLY_REVIEWED: Mids\Notes\Mudassir - WhatsApp Image 2026-10-26 at 8.22.14 PM (1).jpeg
+VISUALLY_REVIEWED: Mids\Notes\Mudassir - WhatsApp Image 2026-10-26 at 8.22.15 PM.jpeg
+EXTRACTED: Mids\SCD_Theory_Umer_Haroon_Classroom_Text.txt

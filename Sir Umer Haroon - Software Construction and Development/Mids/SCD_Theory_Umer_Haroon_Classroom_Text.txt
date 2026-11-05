@@ -1,5 +1,6 @@
 SCD THEORY SEC A (Software Construction and Development) - Google Classroom text content
 Teacher: Sir Muhammad Umer Haroon
+Updated: 4 November 2026
 
 ============================================================
 ANNOUNCEMENTS (oldest first)
@@ -48,6 +49,10 @@ PFA
 It is not our course content but shared for interest and exploration
   Attachment: scd_xml.pdf
 
+[2026-10-29] WEEK 8   (NEW since last time)
+PFA
+  Attachment: 6_SOFTWARE CONSTRUCTION AND DEVELOPMENT_MuhammadUmerHaroon.pdf
+
 ============================================================
 ASSIGNMENTS (oldest first)
 ============================================================
@@ -61,5 +66,5 @@ MY SUBMISSIONS
 ============================================================
 
 Assignment 1: turned in, not graded yet
-  Link: GitHub - abdulsamad-codes/CodeInspector (https://github.com/abdulsamad-codes/CodeInspector)
+  Link: https://github.com/abdulsamad-codes/CodeInspector
   Uploaded: requirements.pdf
