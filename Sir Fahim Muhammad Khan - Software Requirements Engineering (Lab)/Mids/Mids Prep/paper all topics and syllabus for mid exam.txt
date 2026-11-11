@@ -1,0 +1,25 @@
+Importance of RE in SE
+
+System and content diagram.
+Affect of things.
+
+Requirement sources and Kano model for prioritization
+temporal availability -> time perspective availability
+spatial -> space, place perspective availability
+
+Requirement Elicitation techniques.
+
+interviews, questionnaire
+-> system archaeology, observation
+
+prototypes, brainstorming ~
+must
+
+Natural lang description of requirements
+"A system must need to be easy to use, fast, secure and reliable to the customer."
+
+5 Requirements construction using template.
+(SRS) template.
+
+6. requirement representation using models 
+	use case, state transition model,data flow, control flow, activity, class models and diagrams .
