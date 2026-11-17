@@ -1,0 +1,23 @@
+Part 1
+1. The START and DONE lines alternate because each synchronous request finishes
+   before the next request begins.
+2. requests.get returns control only after the network response is received, so it
+   blocks the program while waiting.
+
+Task 2.1
+await pauses the current coroutine until its operation finishes, and then execution
+continues with the next statement.
+
+Task 3.2
+asyncio.gather returns results in input order, not completion order, so the homepage
+can finish first while still appearing last in the results list.
+
+Task 4.1
+create_task starts both coroutines immediately, so the one-second request runs in
+the background while the two-second request is being awaited and their waits overlap.
+
+Task 5.1
+Async helps when the work is I/O-bound.
+Async does NOT help when the work is CPU-bound.
+I/O-bound example: downloading several web pages while waiting for server responses.
+CPU-bound example: performing a large numerical calculation such as image processing.
