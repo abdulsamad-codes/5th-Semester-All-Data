@@ -2,26 +2,25 @@
 
 ## Results table
 
-Run `python compare_b.py` and copy its three measured times into this table.
-
 | Mechanism | Time (seconds) | Result |
 |---|---:|---|
-| Sequential | ___ | 12 files processed |
-| Threads | ___ | 12 files processed |
-| Processes | ___ | 12 files processed |
+| Sequential | 72.698698 | 12 files processed |
+| Threads | 72.532353 | 12 files processed |
+| Processes | 19.889391 | 12 files processed |
 
 ## Decisions
 
-1. **Requirement:** The sequential baseline took ___ seconds. It therefore
-   **did / did not** meet the 480-second requirement.
-2. **Baseline:** The sequential result was the reference measurement; the
-   parallel versions were compared against this same workload.
-3. **Mechanism:** Processes were selected because the work is CPU-bound and
-   `ProcessPoolExecutor` can use multiple Python processes without the
-   limitation of the GIL.
+1. **Requirement:** The sequential baseline took 72.698698 seconds, so it
+   did meet the 480-second requirement.
+2. **Baseline:** The sequential result was the reference measurement. Threads
+   were only 0.166345 seconds faster, while processes were 52.809307 seconds
+   faster, or about 3.65 times faster than sequential.
+3. **Mechanism:** Processes were selected for the faster measurement because
+   the work is CPU-bound and separate Python processes avoid the GIL.
 4. **Failure design:** If a worker crashes, completed results remain in the
    atomically written checkpoint. A later run skips those files and processes
    only the missing files.
-5. **Final decision:** The process-pool version is preferred when the measured
-   process time is lower than the sequential time; otherwise the sequential
-   version is the simpler valid choice for this workload.
+5. **Final decision:** Sequential processing is already sufficient for the
+   stated requirement and is the simplest solution. The process-pool version
+   is preferred when shorter runtime and restartability are important enough
+   to justify its extra implementation complexity.
