@@ -1,0 +1,110 @@
+{
+  "data_00.csv": {
+    "file": "E:\\Study Material\\5th Semester All Data\\Sir Umer Haroon - Software Construction and Development (Lab)\\Lab Task 10.1\\inputs\\data_00.csv",
+    "total_value": 999469937.6149727,
+    "category_counts": {
+      "A": 666502,
+      "B": 666327,
+      "C": 667171
+    }
+  },
+  "data_02.csv": {
+    "file": "E:\\Study Material\\5th Semester All Data\\Sir Umer Haroon - Software Construction and Development (Lab)\\Lab Task 10.1\\inputs\\data_02.csv",
+    "total_value": 999854771.0139469,
+    "category_counts": {
+      "A": 666861,
+      "B": 666521,
+      "C": 666618
+    }
+  },
+  "data_01.csv": {
+    "file": "E:\\Study Material\\5th Semester All Data\\Sir Umer Haroon - Software Construction and Development (Lab)\\Lab Task 10.1\\inputs\\data_01.csv",
+    "total_value": 1000420185.2520276,
+    "category_counts": {
+      "A": 667544,
+      "B": 666095,
+      "C": 666361
+    }
+  },
+  "data_03.csv": {
+    "file": "E:\\Study Material\\5th Semester All Data\\Sir Umer Haroon - Software Construction and Development (Lab)\\Lab Task 10.1\\inputs\\data_03.csv",
+    "total_value": 999465407.0579787,
+    "category_counts": {
+      "A": 666401,
+      "B": 667764,
+      "C": 665835
+    }
+  },
+  "data_05.csv": {
+    "file": "E:\\Study Material\\5th Semester All Data\\Sir Umer Haroon - Software Construction and Development (Lab)\\Lab Task 10.1\\inputs\\data_05.csv",
+    "total_value": 999869398.7669839,
+    "category_counts": {
+      "A": 666889,
+      "B": 666834,
+      "C": 666277
+    }
+  },
+  "data_04.csv": {
+    "file": "E:\\Study Material\\5th Semester All Data\\Sir Umer Haroon - Software Construction and Development (Lab)\\Lab Task 10.1\\inputs\\data_04.csv",
+    "total_value": 1000227304.096987,
+    "category_counts": {
+      "A": 667000,
+      "B": 665654,
+      "C": 667346
+    }
+  },
+  "data_06.csv": {
+    "file": "E:\\Study Material\\5th Semester All Data\\Sir Umer Haroon - Software Construction and Development (Lab)\\Lab Task 10.1\\inputs\\data_06.csv",
+    "total_value": 999955769.7110118,
+    "category_counts": {
+      "A": 666016,
+      "B": 667290,
+      "C": 666694
+    }
+  },
+  "data_07.csv": {
+    "file": "E:\\Study Material\\5th Semester All Data\\Sir Umer Haroon - Software Construction and Development (Lab)\\Lab Task 10.1\\inputs\\data_07.csv",
+    "total_value": 999581860.5489832,
+    "category_counts": {
+      "A": 666415,
+      "B": 667201,
+      "C": 666384
+    }
+  },
+  "data_08.csv": {
+    "file": "E:\\Study Material\\5th Semester All Data\\Sir Umer Haroon - Software Construction and Development (Lab)\\Lab Task 10.1\\inputs\\data_08.csv",
+    "total_value": 1000394648.460963,
+    "category_counts": {
+      "A": 668352,
+      "B": 666382,
+      "C": 665266
+    }
+  },
+  "data_09.csv": {
+    "file": "E:\\Study Material\\5th Semester All Data\\Sir Umer Haroon - Software Construction and Development (Lab)\\Lab Task 10.1\\inputs\\data_09.csv",
+    "total_value": 999419432.5800363,
+    "category_counts": {
+      "A": 665607,
+      "B": 667640,
+      "C": 666753
+    }
+  },
+  "data_10.csv": {
+    "file": "E:\\Study Material\\5th Semester All Data\\Sir Umer Haroon - Software Construction and Development (Lab)\\Lab Task 10.1\\inputs\\data_10.csv",
+    "total_value": 1000529691.266963,
+    "category_counts": {
+      "A": 666419,
+      "B": 666608,
+      "C": 666973
+    }
+  },
+  "data_11.csv": {
+    "file": "E:\\Study Material\\5th Semester All Data\\Sir Umer Haroon - Software Construction and Development (Lab)\\Lab Task 10.1\\inputs\\data_11.csv",
+    "total_value": 1000441062.6660453,
+    "category_counts": {
+      "A": 665163,
+      "B": 667275,
+      "C": 667562
+    }
+  }
+}
