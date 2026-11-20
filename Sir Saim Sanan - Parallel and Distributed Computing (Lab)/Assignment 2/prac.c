@@ -12,7 +12,6 @@ MPI_Init(&argc, &argv);
 MPI_Comm_rank(MPI_COMM_WORLD, &rank);
 MPI_Comm_size(MPI_COMM_WORLD, &size);
 
-// Each process generates its own incident data
 srand(time(NULL) + rank * 100);
 
 incidents = (rand() % 5) + 1;
@@ -21,7 +20,6 @@ units = (rand() % 10) + 1;
 printf("Zone %d: Incidents = %d, Required Units = %d\n",
        rank, incidents, units);
 
-// Root process receives reports from all other processes
 if (rank == 0)
 {
     total_incidents = incidents;
@@ -50,7 +48,6 @@ if (rank == 0)
 
     printf("Maximum Required Units: %d\n", max_units);
 
-    // Total available emergency response units
     available_units = 20;
 
     printf("Available Emergency Units: %d\n",
@@ -58,7 +55,6 @@ if (rank == 0)
 }
 else
 {
-    // Send incident report to root process
     report[0] = incidents;
     report[1] = units;
 
@@ -66,11 +62,9 @@ else
              MPI_COMM_WORLD);
 }
 
-// Broadcast available resources to all processes
 MPI_Bcast(&available_units, 1, MPI_INT, 0,
           MPI_COMM_WORLD);
 
-// Each process independently checks resource availability
 printf("Zone %d: ", rank);
 
 if (units <= available_units)
