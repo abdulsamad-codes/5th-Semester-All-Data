@@ -1,0 +1,71 @@
+Lab Task 11 - FastAPI Student Directory
+Name: Abdul Samad
+Program: BSSE Group A
+Semester: 5th
+Date: November 26, 2026
+
+Task 3.2 - Validation error
+Command: python client_validation.py
+
+Status: 422
+Error body:
+{
+  "detail": [
+    {
+      "type": "missing",
+      "loc": [
+        "body",
+        "age"
+      ],
+      "msg": "Field required",
+      "input": {
+        "name": "Missing Age"
+      }
+    },
+    {
+      "type": "missing",
+      "loc": [
+        "body",
+        "program"
+      ],
+      "msg": "Field required",
+      "input": {
+        "name": "Missing Age"
+      }
+    }
+  ]
+}
+
+The missing fields are age and program. Each error identifies a missing value with
+"type": "missing", and its "loc" entry points to the field in the request body:
+["body", "age"] and ["body", "program"].
+
+Task 4.1 - Interactive documentation
+1. The interactive Swagger UI is at http://127.0.0.1:8000/docs.
+2. The POST /students documentation shows a JSON request body with three required
+   fields: name (string), age (integer), and program (string). It also describes
+   the response for a successful creation and the validation error response.
+3. FastAPI generates the documentation from the route declarations, type
+   annotations, and the StudentCreate Pydantic model. These definitions provide
+   the information used to build the OpenAPI schema; no separate documentation
+   code was needed.
+
+Task 5.1 - Complete client-server workflow
+Command: python client_full.py
+
+=== Step 1: Read all students ===
+Status: 200, Count: 3
+Students: [{'name': 'Sara Ahmad', 'age': 20, 'program': 'CS'}, {'name': 'Muhammad Ali', 'age': 22, 'program': 'SE'}, {'name': 'Ayesha Bibi', 'age': 19, 'program': 'CS'}]
+
+=== Step 2: Create a new student ===
+Status: 201, Response: {'message': 'Student added', 'student': {'name': 'Hassan Raza', 'age': 21, 'program': 'SE'}}
+
+=== Step 3: Confirm the student was added ===
+Status: 200, Count: 4
+Students: [{'name': 'Sara Ahmad', 'age': 20, 'program': 'CS'}, {'name': 'Muhammad Ali', 'age': 22, 'program': 'SE'}, {'name': 'Ayesha Bibi', 'age': 19, 'program': 'CS'}, {'name': 'Hassan Raza', 'age': 21, 'program': 'SE'}]
+
+=== Step 4: Read the newly created student ===
+Status: 200, Response: {'student': {'name': 'Hassan Raza', 'age': 21, 'program': 'SE'}}
+
+=== Step 5: Request a student that does not exist ===
+Status: 404, Response: {'detail': 'Student not found'}
